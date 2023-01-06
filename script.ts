@@ -1,4 +1,5 @@
 import * as cheerio from "npm:cheerio@1.0.0-rc.12";
+import { open } from "https://deno.land/x/opener@v1.0.1/mod.ts";
 
 console.time("finished after");
 const startTime = new Date();
@@ -58,6 +59,7 @@ console.log("\nfinished after " + timeTillNow(startTime));
 saveAsHtml(JSON.parse(Deno.readTextFileSync(fileName)));
 
 function saveAsHtml(films: Film[]) {
+  const htmlFilename = "index.html";
   let streamProviders = [] as string[];
   films.forEach((x) => {
     streamProviders = [...new Set([...streamProviders, ...x.streamer])];
@@ -65,9 +67,9 @@ function saveAsHtml(films: Film[]) {
 
   streamProviders.sort();
 
-  const html = Deno.readTextFileSync("index.html");
+  const html = Deno.readTextFileSync(htmlFilename);
   Deno.writeTextFileSync(
-    "index.html",
+    htmlFilename,
     html.replace(
       /<script>(\s*|.*)*<\/script>/,
       `<script> function app() { return ${JSON.stringify(
@@ -77,6 +79,8 @@ function saveAsHtml(films: Film[]) {
       )} }</script>`
     )
   );
+
+  open(htmlFilename);
 }
 
 // const allFilms = JSON.parse(Deno.readTextFileSync(fileName));
