@@ -18,7 +18,7 @@ if (firstPage !== lastPage) {
 
 while (currentPage <= lastPage) {
   const films = [] as Film[];
-  console.log(`fetching pages ${currentPage} - ${currentPage + (numberOfConcurrentFetches - 1)}`);
+  console.log(`fetching page ${currentPage}`);
   try {
     const fetches = [];
     for (let i = 0; i < numberOfConcurrentFetches; i++) {
@@ -54,7 +54,6 @@ while (currentPage <= lastPage) {
   }
 }
 console.log("\nfinished after " + timeTillNow(startTime));
-console.log(`fetched manga pages ${firstPage}-${lastPage}`);
 
 saveAsHtml(JSON.parse(Deno.readTextFileSync(fileName)));
 
@@ -87,7 +86,7 @@ function saveAsHtml(films: Film[]) {
 // Deno.writeTextFileSync(fileName, JSON.stringify(availableFilms, null, 2));
 
 async function fetchContent(currentPage: number, lastPage: number) {
-  const data = await fetch(`https://letterboxd.com/samuba/watchlist/page/${currentPage}`);
+  const data = await fetch(`https://letterboxd.com/${Deno.args[0]}/watchlist/page/${currentPage}`);
   return await data.text();
 }
 
