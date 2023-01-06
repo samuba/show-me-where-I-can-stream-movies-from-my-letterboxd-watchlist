@@ -9,7 +9,7 @@ const firstPage = 1;
 let currentPage = firstPage;
 let lastPage = 9999; // will be overriden
 
-type LetterboxdFilm = { name: string; imageUrl: string };
+type LetterboxdFilm = { name: string; letterboxdUrl: string; year: string; originalTitle: string };
 type Film = LetterboxdFilm & { streamer: string[] };
 
 if (firstPage !== lastPage) {
@@ -30,13 +30,20 @@ while (currentPage <= lastPage) {
     for (const $ of cheerioContents) {
       if ($(".linked-film-poster img").length === 0) currentPage = lastPage;
 
-      const letterboxdFilms: LetterboxdFilm[] = $(".linked-film-poster img")
-        .map((_, el) => ({ name: $(el).attr("alt")!, imageUrl: $(el).attr("src")! }))
-        .get();
+      const letterboxdFilms: LetterboxdFilm[] = [];
 
-      (await Promise.all(letterboxdFilms.map((x) => getFilmStreamInfo(x)))).forEach((x) => films.push(x));
+      $(".linked-film-poster").each((_, el) => {
+        const name = $(el).find("img").attr("alt")!;
+        const letterboxdUrl = "https://letterboxd.com" + $(el).attr("data-film-slug")!;
+        letterboxdFilms.push({ name, letterboxdUrl });
+      });
+
+      const filmsWithInfo = await Promise.all(letterboxdFilms.map((x) => getFilmInfo(x)));
+      (await Promise.all(filmsWithInfo.map((x) => getFilmStreamInfo(x)))).forEach((x) => films.push(x));
+
+      // console.log(JSON.stringify(films, null, 2));
+      // Deno.exit(1);
     }
-
     const previousContent = Deno.readTextFileSync(fileName);
     const previosJson = JSON.parse(previousContent ? previousContent : "[]");
     Deno.writeTextFileSync(fileName, JSON.stringify([...previosJson, ...films], null, 2));
@@ -56,8 +63,6 @@ function saveAsHtml(films: Film[]) {
   films.forEach((x) => {
     streamProviders = [...new Set([...streamProviders, ...x.streamer])];
   });
-
-  console.log({ streamProviders });
 
   streamProviders.sort();
 
@@ -82,20 +87,20 @@ function saveAsHtml(films: Film[]) {
 // Deno.writeTextFileSync(fileName, JSON.stringify(availableFilms, null, 2));
 
 async function fetchContent(currentPage: number, lastPage: number) {
-  const fetchStart = new Date();
-  try {
-    const data = await fetch(`https://letterboxd.com/samuba/watchlist/page/${currentPage}`, {
-      mode: "no-cors",
-    });
-    return await data.text();
-  } finally {
-    consoleLogSameLine(" fetch took " + timeTillNow(fetchStart));
-  }
+  const data = await fetch(`https://letterboxd.com/samuba/watchlist/page/${currentPage}`);
+  return await data.text();
+}
+
+async function getFilmInfo(movie: LetterboxdFilm) {
+  const res = await fetch(movie.letterboxdUrl).then((x) => x.text());
+  const $ = cheerio.load(res);
+  const year = $("#featured-film-header .number").text();
+  const originalTitle = $("#featured-film-header em").text().replace("‘", "").replace("’", "") || movie.name;
+  return { ...movie, year, originalTitle };
 }
 
 async function getFilmStreamInfo(movie: LetterboxdFilm) {
-  console.log("fetching info for " + movie.name);
-  const res = await fetch(`https://www.justwatch.com/de/Suche?q=${movie.name}`, {
+  const res = await fetch(`https://www.justwatch.com/de/Suche?q=${encodeURIComponent(movie.originalTitle)}`, {
     headers: {
       accept: "*/*",
       "cache-control": "no-cache",
@@ -111,13 +116,17 @@ async function getFilmStreamInfo(movie: LetterboxdFilm) {
   const $ = cheerio.load(res);
   const firstMovie = $(".search-content .title-list-row__row ").first();
 
-  const imageUrl = firstMovie.find(".picture-comp__img").attr("src");
-  const streamer = firstMovie
-    .find(".price-comparison__grid__row--stream .provider-icon img")
-    .map((_, el) => {
-      return $(el).attr("alt");
-    })
-    .get();
+  const isMovie = !firstMovie.find(".price-comparison__grid__row__price").toString().toLowerCase().includes("staffel");
+
+  const imageUrl = isMovie ? firstMovie.find(".picture-comp__img").attr("src") : undefined;
+  const streamer = isMovie
+    ? firstMovie
+        .find(".price-comparison__grid__row--stream .provider-icon img")
+        .map((_, el) => {
+          return $(el).attr("alt");
+        })
+        .get()
+    : [];
   return { ...movie, streamer, imageUrl };
 }
 
