@@ -13,29 +13,29 @@
     <div x-data="app()" class="container" style="margin-top: 3rem">
       <h1>Who Streams My Watchlist</h1>
 
-      <!-- <details> -->
-      <!-- <summary>Stream Providers</summary> -->
-      <div style="margin-bottom: 3rem">
-        <template x-for="provider in streamProviders">
-          <div x-data="{ enabled: { [provider.name]: $persist(provider.enabled) } }" style="display: inline-block">
-            <input
-              x-init="provider.enabled = enabled[provider.name]"
-              x-model="provider.enabled"
-              @change="enabled[provider.name] = $event.target.checked"
-              type="checkbox"
-              :id="provider.name"
-            />
-            <label
-              x-text="provider.name"
-              x-bind:for="provider.name"
-              style="font-size: 14pt; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; width: 16rem"
-              x-bind:title="provider.name"
-            >
-            </label>
-          </div>
-        </template>
-      </div>
-      <!-- </details> -->
+      <details style="margin-bottom: 3rem">
+        <summary>Stream Providers</summary>
+        <div style="margin-bottom: 3rem">
+          <template x-for="provider in streamProviders">
+            <div x-data="{ enabled: { [provider.name]: $persist(provider.enabled) } }" style="display: inline-block">
+              <input
+                x-init="provider.enabled = enabled[provider.name]"
+                x-model="provider.enabled"
+                @change="enabled[provider.name] = $event.target.checked"
+                type="checkbox"
+                :id="provider.name"
+              />
+              <label
+                x-text="provider.name"
+                x-bind:for="provider.name"
+                style="font-size: 14pt; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; width: 16rem"
+                x-bind:title="provider.name"
+              >
+              </label>
+            </div>
+          </template>
+        </div>
+      </details>
 
       <template x-for="provider in streamProviders.filter(x => x.enabled)">
         <section>
@@ -1174,11 +1174,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/kill-bill-the-origin-of-o-ren/",
       "year": "2003",
       "originalTitle": "Kill Bill: The Origin of O-Ren",
-      "streamer": [
-        "WOW",
-        "Sky Go"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/56535155/s166/Kill-Bill-Vol-2"
+      "streamer": []
     },
     {
       "name": "Mushi-Shi: The Next Chapter - Drops of Bells",
@@ -1238,19 +1234,14 @@
       "letterboxdUrl": "https://letterboxd.com/film/sleepless-night/",
       "year": "2011",
       "originalTitle": "Nuit blanche",
-      "streamer": [
-        "filmfriend",
-        "Film Total Amazon Channel"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/100319840/s166/Sleepless-Night-Nacht-der-Vergeltung"
+      "streamer": []
     },
     {
       "name": "Blood Machines",
       "letterboxdUrl": "https://letterboxd.com/film/blood-machines/",
       "year": "2019",
       "originalTitle": "Blood Machines",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/183183231/s166/Blood-Machines"
+      "streamer": []
     },
     {
       "name": "Portrait of a Lady on Fire",
@@ -1265,11 +1256,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/save-the-green-planet/",
       "year": "2003",
       "originalTitle": "지구를 지켜라!",
-      "streamer": [
-        "Amazon Prime Video",
-        "Netzkino"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/187949550/s166/Save-the-Green-Planet"
+      "streamer": []
     },
     {
       "name": "System Crasher",
@@ -1286,10 +1273,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-peanut-butter-falcon/",
       "year": "2019",
       "originalTitle": "The Peanut Butter Falcon",
-      "streamer": [
-        "MagentaTV"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/239557927/s166/The-Peanut-Butter-Falcon"
+      "streamer": []
     },
     {
       "name": "Toy Story 4",
@@ -1316,10 +1300,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/blood-simple/",
       "year": "1984",
       "originalTitle": "Blood Simple",
-      "streamer": [
-        "Amazon Arthaus Channel"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/102630875/s166/Blood-Simple-Eine-moerderische-Nacht"
+      "streamer": []
     },
     {
       "name": "Jungle",
@@ -1334,16 +1315,14 @@
       "letterboxdUrl": "https://letterboxd.com/film/prospect-2018/",
       "year": "2018",
       "originalTitle": "Prospect",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/138595101/s166/Prospect"
+      "streamer": []
     },
     {
       "name": "Solaris",
       "letterboxdUrl": "https://letterboxd.com/film/solaris/",
       "year": "1972",
       "originalTitle": "Солярис",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/245323511/s166/Solaris"
+      "streamer": []
     },
     {
       "name": "La Jetée",
@@ -1437,7 +1416,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/apollo-11-2019/",
       "year": "2019",
       "originalTitle": "Apollo 11",
-      "streamer": []
+      "streamer": [
+        "MagentaTV"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/158435211/s166/Apollo-11"
     },
     {
       "name": "Hold the Dark",
@@ -1473,24 +1455,14 @@
       "letterboxdUrl": "https://letterboxd.com/film/metropolis-2001/",
       "year": "2001",
       "originalTitle": "メトロポリス",
-      "streamer": [
-        "wedotv",
-        "Plex",
-        "FilmBox+",
-        "Classix"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/210180904/s166/Metropolis-restaurierte-Fassung"
+      "streamer": []
     },
     {
       "name": "Barefoot Gen",
       "letterboxdUrl": "https://letterboxd.com/film/barefoot-gen/",
       "year": "1983",
       "originalTitle": "はだしのゲン",
-      "streamer": [
-        "Netflix",
-        "Netflix basic with Ads"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/302143290/s166/Who-Killed-Santa-A-Murderville-Murder-Mystery"
+      "streamer": []
     },
     {
       "name": "The Road",
@@ -1505,28 +1477,21 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-pinchcliffe-grand-prix/",
       "year": "1975",
       "originalTitle": "Flåklypa Grand Prix",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/759651/s166/Hintertupfinger-Grand-Prix"
+      "streamer": []
     },
     {
       "name": "Mandy",
       "letterboxdUrl": "https://letterboxd.com/film/mandy-2018/",
       "year": "2018",
       "originalTitle": "Mandy",
-      "streamer": [
-        "Freevee Amazon Channel"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/94187928/s166/Mandy-2018"
+      "streamer": []
     },
     {
       "name": "Force Majeure",
       "letterboxdUrl": "https://letterboxd.com/film/force-majeure-2014/",
       "year": "2014",
       "originalTitle": "Turist",
-      "streamer": [
-        "Joyn Plus"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/9370088/s166/The-Tourist"
+      "streamer": []
     },
     {
       "name": "The Impossible Voyage",
@@ -1540,8 +1505,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/schumanns-bar-talks/",
       "year": "2017",
       "originalTitle": "Schumanns Bargespräche",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/289583019/s166/Schumanns-Bar-Talks"
+      "streamer": []
     },
     {
       "name": "April and the Extraordinary World",
@@ -1570,46 +1534,41 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-cat-returns/",
       "year": "2002",
       "originalTitle": "猫の恩返し",
-      "streamer": [
-        "Netflix",
-        "Netflix Kids",
-        "Netflix basic with Ads"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/261308135/s166/Das-Koenigreich-der-Katzen"
+      "streamer": []
     },
     {
       "name": "The Green Lie",
       "letterboxdUrl": "https://letterboxd.com/film/the-green-lie/",
       "year": "2018",
       "originalTitle": "The Green Lie",
-      "streamer": [
-        "filmfriend",
-        "Pluto TV",
-        "Freevee Amazon Channel"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/143307196/s166/The-Green-Lie"
+      "streamer": []
     },
     {
       "name": "Dirty Harry",
       "letterboxdUrl": "https://letterboxd.com/film/dirty-harry/",
       "year": "1971",
       "originalTitle": "Dirty Harry",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/57764076/s166/Dirty-Harry"
+      "streamer": []
     },
     {
       "name": "Timecrimes",
       "letterboxdUrl": "https://letterboxd.com/film/timecrimes/",
       "year": "2007",
       "originalTitle": "Los cronocrímenes",
-      "streamer": []
+      "streamer": [
+        "Joyn"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/135287592/s166/Timecrimes-Mord-ist-nur-eine-Frage-der-Zeit"
     },
     {
       "name": "An Autumn Afternoon",
       "letterboxdUrl": "https://letterboxd.com/film/an-autumn-afternoon/",
       "year": "1962",
       "originalTitle": "秋刀魚の味",
-      "streamer": []
+      "streamer": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/196551264/s166/Taste-of-Money-Die-Macht-der-Begierde"
     },
     {
       "name": "Draussen in Meinem Kopf",
@@ -1624,15 +1583,17 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-silent-revolution-2018/",
       "year": "2018",
       "originalTitle": "Das schweigende Klassenzimmer",
-      "streamer": []
+      "streamer": [
+        "Amazon Arthaus Channel"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/91383382/s166/Das-schweigende-Klassenzimmer"
     },
     {
       "name": "The Disaster Artist",
       "letterboxdUrl": "https://letterboxd.com/film/the-disaster-artist/",
       "year": "2017",
       "originalTitle": "The Disaster Artist",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/103710337/s166/The-Disaster-Artist"
+      "streamer": []
     },
     {
       "name": "You Were Never Really Here",
@@ -1666,7 +1627,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/darkest-hour/",
       "year": "2017",
       "originalTitle": "Darkest Hour",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/300736359/s166/Darkest-Hour"
     },
     {
       "name": "Wonderful Days",
@@ -1701,36 +1663,35 @@
       "letterboxdUrl": "https://letterboxd.com/film/sicilian-ghost-story/",
       "year": "2017",
       "originalTitle": "Sicilian Ghost Story",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/95889031/s166/Sicilian-Ghost-Story"
     },
     {
       "name": "Only God Can Judge Me",
       "letterboxdUrl": "https://letterboxd.com/film/film:353513/",
       "year": "2017",
       "originalTitle": "Nur Gott kann mich richten",
-      "streamer": [
-        "Netflix",
-        "MagentaTV",
-        "Netflix basic with Ads",
-        "Paramount Plus",
-        "Paramount+ Amazon Channel"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/39213109/s166/Nur-Gott-kann-mich-richten"
+      "streamer": []
     },
     {
       "name": "Raw",
       "letterboxdUrl": "https://letterboxd.com/film/raw-2016/",
       "year": "2016",
       "originalTitle": "Grave",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/100315081/s166/Raw"
+      "streamer": []
     },
     {
       "name": "Venus in Fur",
       "letterboxdUrl": "https://letterboxd.com/film/venus-in-fur/",
       "year": "2013",
       "originalTitle": "La Vénus à la fourrure",
-      "streamer": []
+      "streamer": [
+        "WOW",
+        "Sky Go",
+        "MagentaTV",
+        "Joyn Plus"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/8869256/s166/Venus-im-Pelz"
     },
     {
       "name": "Four Hands",
@@ -1744,7 +1705,12 @@
       "letterboxdUrl": "https://letterboxd.com/film/a-monster-calls/",
       "year": "2016",
       "originalTitle": "A Monster Calls",
-      "streamer": []
+      "streamer": [
+        "MagentaTV",
+        "Joyn Plus",
+        "Amazon Arthaus Channel"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/147879516/s166/Sieben-Minuten-nach-Mitternacht"
     },
     {
       "name": "Utopia",
@@ -1758,8 +1724,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/black-cat-white-cat/",
       "year": "1998",
       "originalTitle": "Crna mačka, beli mačor",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/247213250/s166/Schwarze-Katze-weisser-Kater"
+      "streamer": []
     },
     {
       "name": "Millennium Actress",
@@ -1774,8 +1739,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/a-different-set-of-cards/",
       "year": "2016",
       "originalTitle": "A Different Set of Cards",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/258648186/s166/A-Different-Set-of-Cards"
+      "streamer": []
     },
     {
       "name": "Ani*Kuri15",
@@ -1789,19 +1753,14 @@
       "letterboxdUrl": "https://letterboxd.com/film/das-boot/",
       "year": "1981",
       "originalTitle": "Das Boot",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/269592/s166/Das-Boot"
+      "streamer": []
     },
     {
       "name": "The Goonies",
       "letterboxdUrl": "https://letterboxd.com/film/the-goonies/",
       "year": "1985",
       "originalTitle": "The Goonies",
-      "streamer": [
-        "WOW",
-        "Sky Go"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/18325188/s166/Die-Goonies"
+      "streamer": []
     },
     {
       "name": "Gaza Surf Club",
@@ -1815,34 +1774,32 @@
       "letterboxdUrl": "https://letterboxd.com/film/magical-mystery-or-the-return-of-karl-schmidt/",
       "year": "2017",
       "originalTitle": "Magical Mystery oder die Rückkehr des Karl Schmidt",
-      "streamer": []
+      "streamer": [
+        "Netflix",
+        "Netflix basic with Ads"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/53518593/s166/Magical-Mystery-oder-die-Rueckkehr-des-Karl-Schmidt"
     },
     {
       "name": "Tokyo Godfathers",
       "letterboxdUrl": "https://letterboxd.com/film/tokyo-godfathers/",
       "year": "2003",
       "originalTitle": "東京ゴッドファーザーズ",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/193000227/s166/Tokyo-Godfathers"
+      "streamer": []
     },
     {
       "name": "The Discovery",
       "letterboxdUrl": "https://letterboxd.com/film/the-discovery/",
       "year": "2017",
       "originalTitle": "The Discovery",
-      "streamer": [
-        "Netflix",
-        "Netflix basic with Ads"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/8646021/s166/The-Discovery"
+      "streamer": []
     },
     {
       "name": "Snowflake",
       "letterboxdUrl": "https://letterboxd.com/film/snowflake-2017/",
       "year": "2017",
       "originalTitle": "Schneeflöckchen",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/97886557/s166/Schneefloeckchen"
+      "streamer": []
     },
     {
       "name": "Beware of People",
@@ -1886,7 +1843,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-forbidden-room-2015/",
       "year": "2015",
       "originalTitle": "The Forbidden Room",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/12355378/s166/The-Forbidden-Room"
     },
     {
       "name": "The Pearl of Death",
@@ -1935,7 +1893,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/under-the-skin-2013/",
       "year": "2013",
       "originalTitle": "Under the Skin",
-      "streamer": []
+      "streamer": [
+        "filmfriend"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/8551326/s166/Under-the-Skin-Toedliche-Verfuehrung"
     },
     {
       "name": "Ali: Fear Eats the Soul",
@@ -1963,10 +1924,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/tanna/",
       "year": "2015",
       "originalTitle": "Tanna",
-      "streamer": [
-        "filmingo"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/9614763/s166/Tanna"
+      "streamer": []
     },
     {
       "name": "Silence",
@@ -1980,7 +1938,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/blade-of-the-immortal/",
       "year": "2017",
       "originalTitle": "無限の住人",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/178662329/s166/Blade-of-the-Immortal"
     },
     {
       "name": "Hey Bunny",
@@ -2002,7 +1961,11 @@
       "letterboxdUrl": "https://letterboxd.com/film/dunkirk-2017/",
       "year": "2017",
       "originalTitle": "Dunkirk",
-      "streamer": []
+      "streamer": [
+        "Netflix",
+        "Netflix basic with Ads"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/191682238/s166/Dunkirk"
     },
     {
       "name": "Song to Song",
@@ -2016,56 +1979,42 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-lives-of-others/",
       "year": "2006",
       "originalTitle": "Das Leben der Anderen",
-      "streamer": [
-        "Netflix",
-        "Netflix basic with Ads"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/119221770/s166/Das-Leben-der-Anderen"
+      "streamer": []
     },
     {
       "name": "Trespass Against Us",
       "letterboxdUrl": "https://letterboxd.com/film/trespass-against-us/",
       "year": "2016",
       "originalTitle": "Trespass Against Us",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/65314620/s166/Trespass-Against-Us"
+      "streamer": []
     },
     {
       "name": "Awaken",
       "letterboxdUrl": "https://letterboxd.com/film/awaken-2018/",
       "year": "2018",
       "originalTitle": "Awaken",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/9936205/s166/Awaken-2015"
+      "streamer": []
     },
     {
       "name": "Final Portrait",
       "letterboxdUrl": "https://letterboxd.com/film/final-portrait/",
       "year": "2017",
       "originalTitle": "Final Portrait",
-      "streamer": [
-        "Joyn Plus"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/13195485/s166/Final-Portrait"
+      "streamer": []
     },
     {
       "name": "Room",
       "letterboxdUrl": "https://letterboxd.com/film/room-2015/",
       "year": "2015",
       "originalTitle": "Room",
-      "streamer": [
-        "WOW",
-        "Sky Go"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/814273/s166/Raum"
+      "streamer": []
     },
     {
       "name": "The Deathmaker",
       "letterboxdUrl": "https://letterboxd.com/film/the-deathmaker/",
       "year": "1995",
       "originalTitle": "Der Totmacher",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/257259301/s166/Der-Totmacher"
+      "streamer": []
     },
     {
       "name": "Momo",
@@ -2079,8 +2028,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/american-honey/",
       "year": "2016",
       "originalTitle": "American Honey",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/1353397/s166/American-Honey"
+      "streamer": []
     },
     {
       "name": "Son of Saul",
@@ -2119,7 +2067,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/a-silent-voice/",
       "year": "2016",
       "originalTitle": "聲の形",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/63531230/s166/A-Silent-Voice-2016"
     },
     {
       "name": "Wild",
@@ -2182,7 +2131,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/stay/",
       "year": "2005",
       "originalTitle": "Stay",
-      "streamer": []
+      "streamer": [
+        "Disney Plus"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/11012155/s166/Stay"
     },
     {
       "name": "Making a Murderer",
@@ -2249,18 +2201,14 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-great-dictator/",
       "year": "1940",
       "originalTitle": "The Great Dictator",
-      "streamer": [
-        "Amazon Arthaus Channel"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/8540805/s166/Der-grosse-Diktator"
+      "streamer": []
     },
     {
       "name": "Shin Godzilla",
       "letterboxdUrl": "https://letterboxd.com/film/shin-godzilla/",
       "year": "2016",
       "originalTitle": "シン・ゴジラ",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/100304075/s166/Untitled-Toho-Godzilla"
+      "streamer": []
     },
     {
       "name": "Italian Spiderman",
@@ -2295,14 +2243,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/nerve-2016/",
       "year": "2016",
       "originalTitle": "Nerve",
-      "streamer": [
-        "MagentaTV",
-        "Filmtastic Amazon Channel",
-        "Joyn Plus",
-        "Studiocanal Presents ALLSTARS Amazon Channel",
-        "Filmtastic"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/237958199/s166/Nerve"
+      "streamer": []
     },
     {
       "name": "The Big Lebowski",
@@ -2316,8 +2257,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/millers-crossing/",
       "year": "1990",
       "originalTitle": "Miller's Crossing",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/43909038/s166/Millers-Crossing"
+      "streamer": []
     },
     {
       "name": "The Triplets of Belleville",
@@ -2338,12 +2278,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/love-2015/",
       "year": "2015",
       "originalTitle": "Love",
-      "streamer": [
-        "Netflix",
-        "Rakuten TV",
-        "Pluto TV"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/8702026/s166/Love-and-other-Drugs-Nebenwirkung-inklusive"
+      "streamer": []
     },
     {
       "name": "Ferris Bueller's Day Off",
@@ -2409,8 +2344,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/in-the-mood-for-love/",
       "year": "2000",
       "originalTitle": "花樣年華",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/120616451/s166/In-The-Mood-For-Love-Der-Klang-der-Liebe"
+      "streamer": []
     },
     {
       "name": "The Voices",
@@ -2428,17 +2362,15 @@
       "letterboxdUrl": "https://letterboxd.com/film/inherent-vice/",
       "year": "2014",
       "originalTitle": "Inherent Vice",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/12003694/s166/Inherent-Vice-Natuerliche-Maengel"
     },
     {
       "name": "Gangster Squad",
       "letterboxdUrl": "https://letterboxd.com/film/gangster-squad/",
       "year": "2013",
       "originalTitle": "Gangster Squad",
-      "streamer": [
-        "MagentaTV"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/10657156/s166/Gangster-Squad"
+      "streamer": []
     },
     {
       "name": "Adventureland",
@@ -2490,7 +2422,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/hardcore-henry/",
       "year": "2015",
       "originalTitle": "Hardcore Henry",
-      "streamer": []
+      "streamer": [
+        "Freevee Amazon Channel"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/814320/s166/Hardcore"
     },
     {
       "name": "Risen",
@@ -2525,33 +2460,21 @@
       "letterboxdUrl": "https://letterboxd.com/film/source-code/",
       "year": "2011",
       "originalTitle": "Source Code",
-      "streamer": [
-        "MagentaTV",
-        "Filmtastic Amazon Channel",
-        "Amazon Arthaus Channel",
-        "Studiocanal Presents ALLSTARS Amazon Channel",
-        "Filmtastic"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/244265341/s166/Source-Code"
+      "streamer": []
     },
     {
       "name": "Chucks",
       "letterboxdUrl": "https://letterboxd.com/film/chucks/",
       "year": "2015",
       "originalTitle": "Chucks",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/11380020/s166/Chucks"
+      "streamer": []
     },
     {
       "name": "Beasts of No Nation",
       "letterboxdUrl": "https://letterboxd.com/film/beasts-of-no-nation/",
       "year": "2015",
       "originalTitle": "Beasts of No Nation",
-      "streamer": [
-        "Netflix",
-        "Netflix basic with Ads"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/242966862/s166/Beasts-of-No-Nation"
+      "streamer": []
     },
     {
       "name": "The Hunt",
@@ -2587,10 +2510,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/iblard-time/",
       "year": "2007",
       "originalTitle": "イバラード時間",
-      "streamer": [
-        "Disney Plus"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/179970515/s166/96-Hours"
+      "streamer": []
     },
     {
       "name": "Into Eternity: A Film for the Future",
@@ -2605,33 +2525,21 @@
       "letterboxdUrl": "https://letterboxd.com/film/tour-de-force-2014/",
       "year": "2014",
       "originalTitle": "Hin und Weg",
-      "streamer": [
-        "Joyn Plus",
-        "filmfriend",
-        "Paramount Plus",
-        "Paramount+ Amazon Channel"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/46051459/s166/Hin-und-Weg"
+      "streamer": []
     },
     {
       "name": "The Garden of Words",
       "letterboxdUrl": "https://letterboxd.com/film/the-garden-of-words/",
       "year": "2013",
       "originalTitle": "言の葉の庭",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/241307479/s166/The-Garden-of-Words"
+      "streamer": []
     },
     {
       "name": "American Sniper",
       "letterboxdUrl": "https://letterboxd.com/film/american-sniper/",
       "year": "2014",
       "originalTitle": "American Sniper",
-      "streamer": [
-        "Netflix",
-        "MagentaTV",
-        "Netflix basic with Ads"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/94558551/s166/Der-Scharfschuetze"
+      "streamer": []
     },
     {
       "name": "The Machine",
@@ -2721,7 +2629,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/hotarubi-no-mori-e/",
       "year": "2011",
       "originalTitle": "蛍火の杜へ",
-      "streamer": []
+      "streamer": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/253994002/s166/Antikoerper"
     },
     {
       "name": "Amour",
@@ -2770,11 +2681,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-salvation/",
       "year": "2014",
       "originalTitle": "The Salvation",
-      "streamer": [
-        "Filmtastic Amazon Channel",
-        "Filmtastic"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/270971855/s166/The-Salvation-Spur-der-Vergeltung"
+      "streamer": []
     },
     {
       "name": "Only Lovers Left Alive",
@@ -2795,12 +2702,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/black-coal-thin-ice/",
       "year": "2014",
       "originalTitle": "白日焰火",
-      "streamer": [
-        "MUBI",
-        "MUBI Amazon Channel",
-        "filmfriend"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/201533298/s166/Feuerwerk-am-helllichten-Tage"
+      "streamer": []
     },
     {
       "name": "Arsenic and Old Lace",
@@ -2825,22 +2727,25 @@
       "letterboxdUrl": "https://letterboxd.com/film/psalms-of-planets-eureka-seven-good-night-sleep-tight-young-lovers/",
       "year": "2009",
       "originalTitle": "交響詩篇エウレカセブン ポケットが虹でいっぱい",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/257934874/s166/Eureka-7"
+      "streamer": []
     },
     {
       "name": "Dallas Buyers Club",
       "letterboxdUrl": "https://letterboxd.com/film/dallas-buyers-club/",
       "year": "2013",
       "originalTitle": "Dallas Buyers Club",
-      "streamer": []
+      "streamer": [
+        "filmfriend"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/300094631/s166/Dallas-Buyers-Club"
     },
     {
       "name": "Run Lola Run",
       "letterboxdUrl": "https://letterboxd.com/film/run-lola-run/",
       "year": "1998",
       "originalTitle": "Lola rennt",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/161421271/s166/Lola-Rennt"
     },
     {
       "name": "The Invention of Lying",
@@ -2862,7 +2767,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-perks-of-being-a-wallflower/",
       "year": "2012",
       "originalTitle": "The Perks of Being a Wallflower",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/9634992/s166/Vielleicht-lieber-morgen"
     },
     {
       "name": "Murder by Death",
@@ -2876,7 +2782,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/automata-2014/",
       "year": "2014",
       "originalTitle": "Autómata",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/10675280/s166/Automata"
     },
     {
       "name": "Sin City: A Dame to Kill For",
@@ -3014,10 +2921,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/cargo-2009/",
       "year": "2009",
       "originalTitle": "Cargo",
-      "streamer": [
-        "Netflix"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/62179592/s166/Cargo-2018"
+      "streamer": []
     },
     {
       "name": "Samsara",
@@ -3032,18 +2936,14 @@
       "letterboxdUrl": "https://letterboxd.com/film/trance/",
       "year": "2013",
       "originalTitle": "Trance",
-      "streamer": [
-        "Disney Plus"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/257653271/s166/Trance-Gefaehrliche-Erinnerung"
+      "streamer": []
     },
     {
       "name": "Mystery Science Theater 3000: The Movie",
       "letterboxdUrl": "https://letterboxd.com/film/mystery-science-theater-3000-the-movie/",
       "year": "1996",
       "originalTitle": "Mystery Science Theater 3000: The Movie",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/179098800/s166/Mystery-Science-Theater-3000-Der-Film"
+      "streamer": []
     },
     {
       "name": "Martha Marcy May Marlene",
@@ -3076,8 +2976,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/noah/",
       "year": "2014",
       "originalTitle": "Noah",
-      "streamer": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/10673647/s166/Noah-2014"
+      "streamer": []
     },
     {
       "name": "Cameraman: The Life and Work of Jack Cardiff",
@@ -3091,7 +2990,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/slc-punk/",
       "year": "1998",
       "originalTitle": "SLC Punk",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/68178793/s166/Punk"
     },
     {
       "name": "Turn Me On, Dammit!",
@@ -3112,27 +3012,26 @@
       "letterboxdUrl": "https://letterboxd.com/film/control-2003/",
       "year": "2003",
       "originalTitle": "Kontroll",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/154109811/s166/Kontroll"
     },
     {
       "name": "Close",
       "letterboxdUrl": "https://letterboxd.com/film/close/",
       "year": "2004",
       "originalTitle": "Close",
-      "streamer": []
+      "streamer": [
+        "WOW",
+        "Sky Go"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/124366008/s166/Close-2019"
     },
     {
       "name": "Wayne's World",
       "letterboxdUrl": "https://letterboxd.com/film/waynes-world/",
       "year": "1992",
       "originalTitle": "Wayne's World",
-      "streamer": [
-        "Filmtastic Amazon Channel",
-        "Paramount Plus",
-        "Paramount+ Amazon Channel",
-        "Filmtastic"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/11018685/s166/Waynes-World"
+      "streamer": []
     },
     {
       "name": "Igby Goes Down",
@@ -3153,7 +3052,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/city-of-life-and-death/",
       "year": "2009",
       "originalTitle": "南京!南京!",
-      "streamer": []
+      "streamer": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/11127866/s166/City-Of-Life-And-Death-Das-Nanjing-Massaker"
     },
     {
       "name": "Sightseers",
@@ -3276,7 +3176,11 @@
       "letterboxdUrl": "https://letterboxd.com/film/once-upon-a-time-in-the-west/",
       "year": "1968",
       "originalTitle": "C'era una volta il West",
-      "streamer": []
+      "streamer": [
+        "Joyn Plus",
+        "Filmlegenden Amazon Channel"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/8658869/s166/Spiel-mir-das-Lied-vom-Tod"
     },
     {
       "name": "Identity",
@@ -3318,10 +3222,6 @@
     },
     {
       "name": "Disney Plus",
-      "enabled": false
-    },
-    {
-      "name": "Film Total Amazon Channel",
       "enabled": false
     },
     {
@@ -3401,15 +3301,7 @@
       "enabled": false
     },
     {
-      "name": "Pluto TV",
-      "enabled": false
-    },
-    {
       "name": "RTL+",
-      "enabled": false
-    },
-    {
-      "name": "Rakuten TV",
       "enabled": false
     },
     {
@@ -3446,10 +3338,6 @@
     },
     {
       "name": "realeyz",
-      "enabled": false
-    },
-    {
-      "name": "wedotv",
       "enabled": false
     }
   ]
