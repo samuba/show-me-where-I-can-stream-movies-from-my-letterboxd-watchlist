@@ -1,9 +1,8 @@
 name: Build Page
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on:
   push:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "0 1 * * */1"
 
 jobs:
   Explore-GitHub-Actions:

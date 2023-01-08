@@ -1,8 +1,3 @@
-A script that queries a letterboxd watchlist and shows which streaming providers currently offer it.
+Show where I can stream my letterboxd watchlist. Automatically updated once every day.
 
-```
-deno run -A script.ts <letterboxdUsername>
-
-```
-
-d
+(https://samuba.github.io/watchlist-stream-providers/)[https://samuba.github.io/watchlist-stream-providers/]
