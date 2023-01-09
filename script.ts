@@ -1,5 +1,5 @@
 import * as cheerio from 'npm:cheerio@1.0.0-rc.12';
-import type { LetterboxdFilm, LetterboxdList } from './src/app.d.ts';
+import type { LetterboxdFilm, LetterboxdList, Film } from './src/app';
 
 console.time('finished after');
 const startTime = new Date();
@@ -11,6 +11,9 @@ const lists = Deno.readTextFileSync('letterboxdUrls.txt')
 	.map((x) => ({ url: x.split('|')[1].trim(), name: x.split('|')[0].trim() }));
 
 // const filledLists = await Promise.all(lists.map((x) => createEntry(x.name, x.url)));
+
+const infoCache = new Map<string, Film>();
+
 const filledLists = [] as LetterboxdList[];
 for (const list of lists) {
 	filledLists.push(await createEntry(list.name, list.url));
@@ -96,6 +99,9 @@ async function fetchPageFromLetterboxd(listUrl: string, currentPage: number) {
 }
 
 async function getFilmInfo(movie: LetterboxdFilm) {
+	if (infoCache.has(movie.letterboxdUrl)) {
+		return infoCache.get(movie.letterboxdUrl);
+	}
 	try {
 		const res = await fetch(movie.letterboxdUrl).then((x) => x.text());
 		const $ = cheerio.load(res);
@@ -105,8 +111,9 @@ async function getFilmInfo(movie: LetterboxdFilm) {
 		const originalTitle =
 			$('#featured-film-header em').text().replace('‘', '').replace('’', '') || movie.name;
 
-		return await getFilmStreamInfo({ ...movie, year, originalTitle });
-		// return { ...movie, year, originalTitle };
+		const filmWithInfo = await getFilmStreamInfo({ ...movie, year, originalTitle });
+		infoCache.set(movie.letterboxdUrl, filmWithInfo);
+		return filmWithInfo;
 	} catch (error) {
 		console.error(
 			'error in getFilmInfo for ' + movie.letterboxdUrl + '. trying again...',
