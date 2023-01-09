@@ -1,8 +1,8 @@
 name: Build Page
 on:
   push:
-  schedule:
-    - cron: '0 1 * * */1'
+  # schedule:
+  #   - cron: '0 1 * * */1'
 
 jobs:
   Explore-GitHub-Actions:
@@ -15,7 +15,7 @@ jobs:
         with:
           deno-version: v1.29
 
-      - run: npm run generateJson
+      # - run: npm run generateJson
 
       - run: npm run build
 

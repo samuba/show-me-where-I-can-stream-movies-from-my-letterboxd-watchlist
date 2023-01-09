@@ -57,8 +57,25 @@ async function createEntry(listName: string, url: string) {
 					letterboxdFilms.push({ name, letterboxdUrl });
 				});
 
-				const filmsWithInfo = await Promise.all(letterboxdFilms.map((x) => getFilmInfo(x)));
-				filmsWithInfo.forEach((x) => films.push(x));
+				// const filmsWithInfo = await Promise.all(letterboxdFilms.map((x) => getFilmInfo(x)));
+				// filmsWithInfo.forEach((x) => films.push(x));
+
+				for (let index = 0; index < letterboxdFilms.length; index++) {
+					consoleLogSameLine(`\n${time()} item ${index + 1} of ${letterboxdFilms.length}.`);
+					films.push(await getFilmInfo(letterboxdFilms[index]));
+				}
+
+				// for (const film of letterboxdFilms) {
+				// 	films.push(await getFilmInfo(film));
+				// }
+
+				// const getFilmInfoPromises = letterboxdFilms.map((film) => getFilmInfo(film));
+				// const chunkSize = Math.ceil(getFilmInfoPromises.length / 2);
+				// const filmsChunks = chunk(getFilmInfoPromises, chunkSize);
+				// for (const filmsChunk of filmsChunks) {
+				// 	await Promise.all(filmsChunk);
+				// }
+
 				// (await Promise.all(filmsWithInfo.map((x) => getFilmStreamInfo(x)))).forEach((x) =>
 				// 	films.push(x)
 				// );
@@ -88,22 +105,25 @@ async function createEntry(listName: string, url: string) {
 }
 
 async function fetchListDescription(listUrl: string) {
-	const page = await fetch(listUrl).then((x) => x.text());
+	const page = await fetch(listUrl, {}).then((x) => x.text());
 	const $ = cheerio.load(page);
-	// $('.block-flag-wrapper').remove();
 	return $('.list-title-intro .body-text').toString();
 }
 
 async function fetchPageFromLetterboxd(listUrl: string, currentPage: number) {
-	return await fetch(listUrl + `page/${currentPage}`).then((x) => x.text());
+	return await fetch(listUrl + `page/${currentPage}`, { timeout: 10 * 1000 }).then((x) => x.text());
 }
 
-async function getFilmInfo(movie: LetterboxdFilm) {
+async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 	if (infoCache.has(movie.letterboxdUrl)) {
+		consoleLogSameLine('  cache hit\n');
 		return infoCache.get(movie.letterboxdUrl);
 	}
 	try {
-		const res = await fetch(movie.letterboxdUrl).then((x) => x.text());
+		consoleLogSameLine('  info.. \n');
+		const res = await fetchWithTimeout(movie.letterboxdUrl, { timeout: 10 * 1000 }).then((x) =>
+			x.text()
+		);
 		const $ = cheerio.load(res);
 		const found = $('#featured-film-header h1').text() ? true : false;
 		if (!found) throw new Error('film not found in letterboxd' + movie.name);
@@ -115,22 +135,28 @@ async function getFilmInfo(movie: LetterboxdFilm) {
 		infoCache.set(movie.letterboxdUrl, filmWithInfo);
 		return filmWithInfo;
 	} catch (error) {
+		if (retries > 9) {
+			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);
+			return movie;
+		}
 		console.error(
 			'error in getFilmInfo for ' + movie.letterboxdUrl + '. trying again...',
 			error?.message
 		);
 		await sleep(1000);
-		return await getFilmInfo(movie);
+		return await getFilmInfo(movie, retries++);
 	}
 }
 
-async function getFilmStreamInfo(movie: LetterboxdFilm) {
+async function getFilmStreamInfo(movie: LetterboxdFilm, retries = 0) {
+	consoleLogSameLine(' streamInfo.. ');
 	try {
-		const res = await fetch(
+		const res = await fetchWithTimeout(
 			`https://www.justwatch.com/de/Suche?q=${encodeURIComponent(
 				movie.originalTitle
 			)}&content_type=movie`,
 			{
+				timeout: 10 * 1000,
 				headers: {
 					accept: '*/*',
 					'cache-control': 'no-cache',
@@ -159,12 +185,16 @@ async function getFilmStreamInfo(movie: LetterboxdFilm) {
 
 		return { ...movie, streamProviders, imageUrl };
 	} catch (error) {
+		if (retries > 9) {
+			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);
+			return movie;
+		}
 		console.error(
-			'error in getFilmStreamInfo for ' + movie.name + '. trying again...',
+			`${time()}` + '  error in getFilmStreamInfo for ' + movie.name + '. trying again...',
 			error?.message
 		);
-		await sleep(7000);
-		return await getFilmStreamInfo(movie);
+		await sleep(3000);
+		return await getFilmStreamInfo(movie, retries++);
 	}
 }
 
@@ -185,4 +215,38 @@ function timeTillNow(date: Date) {
 
 function sleep(ms) {
 	return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+/**
+ * A number, or a string containing a number.
+ * @typedef {(<T = any>() => Promise<T>)} Task
+ */
+
+/**
+ *
+ * @param {Array<Task>} tasks
+ */
+export async function* batchTasks(tasks, limit, taskCallback = (r) => r) {
+	for (let i = 0; i < tasks.length; i = i + limit) {
+		const batch = tasks.slice(i, i + limit);
+		const result = await Promise.all(batch.map((task) => task().then((r) => taskCallback(r))));
+		yield result;
+	}
+}
+
+async function fetchWithTimeout(resource: string, options = {}) {
+	const { timeout = 8000 } = options;
+
+	const controller = new AbortController();
+	const id = setTimeout(() => controller.abort(), timeout);
+	const response = await fetch(resource, {
+		...options,
+		signal: controller.signal
+	});
+	clearTimeout(id);
+	return response;
+}
+
+function time() {
+	return new Date().toTimeString().split(' ')[0];
 }
