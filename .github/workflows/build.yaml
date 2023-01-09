@@ -17,6 +17,7 @@ jobs:
 
       # - run: npm run generateJson
 
+      - run: npm ci
       - run: npm run build
 
       - name: Deploy 🚀
