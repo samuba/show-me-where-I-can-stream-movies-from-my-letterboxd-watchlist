@@ -111,7 +111,12 @@
 						<div style="display: inline-block; margin-left: 1rem; margin-bottom: 1rem">
 							<!-- <h5 x-text="film.name"></h5> -->
 							<a href={movie.letterboxdUrl}>
-								<img src={movie.imageUrl} title={movie.name} alt={`${movie.name}`} />
+								<img
+									src={movie.imageUrl}
+									style="max-height: 350px; max-width: 200px;"
+									title={movie.name}
+									alt={`${movie.name}`}
+								/>
 							</a>
 						</div>
 					{/each}

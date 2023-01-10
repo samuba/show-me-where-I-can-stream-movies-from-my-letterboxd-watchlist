@@ -57,13 +57,13 @@ async function createEntry(listName: string, url: string) {
 					letterboxdFilms.push({ name, letterboxdUrl });
 				});
 
-				// const filmsWithInfo = await Promise.all(letterboxdFilms.map((x) => getFilmInfo(x)));
-				// filmsWithInfo.forEach((x) => films.push(x));
+				const filmsWithInfo = await Promise.all(letterboxdFilms.map((x) => getFilmInfo(x)));
+				filmsWithInfo.forEach((x) => films.push(x));
 
-				for (let index = 0; index < letterboxdFilms.length; index++) {
-					consoleLogSameLine(`\n${time()} item ${index + 1} of ${letterboxdFilms.length}.`);
-					films.push(await getFilmInfo(letterboxdFilms[index]));
-				}
+				// for (let index = 0; index < letterboxdFilms.length; index++) {
+				// 	consoleLogSameLine(`\n${time()} item ${index + 1} of ${letterboxdFilms.length}.`);
+				// 	films.push(await getFilmInfo(letterboxdFilms[index]));
+				// }
 
 				// for (const film of letterboxdFilms) {
 				// 	films.push(await getFilmInfo(film));
@@ -75,10 +75,6 @@ async function createEntry(listName: string, url: string) {
 				// for (const filmsChunk of filmsChunks) {
 				// 	await Promise.all(filmsChunk);
 				// }
-
-				// (await Promise.all(filmsWithInfo.map((x) => getFilmStreamInfo(x)))).forEach((x) =>
-				// 	films.push(x)
-				// );
 			}
 
 			currentPage += numberOfConcurrentFetches;
@@ -120,7 +116,7 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 		return infoCache.get(movie.letterboxdUrl);
 	}
 	try {
-		consoleLogSameLine('  info.. \n');
+		// consoleLogSameLine('  info.. \n');
 		const res = await fetchWithTimeout(movie.letterboxdUrl, { timeout: 10 * 1000 }).then((x) =>
 			x.text()
 		);
@@ -131,7 +127,7 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 		const originalTitle =
 			$('#featured-film-header em').text().replace('‘', '').replace('’', '') || movie.name;
 
-		const filmWithInfo = await getFilmStreamInfo({ ...movie, year, originalTitle });
+		const filmWithInfo = await getFilmStreamInfo2({ ...movie, year, originalTitle });
 		infoCache.set(movie.letterboxdUrl, filmWithInfo);
 		return filmWithInfo;
 	} catch (error) {
@@ -145,6 +141,65 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 		);
 		await sleep(1000);
 		return await getFilmInfo(movie, retries++);
+	}
+}
+
+async function getFilmStreamInfo2(movie: LetterboxdFilm, retries = 0) {
+	// consoleLogSameLine(' streamInfo.. ');
+	try {
+		const res = await fetchWithTimeout(
+			`https://www.werstreamt.es/filme/option-flatrate/?q=${encodeURIComponent(
+				movie.originalTitle
+			)}`
+		).then((x) => x.text());
+		let $ = cheerio.load(res);
+
+		if (res.length < 200) throw new Error(res);
+
+		const firstMovie = $('[itemprop="itemListElement"]')
+			.filter((_, el) =>
+				$(el).find('[itemprop="dateCreated"]').attr('content')?.includes(movie.year)
+			)
+			.first();
+		const imageUrl = firstMovie.find('.poster img').attr('src');
+		const movieUrl =
+			'https://www.werstreamt.es/' + firstMovie.find('[itemprop="url"]').attr('href');
+
+		if (!movieUrl) {
+			return { ...movie, streamProviders: [], imageUrl: '' };
+		}
+
+		const res2 = await fetchWithTimeout(movieUrl).then((x) => x.text());
+		$ = cheerio.load(res2);
+
+		const streamProviders = $('.provider')
+			.filter((_, el) => {
+				return $(el)
+					.find('small:contains("Flatrate")')
+					.parent()
+					.text()
+					?.replace('Flatrate', '')
+					?.trim();
+			})
+			.map((_, el) => {
+				const company = $(el).find('h5 .grouptitle').text().trim();
+				const service = $(el).find('h5 a').text().replace(company, '').trim();
+				return `${company} ${service}`;
+			})
+			.get();
+
+		return { ...movie, streamProviders, imageUrl };
+	} catch (error) {
+		if (retries > 9) {
+			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);
+			return movie;
+		}
+		console.error(
+			`${time()}` + '  error in getFilmStreamInfo for ' + movie.name + '. trying again...',
+			error?.message
+		);
+		await sleep(3000);
+		return await getFilmStreamInfo(movie, retries++);
 	}
 }
 
