@@ -4,11 +4,9 @@ on:
   # schedule:
   #   - cron: '0 1 * * */1'
 
-runs-on: [self-hosted]
-
 jobs:
   Explore-GitHub-Actions:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
 
     steps:
       - uses: actions/checkout@v3
