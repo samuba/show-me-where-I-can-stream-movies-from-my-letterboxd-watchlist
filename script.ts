@@ -1,5 +1,5 @@
 import * as cheerio from 'npm:cheerio@1.0.0-rc.12';
-import type { LetterboxdFilm, LetterboxdList, Film } from './src/app';
+import type { LetterboxdFilm, LetterboxdList, Film } from './src/app.d.ts';
 
 console.time('finished after');
 const startTime = new Date();
@@ -148,9 +148,7 @@ async function getFilmStreamInfo2(movie: LetterboxdFilm, retries = 0) {
 	// consoleLogSameLine(' streamInfo.. ');
 	try {
 		const res = await fetchWithTimeout(
-			`https://www.werstreamt.es/filme/option-flatrate/?q=${encodeURIComponent(
-				movie.originalTitle
-			)}`
+			`https://www.werstreamt.es/filme/?q=${encodeURIComponent(movie.originalTitle)}`
 		).then((x) => x.text());
 		let $ = cheerio.load(res);
 
@@ -174,17 +172,14 @@ async function getFilmStreamInfo2(movie: LetterboxdFilm, retries = 0) {
 
 		const streamProviders = $('.provider')
 			.filter((_, el) => {
-				return $(el)
-					.find('small:contains("Flatrate")')
-					.parent()
-					.text()
-					?.replace('Flatrate', '')
-					?.trim();
+				return $(el).find('small:contains("Flatrate")').parent().find('.fi-check').length > 0;
 			})
 			.map((_, el) => {
-				const company = $(el).find('h5 .grouptitle').text().trim();
-				const service = $(el).find('h5 a').text().replace(company, '').trim();
-				return `${company} ${service}`;
+				const company = $(el).find('h5 .grouptitle').text().trim().trim();
+				const service = $(el).find('h5 a').text().replace(company, '').trim().trim();
+				if (company && service) return `${company} ${service}`;
+				if (company) return `${company}`;
+				if (service) return `${service}`;
 			})
 			.get();
 

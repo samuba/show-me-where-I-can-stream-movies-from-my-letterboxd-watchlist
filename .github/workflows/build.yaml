@@ -1,8 +1,8 @@
 name: Build Page
 on:
   push:
-  # schedule:
-  #   - cron: '0 1 * * */1'
+  schedule:
+    - cron: '0 1 * * */1'
 
 jobs:
   build:
@@ -17,9 +17,7 @@ jobs:
         with:
           deno-version: v1.29
 
-      # - run: npm run generateJson
-      # - run: deno run -A script.ts
-
+      - run: npm run generateJson
       - run: npm ci
       - run: npm run build
 
