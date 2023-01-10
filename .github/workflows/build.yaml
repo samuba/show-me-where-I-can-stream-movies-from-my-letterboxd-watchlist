@@ -15,7 +15,8 @@ jobs:
         with:
           deno-version: v1.29
 
-      - run: npm run generateJson
+      # - run: npm run generateJson
+      - run: deno run -A script.ts
 
       - run: npm ci
       - run: npm run build
