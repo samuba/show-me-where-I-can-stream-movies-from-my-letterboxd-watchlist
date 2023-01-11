@@ -45,6 +45,10 @@
 	}
 </script>
 
+<svelte:head>
+	<title>Letterboxd List Streams</title>
+</svelte:head>
+
 <div class="container" style="margin-top: 3rem">
 	<h1>Who Streams My Letterboxd List</h1>
 
