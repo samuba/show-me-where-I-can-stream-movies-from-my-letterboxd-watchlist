@@ -113,7 +113,7 @@
 							<a href={movie.letterboxdUrl}>
 								<img
 									src={movie.imageUrl}
-									style="max-height: 15rem; max-width: 9rem;"
+									style="max-height: 15rem; max-width: 9.5rem;"
 									title={movie.name}
 									alt={`${movie.name}`}
 								/>
