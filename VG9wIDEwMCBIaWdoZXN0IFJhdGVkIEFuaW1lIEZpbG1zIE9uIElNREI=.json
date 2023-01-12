@@ -1,0 +1,898 @@
+{
+  "name": "Top 100 Highest Rated Anime Films On IMDB",
+  "url": "https://letterboxd.com/silesiansky/list/anime-films-101-top-100-highest-rated-films/",
+  "description": "<div class=\"body-text -prose -hero clear collapsible-text\" data-full-text-url=\"#list-notes\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p>Sorted by Feature Length, User Rating &amp; +1,000 Votes Minimum on IMDb</p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>",
+  "entries": [
+    {
+      "name": "Spirited Away",
+      "letterboxdUrl": "https://letterboxd.com/film/spirited-away/",
+      "year": "2001",
+      "originalTitle": "千と千尋の神隠し",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/9tqpaQfIPfnNnu4zDuDFyzlTh3I.jpg"
+    },
+    {
+      "name": "Grave of the Fireflies",
+      "letterboxdUrl": "https://letterboxd.com/film/grave-of-the-fireflies/",
+      "year": "1988",
+      "originalTitle": "火垂るの墓",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/76f6b42c4d82e32bd2446d885ab35b6d377fe1177c055a909ac22142cef64f27._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Your Name.",
+      "letterboxdUrl": "https://letterboxd.com/film/your-name/",
+      "year": "2016",
+      "originalTitle": "君の名は。",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/350c14b3e657bc8f6633f5d8ccb89c671523a6224ec60a0f8d859a5f9871ffe9._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Princess Mononoke",
+      "letterboxdUrl": "https://letterboxd.com/film/princess-mononoke/",
+      "year": "1997",
+      "originalTitle": "もののけ姫",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vFRKcH8zDqEx4nUnm0cs5lh5wwj.jpg"
+    },
+    {
+      "name": "A Silent Voice",
+      "letterboxdUrl": "https://letterboxd.com/film/a-silent-voice/",
+      "year": "2016",
+      "originalTitle": "聲の形",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f20a5cb04ff2b588b32d6860df05296d7585333d3f5931d4cf168719d01226a9._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya",
+      "letterboxdUrl": "https://letterboxd.com/film/gintama-the-movie-the-final-chapter-be-forever-yorozuya/",
+      "year": "2013",
+      "originalTitle": "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels aniverse"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Magnetic Rose",
+      "letterboxdUrl": "https://letterboxd.com/film/magnetic-rose/",
+      "year": "1995",
+      "originalTitle": "彼女の想いで",
+      "streamProviders": []
+    },
+    {
+      "name": "Howl's Moving Castle",
+      "letterboxdUrl": "https://letterboxd.com/film/howls-moving-castle/",
+      "year": "2004",
+      "originalTitle": "ハウルの動く城",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gQrGSdz9yVroX7bFqYYYnh02Tcr.jpg"
+    },
+    {
+      "name": "Neon Genesis Evangelion: The End of Evangelion",
+      "letterboxdUrl": "https://letterboxd.com/film/neon-genesis-evangelion-the-end-of-evangelion/",
+      "year": "1997",
+      "originalTitle": "新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/c7VvQlMtAAufRQ0XPvBYNwq7JdV.jpg"
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "letterboxdUrl": "https://letterboxd.com/film/my-neighbor-totoro/",
+      "year": "1988",
+      "originalTitle": "となりのトトロ",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/xgT4OLxdBJGxRbt8Ls6y3eF3EDE.jpg"
+    },
+    {
+      "name": "Wolf Children",
+      "letterboxdUrl": "https://letterboxd.com/film/wolf-children/",
+      "year": "2012",
+      "originalTitle": "おおかみこどもの雨と雪",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/703f180e6586fb65a400ff47c2fc067fc8b126a8905ceb9f8d75b3314566e718._SX342_SY600_.jpg"
+    },
+    {
+      "name": "The Disappearance of Haruhi Suzumiya",
+      "letterboxdUrl": "https://letterboxd.com/film/the-disappearance-of-haruhi-suzumiya/",
+      "year": "2010",
+      "originalTitle": "涼宮ハルヒの消失",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/36TJlzo6ndksgSW3n0WVeVA4ouZ.jpg"
+    },
+    {
+      "name": "Akira",
+      "letterboxdUrl": "https://letterboxd.com/film/akira/",
+      "year": "1988",
+      "originalTitle": "アキラ",
+      "streamProviders": [
+        "Prime Video Channels Arthouse CNMA"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/069b84ccfd43d3dc603857255be2e4ce018637c3d56d8b5240af9f19ab7d2c05._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Castle in the Sky",
+      "letterboxdUrl": "https://letterboxd.com/film/castle-in-the-sky/",
+      "year": "1986",
+      "originalTitle": "天空の城ラピュタ",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/fJawYdTmoGXZyF9MzJpEtlAVb3s.jpg"
+    },
+    {
+      "name": "Nausicaä of the Valley of the Wind",
+      "letterboxdUrl": "https://letterboxd.com/film/nausicaa-of-the-valley-of-the-wind/",
+      "year": "1984",
+      "originalTitle": "風の谷のナウシカ",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/muhyQAUn8RqMmXPVmBb8uaPtVXx.jpg"
+    },
+    {
+      "name": "Barefoot Gen",
+      "letterboxdUrl": "https://letterboxd.com/film/barefoot-gen/",
+      "year": "1983",
+      "originalTitle": "はだしのゲン",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/xGvShyJAhuCMEiBR0PNTqXgRDi2.jpg"
+    },
+    {
+      "name": "Dragon Ball Super: Broly",
+      "letterboxdUrl": "https://letterboxd.com/film/dragon-ball-super-broly/",
+      "year": "2018",
+      "originalTitle": "ドラゴンボール超スーパー ブロリー",
+      "streamProviders": []
+    },
+    {
+      "name": "Kuroko's Basketball the Movie: Last Game",
+      "letterboxdUrl": "https://letterboxd.com/film/kurokos-basketball-the-movie-last-game/",
+      "year": "2017",
+      "originalTitle": "劇場版 黒子のバスケ LAST GAME",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/c4qDRYVcqMKl6fdiCwfb3icHrUM.jpg"
+    },
+    {
+      "name": "Boruto: Naruto the Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/boruto-naruto-the-movie/",
+      "year": "2015",
+      "originalTitle": "BORUTO -NARUTO THE MOVIE-",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/195aa886929af148964fcaef05adb07743a78a5b649f45563eec23d32578c455._SX342_SY600_.jpg"
+    },
+    {
+      "name": "The Tale of the Princess Kaguya",
+      "letterboxdUrl": "https://letterboxd.com/film/the-tale-of-the-princess-kaguya/",
+      "year": "2013",
+      "originalTitle": "かぐや姫の物語",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/h9Sfm5BFN4XZswXbtWUzcS8mqeE.jpg"
+    },
+    {
+      "name": "One Piece Film: Z",
+      "letterboxdUrl": "https://letterboxd.com/film/one-piece-film-z/",
+      "year": "2012",
+      "originalTitle": "ワンピース フィルム ゼット",
+      "streamProviders": []
+    },
+    {
+      "name": "Berserk: The Golden Age Arc III - The Advent",
+      "letterboxdUrl": "https://letterboxd.com/film/berserk-the-golden-age-arc-iii-the-advent/",
+      "year": "2013",
+      "originalTitle": "ベルセルク 黄金時代篇III 降臨",
+      "streamProviders": [],
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/0/p10714536_v_v8_aa.jpg&out=jpeg"
+    },
+    {
+      "name": "Puella Magi Madoka Magica the Movie Part II: Eternal",
+      "letterboxdUrl": "https://letterboxd.com/film/puella-magi-madoka-magica-the-movie-part-ii-eternal/",
+      "year": "2012",
+      "originalTitle": "劇場版 魔法少女まどか☆マギカ[後編] 永遠の物語",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/VrYTAlyK3TDa379pk20WpAHKmh.jpg"
+    },
+    {
+      "name": "The Garden of Sinners: Paradox Spiral",
+      "letterboxdUrl": "https://letterboxd.com/film/the-garden-of-sinners-paradox-spiral/",
+      "year": "2008",
+      "originalTitle": "劇場版「空の境界」第五章 矛盾螺旋",
+      "streamProviders": []
+    },
+    {
+      "name": "Ghost in the Shell 2.0",
+      "letterboxdUrl": "https://letterboxd.com/film/ghost-in-the-shell-20/",
+      "year": "2008",
+      "originalTitle": "GHOST IN THE SHELL／攻殻機動隊2.0",
+      "streamProviders": [],
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15661816_v_v8_ab.jpg&out=jpeg"
+    },
+    {
+      "name": "Evangelion: 2.0 You Can (Not) Advance",
+      "letterboxdUrl": "https://letterboxd.com/film/evangelion-20-you-can-not-advance/",
+      "year": "2009",
+      "originalTitle": "ヱヴァンゲリヲン新劇場版：破",
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4bf51b47b4730ec7399bee80e791f01ece4f441eb5828927012739269a32006e._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Whisper of the Heart",
+      "letterboxdUrl": "https://letterboxd.com/film/whisper-of-the-heart/",
+      "year": "1995",
+      "originalTitle": "耳をすませば",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/s9VTQCVVtxVHAkIhFcNiOdmnDdC.jpg"
+    },
+    {
+      "name": "Ghost in the Shell",
+      "letterboxdUrl": "https://letterboxd.com/film/ghost-in-the-shell/",
+      "year": "1995",
+      "originalTitle": "Ghost in the Shell",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Steins;Gate: The Movie - Load Region of Déjà Vu",
+      "letterboxdUrl": "https://letterboxd.com/film/steins-gate-the-movie-load-region-of-deja-vu/",
+      "year": "2013",
+      "originalTitle": "劇場版 STEINS;GATE 負荷領域のデジャヴ",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/maTEWDbqf09wfZYlJDF5XIQJD84.jpg"
+    },
+    {
+      "name": "Hotarubi no Mori e",
+      "letterboxdUrl": "https://letterboxd.com/film/hotarubi-no-mori-e/",
+      "year": "2011",
+      "originalTitle": "蛍火の杜へ",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/7ZTL7uAfqGygKM2gJGYm36y46NU.jpg"
+    },
+    {
+      "name": "Mind Game",
+      "letterboxdUrl": "https://letterboxd.com/film/mind-game/",
+      "year": "2004",
+      "originalTitle": "Mind Game",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/7Zf7DDAaUYsNcgROQJlp7OXyvHT.jpg"
+    },
+    {
+      "name": "Tokyo Godfathers",
+      "letterboxdUrl": "https://letterboxd.com/film/tokyo-godfathers/",
+      "year": "2003",
+      "originalTitle": "東京ゴッドファーザーズ",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c985576e51d413ed847b43975179c782d1f870e598cf309abbe6a30ae8994132._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+      "letterboxdUrl": "https://letterboxd.com/film/interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem/",
+      "year": "2003",
+      "originalTitle": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+      "streamProviders": [
+        "Prime Video Channels Qello Concerts by Stingray",
+        "Prime Video Channels Stingray All Good Vibes"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d71d385724a93a3e43595cd8ad113a3e3390b26955ae04620061743204a37cd6._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Cardcaptor Sakura: The Sealed Card",
+      "letterboxdUrl": "https://letterboxd.com/film/cardcaptor-sakura-the-sealed-card/",
+      "year": "2000",
+      "originalTitle": "劇場版 カードキャプターさくら 封印されたカード",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vyJDXZElNtl6aY1R2Q8dO7YzAas.jpg"
+    },
+    {
+      "name": "Millennium Actress",
+      "letterboxdUrl": "https://letterboxd.com/film/millennium-actress/",
+      "year": "2001",
+      "originalTitle": "千年女優",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b47540cfc7ac73f0cfd8c334e78204931060802dc827d8634cbc46410d57c27d._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Cowboy Bebop: The Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/cowboy-bebop-the-movie/",
+      "year": "2001",
+      "originalTitle": "カウボーイビバップ 天国の扉",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/p3VabdJ5GS0p7BcSF3fGIgql2Bk.jpg"
+    },
+    {
+      "name": "Perfect Blue",
+      "letterboxdUrl": "https://letterboxd.com/film/perfect-blue/",
+      "year": "1997",
+      "originalTitle": "パーフェクトブルー",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/79vujbsWEbX4dzffBV541QXN6sf.jpg"
+    },
+    {
+      "name": "Ninja Scroll",
+      "letterboxdUrl": "https://letterboxd.com/film/ninja-scroll/",
+      "year": "1993",
+      "originalTitle": "獣兵衛忍風帖",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Kiki's Delivery Service",
+      "letterboxdUrl": "https://letterboxd.com/film/kikis-delivery-service/",
+      "year": "1989",
+      "originalTitle": "魔女の宅急便",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/tqvaBI50VYztv8jzlsY9982278S.jpg"
+    },
+    {
+      "name": "Macross: Do You Remember Love?",
+      "letterboxdUrl": "https://letterboxd.com/film/macross-do-you-remember-love/",
+      "year": "1984",
+      "originalTitle": "超時空要塞マクロス 愛・おぼえていますか",
+      "streamProviders": []
+    },
+    {
+      "name": "My Hero Academia: Two Heroes",
+      "letterboxdUrl": "https://letterboxd.com/film/my-hero-academia-two-heroes/",
+      "year": "2018",
+      "originalTitle": "僕のヒーローアカデミア THE MOVIE ～2人の英雄～",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f18dac8c5fa536718b96178971af897bcde7708ee9c2a2504b7a30b71ba1a365._SX342_SY600_.jpg"
+    },
+    {
+      "name": "I Want to Eat Your Pancreas",
+      "letterboxdUrl": "https://letterboxd.com/film/i-want-to-eat-your-pancreas/",
+      "year": "2018",
+      "originalTitle": "君の膵臓をたべたい",
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels aniverse"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Kizumonogatari Part 2: Nekketsu",
+      "letterboxdUrl": "https://letterboxd.com/film/kizumonogatari-part-2-nekketsu/",
+      "year": "2016",
+      "originalTitle": "傷物語〈Ⅱ熱血篇〉",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vdMx2VqjZE7IkbirNPTIj526MBi.jpg"
+    },
+    {
+      "name": "In This Corner of the World",
+      "letterboxdUrl": "https://letterboxd.com/film/in-this-corner-of-the-world/",
+      "year": "2016",
+      "originalTitle": "この世界の片隅に",
+      "streamProviders": [
+        "Prime Video Channels Arthouse CNMA"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+      "letterboxdUrl": "https://letterboxd.com/film/berserk-the-golden-age-arc-ii-the-battle-for-doldrey/",
+      "year": "2012",
+      "originalTitle": "ベルセルク 黄金時代篇II ドルドレイ攻略",
+      "streamProviders": [],
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/5/p9529733_v_v8_aa.jpg&out=jpeg"
+    },
+    {
+      "name": "Road to Ninja: Naruto the Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/road-to-ninja-naruto-the-movie/",
+      "year": "2012",
+      "originalTitle": "Road to Ninja: Naruto the Movie",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d60378156967cbe2e35c2a92693a11fcd17a3e926eb867d41ac5da5cbfbab53a._SX342_SY600_.jpg"
+    },
+    {
+      "name": "The Wind Rises",
+      "letterboxdUrl": "https://letterboxd.com/film/the-wind-rises/",
+      "year": "2013",
+      "originalTitle": "風立ちぬ",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/zxb86S1Fh06sPdkkAJ1a7oXpDeJ.jpg"
+    },
+    {
+      "name": "Gurren Lagann the Movie: Childhood's End",
+      "letterboxdUrl": "https://letterboxd.com/film/gurren-lagann-the-movie-childhoods-end/",
+      "year": "2008",
+      "originalTitle": "劇場版 天元突破グレンラガン 紅蓮篇",
+      "streamProviders": []
+    },
+    {
+      "name": "Sword of the Stranger",
+      "letterboxdUrl": "https://letterboxd.com/film/sword-of-the-stranger/",
+      "year": "2007",
+      "originalTitle": "ストレンヂア -無皇刃譚-",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8017a265c6ce8a69d15f6f7b4ad9175e845bc906353dec498a8a1f6d9df3f7b9._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Detective Conan: The Phantom of Baker Street",
+      "letterboxdUrl": "https://letterboxd.com/film/detective-conan-the-phantom-of-baker-street/",
+      "year": "2002",
+      "originalTitle": "名探偵コナン ベイカー街（ストリート）の亡霊",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d46460cdc25a5fa2e29cdc69095b84286eaa5754b0094c50ab102a537f434812._SX342_SY600_.jpg"
+    },
+    {
+      "name": "The Girl Who Leapt Through Time",
+      "letterboxdUrl": "https://letterboxd.com/film/the-girl-who-leapt-through-time/",
+      "year": "2006",
+      "originalTitle": "時をかける少女",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jLdOepQ3pueuZd4BdfYM4S2tYO7.jpg"
+    },
+    {
+      "name": "Inuyasha the Movie 3: Swords of an Honorable Ruler",
+      "letterboxdUrl": "https://letterboxd.com/film/inuyasha-the-movie-3-swords-of-an-honorable-ruler/",
+      "year": "2003",
+      "originalTitle": "映画犬夜叉 天下覇道の剣",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gKFGQBKI1TnZ6foqoFgQruM86Mq.jpg"
+    },
+    {
+      "name": "Dragon Ball Z: Fusion Reborn",
+      "letterboxdUrl": "https://letterboxd.com/film/dragon-ball-z-fusion-reborn/",
+      "year": "1995",
+      "originalTitle": "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/8q9bjSa6QxBEtVqaZCAkVBHBTDO.jpg"
+    },
+    {
+      "name": "Sailor Moon S the Movie: Hearts in Ice",
+      "letterboxdUrl": "https://letterboxd.com/film/sailor-moon-s-the-movie-hearts-in-ice/",
+      "year": "1994",
+      "originalTitle": "劇場版　美少女戦士セーラームーンS 〜かぐや姫の恋人〜",
+      "streamProviders": []
+    },
+    {
+      "name": "Sailor Moon R: The Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/sailor-moon-r-the-movie/",
+      "year": "1993",
+      "originalTitle": "劇場版　美少女戦士セーラームーンＲ",
+      "streamProviders": []
+    },
+    {
+      "name": "Porco Rosso",
+      "letterboxdUrl": "https://letterboxd.com/film/porco-rosso/",
+      "year": "1992",
+      "originalTitle": "紅の豚",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/5Ua30TwqJy8RPsk4q9tspl1HEfE.jpg"
+    },
+    {
+      "name": "Digimon Adventure tri. Part 1: Reunion",
+      "letterboxdUrl": "https://letterboxd.com/film/digimon-adventure-tri-part-1-reunion/",
+      "year": "2015",
+      "originalTitle": "デジモンアドベンチャー tri. 第１章「再会」",
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels aniverse"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53b9a2433844f3bd89ce56e6dfe32b9bbf1820dddd434fc7eb4bc6ee7bd2d87b._SX342_SY600_.jpg"
+    },
+    {
+      "name": "When Marnie Was There",
+      "letterboxdUrl": "https://letterboxd.com/film/when-marnie-was-there/",
+      "year": "2014",
+      "originalTitle": "思い出のマーニー",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/AkugqoHw5vUWBd8xZ02cvURP0J9.jpg"
+    },
+    {
+      "name": "The Boy and the Beast",
+      "letterboxdUrl": "https://letterboxd.com/film/the-boy-and-the-beast/",
+      "year": "2015",
+      "originalTitle": "バケモノの子",
+      "streamProviders": [
+        "Prime Video Channels Arthouse CNMA"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47112848f9a4121c309b62d84744300a27686aab9dbfe50f562f1a29f0da33e4._SX342_SY600_.jpg"
+    },
+    {
+      "name": "The Last: Naruto the Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/the-last-naruto-the-movie/",
+      "year": "2014",
+      "originalTitle": "The Last: Naruto the Movie",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f033539adf0ab6a19eeefe2c18c1a48d5065d8a6b729cd520a366a0fad26462a._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
+      "letterboxdUrl": "https://letterboxd.com/film/puella-magi-madoka-magica-the-movie-part-iii-rebellion/",
+      "year": "2013",
+      "originalTitle": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ceObWLbLyCMHaAJcW4zvN1wmMmG.jpg"
+    },
+    {
+      "name": "Berserk: The Golden Age Arc I - The Egg of the King",
+      "letterboxdUrl": "https://letterboxd.com/film/berserk-the-golden-age-arc-i-the-egg-of-the-king/",
+      "year": "2012",
+      "originalTitle": "ベルセルク 黄金時代篇I 覇王の卵",
+      "streamProviders": [],
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/5/p9526348_v_v8_aa.jpg&out=jpeg"
+    },
+    {
+      "name": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
+      "letterboxdUrl": "https://letterboxd.com/film/puella-magi-madoka-magica-the-movie/",
+      "year": "2012",
+      "originalTitle": "劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/VrYTAlyK3TDa379pk20WpAHKmh.jpg"
+    },
+    {
+      "name": "One Piece: Strong World",
+      "letterboxdUrl": "https://letterboxd.com/film/one-piece-strong-world/",
+      "year": "2009",
+      "originalTitle": "ワンピース フィルム ストロングワールド",
+      "streamProviders": []
+    },
+    {
+      "name": "5 Centimeters per Second",
+      "letterboxdUrl": "https://letterboxd.com/film/5-centimeters-per-second/",
+      "year": "2007",
+      "originalTitle": "秒速5センチメートル",
+      "streamProviders": [
+        "Prime Video Channels Arthouse CNMA"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/51cf0ecbb4524b87b097ce22c9ef5ff6a237edfe75f0c861b17fee2c708bb877._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Evangelion: 1.0 You Are (Not) Alone",
+      "letterboxdUrl": "https://letterboxd.com/film/evangelion-10-you-are-not-alone/",
+      "year": "2007",
+      "originalTitle": "ヱヴァンゲリヲン新劇場版：序",
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cf674af7b87673284d44891d9100cae4afddf4a7b672bc1c1c0a3e3af24a0f2b._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Ponyo",
+      "letterboxdUrl": "https://letterboxd.com/film/ponyo/",
+      "year": "2008",
+      "originalTitle": "崖の上のポニョ",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/wOQh7nZxNC6cEwrm9tP230MoVLz.jpg"
+    },
+    {
+      "name": "Paprika",
+      "letterboxdUrl": "https://letterboxd.com/film/paprika-2006/",
+      "year": "2006",
+      "originalTitle": "パプリカ",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/99137861d9f54350a4115a3c462f44dbf62052a4b8fedccd96bc70212e5709ef._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Comet in Moominland",
+      "letterboxdUrl": "https://letterboxd.com/film/comet-in-moominland/",
+      "year": "1992",
+      "originalTitle": "楽しいムーミン一家 ムーミン谷の彗星",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/dd43OJom9DaD7kEcPvRuSClJrJ5.jpg"
+    },
+    {
+      "name": "Vampire Hunter D: Bloodlust",
+      "letterboxdUrl": "https://letterboxd.com/film/vampire-hunter-d-bloodlust/",
+      "year": "2000",
+      "originalTitle": "吸血鬼ハンターD ブラッドラスト",
+      "streamProviders": [
+        "Prime Video Channels Netzkino Select"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbe9c724ac280ac38bdff55b027fc3c517ba23bad353865934fe5fa4c69de090._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Angel's Egg",
+      "letterboxdUrl": "https://letterboxd.com/film/angels-egg/",
+      "year": "1985",
+      "originalTitle": "天使のたまご",
+      "streamProviders": []
+    },
+    {
+      "name": "Only Yesterday",
+      "letterboxdUrl": "https://letterboxd.com/film/only-yesterday/",
+      "year": "1991",
+      "originalTitle": "おもひでぽろぽろ",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/rHTNGlR5qTRQdo1MtTLfZFSLQze.jpg"
+    },
+    {
+      "name": "Lupin the Third: The Castle of Cagliostro",
+      "letterboxdUrl": "https://letterboxd.com/film/lupin-the-third-the-castle-of-cagliostro/",
+      "year": "1979",
+      "originalTitle": "ルパン三世 カリオストロの城",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d46392d85d7b7bb31090b25919f6d17d443d106c967f866829bcd05148419949._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Night Is Short, Walk on Girl",
+      "letterboxdUrl": "https://letterboxd.com/film/night-is-short-walk-on-girl/",
+      "year": "2017",
+      "originalTitle": "夜は短し歩けよ乙女",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
+    },
+    {
+      "name": "No Game No Life: Zero",
+      "letterboxdUrl": "https://letterboxd.com/film/no-game-no-life-zero/",
+      "year": "2017",
+      "originalTitle": "ノーゲーム・ノーライフ ゼロ",
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f93e3620b31b11420ee7544913e1bf0767e2a654f6e62c286960ce38f88e172._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Kizumonogatari Part 1: Tekketsu",
+      "letterboxdUrl": "https://letterboxd.com/film/kizumonogatari-part-1-tekketsu/",
+      "year": "2016",
+      "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
+    },
+    {
+      "name": "The Garden of Words",
+      "letterboxdUrl": "https://letterboxd.com/film/the-garden-of-words/",
+      "year": "2013",
+      "originalTitle": "言の葉の庭",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/mXUCVq3HMtS4Y9IQ8vmEOPyN0vH.jpg"
+    },
+    {
+      "name": "The Secret World of Arrietty",
+      "letterboxdUrl": "https://letterboxd.com/film/the-secret-world-of-arrietty/",
+      "year": "2010",
+      "originalTitle": "借りぐらしのアリエッティ",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ziPeyZ4yVrBJuvdofq1J7YCDr7U.jpg"
+    },
+    {
+      "name": "Case Closed: Countdown to Heaven",
+      "letterboxdUrl": "https://letterboxd.com/film/case-closed-countdown-to-heaven/",
+      "year": "2001",
+      "originalTitle": "名探偵コナン 天国へのカウントダウン",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41e1830217a1f66ba59acb5a24b2ca1513e17a1b3988a16741f0a55fb291e8f0._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Detective Conan: Captured in Her Eyes",
+      "letterboxdUrl": "https://letterboxd.com/film/detective-conan-captured-in-her-eyes/",
+      "year": "2000",
+      "originalTitle": "名探偵コナン 瞳の中の暗殺者",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b4aebed9494e9aef588e86102bce65804c34f5d9e55d0f3828a12ad243dc44b._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Tekkonkinkreet",
+      "letterboxdUrl": "https://letterboxd.com/film/tekkonkinkreet/",
+      "year": "2006",
+      "originalTitle": "鉄コン筋クリート",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ePFlq56e7MmVDGKtKeOPy1YbKC3.jpg"
+    },
+    {
+      "name": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass",
+      "letterboxdUrl": "https://letterboxd.com/film/inuyasha-the-movie-2-the-castle-beyond-the-looking-glass/",
+      "year": "2002",
+      "originalTitle": "犬夜叉 鏡の中の夢幻城",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
+    },
+    {
+      "name": "Ghost in the Shell 2: Innocence",
+      "letterboxdUrl": "https://letterboxd.com/film/ghost-in-the-shell-2-innocence/",
+      "year": "2004",
+      "originalTitle": "イノセンス",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/pOAHfEtR6mBxQNMz696s0fWQPsg.jpg"
+    },
+    {
+      "name": "Rurouni Kenshin: Requiem for the Ishin Patriots",
+      "letterboxdUrl": "https://letterboxd.com/film/rurouni-kenshin-requiem-for-the-ishin-patriots/",
+      "year": "1997",
+      "originalTitle": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/2ZdsqiaOm1rOUbKa95Zs6laN24O.jpg"
+    },
+    {
+      "name": "Dragon Ball Z: Wrath of the Dragon",
+      "letterboxdUrl": "https://letterboxd.com/film/dragon-ball-z-wrath-of-the-dragon/",
+      "year": "1995",
+      "originalTitle": "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gd3argrGcs6mEHYPmnVHrP11sCG.jpg"
+    },
+    {
+      "name": "Patlabor 2: The Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/patlabor-2-the-movie/",
+      "year": "1993",
+      "originalTitle": "機動警察パトレイバー 2 the Movie",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/5LNUJJaKAaM1Jk3FyphZyTbZyDO.jpg"
+    },
+    {
+      "name": "Memories",
+      "letterboxdUrl": "https://letterboxd.com/film/memories/",
+      "year": "1995",
+      "originalTitle": "Memories",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/wzlB8hz2FKTsPvZdx7dsyIgi1UA.jpg"
+    },
+    {
+      "name": "Sailor Moon SuperS: The Movie: Black Dream Hole",
+      "letterboxdUrl": "https://letterboxd.com/film/sailor-moon-supers-the-movie-black-dream-hole/",
+      "year": "1995",
+      "originalTitle": "劇場版　美少女戦士セーラームーンSuperS　セーラー9戦士集結！ブラック・ドリーム・ホールの奇跡",
+      "streamProviders": []
+    },
+    {
+      "name": "Urusei Yatsura: Beautiful Dreamer",
+      "letterboxdUrl": "https://letterboxd.com/film/urusei-yatsura-beautiful-dreamer/",
+      "year": "1984",
+      "originalTitle": "うる星やつら2 ビューティフル・ドリーマー",
+      "streamProviders": []
+    },
+    {
+      "name": "The Red Turtle",
+      "letterboxdUrl": "https://letterboxd.com/film/the-red-turtle/",
+      "year": "2016",
+      "originalTitle": "La tortue rouge",
+      "streamProviders": [
+        "Prime Video Channels Arthouse CNMA"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc520e571f45dbea1cf05649d767c8c7206b5b85d231d2b3ade52582ad9e273a._SX342_SY600_.jpg"
+    },
+    {
+      "name": "K-ON! The Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/k-on-the-movie/",
+      "year": "2011",
+      "originalTitle": "映画けいおん！",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2b9e48fba8ffc22ae563ecd5c84f1336f6da7ad7b689660d2c66609d4ee4aec._SX342_SY600_.jpg"
+    },
+    {
+      "name": "From Up on Poppy Hill",
+      "letterboxdUrl": "https://letterboxd.com/film/from-up-on-poppy-hill/",
+      "year": "2011",
+      "originalTitle": "コクリコ坂から",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/52OpB0jfcKJLP9svRcgwNMSQFYA.jpg"
+    },
+    {
+      "name": "Bleach the Movie: Hell Verse",
+      "letterboxdUrl": "https://letterboxd.com/film/bleach-the-movie-hell-verse/",
+      "year": "2010",
+      "originalTitle": "劇場版 BLEACH 地獄篇",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/pd7V5iCB19VBPJkihxFXFwSRW2M.jpg"
+    },
+    {
+      "name": "Trigun: Badlands Rumble",
+      "letterboxdUrl": "https://letterboxd.com/film/trigun-badlands-rumble/",
+      "year": "2010",
+      "originalTitle": "トライガン バッドランド ランブル",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/mTfy1ISZbEbFp9wyLUbq265qVoO.jpg"
+    },
+    {
+      "name": "Colorful",
+      "letterboxdUrl": "https://letterboxd.com/film/colorful/",
+      "year": "2010",
+      "originalTitle": "カラフル",
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels aniverse"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1d06b39856d9d013635290d9b49f5fe4eade050c86fd89c355eba54e608a3683._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Gintama: The Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/gintama-the-movie/",
+      "year": "2010",
+      "originalTitle": "銀魂 新訳紅桜篇",
+      "streamProviders": [
+        "Prime Video Channels aniverse"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f037071f849566dfe74000b61b6e240a32be95f39cc4861179369a5a01515553._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Redline",
+      "letterboxdUrl": "https://letterboxd.com/film/redline/",
+      "year": "2009",
+      "originalTitle": "レッドライン",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/AhMd2Sw5yxeV1MnhjRdsolPeirL.jpg"
+    },
+    {
+      "name": "Summer Wars",
+      "letterboxdUrl": "https://letterboxd.com/film/summer-wars/",
+      "year": "2009",
+      "originalTitle": "サマーウォーズ",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gmwGwtmZoVqzAnqbHP8MAJhYmMe.jpg"
+    },
+    {
+      "name": "Detective Conan: The Last Wizard of the Century",
+      "letterboxdUrl": "https://letterboxd.com/film/detective-conan-the-last-wizard-of-the-century/",
+      "year": "1999",
+      "originalTitle": "名探偵コナン 世紀末の魔術師",
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74b6632a4347db5a779a095806cd395fc8b32f2fce97206ebf2fab026b24e582._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
+      "letterboxdUrl": "https://letterboxd.com/film/fullmetal-alchemist-the-movie-conqueror-of-shamballa/",
+      "year": "2005",
+      "originalTitle": "劇場版 鋼の錬金術師 シャンバラを征く者",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/8l4lqbcKe3goZm0OetstBpywYYd.jpg"
+    }
+  ],
+  "streamProviders": [
+    {
+      "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Arthouse CNMA",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Netzkino Select",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Qello Concerts by Stingray",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Stingray All Good Vibes",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels aniverse",
+      "enabled": false
+    }
+  ]
+}
