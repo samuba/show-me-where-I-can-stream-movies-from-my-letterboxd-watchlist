@@ -1,32 +1,31 @@
 <script lang="ts">
-	import { browser } from '$app/environment';
 	import '@picocss/pico/css/pico.min.css';
-	import type { LetterboxdList, StreamProvider } from 'src/app';
+	import type { LetterboxdList, LetterboxdListFile, StreamProvider } from 'src/app';
 	import { onMount } from 'svelte';
 	import letterboxdListsWrongType from '../letterboxdLists.json';
 
-	let letterboxdLists = letterboxdListsWrongType as unknown as LetterboxdList[];
+	let letterboxdListFiles = letterboxdListsWrongType as unknown as LetterboxdListFile[];
+	let selectedListFile: LetterboxdListFile | undefined = letterboxdListFiles[0];
+	let selectedList: LetterboxdList = { name: '', description: '', entries: [], streamProviders: [], url: '' };
 	let streamProviders = [] as StreamProvider[];
+	let loading = true;
 
 	onMount(() => {
-		// build stream providers
-		const tempstreamProviders = new Map<string, StreamProvider>();
-		letterboxdLists.forEach((x) =>
-			x.streamProviders.forEach((p) => tempstreamProviders.set(p.name, p))
-		);
-		streamProviders = [...tempstreamProviders.values()].map((x) => {
-			return { ...x, enabled: readIsProviderEnabled(x.name) };
-		});
+		const storedSelectedListName = localStorage.getItem('selectedList');
+		selectedListFile = letterboxdListFiles.find((x) => x.name === storedSelectedListName);
+		listChanged();
 	});
 
-	const selectedListNameFromLocalstorage = browser
-		? letterboxdLists.find((x) => x.name === localStorage.getItem('selectedList'))
-			? localStorage.getItem('selectedList')
-			: undefined
-		: undefined;
-	let selectedListName = selectedListNameFromLocalstorage ?? letterboxdLists[0]?.name;
-	$: selectedList = letterboxdLists.find((x) => x.name === selectedListName)!;
-	$: selectedStreamProviders = streamProviders.filter((x) => x.enabled);
+	async function listChanged() {
+		loading = true;
+		try {
+			selectedList = await fetch(selectedListFile!.filePath).then((x) => x.json());
+			streamProviders = selectedList.streamProviders.map((x) => ({ ...x, enabled: readIsProviderEnabled(x.name) }));
+			localStorage.setItem('selectedList', selectedListFile!.name);
+		} finally {
+			loading = false;
+		}
+	}
 
 	function saveProviderEnabled(provider: string, enabled: boolean) {
 		localStorage.setItem(`provider: ${provider}`, enabled + '');
@@ -34,10 +33,6 @@
 
 	function readIsProviderEnabled(provider: string) {
 		return localStorage.getItem(`provider: ${provider}`) === 'true' ? true : false;
-	}
-
-	function saveSelectedList(listName: string) {
-		localStorage.setItem('selectedList', listName);
 	}
 </script>
 
@@ -48,82 +43,81 @@
 <div class="container" style="margin-top: 3rem">
 	<h1>Who Streams My Letterboxd List</h1>
 
-	<select
-		id="lists-select"
-		bind:value={selectedListName}
-		on:change={(e) => saveSelectedList(e?.target?.value)}
-	>
-		{#each letterboxdLists as list}
-			<option value={list.name}>{list.name}</option>
-		{/each}
-	</select>
+	{#if loading}
+		<h5 aria-busy="true">Loading {selectedListFile?.name ?? ''}...</h5>
+	{:else}
+		<select id="lists-select" bind:value={selectedListFile} on:change={listChanged}>
+			{#each letterboxdListFiles as list}
+				<option value={list}>{list.name}</option>
+			{/each}
+		</select>
 
-	<details style="margin-top: 2rem">
-		<summary>Stream Providers</summary>
-		<div style="margin-bottom: 3rem">
-			{#each streamProviders as provider}
-				<div style="display: inline-block">
-					<input
-						bind:checked={provider.enabled}
-						on:change={(e) => saveProviderEnabled(provider.name, e?.target?.checked)}
-						type="checkbox"
-						id={provider.name}
+		<details style="margin-top: 2rem">
+			<summary>Stream Providers</summary>
+			<div style="margin-bottom: 3rem">
+				{#each streamProviders as provider}
+					<div style="display: inline-block">
+						<input
+							bind:checked={provider.enabled}
+							on:change={(e) => saveProviderEnabled(provider.name, e?.target?.checked)}
+							type="checkbox"
+							id={provider.name}
+						/>
+						<label
+							for={provider.name}
+							title={provider.name}
+							style="font-size: 14pt; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; width: 16rem"
+						>
+							{provider.name}
+						</label>
+					</div>
+				{/each}
+			</div>
+		</details>
+
+		<div style="margin-top: 3rem; ">
+			{@html selectedList.description}
+			<a href={selectedList.url} target="_blank" rel="noreferrer">
+				<svg
+					xmlns="http://www.w3.org/2000/svg"
+					style="height: 1.1rem; width: 1.1rem;"
+					fill="none"
+					viewBox="0 0 24 24"
+					stroke-width="1.5"
+					stroke="currentColor"
+				>
+					<path
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
 					/>
-					<label
-						for={provider.name}
-						title={provider.name}
-						style="font-size: 14pt; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; width: 16rem"
-					>
-						{provider.name}
-					</label>
-				</div>
+				</svg>
+				Open in Letterboxd: "{selectedList.name}"
+			</a>
+		</div>
+
+		<div style="margin-top: 3rem;">
+			{#each streamProviders.filter((x) => x.enabled) as provider}
+				<section>
+					<h2 style="margin-bottom: 1rem">{provider.name}</h2>
+					<div>
+						{#each selectedList.entries.filter((x) => x.streamProviders.includes(provider.name)) as movie}
+							<div style="display: inline-block; margin-left: 1rem; margin-bottom: 1rem">
+								<a href={movie.letterboxdUrl}>
+									<img
+										src={movie.imageUrl}
+										style="max-height: 15rem; max-width: 9.5rem;"
+										title={movie.name}
+										alt={`${movie.name}`}
+									/>
+								</a>
+							</div>
+						{:else}
+							Nothing found
+						{/each}
+					</div>
+				</section>
 			{/each}
 		</div>
-	</details>
-
-	<div style="margin-top: 3rem; ">
-		{@html selectedList.description}
-		<a href={selectedList.url} target="_blank" rel="noreferrer">
-			<svg
-				xmlns="http://www.w3.org/2000/svg"
-				style="height: 1.1rem; width: 1.1rem;"
-				fill="none"
-				viewBox="0 0 24 24"
-				stroke-width="1.5"
-				stroke="currentColor"
-			>
-				<path
-					stroke-linecap="round"
-					stroke-linejoin="round"
-					d="M13.5 6H5.25A2.25 2.25 0 003 8.25v10.5A2.25 2.25 0 005.25 21h10.5A2.25 2.25 0 0018 18.75V10.5m-10.5 6L21 3m0 0h-5.25M21 3v5.25"
-				/>
-			</svg>
-			Open in Letterboxd: "{selectedList.name}"
-		</a>
-	</div>
-
-	<div style="margin-top: 3rem;">
-		{#each selectedStreamProviders as provider}
-			<section>
-				<h2 style="margin-bottom: 1rem">{provider.name}</h2>
-				<div>
-					{#each selectedList.entries.filter( (x) => x.streamProviders.includes(provider.name) ) as movie}
-						<div style="display: inline-block; margin-left: 1rem; margin-bottom: 1rem">
-							<!-- <h5 x-text="film.name"></h5> -->
-							<a href={movie.letterboxdUrl}>
-								<img
-									src={movie.imageUrl}
-									style="max-height: 15rem; max-width: 9.5rem;"
-									title={movie.name}
-									alt={`${movie.name}`}
-								/>
-							</a>
-						</div>
-					{:else}
-						Nothing found
-					{/each}
-				</div>
-			</section>
-		{/each}
-	</div>
+	{/if}
 </div>

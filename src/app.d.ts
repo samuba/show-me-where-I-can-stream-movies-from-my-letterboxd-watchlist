@@ -26,6 +26,11 @@ export type LetterboxdList = {
 	streamProviders: StreamProvider[];
 };
 
+export type LetterboxdListFile = {
+	name: string;
+	filePath: string;
+};
+
 export type StreamProvider = {
 	name: string;
 	enabled: boolean;

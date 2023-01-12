@@ -1,5 +1,6 @@
 import * as cheerio from 'npm:cheerio@1.0.0-rc.12';
-import type { LetterboxdFilm, LetterboxdList, Film } from './src/app.d.ts';
+import { encode as base64Encode } from 'https://deno.land/std@0.82.0/encoding/base64.ts';
+import type { LetterboxdFilm, LetterboxdList, Film, LetterboxdListFile } from './src/app.d.ts';
 
 console.time('finished after');
 const startTime = new Date();
@@ -14,14 +15,18 @@ const lists = Deno.readTextFileSync('letterboxdUrls.txt')
 
 const infoCache = new Map<string, Film>();
 
-const filledLists = [] as LetterboxdList[];
+const listFiles = [] as LetterboxdListFile[];
+// const filledLists = [] as LetterboxdList[];
 for (const list of lists) {
-	filledLists.push(await createEntry(list.name, list.url));
+	const listFileName = base64Encode(list.name) + '.json';
+	const listObj = await createEntry(list.name, list.url);
+	Deno.writeTextFileSync('static/' + listFileName, JSON.stringify(listObj, null, 2));
+	listFiles.push({ name: list.name, filePath: listFileName });
+	console.log(`file for '${list.name}' is ${await fileSize('static/' + listFileName)}`);
 }
 
-Deno.writeTextFileSync(fileName, JSON.stringify(filledLists, null, 2));
+Deno.writeTextFileSync(fileName, JSON.stringify(listFiles, null, 2));
 console.log('\nfinished after ' + timeTillNow(startTime));
-console.log(`${fileName} is ${((await Deno.stat(fileName)).size / 1024 / 1024).toFixed(2)}mb`);
 
 /// functions
 ///
@@ -118,15 +123,12 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 	}
 	try {
 		// consoleLogSameLine('  info.. \n');
-		const res = await fetchWithTimeout(movie.letterboxdUrl, { timeout: 10 * 1000 }).then((x) =>
-			x.text()
-		);
+		const res = await fetchWithTimeout(movie.letterboxdUrl, { timeout: 10 * 1000 }).then((x) => x.text());
 		const $ = cheerio.load(res);
 		const found = $('#featured-film-header h1').text() ? true : false;
 		if (!found) throw new Error('film not found in letterboxd' + movie.name);
 		const year = $('#featured-film-header .number').text();
-		const originalTitle =
-			$('#featured-film-header em').text().replace('‘', '').replace('’', '') || movie.name;
+		const originalTitle = $('#featured-film-header em').text().replace('‘', '').replace('’', '') || movie.name;
 
 		const filmWithInfo = await getFilmStreamInfo2({ ...movie, year, originalTitle });
 		infoCache.set(movie.letterboxdUrl, filmWithInfo);
@@ -136,10 +138,7 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);
 			return movie;
 		}
-		console.error(
-			'error in getFilmInfo for ' + movie.letterboxdUrl + '. trying again...',
-			error?.message
-		);
+		console.error('error in getFilmInfo for ' + movie.letterboxdUrl + '. trying again...', error?.message);
 		await sleep(1000);
 		return await getFilmInfo(movie, retries++);
 	}
@@ -156,13 +155,10 @@ async function getFilmStreamInfo2(movie: LetterboxdFilm, retries = 0) {
 		if (res.length < 200) throw new Error(res);
 
 		const firstMovie = $('[itemprop="itemListElement"]')
-			.filter((_, el) =>
-				$(el).find('[itemprop="dateCreated"]').attr('content')?.includes(movie.year)
-			)
+			.filter((_, el) => $(el).find('[itemprop="dateCreated"]').attr('content')?.includes(movie.year))
 			.first();
 		const imageUrl = firstMovie.find('.poster img').attr('src');
-		const movieUrl =
-			'https://www.werstreamt.es/' + firstMovie.find('[itemprop="url"]').attr('href');
+		const movieUrl = 'https://www.werstreamt.es/' + firstMovie.find('[itemprop="url"]').attr('href');
 
 		if (!movieUrl) {
 			return { ...movie, streamProviders: [], imageUrl: '' };
@@ -190,10 +186,7 @@ async function getFilmStreamInfo2(movie: LetterboxdFilm, retries = 0) {
 			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);
 			return movie;
 		}
-		console.error(
-			`${time()}` + '  error in getFilmStreamInfo for ' + movie.name + '. trying again...',
-			error?.message
-		);
+		console.error(`${time()}` + '  error in getFilmStreamInfo for ' + movie.name + '. trying again...', error?.message);
 		await sleep(3000);
 		return await getFilmStreamInfo(movie, retries++);
 	}
@@ -203,9 +196,7 @@ async function getFilmStreamInfo(movie: LetterboxdFilm, retries = 0) {
 	consoleLogSameLine(' streamInfo.. ');
 	try {
 		const res = await fetchWithTimeout(
-			`https://www.justwatch.com/de/Suche?q=${encodeURIComponent(
-				movie.originalTitle
-			)}&content_type=movie`,
+			`https://www.justwatch.com/de/Suche?q=${encodeURIComponent(movie.originalTitle)}&content_type=movie`,
 			{
 				timeout: 10 * 1000,
 				headers: {
@@ -240,10 +231,7 @@ async function getFilmStreamInfo(movie: LetterboxdFilm, retries = 0) {
 			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);
 			return movie;
 		}
-		console.error(
-			`${time()}` + '  error in getFilmStreamInfo for ' + movie.name + '. trying again...',
-			error?.message
-		);
+		console.error(`${time()}` + '  error in getFilmStreamInfo for ' + movie.name + '. trying again...', error?.message);
 		await sleep(3000);
 		return await getFilmStreamInfo(movie, retries++);
 	}
@@ -266,6 +254,10 @@ function timeTillNow(date: Date) {
 
 function sleep(ms) {
 	return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function fileSize(path: string) {
+	return `${((await Deno.stat(path)).size / 1024 / 1024).toFixed(2)}mb`;
 }
 
 /**
