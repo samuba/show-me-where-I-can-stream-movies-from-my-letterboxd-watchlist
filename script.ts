@@ -21,6 +21,7 @@ for (const list of lists) {
 
 Deno.writeTextFileSync(fileName, JSON.stringify(filledLists, null, 2));
 console.log('\nfinished after ' + timeTillNow(startTime));
+console.log(`${fileName} is ${((await Deno.stat(fileName)).size / 1024 / 1024).toFixed(2)}mb`);
 
 /// functions
 ///

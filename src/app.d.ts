@@ -23,5 +23,10 @@ export type LetterboxdList = {
 	url: string;
 	description: string;
 	entries: Film[];
-	streamProviders: { name: string; enabled: boolean }[];
+	streamProviders: StreamProvider[];
+};
+
+export type StreamProvider = {
+	name: string;
+	enabled: boolean;
 };

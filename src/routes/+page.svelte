@@ -1,26 +1,23 @@
 <script lang="ts">
 	import { browser } from '$app/environment';
 	import '@picocss/pico/css/pico.min.css';
-	import type { LetterboxdList } from 'src/app';
+	import type { LetterboxdList, StreamProvider } from 'src/app';
+	import { onMount } from 'svelte';
 	import letterboxdListsWrongType from '../letterboxdLists.json';
 
-	let letterboxdLists: LetterboxdList[];
+	let letterboxdLists = letterboxdListsWrongType as unknown as LetterboxdList[];
+	let streamProviders = [] as StreamProvider[];
 
-	if (browser) {
-		// read enabled providers from localstorage
-		letterboxdLists = (letterboxdListsWrongType as unknown as LetterboxdList[]).map((list) => {
-			return {
-				...list,
-				streamProviders: list.streamProviders.map((provider) => {
-					return { ...provider, enabled: readIsProviderEnabled(provider.name) };
-				})
-			};
+	onMount(() => {
+		// build stream providers
+		const tempstreamProviders = new Map<string, StreamProvider>();
+		letterboxdLists.forEach((x) =>
+			x.streamProviders.forEach((p) => tempstreamProviders.set(p.name, p))
+		);
+		streamProviders = [...tempstreamProviders.values()].map((x) => {
+			return { ...x, enabled: readIsProviderEnabled(x.name) };
 		});
-	} else {
-		letterboxdLists = [
-			{ name: 'loading...', entries: [], streamProviders: [], url: '', description: '' }
-		];
-	}
+	});
 
 	const selectedListNameFromLocalstorage = browser
 		? letterboxdLists.find((x) => x.name === localStorage.getItem('selectedList'))
@@ -28,9 +25,8 @@
 			: undefined
 		: undefined;
 	let selectedListName = selectedListNameFromLocalstorage ?? letterboxdLists[0]?.name;
-	console.log(selectedListName);
 	$: selectedList = letterboxdLists.find((x) => x.name === selectedListName)!;
-	$: selectedStreamProviders = selectedList.streamProviders.filter((x) => x.enabled);
+	$: selectedStreamProviders = streamProviders.filter((x) => x.enabled);
 
 	function saveProviderEnabled(provider: string, enabled: boolean) {
 		localStorage.setItem(`provider: ${provider}`, enabled + '');
@@ -65,7 +61,7 @@
 	<details style="margin-top: 2rem">
 		<summary>Stream Providers</summary>
 		<div style="margin-bottom: 3rem">
-			{#each selectedList.streamProviders as provider}
+			{#each streamProviders as provider}
 				<div style="display: inline-block">
 					<input
 						bind:checked={provider.enabled}
@@ -123,6 +119,8 @@
 								/>
 							</a>
 						</div>
+					{:else}
+						Nothing found
 					{/each}
 				</div>
 			</section>
