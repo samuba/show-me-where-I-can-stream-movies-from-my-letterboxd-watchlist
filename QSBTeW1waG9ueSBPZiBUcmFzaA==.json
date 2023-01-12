@@ -4408,8 +4408,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/erotic-diary-of-an-office-lady/",
       "year": "1977",
       "originalTitle": "ＯＬ官能日記　あァ！私の中で",
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/2nWdpHPS8WvktDoPKF7cGfMkF11.jpg"
+      "streamProviders": []
     },
     {
       "name": "Siren",
@@ -4811,8 +4810,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/night-shade/",
       "year": "1996",
       "originalTitle": "Night Shade",
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/faHxYNlQ7RGDtqmaNBpFf0HKozg.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Yum Yum Girls",
@@ -11571,8 +11569,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/626-evolution/",
       "year": "2017",
       "originalTitle": "626 Evolution",
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/89a9bbc9d1421743a0961b219d209d6caaf7dfe459155c4b7ec848ed9f65e0ec._SX342_SY600_.jpg"
     },
     {
       "name": "Ten: The Secret Mission",
@@ -19630,10 +19630,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/pickings/",
       "year": "2018",
       "originalTitle": "Pickings",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/rSf9JzjOobkP3VqDOKpXZnHBLUR.jpg"
+      "streamProviders": []
     },
     {
       "name": "Picture Claire",
@@ -19961,7 +19958,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-madam/",
       "year": "1969",
       "originalTitle": "The Madam",
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/d6aGPwxPYdWlt2GLR461HU2JTe.jpg"
     },
     {
       "name": "New York Wildcats",
@@ -20077,8 +20075,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/pretty-poison-1996/",
       "year": "1996",
       "originalTitle": "Pretty Poison",
-      "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/63745457/s166/Poison-Ivy-II-Jung-und-verfuehrerisch"
+      "streamProviders": []
     },
     {
       "name": "Public Enemies",
@@ -26860,7 +26857,11 @@
       "letterboxdUrl": "https://letterboxd.com/film/girl-girl-scene-the-movie/",
       "year": "2019",
       "originalTitle": "Girl/Girl Scene: The Movie",
-      "streamProviders": []
+      "streamProviders": [
+        "Netflix",
+        "Prime Video Channels MGM"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bcb8ae9f19a95288c57d91518786ba0452939df1d03ebcb186bbd8ed5ee3a75d._SX342_SY600_.jpg"
     },
     {
       "name": "The Girl",
@@ -30623,6 +30624,10 @@
     },
     {
       "name": "Prime Video Channels Love & Passion",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels MGM",
       "enabled": false
     },
     {
