@@ -56,7 +56,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c71b331fdeb96f3acfd30d42d9d55b62c4141a3f6c2ef412dfc5e893c906392f._SX342_SY600_.jpg"
     },
     {
       "name": "Magnetic Rose",
@@ -230,7 +230,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4bf51b47b4730ec7399bee80e791f01ece4f441eb5828927012739269a32006e._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/302059684/s166/Evangelion-2-0-You-Can-Not-Advance"
     },
     {
       "name": "Whisper of the Heart",
@@ -333,7 +333,7 @@
       "year": "1993",
       "originalTitle": "獣兵衛忍風帖",
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_SY600_.jpg"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -366,10 +366,9 @@
       "year": "2018",
       "originalTitle": "君の膵臓をたべたい",
       "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels aniverse"
+        "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/121318222/s166/I-Want-to-Eat-Your-Pancreas"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -377,7 +376,7 @@
       "year": "2016",
       "originalTitle": "傷物語〈Ⅱ熱血篇〉",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/vdMx2VqjZE7IkbirNPTIj526MBi.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/106807724/s166/Kizumonogatari-II-Heisses-Blut"
     },
     {
       "name": "In This Corner of the World",
@@ -385,9 +384,9 @@
       "year": "2016",
       "originalTitle": "この世界の片隅に",
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
     },
     {
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
@@ -452,7 +451,7 @@
       "year": "2003",
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/gKFGQBKI1TnZ6foqoFgQruM86Mq.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176216671/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -711,7 +710,7 @@
       "year": "2002",
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/175988539/s166/Inuyasha"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -868,6 +867,10 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {
