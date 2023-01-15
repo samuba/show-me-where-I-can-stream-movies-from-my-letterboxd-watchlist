@@ -509,10 +509,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/pom-poko/",
       "year": "1994",
       "originalTitle": "平成狸合戦ぽんぽこ",
-      "streamProviders": [
-        "Netflix"
-      ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/tT2E6Txb9GTLGrvRMdd1LwKK0VC.jpg"
+      "streamProviders": []
     },
     {
       "name": "Whisper of the Heart",
@@ -807,7 +804,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/302059684/s166/Evangelion-2-0-You-Can-Not-Advance"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4bf51b47b4730ec7399bee80e791f01ece4f441eb5828927012739269a32006e._SX342_SY600_.jpg"
     },
     {
       "name": "Summer Wars",
@@ -823,10 +820,9 @@
       "year": "2010",
       "originalTitle": "カラフル",
       "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels aniverse"
+        "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1d06b39856d9d013635290d9b49f5fe4eade050c86fd89c355eba54e608a3683._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/11806990/s166/Colorful"
     },
     {
       "name": "Wolf Children",
@@ -900,10 +896,6 @@
     },
     {
       "name": "Prime Video Channels FlimmerkisteTV",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels aniverse",
       "enabled": false
     },
     {

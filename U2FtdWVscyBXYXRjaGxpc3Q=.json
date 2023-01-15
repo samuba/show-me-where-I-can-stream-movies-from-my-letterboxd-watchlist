@@ -4,6 +4,55 @@
   "description": "",
   "entries": [
     {
+      "name": "Aftersun",
+      "letterboxdUrl": "https://letterboxd.com/film/aftersun/",
+      "year": "2022",
+      "originalTitle": "Aftersun",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jeXmhP2zbUkREMRqFOYIwQOk49T.jpg"
+    },
+    {
+      "name": "TÁR",
+      "letterboxdUrl": "https://letterboxd.com/film/tar-2022/",
+      "year": "2022",
+      "originalTitle": "TÁR",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg"
+    },
+    {
+      "name": "RRR",
+      "letterboxdUrl": "https://letterboxd.com/film/rrr/",
+      "year": "2022",
+      "originalTitle": "రౌద్రం రణం రుధిరం",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/d0W61w08KPAxO63uuM0Xspxb27l.jpg"
+    },
+    {
+      "name": "The Unbearable Weight of Massive Talent",
+      "letterboxdUrl": "https://letterboxd.com/film/the-unbearable-weight-of-massive-talent/",
+      "year": "2022",
+      "originalTitle": "The Unbearable Weight of Massive Talent",
+      "streamProviders": []
+    },
+    {
+      "name": "Hobo with a Shotgun",
+      "letterboxdUrl": "https://letterboxd.com/film/hobo-with-a-shotgun/",
+      "year": "2011",
+      "originalTitle": "Hobo with a Shotgun",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/xxMaO7VoN2BnZit79PedVHnTjcO.jpg"
+    },
+    {
+      "name": "Puss in Boots: The Last Wish",
+      "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
+      "year": "2022",
+      "originalTitle": "Puss in Boots: The Last Wish",
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/sV28nTzYbHstclkHBC6U6pz8im7.jpg"
+    },
+    {
       "name": "Flee",
       "letterboxdUrl": "https://letterboxd.com/film/flee-2021/",
       "year": "2021",
@@ -25,7 +74,7 @@
       "year": "2003",
       "originalTitle": "The Room",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/r0pmDAWu2SvMAyPPIm4jzoYGwvB.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg"
     },
     {
       "name": "The Menu",
@@ -51,7 +100,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cc6afcb9c269810b1db721c67659f15b24008d6fcdc395c1cdebfd5d44fdc16b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc484bd4154266a46f7f65bec5e1bbc3d03df9a46b77c739aafd85ee0fe668f7._SX342_SY600_.jpg"
     },
     {
       "name": "Labyrinth of Cinema",
@@ -79,7 +128,7 @@
       "streamProviders": [
         "Paramount+"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "Bones and All",
@@ -111,7 +160,7 @@
       "year": "2022",
       "originalTitle": "Violent Night",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/nhXjUvOvq7rJlvJFCrZMUUJ9Mn0.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/1XSYOP0JjjyMz1irihvWywro82r.jpg"
     },
     {
       "name": "The Rocky Horror Picture Show",
@@ -443,7 +492,7 @@
       "year": "2021",
       "originalTitle": "Free Guy",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "Memories of Murder",
@@ -455,7 +504,7 @@
         "filmfriend",
         "filmingo"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc53df6e314be4ace31bf68406f9ffceef0c283b8e1635ce57149564751ccdd9._SX342_SY600_.jpg"
     },
     {
       "name": "Traffic",
@@ -510,7 +559,7 @@
         "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/049deee9f693770105bf981bf3cb5e96678dc7600411dbac58b6cce4906346df._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b31d51b2c81984d353fbdd34b5a3564f94f9f9f76dbb4b48e7b8abd09956febe._SX342_SY600_.jpg"
     },
     {
       "name": "Minari",
@@ -837,7 +886,7 @@
       "year": "2019",
       "originalTitle": "Guns Akimbo",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "The Producers",
@@ -989,7 +1038,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fff95977209aa49c4083c52db671f4f46a3177b471165d225c0c033efbf34d9a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9b4c3dbbfeceee4ac3d62bf0cf6b6a89c209bfe86c1458af614b95334dcdfb6d._SX342_SY600_.jpg"
     },
     {
       "name": "Rocky",
@@ -1033,7 +1082,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/629dac4190c5d857f93bed9bd3df183f6a31730e060f15ba8006d7acbfe3f491._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e0cb6e2bb66d231c88f0ecf43f3e354458ff7cafb8ca595e1de01afe4f0aee4._SX342_SY600_.jpg"
     },
     {
       "name": "A Place Further Than the Universe",
@@ -1122,7 +1171,7 @@
       "year": "2014",
       "originalTitle": "ピンポン THE ANIMATION",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "Ultimate Teacher",
@@ -1153,7 +1202,7 @@
       "year": "2011",
       "originalTitle": "Nuit blanche",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "Blood Machines",
@@ -1203,7 +1252,7 @@
       "year": "2019",
       "originalTitle": "Toy Story 4",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "Stalker",
@@ -1279,7 +1328,7 @@
         "Amazon Prime Video",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0282778d02409159f2de88ab3535f227afb1b4ff40a4c83e3164d42f10be47d7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9cf9fe90220c6f4c1287df87228ac17bd6120e5f438070b1f7dab92491e89722._SX342_SY600_.jpg"
     },
     {
       "name": "On Body and Soul",
@@ -1315,7 +1364,7 @@
       "year": "2008",
       "originalTitle": "Die Deutschen",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "Warrior",
@@ -1390,7 +1439,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/66256f8b264746927b97db0e1496a91752812bf5d4a372269217c01b17baacb1._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/63aaa7d6760743a569310c1b78cb445ce9a27c72468f17fbaf4b5f57e282cb9e._SX342_SY600_.jpg"
     },
     {
       "name": "The Pinchcliffe Grand Prix",
@@ -1674,7 +1723,7 @@
       "year": "2013",
       "originalTitle": "Utopia",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "Black Cat, White Cat",
@@ -2283,7 +2332,7 @@
       "year": "1990",
       "originalTitle": "Miller's Crossing",
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ea983218db2568ad6eb5138c9b712724b74f7774bb1390853afedb2cca5d14e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4371db8f281beb5e31344e33d21d0718229546875555b3c981e3c12e29ecf92a._SX342_SY600_.jpg"
     },
     {
       "name": "The Triplets of Belleville",
@@ -2331,7 +2380,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b97dc75cac24b70955631e6af47a236e35e6ad4d0343144b8d7a5561697da64e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b764da5a91ecf36ca6254e7e94eb06ce78d0a9d7265a768fa83ccbcc88b8adee._SX342_SY600_.jpg"
     },
     {
       "name": "A Serious Man",
@@ -2440,7 +2489,7 @@
       "year": "2010",
       "originalTitle": "Im Angesicht des Verbrechens",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "Gigantic",
@@ -2455,10 +2504,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/tomorrowland/",
       "year": "2015",
       "originalTitle": "Tomorrowland",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c8c04bf325ed17775b6dbf6337dd9d63d8807f86ad5ce3b9843cfddd5dddbcc._SX342_SY600_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6162600ff28ae1f30c3cdfc2daf96e0e4dc4e8956289f51a26b3d5ce3e191478._SX342_SY600_.jpg"
     },
     {
       "name": "Hardcore Henry",
@@ -2496,7 +2543,7 @@
         "Sky Go\nSky",
         "Prime Video Channels Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b11659e53b59d36694851986ffe7e7a4b26c611ca847d60c4a38327294894d38._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e7303f99f9292557ec7c818002e35e2ea3a3a8a82d378a4b86923c438f2d2f69._SX342_SY600_.jpg"
     },
     {
       "name": "The Misfortunates",
@@ -2547,7 +2594,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f2951f5f509de01c4dac73ef38d10774eecd509a2c2e4a3c2e9d6cc4529fd7f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_SY600_.jpg"
     },
     {
       "name": "The Hacker Wars",
@@ -2658,7 +2705,7 @@
         "Prime Video Channels Arthouse CNMA",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4f533b982d7d00b1d39662f9c96826488dc537e5a667fd69f2337685f30761c4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ed10eb4cd45c3a81ba46f9c80ddb59031bf7492980a8831d92db7ba33229d4ad._SX342_SY600_.jpg"
     },
     {
       "name": "A Pigeon Sat on a Branch Reflecting on Existence",
@@ -2821,10 +2868,9 @@
       "originalTitle": "白日焰火",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d369fb8fe991d898d832f8c9b58cfaeb0ebeafed07eb9b335ca3403ce77ef9b8._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/46801dee412e8ef6bebd263fa9d39bea4d39a9b24b117734b5109dbefee28c0d._SX342_SY600_.jpg"
     },
     {
       "name": "Arsenic and Old Lace",
@@ -3023,7 +3069,9 @@
       "letterboxdUrl": "https://letterboxd.com/film/nothing-bad-can-happen/",
       "year": "2013",
       "originalTitle": "Tore tanzt",
-      "streamProviders": [],
+      "streamProviders": [
+        "alleskino"
+      ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/eX9OkMwZatLF9eUIrvULQ552e3M.jpg"
     },
     {
@@ -3126,7 +3174,7 @@
       "year": "2014",
       "originalTitle": "Art War",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673519783"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "Blue Is the Warmest Color",
@@ -3330,7 +3378,8 @@
       "originalTitle": "Mulholland Drive",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels Paramount+"
+        "Prime Video Channels Paramount+",
+        "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a5cf962d4fbe2f477b894f483c6b176bd2b79919f69413ad9769b1226ce168c1._SX342_SY600_.jpg"
     },
@@ -3351,7 +3400,7 @@
         "Joyn",
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cda9ca3138936ea9cf70ac9c6df406619e115854d341146e8761e587a59ee133._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7cd04e6396d80df04117ebddd62054aae01ba2524352fc340429d200c18ca9c3._SX342_SY600_.jpg"
     },
     {
       "name": "Sneakers",
@@ -3360,18 +3409,6 @@
       "originalTitle": "Sneakers",
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cb721d6aa6fd763c84161bb741c0bd822e5b18f1ed1f0310beca603df3b2c146._SX342_SY600_.jpg"
-    },
-    {
-      "name": "Hannibal",
-      "letterboxdUrl": "https://letterboxd.com/film/hannibal/",
-      "year": "2001",
-      "originalTitle": "Hannibal",
-      "streamProviders": [
-        "Netflix",
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/650c1af2480c08ea1e006b285fac5332aa4036f45cffece93ebff1004112bae0._SX342_SY600_.jpg"
     },
     {
       "name": "Love Exposure",
