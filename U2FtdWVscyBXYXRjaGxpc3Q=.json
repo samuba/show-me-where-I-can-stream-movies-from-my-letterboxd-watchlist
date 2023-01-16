@@ -128,7 +128,7 @@
       "streamProviders": [
         "Paramount+"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Bones and All",
@@ -144,7 +144,7 @@
       "year": "2022",
       "originalTitle": "Triangle of Sadness",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fgy78BLl0gk8OzTWHZyGrSlIEON.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jXHmT914ACC81F1Dy57hsesuoYj.jpg"
     },
     {
       "name": "Shot Caller",
@@ -483,8 +483,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/orange-2016/",
       "year": "2016",
       "originalTitle": "Orange",
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/pElD520j1jgANaPUIm6qkR4ThEY.jpg"
+      "streamProviders": [
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47ef1fce3e17f353e457e32ecffb6b8d1cbaab272bcd3beea3c169858c0d783f._SX342_SY600_.jpg"
     },
     {
       "name": "Free Guy",
@@ -492,7 +494,7 @@
       "year": "2021",
       "originalTitle": "Free Guy",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Memories of Murder",
@@ -682,7 +684,6 @@
       "year": "1974",
       "originalTitle": "The Godfather: Part II",
       "streamProviders": [
-        "Amazon Prime Video",
         "Prime Video Channels Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e66eeebbef6a79c313f2ebd9c3165ea3086e0ea360513e279a8a16c318c88d7._SX342_SY600_.jpg"
@@ -886,7 +887,7 @@
       "year": "2019",
       "originalTitle": "Guns Akimbo",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "The Producers",
@@ -905,16 +906,6 @@
       "originalTitle": "Phantom Thread",
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/753d355d529bc5a92852bc94068175e1bdbadbb2079159fd1140266f81768b4a._SX342_SY600_.jpg"
-    },
-    {
-      "name": "The Exterminating Angel",
-      "letterboxdUrl": "https://letterboxd.com/film/the-exterminating-angel/",
-      "year": "1962",
-      "originalTitle": "El ángel exterminador",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d3e29a4fdee7440c99ef2d1713d53ba802cac70097f325bb4a682a1429995a45._SX342_SY600_.jpg"
     },
     {
       "name": "Shoah",
@@ -1171,7 +1162,7 @@
       "year": "2014",
       "originalTitle": "ピンポン THE ANIMATION",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Ultimate Teacher",
@@ -1202,7 +1193,7 @@
       "year": "2011",
       "originalTitle": "Nuit blanche",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Blood Machines",
@@ -1252,7 +1243,7 @@
       "year": "2019",
       "originalTitle": "Toy Story 4",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Stalker",
@@ -1364,7 +1355,7 @@
       "year": "2008",
       "originalTitle": "Die Deutschen",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Warrior",
@@ -1723,7 +1714,7 @@
       "year": "2013",
       "originalTitle": "Utopia",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Black Cat, White Cat",
@@ -2378,6 +2369,7 @@
       "year": "2001",
       "originalTitle": "The Man Who Wasn't There",
       "streamProviders": [
+        "Prime Video Channels Silverline",
         "Prime Video Channels superfresh"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b97dc75cac24b70955631e6af47a236e35e6ad4d0343144b8d7a5561697da64e._SX342_SY600_.jpg"
@@ -2489,7 +2481,7 @@
       "year": "2010",
       "originalTitle": "Im Angesicht des Verbrechens",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Gigantic",
@@ -2504,8 +2496,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/tomorrowland/",
       "year": "2015",
       "originalTitle": "Tomorrowland",
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6162600ff28ae1f30c3cdfc2daf96e0e4dc4e8956289f51a26b3d5ce3e191478._SX342_SY600_.jpg"
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c8c04bf325ed17775b6dbf6337dd9d63d8807f86ad5ce3b9843cfddd5dddbcc._SX342_SY600_.jpg"
     },
     {
       "name": "Hardcore Henry",
@@ -3173,7 +3167,7 @@
       "year": "2014",
       "originalTitle": "Art War",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Blue Is the Warmest Color",
@@ -3283,17 +3277,6 @@
       "originalTitle": "南京!南京!",
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1c3d677ccf2a1e4a75574236bfbd91c18bd4f30651ad95b5de5e9b6d47a5d02f._SX342_SY600_.jpg"
-    },
-    {
-      "name": "Sightseers",
-      "letterboxdUrl": "https://letterboxd.com/film/sightseers/",
-      "year": "2012",
-      "originalTitle": "Sightseers",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "filmfriend"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/12b44114e4a5b230133481b502ab1c899b3bedc14bd784680466f26698e66011._SX342_SY600_.jpg"
     },
     {
       "name": "The Most Dangerous Game",
@@ -3578,6 +3561,10 @@
     },
     {
       "name": "Prime Video Channels Seven Entertainment",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {

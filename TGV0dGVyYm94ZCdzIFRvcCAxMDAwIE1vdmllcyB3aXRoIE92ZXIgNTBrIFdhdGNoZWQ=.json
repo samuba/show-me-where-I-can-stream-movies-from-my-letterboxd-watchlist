@@ -40,7 +40,6 @@
       "year": "1972",
       "originalTitle": "The Godfather",
       "streamProviders": [
-        "Amazon Prime Video",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -52,7 +51,6 @@
       "year": "1974",
       "originalTitle": "The Godfather: Part II",
       "streamProviders": [
-        "Amazon Prime Video",
         "Prime Video Channels Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e66eeebbef6a79c313f2ebd9c3165ea3086e0ea360513e279a8a16c318c88d7._SX342_SY600_.jpg"
@@ -239,7 +237,7 @@
       "year": "1995",
       "originalTitle": "La Haine",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "The Empire Strikes Back",
@@ -739,7 +737,6 @@
       "year": "2007",
       "originalTitle": "No Country for Old Men",
       "streamProviders": [
-        "Amazon Prime Video",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -1022,7 +1019,7 @@
       "year": "1979",
       "originalTitle": "All That Jazz",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -1088,7 +1085,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "The Grand Budapest Hotel",
@@ -1689,7 +1686,6 @@
       "year": "1998",
       "originalTitle": "Saving Private Ryan",
       "streamProviders": [
-        "Amazon Prime Video",
         "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ee8fd78df3012f8190ff0d15d4b1ad64a060eeb7c9b39861460b7b0723edf9b._SX342_SY600_.jpg"
@@ -2143,9 +2139,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/forrest-gump/",
       "year": "1994",
       "originalTitle": "Forrest Gump",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9eef2c1514c4c3bf4857869dd3f022c278f860df3bedcf90a7e8d5ad51fd69e9._SX342_SY600_.jpg"
     },
     {
@@ -2231,7 +2225,7 @@
       "year": "1967",
       "originalTitle": "PlayTime",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Millennium Actress",
@@ -2255,7 +2249,7 @@
       "year": "1921",
       "originalTitle": "The Kid",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Reservoir Dogs",
@@ -2533,7 +2527,7 @@
       "year": "2022",
       "originalTitle": "The Fabelmans",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/xId9zoiv5WPQOuxqykUDrlpmrUz.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/A7rxp6pZERBRAzCFbXREAzzYFsd.jpg"
     },
     {
       "name": "Song of the Sea",
@@ -3169,7 +3163,7 @@
       "year": "2022",
       "originalTitle": "The Batman",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Die Hard",
@@ -3318,7 +3312,7 @@
       "year": "2017",
       "originalTitle": "In a Heartbeat",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Hunt for the Wilderpeople",
@@ -3893,7 +3887,7 @@
       "year": "2016",
       "originalTitle": "Piper",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Return of the Jedi",
@@ -4047,7 +4041,6 @@
       "year": "2002",
       "originalTitle": "Catch Me If You Can",
       "streamProviders": [
-        "Amazon Prime Video",
         "Netflix"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c19f0f87b3f50ea9ff5f5048c9d7a600b15516ac4b98b7e9a9fafa1faae6a569._SX342_SY600_.jpg"
@@ -4752,7 +4745,7 @@
       "year": "1968",
       "originalTitle": "Night of the Living Dead",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "L.A. Confidential",
@@ -6382,9 +6375,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/pickpocket/",
       "year": "1959",
       "originalTitle": "Pickpocket",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/u6sp3YjUzQzA3k8KJvlku130bqv.jpg"
     },
     {
@@ -6446,7 +6437,7 @@
       "year": "2022",
       "originalTitle": "Triangle of Sadness",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fgy78BLl0gk8OzTWHZyGrSlIEON.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jXHmT914ACC81F1Dy57hsesuoYj.jpg"
     },
     {
       "name": "Repulsion",
@@ -6543,7 +6534,7 @@
       "year": "2017",
       "originalTitle": "Thor: Ragnarok",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Citizenfour",
@@ -6997,7 +6988,7 @@
       "streamProviders": [
         "Netflix",
         "Sky WOW",
-        "Sky Go\nSky",
+        "Sky Go\n Sky",
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
@@ -7576,7 +7567,7 @@
       "year": "2008",
       "originalTitle": "Doubt",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Waking Life",
@@ -7649,6 +7640,7 @@
       "year": "2001",
       "originalTitle": "The Man Who Wasn't There",
       "streamProviders": [
+        "Prime Video Channels Silverline",
         "Prime Video Channels superfresh"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b97dc75cac24b70955631e6af47a236e35e6ad4d0343144b8d7a5561697da64e._SX342_SY600_.jpg"
@@ -7888,7 +7880,6 @@
       "year": "2000",
       "originalTitle": "Cast Away",
       "streamProviders": [
-        "Amazon Prime Video",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -8152,7 +8143,6 @@
       "year": "2004",
       "originalTitle": "Collateral",
       "streamProviders": [
-        "Amazon Prime Video",
         "Netflix",
         "Sky WOW",
         "Sky Go\nSky"
@@ -8634,7 +8624,6 @@
       "year": "2001",
       "originalTitle": "A Beautiful Mind",
       "streamProviders": [
-        "Amazon Prime Video",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -8665,7 +8654,6 @@
       "year": "2015",
       "originalTitle": "The Big Short",
       "streamProviders": [
-        "Amazon Prime Video",
         "Joyn",
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
@@ -9162,7 +9150,6 @@
       "year": "1987",
       "originalTitle": "The Untouchables",
       "streamProviders": [
-        "Amazon Prime Video",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -9498,7 +9485,7 @@
       "year": "2010",
       "originalTitle": "Day & Night",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "The Fighter",
@@ -9701,6 +9688,10 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels Silverline",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Sony Channel",
       "enabled": false
     },
@@ -9726,6 +9717,10 @@
     },
     {
       "name": "Rakuten TV",
+      "enabled": false
+    },
+    {
+      "name": "Sky Go\n Sky",
       "enabled": false
     },
     {

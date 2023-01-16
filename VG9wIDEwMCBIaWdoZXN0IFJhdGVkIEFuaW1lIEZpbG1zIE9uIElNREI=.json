@@ -53,10 +53,9 @@
       "year": "2013",
       "originalTitle": "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
       "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels aniverse"
+        "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/150673631/s166/Gintama-the-Movie-The-Final-Chapter-Be-Forever-Yorozuya"
     },
     {
       "name": "Magnetic Rose",
@@ -385,9 +384,9 @@
       "year": "2016",
       "originalTitle": "この世界の片隅に",
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
     },
     {
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
@@ -644,7 +643,7 @@
       "year": "2017",
       "originalTitle": "夜は短し歩けよ乙女",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
     },
     {
       "name": "No Game No Life: Zero",
@@ -712,7 +711,7 @@
       "year": "2002",
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/180ab54f6d1b9690095b37bd5223e91083b23995eec2610523e7001c44df19ec._SX342_SY600_.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -828,10 +827,8 @@
       "letterboxdUrl": "https://letterboxd.com/film/gintama-the-movie/",
       "year": "2010",
       "originalTitle": "銀魂 新訳紅桜篇",
-      "streamProviders": [
-        "Prime Video Channels aniverse"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f037071f849566dfe74000b61b6e240a32be95f39cc4861179369a5a01515553._SX342_SY600_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/150679095/s166/Gintama-Benizakura-Arc-A-New-Retelling"
     },
     {
       "name": "Redline",
@@ -869,6 +866,10 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {

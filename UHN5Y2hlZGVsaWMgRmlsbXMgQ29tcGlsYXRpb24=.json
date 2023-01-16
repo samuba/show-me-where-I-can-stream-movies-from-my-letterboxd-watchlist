@@ -1404,7 +1404,6 @@
       "year": "2015",
       "originalTitle": "The SpongeBob Movie: Sponge Out of Water",
       "streamProviders": [
-        "Amazon Prime Video",
         "Netflix",
         "Sky WOW",
         "Sky Go\nSky",
@@ -1674,7 +1673,6 @@
       "year": "2007",
       "originalTitle": "Stardust",
       "streamProviders": [
-        "Amazon Prime Video",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cd684e17167710c079ababed4bb7369cc08e49162b5ec588d64c3cba0e49ea7._SX342_SY600_.jpg"
@@ -1906,7 +1904,7 @@
       "year": "2006",
       "originalTitle": "Planet Earth",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Fantastic Fungi",
@@ -2408,7 +2406,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Spellbound",
@@ -2688,6 +2686,7 @@
       "year": "2001",
       "originalTitle": "The Man Who Wasn't There",
       "streamProviders": [
+        "Prime Video Channels Silverline",
         "Prime Video Channels superfresh"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b97dc75cac24b70955631e6af47a236e35e6ad4d0343144b8d7a5561697da64e._SX342_SY600_.jpg"
@@ -2698,7 +2697,6 @@
       "year": "2011",
       "originalTitle": "Rango",
       "streamProviders": [
-        "Amazon Prime Video",
         "Netflix"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e9b02d333c7d32195b08d8948808ce1446310c30ece87c88fc7ad3960dc7299a._SX342_SY600_.jpg"
@@ -2847,9 +2845,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-jacket/",
       "year": "2005",
       "originalTitle": "The Jacket",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/586c111a227ff63ed98236c677f1d6839460101a42fa2663664378881863efcc._SX342_SY600_.jpg"
     },
     {
@@ -2924,7 +2920,7 @@
       "year": "1972",
       "originalTitle": "Pink Flamingos",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/71IwGRZmEds1yuD2xbaExAofoLS.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/10N8SvTQwUqyWgocPam1P18Jgr.jpg"
     },
     {
       "name": "Oldboy",
@@ -3424,8 +3420,7 @@
       "year": "1991",
       "originalTitle": "Prospero's Books",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e4a7180f6143111d4d583cb96ab762c0f3cef45a1f844d1332e4bbf8e5faac38._SX342_SY600_.jpg"
     },
@@ -3713,7 +3708,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1673882884"
     },
     {
       "name": "Multiple Personality Detective Psycho - Kazuhiko Amamiya Returns",
@@ -4046,8 +4041,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/prometheus/",
       "year": "2012",
       "originalTitle": "Prometheus",
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa5bc961226f1f587e22f0827834c6369cece9fe6d09cde5d5499a9a5ce66efd._SX342_SY600_.jpg"
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/df482cc98b705aa6a5da3ef70451f738ae67ea79cfc1a2862b608a26b17f5e4f._SX342_SY600_.jpg"
     },
     {
       "name": "Aliens",
@@ -4823,7 +4820,7 @@
       "year": "1928",
       "originalTitle": "Vormittagsspuk",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Dreams That Money Can Buy",
@@ -5145,7 +5142,7 @@
       "year": "1967",
       "originalTitle": "PlayTime",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Death Powder",
@@ -5590,7 +5587,7 @@
       "year": "1986",
       "originalTitle": "Jimi Plays Monterey",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Orgazmo",
@@ -5898,7 +5895,6 @@
       "year": "2004",
       "originalTitle": "The SpongeBob SquarePants Movie",
       "streamProviders": [
-        "Amazon Prime Video",
         "Netflix",
         "Prime Video Channels Paramount+",
         "Paramount+",
@@ -6734,9 +6730,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/ghost-in-the-shell-2017/",
       "year": "2017",
       "originalTitle": "Ghost in the Shell",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9694a2608715f529a990ca69f9aa7081f1606d2d22f9367ebc67dc485e8c3efb._SX342_SY600_.jpg"
     },
     {
@@ -7606,7 +7600,7 @@
       "year": "2008",
       "originalTitle": "Hells",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "New Kids Turbo",
@@ -7817,7 +7811,7 @@
       "year": "1998",
       "originalTitle": "1001 Nights",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Tangerine",
@@ -8275,7 +8269,6 @@
       "year": "2005",
       "originalTitle": "Æon Flux",
       "streamProviders": [
-        "Amazon Prime Video",
         "Netflix"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8eaec3e28e7aaa425274ad3e60817520dbe873e1ef06734b03e665453c5270c9._SX342_SY600_.jpg"
@@ -8418,8 +8411,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/tetsuo-ii-body-hammer/",
       "year": "1992",
       "originalTitle": "鉄男II BODY HAMMER",
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/3712meFiMKaS7h7O1SM5ajxL35S.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Hypnotist",
@@ -8538,7 +8530,7 @@
       "year": "2017",
       "originalTitle": "夜は短し歩けよ乙女",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
     },
     {
       "name": "The Boxer's Omen",
@@ -9096,6 +9088,10 @@
     },
     {
       "name": "Prime Video Channels Shudder",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {

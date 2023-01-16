@@ -256,7 +256,7 @@
       "year": "1972",
       "originalTitle": "Pink Flamingos",
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/71IwGRZmEds1yuD2xbaExAofoLS.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/10N8SvTQwUqyWgocPam1P18Jgr.jpg"
     },
     {
       "name": "Multiple Maniacs",
@@ -319,7 +319,7 @@
       "year": "2011",
       "originalTitle": "The Taint",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "The Funhouse",
@@ -696,7 +696,7 @@
       "year": "1979",
       "originalTitle": "Suor Omicidi",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Women in Cages",
@@ -1229,8 +1229,7 @@
       "year": "2016",
       "originalTitle": "The Greasy Strangler",
       "streamProviders": [
-        "Prime Video Channels Bloody Movies",
-        "Prime Video Channels Silverline"
+        "Prime Video Channels Bloody Movies"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69708240b16a976ec3ea9bf1daa6ed2bc65062f50f562a4b88cdfbf38119721d._SX342_SY600_.jpg"
     },
@@ -1392,7 +1391,7 @@
       "year": "2011",
       "originalTitle": "Father's Day",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Pervert!",
@@ -1400,7 +1399,7 @@
       "year": "2005",
       "originalTitle": "Pervert!",
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Home Sick",
@@ -1963,10 +1962,6 @@
     },
     {
       "name": "Prime Video Channels Seven Entertainment",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {
