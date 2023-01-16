@@ -509,7 +509,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/pom-poko/",
       "year": "1994",
       "originalTitle": "平成狸合戦ぽんぽこ",
-      "streamProviders": []
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/tT2E6Txb9GTLGrvRMdd1LwKK0VC.jpg"
     },
     {
       "name": "Whisper of the Heart",
@@ -820,9 +823,10 @@
       "year": "2010",
       "originalTitle": "カラフル",
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/11806990/s166/Colorful"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1d06b39856d9d013635290d9b49f5fe4eade050c86fd89c355eba54e608a3683._SX342_SY600_.jpg"
     },
     {
       "name": "Wolf Children",
@@ -864,18 +868,14 @@
       "year": "2016",
       "originalTitle": "この世界の片隅に",
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
     }
   ],
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {
@@ -896,6 +896,10 @@
     },
     {
       "name": "Prime Video Channels FlimmerkisteTV",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels aniverse",
       "enabled": false
     },
     {

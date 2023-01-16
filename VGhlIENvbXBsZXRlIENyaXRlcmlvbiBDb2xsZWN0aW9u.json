@@ -187,7 +187,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bc52b04c1d97babbd07842b64378fb586bb640666d1be354ad82a1016c78994e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d1b80243ec33ea56bee74ea4356dc5f84bb9e315397b7a44f575c56eced3e955._SX342_SY600_.jpg"
     },
     {
       "name": "Malcolm X",
@@ -691,7 +691,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d4c9b7a22f32e2df4d18e4926541ec4ff42e457d9e091a9c06466afc209d42d0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/566f84583e7ebf0d78342bf1e11d00a63d4a62b1138e202ed809d4e2ee1f6a5a._SX342_SY600_.jpg"
     },
     {
       "name": "Citizen Kane",
@@ -1028,7 +1028,7 @@
         "filmfriend",
         "filmingo"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc53df6e314be4ace31bf68406f9ffceef0c283b8e1635ce57149564751ccdd9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
     },
     {
       "name": "History Is Made at Night",
@@ -1378,7 +1378,7 @@
         "Prime Video Channels Film Total",
         "Prime Video Channels FILMLEGENDEN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1b5254fb33cf01e87a6f24cf6261531db87172a2f64e67543d7d1916b2396d72._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b01f89a84b511d3d61316a9e71e3f23ab57191fe739538d2909853a8d450bdc3._SX342_SY600_.jpg"
     },
     {
       "name": "The Big Boss",
@@ -2048,7 +2048,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9b4c3dbbfeceee4ac3d62bf0cf6b6a89c209bfe86c1458af614b95334dcdfb6d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fff95977209aa49c4083c52db671f4f46a3177b471165d225c0c033efbf34d9a._SX342_SY600_.jpg"
     },
     {
       "name": "The Heiress",
@@ -3056,7 +3056,6 @@
       "originalTitle": "Personal Shopper",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "Prime Video Channels MUBI",
         "PantaRay",
         "alleskino",
         "filmfriend"
@@ -3249,7 +3248,8 @@
       "year": "1989",
       "originalTitle": "Месть",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f8d66f8beffb95b85533325d4af6555b5a1a5cff9a283e0c2fb9d82159ca7e7._SX342_SY600_.jpg"
     },
@@ -3376,7 +3376,7 @@
         "Amazon Prime Video",
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/decd1332ab25271d0b1dba8541a17583645a457f07a91a68eda95bf6320594b0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b6b6eeaeedcc286a096c2f68c7768aac47a51ceb95a8b35471a6f3ea47eddcb1._SX342_SY600_.jpg"
     },
     {
       "name": "Mildred Pierce",
@@ -3741,7 +3741,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e374680fd3138b2220c4410ee9e26033e055941f6791304d9ecfe998ceff8ea._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2993206e4bf6f98f7e8129f6563e540a0705147444931f7e004bb974029673dc._SX342_SY600_.jpg"
     },
     {
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -4597,7 +4597,9 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-shooting/",
       "year": "1966",
       "originalTitle": "The Shooting",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/xLIdZ66FYcsnz1LCMBoZ545iZYu.jpg"
     },
     {
@@ -4734,7 +4736,7 @@
       "streamProviders": [
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ff7feb05b7d1de52dbabe793159ab82f932dc298919546162d70b93bcb9e1653._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_SY600_.jpg"
     },
     {
       "name": "The Umbrellas of Cherbourg",
@@ -4848,8 +4850,10 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-freshman/",
       "year": "1925",
       "originalTitle": "The Freshman",
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/3531lJNSMhrpcNWXrDIYYoYH6Rp.jpg"
+      "streamProviders": [
+        "Joyn"
+      ],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
     },
     {
       "name": "The Great Beauty",
@@ -4880,7 +4884,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a19ca2dcfed4be11ec3ad58c11dc952052acd4ee81f278b41ada8f9992907111._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dd64d19e0984e03cabdde283bafe18c896d441973509218c16b496614c46c074._SX342_SY600_.jpg"
     },
     {
       "name": "A Brief History of Time",
@@ -5023,7 +5027,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673628277"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/oOcWg9SNOWglUtBtB9EeScXO3zt.jpg"
     },
     {
       "name": "Nashville",
@@ -5243,7 +5247,7 @@
       "year": "1962",
       "originalTitle": "座頭市物語",
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/18af93e4d793cf562740b99d57e2cf5852063749e034dbba936ffd74ec2bd65e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/37e40d3e38e6e6b28fceeadb257f80d7a5cd4654bad8642e808bcbaae43e1821._SX342_SY600_.jpg"
     },
     {
       "name": "La Notte",
@@ -5536,7 +5540,7 @@
       "year": "1954",
       "originalTitle": "On the Waterfront",
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ea9333d85d25380d80033ec1e3360481783cdf7da5c91bd13e191271ae3eb007._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/616200d8cc59fa9e506c114e7c1f85c8cf810eeedc68112923a33776ac608994._SX342_SY600_.jpg"
     },
     {
       "name": "The Kid with a Bike",
@@ -5751,7 +5755,7 @@
         "Sooner",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/66988c75225aed6378c2c0f38056be21efed445a81e0f2c3fb7e7e31d6d3c598._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ca2656debe4934fe3a9b92bd028ae1884e0dad7243401deed6a892a300c1d5f._SX342_SY600_.jpg"
     },
     {
       "name": "Gray's Anatomy",
@@ -6846,8 +6850,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/visions-in-meditation-1/",
       "year": "1989",
       "originalTitle": "Visions in Meditation #1",
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/aZ2j0a5MbgWzroceupPR5sWFpt.jpg"
+      "streamProviders": []
     },
     {
       "name": "Arabic Numeral Series 12",
@@ -6957,7 +6960,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels Wild West"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/803c36aee114987fd7080fda370051d7da6fcdfef867a50a6f2cdb04fea831b2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ecc4ba8644452e42801ff8d20380b2324701f4764d84b24bec22d99b5fd1269._SX342_SY600_.jpg"
     },
     {
       "name": "The Fugitive Kind",
@@ -7059,7 +7062,7 @@
       "year": "2008",
       "originalTitle": "Revanche",
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/836515738236f2177b17adad9f765adae7709369f0ea97925aa3124f12f44ba9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/98502f3510f59a03978e6ac4abc379a367193d6036b649fee50fec4a9fd2ac87._SX342_SY600_.jpg"
     },
     {
       "name": "Paris, Texas",
@@ -10737,7 +10740,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/06d3a498f2fa34903199542fb3208a15093911f4d3a8a4e556e28b59cadbd3f3._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d022aa25867ab80968ecaa8085230fdc7a6d314400bb44c4867f93c5eb27c5db._SX342_SY600_.jpg"
     },
     {
       "name": "My Man Godfrey",
@@ -11495,7 +11498,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/edabc1a0fe451107ba0d74b2f3a36684a8f23ad3cf61e6610141d140d98102ce._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/65a754c3900d371b1ff96b99d5b36d5492b84bdb81ffc5ff45f1d6a10f17bc47._SX342_SY600_.jpg"
     },
     {
       "name": "Great Expectations",
@@ -11601,7 +11604,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4cd5d1c3802a49fa360d6ca2b2ae9dbe076955c22daa3ac674e06940c0b88d38.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c29444c4b0bafad334f6ebe181c61ff28f9b0efabe9986a135db3f77661a69ca._SX342_SY600_.jpg"
     },
     {
       "name": "Shock Corridor",
@@ -12368,7 +12371,6 @@
         "RTL+",
         "Prime Video Channels GEO Television",
         "Prime Video Channels Geo wild + television",
-        "Prime Video Channels MUBI",
         "PantaRay",
         "Sooner"
       ],
