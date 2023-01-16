@@ -129,8 +129,9 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 		if (!found) throw new Error('film not found in letterboxd' + movie.name);
 		const year = $('#featured-film-header .number').text();
 		const originalTitle = $('#featured-film-header em').text().replace('‘', '').replace('’', '') || movie.name;
+		const rating = Number(Number($('[name="twitter:data2"]').attr('content')?.split(' ')?.[0] || '0').toFixed(1));
 
-		const filmWithInfo = await getFilmStreamInfo2({ ...movie, year, originalTitle });
+		const filmWithInfo = await getFilmStreamInfo2({ ...movie, year, originalTitle, rating });
 		infoCache.set(movie.letterboxdUrl, filmWithInfo);
 		return filmWithInfo;
 	} catch (error) {
@@ -258,23 +259,6 @@ function sleep(ms) {
 
 async function fileSize(path: string) {
 	return `${((await Deno.stat(path)).size / 1024 / 1024).toFixed(2)}mb`;
-}
-
-/**
- * A number, or a string containing a number.
- * @typedef {(<T = any>() => Promise<T>)} Task
- */
-
-/**
- *
- * @param {Array<Task>} tasks
- */
-export async function* batchTasks(tasks, limit, taskCallback = (r) => r) {
-	for (let i = 0; i < tasks.length; i = i + limit) {
-		const batch = tasks.slice(i, i + limit);
-		const result = await Promise.all(batch.map((task) => task().then((r) => taskCallback(r))));
-		yield result;
-	}
 }
 
 async function fetchWithTimeout(resource: string, options = {}) {
