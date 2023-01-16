@@ -8,6 +8,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/come-and-see/",
       "year": "1985",
       "originalTitle": "Иди и смотри",
+      "rating": 4.6,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/6QTr0ljSaBVYN4T865QtQDzpdbQ.jpg"
     },
@@ -16,6 +17,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/parasite-2019/",
       "year": "2019",
       "originalTitle": "기생충",
+      "rating": 4.6,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/073863df40de7c1fae9fb109f14d81c7aea24018f444c46c080adeb08fac1a52._SX342_SY600_.jpg"
     },
@@ -24,6 +26,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/harakiri/",
       "year": "1962",
       "originalTitle": "切腹",
+      "rating": 4.5,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/nUNORM3gyVdgSq28MDOToxPhbMs.jpg"
     },
@@ -32,6 +35,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/a-dogs-will/",
       "year": "2000",
       "originalTitle": "O Auto da Compadecida",
+      "rating": 4.5,
       "streamProviders": []
     },
     {
@@ -39,6 +43,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-godfather/",
       "year": "1972",
       "originalTitle": "The Godfather",
+      "rating": 4.5,
       "streamProviders": [
         "Prime Video Channels Paramount+",
         "Paramount+"
@@ -50,6 +55,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-godfather-part-ii/",
       "year": "1974",
       "originalTitle": "The Godfather: Part II",
+      "rating": 4.5,
       "streamProviders": [
         "Prime Video Channels Paramount+"
       ],
@@ -60,6 +66,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-human-condition-iii-a-soldiers-prayer/",
       "year": "1961",
       "originalTitle": "人間の條件　完結篇",
+      "rating": 4.5,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/gkRDYYEStn8Lb0MTMxVyl5bNvTP.jpg"
     },
@@ -68,6 +75,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/12-angry-men/",
       "year": "1957",
       "originalTitle": "12 Angry Men",
+      "rating": 4.5,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84149f40208c088ece1647d1dc75a41e7fc62c5d57ff8606c0687d394b9f03af._SX342_SY600_.jpg"
     },
@@ -76,6 +84,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/seven-samurai/",
       "year": "1954",
       "originalTitle": "七人の侍",
+      "rating": 4.5,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/zhPyobDDr7qT4kQXXDokNINnh9E.jpg"
     },
@@ -84,6 +93,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-shawshank-redemption/",
       "year": "1994",
       "originalTitle": "The Shawshank Redemption",
+      "rating": 4.5,
       "streamProviders": [
         "Netflix"
       ],
@@ -94,6 +104,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/spirited-away/",
       "year": "2001",
       "originalTitle": "千と千尋の神隠し",
+      "rating": 4.5,
       "streamProviders": [
         "Netflix"
       ],
@@ -104,6 +115,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/high-and-low/",
       "year": "1963",
       "originalTitle": "天国と地獄",
+      "rating": 4.5,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/cy8N6z9dU9ezamrleoAnRMmmQuy.jpg"
     },
@@ -112,6 +124,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/central-station/",
       "year": "1998",
       "originalTitle": "Central do Brasil",
+      "rating": 4.5,
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA"
       ],
@@ -122,6 +135,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-dark-knight/",
       "year": "2008",
       "originalTitle": "The Dark Knight",
+      "rating": 4.5,
       "streamProviders": [
         "Netflix",
         "Sky WOW",
@@ -134,6 +148,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/everything-everywhere-all-at-once/",
       "year": "2022",
       "originalTitle": "Everything Everywhere All at Once",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0c69a960f7962daac1bfe7e1564911a0033506ed877b029592c0093de10a4400._SX342_SY600_.jpg"
     },
@@ -142,6 +157,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/spider-man-into-the-spider-verse/",
       "year": "2018",
       "originalTitle": "Spider-Man: Into the Spider-Verse",
+      "rating": 4.4,
       "streamProviders": [
         "Disney+",
         "Netflix"
@@ -153,6 +169,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/yi-yi/",
       "year": "2000",
       "originalTitle": "一一",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/7MoGJEkaVFEtcgc3HiB6VCrkAIW.jpg"
     },
@@ -161,6 +178,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/a-brighter-summer-day/",
       "year": "1991",
       "originalTitle": "牯嶺街少年殺人事件",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/o3CAuPyhfSvNpaZUsmHkss2mn0p.jpg"
     },
@@ -169,6 +187,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/city-of-god/",
       "year": "2002",
       "originalTitle": "Cidade de Deus",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/ywbOvbl24H5pH4TzhS6HbfKSr2H.jpg"
     },
@@ -177,6 +196,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/goodfellas/",
       "year": "1990",
       "originalTitle": "GoodFellas",
+      "rating": 4.4,
       "streamProviders": [
         "Netflix"
       ],
@@ -187,6 +207,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/schindlers-list/",
       "year": "1993",
       "originalTitle": "Schindler's List",
+      "rating": 4.4,
       "streamProviders": [
         "Amazon Prime Video",
         "Netflix"
@@ -198,6 +219,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/neon-genesis-evangelion-the-end-of-evangelion/",
       "year": "1997",
       "originalTitle": "新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION",
+      "rating": 4.4,
       "streamProviders": [
         "Netflix"
       ],
@@ -208,6 +230,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-human-condition-i-no-greater-love/",
       "year": "1959",
       "originalTitle": "人間の條件　第１部純愛篇／第２部激怒篇",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/qy8ziqjAqtZ1HWKvtKHeuLQBFvK.jpg"
     },
@@ -216,6 +239,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/",
       "year": "2003",
       "originalTitle": "The Lord of the Rings: The Return of the King",
+      "rating": 4.4,
       "streamProviders": [
         "Amazon Prime Video"
       ],
@@ -226,6 +250,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/",
       "year": "2019",
       "originalTitle": "Portrait de la jeune fille en feu",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41ca5022ce1dec796391347b315f5e152e41088a111983e68d91d4a923e11ac3._SX342_SY600_.jpg"
     },
@@ -234,6 +259,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/ikiru/",
       "year": "1952",
       "originalTitle": "生きる",
+      "rating": 4.4,
       "streamProviders": [
         "filmingo"
       ],
@@ -244,6 +270,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-good-the-bad-and-the-ugly/",
       "year": "1966",
       "originalTitle": "Il buono, il brutto, il cattivo",
+      "rating": 4.4,
       "streamProviders": [
         "Prime Video Channels MGM"
       ],
@@ -254,6 +281,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/whiplash-2014/",
       "year": "2014",
       "originalTitle": "Whiplash",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1bb9e01957cef390671a9a0a6f33c07514f821584a83c7d94875f6279e32ecfa._SX342_SY600_.jpg"
     },
@@ -262,6 +290,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/la-haine/",
       "year": "1995",
       "originalTitle": "La Haine",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
@@ -270,6 +299,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-empire-strikes-back/",
       "year": "1980",
       "originalTitle": "The Empire Strikes Back",
+      "rating": 4.4,
       "streamProviders": [
         "Disney+"
       ],
@@ -280,6 +310,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/there-will-be-blood/",
       "year": "2007",
       "originalTitle": "There Will Be Blood",
+      "rating": 4.4,
       "streamProviders": [
         "Prime Video Channels Paramount+"
       ],
@@ -290,6 +321,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/stalker/",
       "year": "1979",
       "originalTitle": "Сталкер",
+      "rating": 4.4,
       "streamProviders": [
         "filmingo"
       ],
@@ -300,6 +332,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/perfect-blue/",
       "year": "1997",
       "originalTitle": "パーフェクトブルー",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/79vujbsWEbX4dzffBV541QXN6sf.jpg"
     },
@@ -308,6 +341,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/grave-of-the-fireflies/",
       "year": "1988",
       "originalTitle": "火垂るの墓",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/76f6b42c4d82e32bd2446d885ab35b6d377fe1177c055a909ac22142cef64f27._SX342_SY600_.jpg"
     },
@@ -316,6 +350,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-handmaiden/",
       "year": "2016",
       "originalTitle": "아가씨",
+      "rating": 4.4,
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
@@ -326,6 +361,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/ran/",
       "year": "1985",
       "originalTitle": "乱",
+      "rating": 4.4,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -336,6 +372,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/in-the-mood-for-love/",
       "year": "2000",
       "originalTitle": "花樣年華",
+      "rating": 4.4,
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
@@ -346,6 +383,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/cinema-paradiso/",
       "year": "1988",
       "originalTitle": "Nuovo Cinema Paradiso",
+      "rating": 4.4,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/pVJAStFPfdLD25DEhv410PZumOM.jpg"
     },
@@ -354,6 +392,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/persona/",
       "year": "1966",
       "originalTitle": "Persona",
+      "rating": 4.4,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -364,6 +403,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/sunset-boulevard/",
       "year": "1950",
       "originalTitle": "Sunset Boulevard",
+      "rating": 4.4,
       "streamProviders": [
         "Prime Video Channels Paramount+",
         "Paramount+"
@@ -375,6 +415,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/apocalypse-now/",
       "year": "1979",
       "originalTitle": "Apocalypse Now",
+      "rating": 4.4,
       "streamProviders": [
         "Sky WOW",
         "Sky Go\nSky",
@@ -387,6 +428,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-passion-of-joan-of-arc/",
       "year": "1928",
       "originalTitle": "La passion de Jeanne d'Arc",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -397,6 +439,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/woman-in-the-dunes/",
       "year": "1964",
       "originalTitle": "砂の女",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/vrYxPx6T0TwGGbeGaymYom6zxB.jpg"
     },
@@ -405,6 +448,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/andrei-rublev/",
       "year": "1966",
       "originalTitle": "Андрей Рублёв",
+      "rating": 4.3,
       "streamProviders": [
         "filmingo"
       ],
@@ -415,6 +459,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-human-condition-ii-road-to-eternity/",
       "year": "1959",
       "originalTitle": "人間の條件　第３部望郷篇／第４部戦雲篇",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/t7knOLmL6r5bMifKMvgYJQ7MQel.jpg"
     },
@@ -423,6 +468,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/tokyo-story/",
       "year": "1953",
       "originalTitle": "東京物語",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/GVYiMOWITLMnxg5jeGmKd7uzWR.jpg"
     },
@@ -431,6 +477,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/autumn-sonata/",
       "year": "1978",
       "originalTitle": "Höstsonaten",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -441,6 +488,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/paths-of-glory/",
       "year": "1957",
       "originalTitle": "Paths of Glory",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a4f8afd8783381e85381a305c0de1c258967622f2fa9e060f2a16b102ed03b7d._SX342_SY600_.jpg"
     },
@@ -449,6 +497,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/paris-texas/",
       "year": "1984",
       "originalTitle": "Paris, Texas",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -459,6 +508,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/princess-mononoke/",
       "year": "1997",
       "originalTitle": "もののけ姫",
+      "rating": 4.3,
       "streamProviders": [
         "Netflix"
       ],
@@ -469,6 +519,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/satantango/",
       "year": "1994",
       "originalTitle": "Sátántangó",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/cOrtWdUflqXL9BqoQNjv9WwQiPs.jpg"
     },
@@ -477,6 +528,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/mishima-a-life-in-four-chapters/",
       "year": "1985",
       "originalTitle": "Mishima: A Life in Four Chapters",
+      "rating": 4.3,
       "streamProviders": [
         "filmingo"
       ],
@@ -487,6 +539,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/do-the-right-thing/",
       "year": "1989",
       "originalTitle": "Do the Right Thing",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/651b997dc68ea494858effff8a8c9082ba8f999879be1988d4811cbac46808c3._SX342_SY600_.jpg"
     },
@@ -495,6 +548,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/before-sunrise/",
       "year": "1995",
       "originalTitle": "Before Sunrise",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f3a47dcacdf45ae749b1f5533b4e7197d3b2353112f0cdadeaabd4a5158b20c4._SX342_SY600_.jpg"
     },
@@ -503,6 +557,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
       "year": "2001",
       "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+      "rating": 4.3,
       "streamProviders": [
         "Amazon Prime Video"
       ],
@@ -513,6 +568,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/",
       "year": "2002",
       "originalTitle": "The Lord of the Rings: The Two Towers",
+      "rating": 4.3,
       "streamProviders": [
         "Amazon Prime Video"
       ],
@@ -523,6 +579,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/apur-sansar/",
       "year": "1959",
       "originalTitle": "অপুর সংসার",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/2nCvHtGyitnJpOKkJre9647qgB0.jpg"
     },
@@ -531,6 +588,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-thing/",
       "year": "1982",
       "originalTitle": "The Thing",
+      "rating": 4.3,
       "streamProviders": []
     },
     {
@@ -538,6 +596,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-apartment/",
       "year": "1960",
       "originalTitle": "The Apartment",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d3ef0a6118cd624166c1196524c78adf562d37b67cbf14227fcabb919e82f1b2._SX342_SY600_.jpg"
     },
@@ -546,6 +605,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/howls-moving-castle/",
       "year": "2004",
       "originalTitle": "ハウルの動く城",
+      "rating": 4.3,
       "streamProviders": [
         "Netflix"
       ],
@@ -556,6 +616,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/eternity-and-a-day/",
       "year": "1998",
       "originalTitle": "Μια αιωνιότητα και μια μέρα",
+      "rating": 4.3,
       "streamProviders": [
         "filmingo"
       ],
@@ -566,6 +627,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/macario/",
       "year": "1960",
       "originalTitle": "Macario",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/5bly5gyng1ylsPmxfei91OGFkHC.jpg"
     },
@@ -574,6 +636,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/oldboy/",
       "year": "2003",
       "originalTitle": "올드보이",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Mubi"
@@ -585,6 +648,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/rear-window/",
       "year": "1954",
       "originalTitle": "Rear Window",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/89209e39cfeacbc32a268754fedc6e5a93539d32c5346e0f4e5e0fa989ee26a1._SX342_SY600_.jpg"
     },
@@ -593,6 +657,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/le-trou/",
       "year": "1960",
       "originalTitle": "Le Trou",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -603,6 +668,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/fanny-and-alexander/",
       "year": "1982",
       "originalTitle": "Fanny och Alexander",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a9282c9d618343e821509585d912fa590909c4d753c6c4586c538dcafaa030cd._SX342_SY600_.jpg"
     },
@@ -611,6 +677,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-silence-of-the-lambs/",
       "year": "1991",
       "originalTitle": "The Silence of the Lambs",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels MGM"
       ],
@@ -621,6 +688,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-cranes-are-flying/",
       "year": "1957",
       "originalTitle": "Летят журавли",
+      "rating": 4.3,
       "streamProviders": [
         "filmingo"
       ],
@@ -631,6 +699,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/its-such-a-beautiful-day/",
       "year": "2012",
       "originalTitle": "It's Such a Beautiful Day",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/rag52VqhbkuXsTio4dmCBBNYgIW.jpg"
     },
@@ -639,6 +708,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/before-sunset/",
       "year": "2004",
       "originalTitle": "Before Sunset",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a34b4a223be118c6451964a197e39ce0d23c80e9b5c678c164da2ef478cf73f8._SX342_SY600_.jpg"
     },
@@ -647,6 +717,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/a-woman-under-the-influence/",
       "year": "1974",
       "originalTitle": "A Woman Under the Influence",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/7OGMoXWXfCdLTmEAtFtF9fjgAth.jpg"
     },
@@ -655,6 +726,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/memories-of-murder/",
       "year": "2003",
       "originalTitle": "살인의 추억",
+      "rating": 4.3,
       "streamProviders": [
         "Amazon Prime Video",
         "filmfriend",
@@ -667,6 +739,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/its-a-wonderful-life/",
       "year": "1946",
       "originalTitle": "It's a Wonderful Life",
+      "rating": 4.3,
       "streamProviders": [
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
@@ -680,6 +753,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/scenes-from-a-marriage/",
       "year": "1974",
       "originalTitle": "Scener ur ett äktenskap",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -690,6 +764,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/i-am-cuba/",
       "year": "1964",
       "originalTitle": "Soy Cuba",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/p9miBtbnwLCsPNeACHhAZgqEknq.jpg"
     },
@@ -698,6 +773,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-red-shoes/",
       "year": "1948",
       "originalTitle": "The Red Shoes",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/pnr9AkYe5GaOGy2uSGr3IG153Q8.jpg"
     },
@@ -706,6 +782,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/fight-club/",
       "year": "1999",
       "originalTitle": "Fight Club",
+      "rating": 4.3,
       "streamProviders": [
         "Disney+"
       ],
@@ -716,6 +793,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/sansho-the-bailiff/",
       "year": "1954",
       "originalTitle": "山椒大夫",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/9hlrq9KPSJZnknLo6qhpYtv5BxY.jpg"
     },
@@ -724,6 +802,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/psycho/",
       "year": "1960",
       "originalTitle": "Psycho",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a8c9fd7beecf8646cfa3e9e1d8e2a92bc86b8622176767f8a7207357da525aa._SX342_SY600_.jpg"
     },
@@ -732,6 +811,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/war-and-peace-1965/",
       "year": "1965",
       "originalTitle": "Война и мир",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/bDmHZhKzmMGZZmfLm1BxiTEyAvo.jpg"
     },
@@ -740,6 +820,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-given-word/",
       "year": "1962",
       "originalTitle": "O Pagador de Promessas",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/ezguKBYcsk7sUZs0xfnzUq7MBBq.jpg"
     },
@@ -748,6 +829,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-ascent/",
       "year": "1977",
       "originalTitle": "Восхождение",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/4AJn93HJz5N0xqRVmRsMgOLP1qY.jpg"
     },
@@ -756,6 +838,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/once-upon-a-time-in-the-west/",
       "year": "1968",
       "originalTitle": "C'era una volta il West",
+      "rating": 4.3,
       "streamProviders": [
         "Joyn",
         "Prime Video Channels FILMLEGENDEN",
@@ -769,6 +852,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/inglourious-basterds/",
       "year": "2009",
       "originalTitle": "Inglourious Basterds",
+      "rating": 4.3,
       "streamProviders": [
         "Amazon Prime Video"
       ],
@@ -779,6 +863,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/barry-lyndon/",
       "year": "1975",
       "originalTitle": "Barry Lyndon",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3d133ed6ed76e539d761ad93b0447ddf979d2c8c7c04658b13b946fb633267c0._SX342_SY600_.jpg"
     },
@@ -787,6 +872,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/pulp-fiction/",
       "year": "1994",
       "originalTitle": "Pulp Fiction",
+      "rating": 4.3,
       "streamProviders": [
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
@@ -801,6 +887,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/se7en/",
       "year": "1995",
       "originalTitle": "Se7en",
+      "rating": 4.3,
       "streamProviders": [
         "Netflix"
       ],
@@ -811,6 +898,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/2001-a-space-odyssey/",
       "year": "1968",
       "originalTitle": "2001: A Space Odyssey",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/22c0ea7886032669d7bdf95138b6543f726666b76cbc5db13d7eb2d2b371d7a3._SX342_SY600_.jpg"
     },
@@ -819,6 +907,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/mirror/",
       "year": "1975",
       "originalTitle": "Зеркало",
+      "rating": 4.3,
       "streamProviders": [
         "filmingo"
       ],
@@ -829,6 +918,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-second-mother/",
       "year": "2015",
       "originalTitle": "Que Horas Ela Volta?",
+      "rating": 4.3,
       "streamProviders": [
         "Sooner"
       ],
@@ -839,6 +929,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/love-exposure/",
       "year": "2008",
       "originalTitle": "愛のむきだし",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/83i9Q1WmWcogcPGv501D26BoEyT.jpg"
     },
@@ -847,6 +938,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/incendies/",
       "year": "2010",
       "originalTitle": "Incendies",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels MUBI"
       ],
@@ -857,6 +949,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/one-flew-over-the-cuckoos-nest/",
       "year": "1975",
       "originalTitle": "One Flew Over the Cuckoo's Nest",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ab3f271a9b55eba612dfe34faad4587fc3a9e75e8a301d0d9634c7dda9a4e9c5._SX342_SY600_.jpg"
     },
@@ -865,6 +958,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/nights-of-cabiria/",
       "year": "1957",
       "originalTitle": "Le notti di Cabiria",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -875,6 +969,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-battle-of-algiers/",
       "year": "1966",
       "originalTitle": "La battaglia di Algeri",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/owFlCpKk0ytB7UauWYortqgd3w3.jpg"
     },
@@ -883,6 +978,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/pather-panchali/",
       "year": "1955",
       "originalTitle": "পথের পাঁচালী",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/rOHuGsO18d8BN3hQ0kMKZ5l9caE.jpg"
     },
@@ -891,6 +987,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/no-country-for-old-men/",
       "year": "2007",
       "originalTitle": "No Country for Old Men",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels Paramount+",
         "Paramount+"
@@ -902,6 +999,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-seventh-seal/",
       "year": "1957",
       "originalTitle": "Det sjunde inseglet",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -912,6 +1010,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-pianist/",
       "year": "2002",
       "originalTitle": "The Pianist",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
@@ -924,6 +1023,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/ordet/",
       "year": "1955",
       "originalTitle": "Ordet",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/3uc2qRKvG1m2Lzwhf4I7UD8NQT.jpg"
     },
@@ -932,6 +1032,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/farewell-my-concubine/",
       "year": "1993",
       "originalTitle": "霸王别姬",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/uVLFolQ93rolf16Z3IihPGagBOv.jpg"
     },
@@ -940,6 +1041,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/alien/",
       "year": "1979",
       "originalTitle": "Alien",
+      "rating": 4.3,
       "streamProviders": []
     },
     {
@@ -947,6 +1049,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/chungking-express/",
       "year": "1994",
       "originalTitle": "重慶森林",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c62448022a05cc38246e00883d296fd764d0e3babfeecee43510af0cb51a94b8._SX342_SY600_.jpg"
     },
@@ -955,6 +1058,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-shining/",
       "year": "1980",
       "originalTitle": "The Shining",
+      "rating": 4.3,
       "streamProviders": [
         "Sky WOW",
         "Sky Go\nSky"
@@ -966,6 +1070,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/werckmeister-harmonies/",
       "year": "2000",
       "originalTitle": "Werckmeister harmóniák",
+      "rating": 4.3,
       "streamProviders": [
         "alleskino",
         "filmfriend"
@@ -977,6 +1082,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/interstellar/",
       "year": "2014",
       "originalTitle": "Interstellar",
+      "rating": 4.3,
       "streamProviders": [
         "Netflix"
       ],
@@ -987,6 +1093,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/",
       "year": "2021",
       "originalTitle": "Marcel the Shell with Shoes On",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/saF4uBuzkhMYQnVN4Wt96c5ccKA.jpg"
     },
@@ -995,6 +1102,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/aftersun/",
       "year": "2022",
       "originalTitle": "Aftersun",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/jeXmhP2zbUkREMRqFOYIwQOk49T.jpg"
     },
@@ -1003,6 +1111,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/city-lights/",
       "year": "1931",
       "originalTitle": "City Lights",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -1013,6 +1122,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/singin-in-the-rain/",
       "year": "1952",
       "originalTitle": "Singin' in the Rain",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7cb317fdd7d23ee08e395ac1497df1fa43654252755cac4a901369d7e582a14a._SX342_SY600_.jpg"
     },
@@ -1021,6 +1131,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/all-about-eve/",
       "year": "1950",
       "originalTitle": "All About Eve",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/938237686afc626016da5edbbdded054f4a1c3558f37c1aec3e4dcc855c7bb3b._SX342_SY600_.jpg"
     },
@@ -1029,6 +1140,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/late-spring/",
       "year": "1949",
       "originalTitle": "晩春",
+      "rating": 4.3,
       "streamProviders": []
     },
     {
@@ -1036,6 +1148,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/8-half/",
       "year": "1963",
       "originalTitle": "8½",
+      "rating": 4.3,
       "streamProviders": []
     },
     {
@@ -1043,6 +1156,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/sherlock-jr/",
       "year": "1924",
       "originalTitle": "Sherlock, Jr.",
+      "rating": 4.3,
       "streamProviders": [
         "Amazon Prime Video"
       ],
@@ -1053,6 +1167,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/landscape-in-the-mist/",
       "year": "1988",
       "originalTitle": "Τοπίο στην ομίχλη",
+      "rating": 4.3,
       "streamProviders": [
         "filmingo"
       ],
@@ -1063,6 +1178,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-best-of-youth/",
       "year": "2003",
       "originalTitle": "La meglio gioventù",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/yVsZMOdcp6cZIBlZkoeOLtGUFhd.jpg"
     },
@@ -1071,6 +1187,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/an-elephant-sitting-still/",
       "year": "2018",
       "originalTitle": "大象席地而坐",
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/9WMqts663W2yxJ6B16uKX47k7vl.jpg"
     },
@@ -1079,6 +1196,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-400-blows/",
       "year": "1959",
       "originalTitle": "Les Quatre Cents Coups",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -1089,6 +1207,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/tampopo/",
       "year": "1985",
       "originalTitle": "タンポポ",
+      "rating": 4.3,
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
@@ -1099,6 +1218,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/funeral-parade-of-roses/",
       "year": "1969",
       "originalTitle": "薔薇の葬列",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels realeyz",
         "Sooner"
@@ -1110,6 +1230,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/a-special-day/",
       "year": "1977",
       "originalTitle": "Una giornata particolare",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/xaiFqvBA0IYGFDu2sEAszAFl3nF.jpg"
     },
@@ -1118,6 +1239,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/mars-one/",
       "year": "2022",
       "originalTitle": "Marte Um",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels Eurosport"
       ],
@@ -1128,6 +1250,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/bicycle-thieves/",
       "year": "1948",
       "originalTitle": "Ladri di biciclette",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels realeyz",
         "Sooner"
@@ -1139,6 +1262,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/mommy-2014/",
       "year": "2014",
       "originalTitle": "Mommy",
+      "rating": 4.2,
       "streamProviders": [
         "filmfriend"
       ],
@@ -1149,14 +1273,16 @@
       "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
       "year": "2022",
       "originalTitle": "Puss in Boots: The Last Wish",
+      "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/sV28nTzYbHstclkHBC6U6pz8im7.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/kav9SgYBGE7ikJXO5ktlEILJYPI.jpg"
     },
     {
       "name": "A Man Escaped",
       "letterboxdUrl": "https://letterboxd.com/film/a-man-escaped/",
       "year": "1956",
       "originalTitle": "Un condamné à mort s'est échappé",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/bRd5Pofvz0sCOOorMyt6141RNd5.jpg"
     },
@@ -1165,6 +1291,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/a-separation/",
       "year": "2011",
       "originalTitle": "جدایی نادر از سیمین",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmingo"
@@ -1176,6 +1303,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/three-colors-red/",
       "year": "1994",
       "originalTitle": "Trois couleurs : Rouge",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16357_v_v8_as.jpg&out=jpeg"
     },
@@ -1184,6 +1312,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/life-is-beautiful/",
       "year": "1997",
       "originalTitle": "La vita è bella",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/65d65e0870dbae5b117c7dd4da000f0ab3ea33fda44e4593b42054b334597450._SX342_SY600_.jpg"
     },
@@ -1192,6 +1321,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/where-is-my-friends-house/",
       "year": "1987",
       "originalTitle": "خانه‌ی دوست کجاست؟",
+      "rating": 4.2,
       "streamProviders": [
         "Mubi"
       ],
@@ -1202,6 +1332,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/wild-strawberries/",
       "year": "1957",
       "originalTitle": "Smultronstället",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -1212,6 +1343,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/m/",
       "year": "1931",
       "originalTitle": "M - Eine Stadt sucht einen Mörder",
+      "rating": 4.2,
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels FlimmerkisteTV"
@@ -1223,6 +1355,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/red-beard/",
       "year": "1965",
       "originalTitle": "赤ひげ",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/dNGUeHAshgjWKE0GvjD3gBkIyjM.jpg"
     },
@@ -1231,6 +1364,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/lawrence-of-arabia/",
       "year": "1962",
       "originalTitle": "Lawrence of Arabia",
+      "rating": 4.2,
       "streamProviders": [
         "Sky WOW",
         "Sky Go\nSky"
@@ -1242,6 +1376,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/they-dont-wear-black-tie/",
       "year": "1981",
       "originalTitle": "Eles não usam black-tie",
+      "rating": 4.2,
       "streamProviders": []
     },
     {
@@ -1249,6 +1384,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/all-that-jazz/",
       "year": "1979",
       "originalTitle": "All That Jazz",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
@@ -1257,6 +1393,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-young-girls-of-rochefort/",
       "year": "1967",
       "originalTitle": "Les demoiselles de Rochefort",
+      "rating": 4.2,
       "streamProviders": [
         "Mubi"
       ],
@@ -1267,6 +1404,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
       "year": "1964",
       "originalTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e3cf6ca7016303596e1b8104c644a6805abbf4a306e0a804d59b8c20e0ce6abc._SX342_SY600_.jpg"
     },
@@ -1275,6 +1413,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/army-of-shadows/",
       "year": "1969",
       "originalTitle": "L'Armée des ombres",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -1285,6 +1424,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/fantastic-mr-fox/",
       "year": "2009",
       "originalTitle": "Fantastic Mr. Fox",
+      "rating": 4.2,
       "streamProviders": [
         "Disney+"
       ],
@@ -1295,6 +1435,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/prisoners/",
       "year": "2013",
       "originalTitle": "Prisoners",
+      "rating": 4.2,
       "streamProviders": [
         "Netflix",
         "MagentaTV"
@@ -1306,6 +1447,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-father-2020/",
       "year": "2020",
       "originalTitle": "The Father",
+      "rating": 4.2,
       "streamProviders": [
         "Sky WOW",
         "Sky Go\nSky"
@@ -1317,6 +1459,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/casablanca/",
       "year": "1942",
       "originalTitle": "Casablanca",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4e13260bf72e3d271a29fec4e128d37766a978bb3a8e547827f54b8fe456fbcf._SX342_SY600_.jpg"
     },
@@ -1325,6 +1468,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-grand-budapest-hotel/",
       "year": "2014",
       "originalTitle": "The Grand Budapest Hotel",
+      "rating": 4.2,
       "streamProviders": [
         "Disney+"
       ],
@@ -1335,6 +1479,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-sacrifice/",
       "year": "1986",
       "originalTitle": "Offret",
+      "rating": 4.2,
       "streamProviders": [
         "filmingo"
       ],
@@ -1345,6 +1490,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/dead-poets-society/",
       "year": "1989",
       "originalTitle": "Dead Poets Society",
+      "rating": 4.2,
       "streamProviders": [
         "Disney+"
       ],
@@ -1355,6 +1501,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/",
       "year": "2004",
       "originalTitle": "Eternal Sunshine of the Spotless Mind",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/dlik49oopcyDgMmrASXlS4q8Dp5.jpg"
     },
@@ -1363,6 +1510,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/evangelion-3010-thrice-upon-a-time/",
       "year": "2021",
       "originalTitle": "シン・エヴァンゲリオン劇場版:||",
+      "rating": 4.2,
       "streamProviders": [
         "Amazon Prime Video"
       ],
@@ -1373,6 +1521,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/wings-of-desire/",
       "year": "1987",
       "originalTitle": "Der Himmel über Berlin",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -1383,6 +1532,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/yojimbo/",
       "year": "1961",
       "originalTitle": "用心棒",
+      "rating": 4.2,
       "streamProviders": [
         "filmingo"
       ],
@@ -1393,6 +1543,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/good-will-hunting/",
       "year": "1997",
       "originalTitle": "Good Will Hunting",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a469c65bba2828f147f5b262586c23b82f5f62dbf8d7a6c18650c70bfe3e1caf._SX342_SY600_.jpg"
     },
@@ -1401,6 +1552,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/paper-moon/",
       "year": "1973",
       "originalTitle": "Paper Moon",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels Paramount+",
         "Paramount+"
@@ -1412,6 +1564,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/dog-day-afternoon/",
       "year": "1975",
       "originalTitle": "Dog Day Afternoon",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/df1c7513bcabd0d307dd5467d5676dffc3ae070390a1eae5b35065c071eb434d._SX342_SY600_.jpg"
     },
@@ -1420,6 +1573,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/nobody-knows/",
       "year": "2004",
       "originalTitle": "誰も知らない",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/kqspdbZfhFYfloV9I9Jj2SjjyPR.jpg"
     },
@@ -1428,6 +1582,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/children-of-paradise/",
       "year": "1945",
       "originalTitle": "Les Enfants du Paradis",
+      "rating": 4.2,
       "streamProviders": []
     },
     {
@@ -1435,6 +1590,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/rocco-and-his-brothers/",
       "year": "1960",
       "originalTitle": "Rocco e i suoi fratelli",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/affd348e22dc14970340566833f17773f4b990ddce78841fbd96ec359a11512d._SX342_SY600_.jpg"
     },
@@ -1443,6 +1599,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-young-and-the-damned/",
       "year": "1950",
       "originalTitle": "Los olvidados",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/4LJqMc5nM48O18iNSrbSbMCKQu7.jpg"
     },
@@ -1451,6 +1608,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/amadeus/",
       "year": "1984",
       "originalTitle": "Amadeus",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/755b3c667b98db491c4b60cf1ec84a5c03cd873b2ba728242855b697a81fa202._SX342_SY600_.jpg"
     },
@@ -1459,6 +1617,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-wages-of-fear/",
       "year": "1953",
       "originalTitle": "Le Salaire de la peur",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels Filmtastic"
       ],
@@ -1469,6 +1628,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/la-dolce-vita/",
       "year": "1960",
       "originalTitle": "La Dolce Vita",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -1479,6 +1639,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/still-walking/",
       "year": "2008",
       "originalTitle": "歩いても 歩いても",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Sooner",
@@ -1491,6 +1652,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/akira/",
       "year": "1988",
       "originalTitle": "アキラ",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA"
       ],
@@ -1501,6 +1663,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-night-of-the-hunter/",
       "year": "1955",
       "originalTitle": "The Night of the Hunter",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f1fde3dd2fdac3c48e3c64ee6e07dd63263f6f1a6bf329504921a22eae980539._SX342_SY600_.jpg"
     },
@@ -1509,6 +1672,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/brief-encounter/",
       "year": "1945",
       "originalTitle": "Brief Encounter",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/4nNs5agSqrd90cPuFwZJfJiGLUj.jpg"
     },
@@ -1517,6 +1681,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/children-of-men/",
       "year": "2006",
       "originalTitle": "Children of Men",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/00bbb502aaca6b98e6321b3a4907c6953ddf1a04e89146be91848359ed67ada2._SX342_SY600_.jpg"
     },
@@ -1525,6 +1690,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/terminator-2-judgment-day/",
       "year": "1991",
       "originalTitle": "Terminator 2: Judgment Day",
+      "rating": 4.2,
       "streamProviders": [
         "freenet Video",
         "Prime Video Channels Filmtastic"
@@ -1536,6 +1702,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/burning-days/",
       "year": "2022",
       "originalTitle": "Kurak Günler",
+      "rating": 4.2,
       "streamProviders": []
     },
     {
@@ -1543,6 +1710,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/we-all-loved-each-other-so-much/",
       "year": "1974",
       "originalTitle": "C'eravamo tanto amati",
+      "rating": 4.2,
       "streamProviders": [
         "filmingo"
       ],
@@ -1553,6 +1721,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/modern-times/",
       "year": "1936",
       "originalTitle": "Modern Times",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -1563,6 +1732,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/raise-the-red-lantern/",
       "year": "1991",
       "originalTitle": "大红灯笼高高挂",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/t1pEN88dQ89MFoDHH2POc2lKEtt.jpg"
     },
@@ -1571,6 +1741,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/napoleon/",
       "year": "1927",
       "originalTitle": "Napoléon",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f8ef98895a8608effe8376d2cb1da0ded6323a6148f20742e470f55ab8262de._SX342_SY600_.jpg"
     },
@@ -1579,6 +1750,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-great-dictator/",
       "year": "1940",
       "originalTitle": "The Great Dictator",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -1589,6 +1761,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/ritual-2000/",
       "year": "2000",
       "originalTitle": "式日",
+      "rating": 4.2,
       "streamProviders": []
     },
     {
@@ -1596,6 +1769,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/to-be-or-not-to-be/",
       "year": "1942",
       "originalTitle": "To Be or Not to Be",
+      "rating": 4.2,
       "streamProviders": [
         "Sky WOW",
         "Sky Go\nSky"
@@ -1607,6 +1781,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/chinatown/",
       "year": "1974",
       "originalTitle": "Chinatown",
+      "rating": 4.2,
       "streamProviders": [
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
@@ -1621,6 +1796,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/moonlight-2016/",
       "year": "2016",
       "originalTitle": "Moonlight",
+      "rating": 4.2,
       "streamProviders": [
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
@@ -1632,6 +1808,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-departed/",
       "year": "2006",
       "originalTitle": "The Departed",
+      "rating": 4.2,
       "streamProviders": [
         "Netflix",
         "RTL+",
@@ -1645,6 +1822,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/witness-for-the-prosecution-1957/",
       "year": "1957",
       "originalTitle": "Witness for the Prosecution",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3d36b46df1a1bf65735d9e39a30210fee0321f76c8baaa3598db9eb9ece133ed._SX342_SY600_.jpg"
     },
@@ -1653,6 +1831,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/z/",
       "year": "1969",
       "originalTitle": "Z",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/tTzomdrZ3ZThFB9hrwFcUIoIooc.jpg"
     },
@@ -1661,6 +1840,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/taste-of-cherry/",
       "year": "1997",
       "originalTitle": "طعم گيلاس",
+      "rating": 4.2,
       "streamProviders": [
         "Mubi"
       ],
@@ -1671,6 +1851,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/fargo/",
       "year": "1996",
       "originalTitle": "Fargo",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels MGM"
       ],
@@ -1681,6 +1862,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/nostalgia-1983/",
       "year": "1983",
       "originalTitle": "Nostalghia",
+      "rating": 4.2,
       "streamProviders": [
         "filmingo",
         "Mubi"
@@ -1692,6 +1874,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/get-out-2017/",
       "year": "2017",
       "originalTitle": "Get Out",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels LIONSGATE+",
         "LIONSGATE+"
@@ -1703,6 +1886,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/star-wars/",
       "year": "1977",
       "originalTitle": "Star Wars",
+      "rating": 4.2,
       "streamProviders": [
         "Disney+"
       ],
@@ -1713,6 +1897,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/la-notte/",
       "year": "1961",
       "originalTitle": "La Notte",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/asvSffW6fULU9miMdgeL3phReRF.jpg"
     },
@@ -1721,6 +1906,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/my-neighbor-totoro/",
       "year": "1988",
       "originalTitle": "となりのトトロ",
+      "rating": 4.2,
       "streamProviders": [
         "Netflix"
       ],
@@ -1731,6 +1917,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/aparajito/",
       "year": "1956",
       "originalTitle": "অপরাজিত",
+      "rating": 4.2,
       "streamProviders": [
         "filmingo"
       ],
@@ -1741,6 +1928,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/to-live/",
       "year": "1994",
       "originalTitle": "活着",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/jx5VmZsJIWQ1g6YX60Fk0tkMxxL.jpg"
     },
@@ -1749,6 +1937,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/mulholland-drive/",
       "year": "2001",
       "originalTitle": "Mulholland Drive",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
@@ -1761,6 +1950,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/back-to-the-future/",
       "year": "1985",
       "originalTitle": "Back to the Future",
+      "rating": 4.2,
       "streamProviders": [
         "Amazon Prime Video",
         "Netflix"
@@ -1772,6 +1962,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-life-and-death-of-colonel-blimp/",
       "year": "1943",
       "originalTitle": "The Life and Death of Colonel Blimp",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/kgyd5uyndsXiLYKlVgH0sm7Jfkv.jpg"
     },
@@ -1780,6 +1971,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-lion-king/",
       "year": "1994",
       "originalTitle": "The Lion King",
+      "rating": 4.2,
       "streamProviders": [
         "Disney+"
       ],
@@ -1790,6 +1982,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-third-man/",
       "year": "1949",
       "originalTitle": "The Third Man",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
@@ -1800,6 +1993,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/django-unchained/",
       "year": "2012",
       "originalTitle": "Django Unchained",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels SONY AXN",
         "MagentaTV"
@@ -1811,6 +2005,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/underground-1995/",
       "year": "1995",
       "originalTitle": "Подземље",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/h8N6y13t4VusrDdH5PzTkwvBvgN.jpg"
     },
@@ -1819,6 +2014,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-hunt-2012/",
       "year": "2012",
       "originalTitle": "Jagten",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
@@ -1829,6 +2025,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/fallen-angels/",
       "year": "1995",
       "originalTitle": "墮落天使",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ba3c7b89782e1fa58bacdccf21b764bd2dc8f9b3c8550184f8503e2afbeec4d._SX342_SY600_.jpg"
     },
@@ -1837,6 +2034,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/jeanne-dielman-23-quai-du-commerce-1080-bruxelles/",
       "year": "1975",
       "originalTitle": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/b5cey5yKfPXZBwj2gTRREALUvzA.jpg"
     },
@@ -1845,6 +2043,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/taxi-driver/",
       "year": "1976",
       "originalTitle": "Taxi Driver",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels Filmtastic"
       ],
@@ -1855,6 +2054,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/argentina-1985/",
       "year": "2022",
       "originalTitle": "Argentina, 1985",
+      "rating": 4.2,
       "streamProviders": [
         "Amazon Prime Video"
       ],
@@ -1865,6 +2065,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/shoplifters/",
       "year": "2018",
       "originalTitle": "万引き家族",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA"
       ],
@@ -1875,6 +2076,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/opening-night/",
       "year": "1977",
       "originalTitle": "Opening Night",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/7NYSr8Z6xiW4zZqOBf3BTee1TRM.jpg"
     },
@@ -1883,6 +2085,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/vertigo/",
       "year": "1958",
       "originalTitle": "Vertigo",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/054bb14d69d7d1d4742db33f811ef38286ec48f04874bbd561d9cc81b3c090c9._SX342_SY600_.jpg"
     },
@@ -1891,6 +2094,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/il-sorpasso/",
       "year": "1962",
       "originalTitle": "Il Sorpasso",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/iQVAAL1mR3cTF1LO3LrIpk1WPMa.jpg"
     },
@@ -1899,6 +2103,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-big-city/",
       "year": "1963",
       "originalTitle": "মহানগর",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/hJKgHUEoEREcDR1pF89HAq6Y8d7.jpg"
     },
@@ -1907,6 +2112,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/once-upon-a-time-in-america/",
       "year": "1984",
       "originalTitle": "Once Upon a Time in America",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/8/4/p8405_v_v12_am.jpg&out=jpeg"
     },
@@ -1915,6 +2121,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/your-name/",
       "year": "2016",
       "originalTitle": "君の名は。",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/350c14b3e657bc8f6633f5d8ccb89c671523a6224ec60a0f8d859a5f9871ffe9._SX342_SY600_.jpg"
     },
@@ -1923,6 +2130,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/manila-in-the-claws-of-light/",
       "year": "1975",
       "originalTitle": "Maynila sa mga Kuko ng Liwanag",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Mubi"
@@ -1934,6 +2142,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/happy-hour-2015-1/",
       "year": "2015",
       "originalTitle": "ハッピーアワー",
+      "rating": 4.2,
       "streamProviders": []
     },
     {
@@ -1941,6 +2150,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/paddington-2/",
       "year": "2017",
       "originalTitle": "Paddington 2",
+      "rating": 4.2,
       "streamProviders": [
         "Disney+",
         "RTL+",
@@ -1954,6 +2164,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/metropolis/",
       "year": "1927",
       "originalTitle": "Metropolis",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/vODOVn29fr0nLF9MVfpfKDcxuXF.jpg"
     },
@@ -1962,6 +2173,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-truman-show/",
       "year": "1998",
       "originalTitle": "The Truman Show",
+      "rating": 4.2,
       "streamProviders": [
         "Amazon Prime Video"
       ],
@@ -1972,6 +2184,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/happy-together-1997/",
       "year": "1997",
       "originalTitle": "春光乍洩",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
@@ -1982,6 +2195,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/raging-bull/",
       "year": "1980",
       "originalTitle": "Raging Bull",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels MGM"
       ],
@@ -1992,6 +2206,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/make-way-for-tomorrow/",
       "year": "1937",
       "originalTitle": "Make Way for Tomorrow",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/lmQZE95stAXjLZSvyUQAgnJqvCZ.jpg"
     },
@@ -2000,6 +2215,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-cremator/",
       "year": "1969",
       "originalTitle": "Spalovač mrtvol",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/kwl7MNooVsyXzKARZvBBd1tKFJW.jpg"
     },
@@ -2008,6 +2224,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/once-upon-a-time-in-anatolia/",
       "year": "2011",
       "originalTitle": "Bir zamanlar Anadolu'da",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels Good!Movies",
         "Prime Video Channels Turk on Video",
@@ -2020,6 +2237,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/i-dream-in-another-language/",
       "year": "2017",
       "originalTitle": "Sueño en otro idioma",
+      "rating": 4.2,
       "streamProviders": []
     },
     {
@@ -2027,6 +2245,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/a-matter-of-life-and-death/",
       "year": "1946",
       "originalTitle": "A Matter of Life and Death",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
@@ -2038,6 +2257,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/sweet-smell-of-success/",
       "year": "1957",
       "originalTitle": "Sweet Smell of Success",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2ae7f9041491840ad12ff39b49b073feddb05f7c69789056858fc762e1cdd55._SX342_SY600_.jpg"
     },
@@ -2046,6 +2266,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-treasure-of-the-sierra-madre/",
       "year": "1948",
       "originalTitle": "The Treasure of the Sierra Madre",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9bfa94f7f5464ba939b3ad075d162de0695ef357e10f73a36a3944591da6b666._SX342_SY600_.jpg"
     },
@@ -2054,6 +2275,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/gangs-of-wasseypur-part-2/",
       "year": "2012",
       "originalTitle": "गैंग्स ऑफ़ वास्सेपुर पार्ट - २",
+      "rating": 4.2,
       "streamProviders": [
         "Amazon Prime Video",
         "freenet Video"
@@ -2065,6 +2287,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/gueros/",
       "year": "2014",
       "originalTitle": "Güeros",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/2jzgCFNoexgmvWYugYrqbmgSxwG.jpg"
     },
@@ -2073,6 +2296,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/inception/",
       "year": "2010",
       "originalTitle": "Inception",
+      "rating": 4.2,
       "streamProviders": [
         "Netflix"
       ],
@@ -2083,6 +2307,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/heat-1995/",
       "year": "1995",
       "originalTitle": "Heat",
+      "rating": 4.2,
       "streamProviders": [
         "Netflix"
       ],
@@ -2093,6 +2318,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-iron-giant/",
       "year": "1999",
       "originalTitle": "The Iron Giant",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/55854cae92c8a52ae4cec11db4eaf1dc5de1915d69578181233560f894e67f1f._SX342_SY600_.jpg"
     },
@@ -2101,6 +2327,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/throne-of-blood/",
       "year": "1957",
       "originalTitle": "蜘蛛巣城",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/gzJGeqnvyK6wqekkPP1KZGp0xni.jpg"
     },
@@ -2109,6 +2336,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/double-indemnity/",
       "year": "1944",
       "originalTitle": "Double Indemnity",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/3yZH2jk12K1TlxJ8Tcyx5YBbnzq.jpg"
     },
@@ -2117,6 +2345,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/hope-2013/",
       "year": "2013",
       "originalTitle": "소원",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/cZ0vY5Wg67HZJfo1KWnv12MIObG.jpg"
     },
@@ -2125,6 +2354,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/ugetsu/",
       "year": "1953",
       "originalTitle": "雨月物語",
+      "rating": 4.2,
       "streamProviders": [
         "filmingo"
       ],
@@ -2135,6 +2365,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-tale-of-the-princess-kaguya/",
       "year": "2013",
       "originalTitle": "かぐや姫の物語",
+      "rating": 4.2,
       "streamProviders": [
         "Netflix"
       ],
@@ -2145,6 +2376,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/time-of-the-gypsies/",
       "year": "1988",
       "originalTitle": "Dom za vešanje",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/yJJDnSnlHQRWFDZek6W8Fa0tIyG.jpg"
     },
@@ -2153,6 +2385,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/life-and-nothing-more/",
       "year": "1992",
       "originalTitle": "زندگی و دیگر هیچ",
+      "rating": 4.2,
       "streamProviders": []
     },
     {
@@ -2160,6 +2393,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/comrades-almost-a-love-story/",
       "year": "1996",
       "originalTitle": "甜蜜蜜",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/vNkDsVAOeVuQatWqmdClSrzYRcM.jpg"
     },
@@ -2168,6 +2402,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/umberto-d/",
       "year": "1952",
       "originalTitle": "Umberto D.",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/dGEvWnVFhizXuZuwtGYmfZhjDjk.jpg"
     },
@@ -2176,6 +2411,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/rrr/",
       "year": "2022",
       "originalTitle": "రౌద్రం రణం రుధిరం",
+      "rating": 4.2,
       "streamProviders": [
         "Netflix"
       ],
@@ -2186,6 +2422,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/ratatouille/",
       "year": "2007",
       "originalTitle": "Ratatouille",
+      "rating": 4.2,
       "streamProviders": [
         "Disney+"
       ],
@@ -2196,6 +2433,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/coco-2017/",
       "year": "2017",
       "originalTitle": "Coco",
+      "rating": 4.2,
       "streamProviders": [
         "Disney+"
       ],
@@ -2206,6 +2444,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/solaris/",
       "year": "1972",
       "originalTitle": "Солярис",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/rYCHkNEOwombKvLO6M3FeZPfZFq.jpg"
     },
@@ -2214,6 +2453,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-devils/",
       "year": "1971",
       "originalTitle": "The Devils",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg"
     },
@@ -2222,6 +2462,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/saving-private-ryan/",
       "year": "1998",
       "originalTitle": "Saving Private Ryan",
+      "rating": 4.2,
       "streamProviders": [
         "MagentaTV"
       ],
@@ -2232,6 +2473,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/a-face-in-the-crowd/",
       "year": "1957",
       "originalTitle": "A Face in the Crowd",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/bjPvs6MY6Rv0DIiJ9rgx2TMEkAk.jpg"
     },
@@ -2240,6 +2482,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/little-women-2019/",
       "year": "2019",
       "originalTitle": "Little Women",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cf9c999a9a569fb783a9c5bcb6d6e6e68cedae2c5edc0c5b667ca308b32e0f2c.png"
     },
@@ -2248,6 +2491,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/network/",
       "year": "1976",
       "originalTitle": "Network",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b8302cc9a671881d3819986b0bbd97362d3c8d237b775216f6aa1e13fdc8bde4._SX342_SY600_.jpg"
     },
@@ -2256,6 +2500,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/winter-sleep/",
       "year": "2014",
       "originalTitle": "Kış Uykusu",
+      "rating": 4.2,
       "streamProviders": [
         "filmfriend"
       ],
@@ -2266,6 +2511,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/samurai-rebellion/",
       "year": "1967",
       "originalTitle": "上意討ち 拝領妻始末",
+      "rating": 4.2,
       "streamProviders": []
     },
     {
@@ -2273,6 +2519,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/raiders-of-the-lost-ark/",
       "year": "1981",
       "originalTitle": "Raiders of the Lost Ark",
+      "rating": 4.2,
       "streamProviders": [
         "Amazon Prime Video"
       ],
@@ -2283,6 +2530,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/pastoral-to-die-in-the-country/",
       "year": "1974",
       "originalTitle": "田園に死す",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/ttWhroijTMTc81SvyqtSYWEbrYV.jpg"
     },
@@ -2291,6 +2539,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/citizen-kane/",
       "year": "1941",
       "originalTitle": "Citizen Kane",
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c6ef1f6f25b13c2bb8ba80c510307a1e6e38a6e0553a038c7ad5eb6da50da00e._SX342_SY600_.jpg"
     },
@@ -2299,6 +2548,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/some-like-it-hot/",
       "year": "1959",
       "originalTitle": "Some Like It Hot",
+      "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels MGM"
       ],
