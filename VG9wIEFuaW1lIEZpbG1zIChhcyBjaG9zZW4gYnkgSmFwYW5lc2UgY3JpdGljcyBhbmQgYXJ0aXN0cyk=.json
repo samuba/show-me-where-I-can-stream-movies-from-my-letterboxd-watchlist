@@ -574,7 +574,10 @@
       "year": "1994",
       "originalTitle": "平成狸合戦ぽんぽこ",
       "rating": 3.6,
-      "streamProviders": []
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/tT2E6Txb9GTLGrvRMdd1LwKK0VC.jpg"
     },
     {
       "name": "Whisper of the Heart",

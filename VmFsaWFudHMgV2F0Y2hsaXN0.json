@@ -1,0 +1,123 @@
+{
+  "name": "Valiants Watchlist",
+  "url": "https://letterboxd.com/pillowface/watchlist/",
+  "description": "",
+  "entries": [
+    {
+      "name": "Puss in Boots: The Last Wish",
+      "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
+      "year": "2022",
+      "originalTitle": "Puss in Boots: The Last Wish",
+      "rating": 4.3,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/kav9SgYBGE7ikJXO5ktlEILJYPI.jpg"
+    },
+    {
+      "name": "The Little Things",
+      "letterboxdUrl": "https://letterboxd.com/film/the-little-things-2021/",
+      "year": "2021",
+      "originalTitle": "The Little Things",
+      "rating": 2.6,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/250258c673711467ad340c1eba3c6730c0ab9468841481d3daea06074d9743d2._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Nobody",
+      "letterboxdUrl": "https://letterboxd.com/film/nobody-2021/",
+      "year": "2021",
+      "originalTitle": "Nobody",
+      "rating": 3.5,
+      "streamProviders": []
+    },
+    {
+      "name": "Don't Worry Darling",
+      "letterboxdUrl": "https://letterboxd.com/film/dont-worry-darling/",
+      "year": "2022",
+      "originalTitle": "Don't Worry Darling",
+      "rating": 3,
+      "streamProviders": []
+    },
+    {
+      "name": "X",
+      "letterboxdUrl": "https://letterboxd.com/film/x-2022/",
+      "year": "2022",
+      "originalTitle": "X",
+      "rating": 3.6,
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bfef1160679fc8c402983b7508c8538bb4f513a567c61afa5505aa27fe043c06._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Violent Night",
+      "letterboxdUrl": "https://letterboxd.com/film/violent-night/",
+      "year": "2022",
+      "originalTitle": "Violent Night",
+      "rating": 3.3,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/1XSYOP0JjjyMz1irihvWywro82r.jpg"
+    },
+    {
+      "name": "Bones and All",
+      "letterboxdUrl": "https://letterboxd.com/film/bones-and-all/",
+      "year": "2022",
+      "originalTitle": "Bones and All",
+      "rating": 3.8,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/bCqN8mw6piYc7KzGD7SF1mayV3x.jpg"
+    },
+    {
+      "name": "The Menu",
+      "letterboxdUrl": "https://letterboxd.com/film/the-menu-2022/",
+      "year": "2022",
+      "originalTitle": "The Menu",
+      "rating": 3.7,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/z4KppocjuYkxK4UOzgWqRS666IB.jpg"
+    },
+    {
+      "name": "Dune",
+      "letterboxdUrl": "https://letterboxd.com/film/dune-2021/",
+      "year": "2021",
+      "originalTitle": "Dune",
+      "rating": 4,
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cdd519298ce46bcf59eb9a00bc392945c028ae6d1f10441de64b8c0d11f7085f._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Knives Out",
+      "letterboxdUrl": "https://letterboxd.com/film/knives-out-2019/",
+      "year": "2019",
+      "originalTitle": "Knives Out",
+      "rating": 4.1,
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a229f46795d7053d0eaa84307d33cd082a8db9dcf96f8ae7610b0d01419352b1._SX342_SY600_.jpg"
+    }
+  ],
+  "streamProviders": [
+    {
+      "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Sky Go\nSky",
+      "enabled": false
+    },
+    {
+      "name": "Sky WOW",
+      "enabled": false
+    }
+  ]
+}

@@ -1296,6 +1296,7 @@
       "rating": 3.7,
       "streamProviders": [
         "Netflix",
+        "Prime Video Channels FILMLEGENDEN",
         "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/76adb6ac15d5661f86d1f95c7fc605e8d5a06c96d7e24408098e09e089826b47._SX342_SY600_.jpg"
@@ -5737,7 +5738,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/meatball-machine/",
       "year": "2005",
       "originalTitle": "ミートボールマシン",
-      "rating": 3.1,
+      "rating": 3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/zDvgN4GygjIDBC7AaQVbmIQGcE6.jpg"
     },
@@ -9354,8 +9355,7 @@
       "year": "1992",
       "originalTitle": "鉄男II BODY HAMMER",
       "rating": 3.4,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/3712meFiMKaS7h7O1SM5ajxL35S.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Hypnotist",
@@ -9674,7 +9674,9 @@
       "year": "2020",
       "originalTitle": "Tenet",
       "rating": 3.4,
-      "streamProviders": [],
+      "streamProviders": [
+        "Netflix"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5842255b2916235a0a6b647fa1d436abd0b0dea23f42110adbe6402bdfb511bc._SX342_SY600_.jpg"
     },
     {

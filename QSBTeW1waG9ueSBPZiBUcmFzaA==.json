@@ -4984,7 +4984,8 @@
       "year": "1977",
       "originalTitle": "ＯＬ官能日記　あァ！私の中で",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/2nWdpHPS8WvktDoPKF7cGfMkF11.jpg"
     },
     {
       "name": "Siren",
@@ -5181,7 +5182,8 @@
       "year": "1981",
       "originalTitle": "団鬼六　女教師縄地獄",
       "rating": 2.9,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/a58h7V3aC0YsAbArcFqIb5WFeTU.jpg"
     },
     {
       "name": "Female Vampire",
@@ -11784,7 +11786,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/shira-the-vampire-samurai/",
       "year": "2005",
       "originalTitle": "Shira: The Vampire Samurai",
-      "rating": 0,
+      "rating": 2.9,
       "streamProviders": []
     },
     {
@@ -13088,10 +13090,8 @@
       "year": "2017",
       "originalTitle": "626 Evolution",
       "rating": 0,
-      "streamProviders": [
-        "Disney+"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/768d215330904a6a0044da8ef837054e0bc0fb526582f00b066b3ca8b42ffb86._SX342_SY600_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
     },
     {
       "name": "Ten: The Secret Mission",
@@ -13846,9 +13846,7 @@
       "year": "1987",
       "originalTitle": "Zombie Nightmare",
       "rating": 2.1,
-      "streamProviders": [
-        "Netzkino"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/701e6f57d76cc272ce92d4363e5e8a7876a66ba31a92010409f4a46f6f57d388._SX342_SY600_.jpg"
     },
     {
@@ -16034,8 +16032,7 @@
       "year": "1996",
       "originalTitle": "悍婦崗",
       "rating": 0,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
+      "streamProviders": []
     },
     {
       "name": "Jokes My Folks Never Told Me",
@@ -19075,10 +19072,7 @@
       "year": "2009",
       "originalTitle": "Lynch Mob",
       "rating": 0,
-      "streamProviders": [
-        "RTL+"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4f60dedc3af25c48b723882ab761275767f216125d1975159cd07ef1a33181b3._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Monolith",
@@ -20138,8 +20132,7 @@
       "originalTitle": "Ta av Mig",
       "rating": 3,
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6197578cc00e857547c00bd3eaef4ced1c90e88903489492e5f439010f0572a6._SX342_SY600_.jpg"
     },
@@ -22760,7 +22753,10 @@
       "year": "1963",
       "originalTitle": "Mr. Peters' Pets",
       "rating": 0,
-      "streamProviders": []
+      "streamProviders": [
+        "Prime Video Channels Stingray All Good Vibes"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/32d3e73add89d2367babfca4e456ba8dc38364eda934c42e2bbf9cb0f3f23f2a._SX342_SY600_.jpg"
     },
     {
       "name": "My Tale Is Hot",
@@ -25653,7 +25649,8 @@
       "year": "2010",
       "originalTitle": "Empusa",
       "rating": 0,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/3OwgvGfOgNcFnKTWgoHdibLmcEv.jpg"
     },
     {
       "name": "A Super Fêmea",
@@ -26625,9 +26622,7 @@
       "year": "1987",
       "originalTitle": "Zombie High",
       "rating": 2.2,
-      "streamProviders": [
-        "Netzkino"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/701e6f57d76cc272ce92d4363e5e8a7876a66ba31a92010409f4a46f6f57d388._SX342_SY600_.jpg"
     },
     {
@@ -29758,9 +29753,10 @@
       "originalTitle": "T&A Time Travelers",
       "rating": 0,
       "streamProviders": [
-        "Prime Video Channels FILMLEGENDEN"
+        "Amazon Prime Video",
+        "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2a38380195f8ba7ba133877ce30476577d95cad85eb4d633828c1c6b3c1e63ea._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8f6dc4c680bdf527cc9be5c6e866b69dea0558fad68be4207a56a9c579751114._SX342_SY600_.jpg"
     },
     {
       "name": "Scorpio Nights",
@@ -29807,7 +29803,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/summers-blood/",
       "year": "2009",
       "originalTitle": "Summer's Blood",
-      "rating": 2.2,
+      "rating": 2.1,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/ddNjcjiRwzYylam55e1WTdygVbC.jpg"
     },
@@ -33538,7 +33534,7 @@
       "originalTitle": "Pleasure Spa",
       "rating": 0,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fJlQu3ZFTaTeMqyuzBEcB3eW6qT.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/4rHI1b1lJKPt3uaiDwi0cRpxMuO.jpg"
     },
     {
       "name": "Police Destination Oasis",

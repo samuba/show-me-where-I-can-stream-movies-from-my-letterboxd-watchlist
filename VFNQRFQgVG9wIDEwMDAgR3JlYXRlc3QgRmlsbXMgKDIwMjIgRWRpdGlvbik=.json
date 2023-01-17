@@ -3377,7 +3377,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/walle/",
       "year": "2008",
       "originalTitle": "WALL·E",
-      "rating": 4.1,
+      "rating": 4.2,
       "streamProviders": [
         "Disney+"
       ],
@@ -3858,9 +3858,7 @@
       "year": "1997",
       "originalTitle": "طعم گيلاس",
       "rating": 4.2,
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/iRWO8e2L8mU31Tlnx8AQg6XR9hK.jpg"
     },
     {
@@ -5792,7 +5790,8 @@
       "year": "1956",
       "originalTitle": "The Killing",
       "rating": 3.9,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/310a1124bb7a12acdbcbbcad87a8fff8ca0460bdaa1f92af8299a518a2c8d65e._SX342_SY600_.jpg"
     },
     {
       "name": "Band of Outsiders",
@@ -8102,7 +8101,9 @@
       "rating": 3.8,
       "streamProviders": [
         "Joyn",
-        "Prime Video Channels ARTHAUS+"
+        "Prime Video Channels ARTHAUS+",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ed96a4d05d06e55f9ff4ce26371a125835793fb158aa135bfe254403a43591f._SX342_SY600_.jpg"
     },
@@ -8459,8 +8460,10 @@
       "year": "2001",
       "originalTitle": "千禧曼波",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673882884"
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/9tqpaQfIPfnNnu4zDuDFyzlTh3I.jpg"
     },
     {
       "name": "Sicily!",
