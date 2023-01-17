@@ -54,7 +54,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
       "year": "2022",
       "originalTitle": "Puss in Boots: The Last Wish",
-      "rating": 4.2,
+      "rating": 4.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/kav9SgYBGE7ikJXO5ktlEILJYPI.jpg"
     },
@@ -349,7 +349,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d010c4975a2a47c0b02c4b3cd1171eddc7791b5ead0df43cf0b6b16a909038ad._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dfe1fd3f1723835cf1b180d9e226d2ef24fc46fb5e360126254c5cce84425271._SX342_SY600_.jpg"
     },
     {
       "name": "The Tragedy of Macbeth",
@@ -563,7 +563,7 @@
         "filmfriend",
         "filmingo"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc53df6e314be4ace31bf68406f9ffceef0c283b8e1635ce57149564751ccdd9._SX342_SY600_.jpg"
     },
     {
       "name": "Traffic",
@@ -646,7 +646,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/19a276ab759e617602ee8fc454793990ad2631e6c46a71029dd062943b0e6867._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1c7f7b6e0f88d765b80070b1ae4448ffc513137827f6ca95f09b05fcd856cf7a._SX342_SY600_.jpg"
     },
     {
       "name": "Moonwalker",
@@ -1143,7 +1143,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fff95977209aa49c4083c52db671f4f46a3177b471165d225c0c033efbf34d9a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9b4c3dbbfeceee4ac3d62bf0cf6b6a89c209bfe86c1458af614b95334dcdfb6d._SX342_SY600_.jpg"
     },
     {
       "name": "Rocky",
@@ -1590,7 +1590,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/66256f8b264746927b97db0e1496a91752812bf5d4a372269217c01b17baacb1._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/63aaa7d6760743a569310c1b78cb445ce9a27c72468f17fbaf4b5f57e282cb9e._SX342_SY600_.jpg"
     },
     {
       "name": "The Pinchcliffe Grand Prix",
@@ -1691,7 +1691,7 @@
         "alleskino",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3e092a7308b47001da69bc52cd2cfeac92209fab57184371bcc32d79f69680d7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2f21e1d3ee60ad6c4a5806104cc16f9cdd5e4b4de371d2d7a157f1ab1f43463c._SX342_SY600_.jpg"
     },
     {
       "name": "Dirty Harry",
@@ -2712,7 +2712,7 @@
       "streamProviders": [
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0d55b53779295c018c1c0a0786f4d28ac947370458256136a12db44e97275ecf._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5157ee0b06c94441bfb91ee6c887662701d68b76a9321ed32f54a2b731ea92c0._SX342_SY600_.jpg"
     },
     {
       "name": "Adventureland",
@@ -2814,7 +2814,7 @@
         "Sky Go\nSky",
         "Prime Video Channels Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b11659e53b59d36694851986ffe7e7a4b26c611ca847d60c4a38327294894d38._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e7303f99f9292557ec7c818002e35e2ea3a3a8a82d378a4b86923c438f2d2f69._SX342_SY600_.jpg"
     },
     {
       "name": "The Misfortunates",
@@ -2924,6 +2924,7 @@
       "originalTitle": "Hin und Weg",
       "rating": 3.5,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -3367,7 +3368,9 @@
       "year": "2013",
       "originalTitle": "Spieltrieb",
       "rating": 2.8,
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e068a6ff80e651312d564d34a30b0bf03328c9eb1145c71cded7cf8b8ea66db4._SX342_SY600_.jpg"
     },
     {
@@ -3605,7 +3608,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84f94a67087529ce122be5011ede23c5fab3c07c4510a28f77ed3d2755ad994d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ead013f0f450e6785ba3ec4d0595ff97d22b5a426afa9fecbc1a229ee240cc7._SX342_SY600_.jpg"
     },
     {
       "name": "Igby Goes Down",

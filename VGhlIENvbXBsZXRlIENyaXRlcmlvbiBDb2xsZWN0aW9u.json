@@ -769,7 +769,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/566f84583e7ebf0d78342bf1e11d00a63d4a62b1138e202ed809d4e2ee1f6a5a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d4c9b7a22f32e2df4d18e4926541ec4ff42e457d9e091a9c06466afc209d42d0._SX342_SY600_.jpg"
     },
     {
       "name": "Citizen Kane",
@@ -1148,7 +1148,7 @@
         "filmfriend",
         "filmingo"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc53df6e314be4ace31bf68406f9ffceef0c283b8e1635ce57149564751ccdd9._SX342_SY600_.jpg"
     },
     {
       "name": "History Is Made at Night",
@@ -1230,7 +1230,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/56c2075767b4628eeb196b735f2c914d98737867181e98cca588eb400c2cc990._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70f7ced29c013eab9db80f4125c7813f96069f80594ca0e151f10847cda7423a._SX342_SY600_.jpg"
     },
     {
       "name": "The Ascent",
@@ -2287,7 +2287,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fff95977209aa49c4083c52db671f4f46a3177b471165d225c0c033efbf34d9a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9b4c3dbbfeceee4ac3d62bf0cf6b6a89c209bfe86c1458af614b95334dcdfb6d._SX342_SY600_.jpg"
     },
     {
       "name": "The Heiress",
@@ -2649,7 +2649,7 @@
         "Prime Video Channels realeyz",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/da6c0100878e9257c677ec2c5d0511c98757d965875aa9d32190442a709d4d75._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bd16e2440bdc16ee7ec52b3e27fa2895c36862a3eabc4039405e4a29167517f4._SX342_SY600_.jpg"
     },
     {
       "name": "Bull Durham",
@@ -2785,7 +2785,7 @@
         "Sooner",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b316b90cb85284a08d366f4dceb59208f9038615e3abd6512eb690119655e9db._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9e25f6e4b8fc1143a294f6c263f81009dbaee6bec1aba0d418e5847cf2b783b1._SX342_SY600_.jpg"
     },
     {
       "name": "Moonrise",
@@ -2869,7 +2869,7 @@
       "originalTitle": "The Age of Innocence",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/378b10388cefa7e4cccdb865bd167f976ae7d28f0e526cc69a64996450ae4b22._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4a8ad5eca7b2ac6b93906622ec10b7e14d6fab31d5bc5530300c227c18fbe2fa._SX342_SY600_.jpg"
     },
     {
       "name": "An Actor's Revenge",
@@ -3099,7 +3099,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/beyond-all-barriers/",
       "year": "1989",
       "originalTitle": "Beyond All Barriers",
-      "rating": 3.1,
+      "rating": 3,
       "streamProviders": []
     },
     {
@@ -3439,7 +3439,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e6bbf5e20f6707b94d1187fb49f173a525d6c5457cae7649fe123499952859f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84488d6f097a655baa59d2c30d0ce68302b011f5b3bf85e816a0ccb12166c1b8._SX342_SY600_.jpg"
     },
     {
       "name": "Barry Lyndon",
@@ -3911,7 +3911,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c32e231bb549a4ac866b493f58e5c88ca497941236268a8d696b802e15739f88._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f27d9055172da16533eeb0524231485791bef2474b1996559917dba6052dab85._SX342_SY600_.jpg"
     },
     {
       "name": "The Squid and the Whale",
@@ -5093,11 +5093,10 @@
     {
       "name": "Spend It All",
       "letterboxdUrl": "https://letterboxd.com/film/spend-it-all/",
-      "year": "1971",
+      "year": "1972",
       "originalTitle": "Spend It All",
       "rating": 3.9,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/344e9a3d21b4b975fec2448569aab91c9aa51737c55f6924d1429b9c1aa3b8c3._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "God Respects Us When We Work, But Loves Us When We Dance",
@@ -5298,7 +5297,7 @@
       "streamProviders": [
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ff7feb05b7d1de52dbabe793159ab82f932dc298919546162d70b93bcb9e1653._SX342_SY600_.jpg"
     },
     {
       "name": "The Umbrellas of Cherbourg",
@@ -6270,7 +6269,7 @@
       "originalTitle": "Following",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/5giub1nKK3sFRvZxmebe31scQOo.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/lK9LE5D67HNyPlhJcjKAgnRh0OO.jpg"
     },
     {
       "name": "Purple Noon",
@@ -7120,7 +7119,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/60600d1201560a694c0cfcc75470b7ffc6f1fcf4777c3a513be9988655270ad7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b0a784eef6eb730d3848977b869eacb2e5066c09b991a28ced2fb053a4833cb0._SX342_SY600_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -7247,7 +7246,7 @@
         "Prime Video Channels Good!Movies",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e79642345a1ba1fc016057f4cf4f8bb9f8f89207e281720b382f92e55e962fba._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ae0b3c6f3cce959f9223f237380473a2c63c4982e448af6941f579c307080ae1._SX342_SY600_.jpg"
     },
     {
       "name": "Broadcast News",
@@ -7558,7 +7557,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/persian-3/",
       "year": "1999",
       "originalTitle": "Persian #3",
-      "rating": 3.3,
+      "rating": 3.2,
       "streamProviders": []
     },
     {
@@ -7797,7 +7796,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels Wild West"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ecc4ba8644452e42801ff8d20380b2324701f4764d84b24bec22d99b5fd1269._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/803c36aee114987fd7080fda370051d7da6fcdfef867a50a6f2cdb04fea831b2._SX342_SY600_.jpg"
     },
     {
       "name": "The Fugitive Kind",
@@ -8654,7 +8653,7 @@
       "originalTitle": "Fanfan la Tulipe",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/smbMzbRcpNfmOkXDkMxVTqCJkf8.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/eJGvWQ7ipkeoDBGePK8AH8IQyCK.jpg"
     },
     {
       "name": "Bottle Rocket",
@@ -8922,6 +8921,7 @@
       "originalTitle": "The Last Emperor",
       "rating": 3.8,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels ARTHAUS+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ed96a4d05d06e55f9ff4ce26371a125835793fb158aa135bfe254403a43591f._SX342_SY600_.jpg"
@@ -9954,7 +9954,9 @@
       "year": "1959",
       "originalTitle": "Pickpocket",
       "rating": 3.9,
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/u6sp3YjUzQzA3k8KJvlku130bqv.jpg"
     },
     {
@@ -10052,7 +10054,7 @@
         "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/10d7d38e7f375572ba653cba7ce17c5096f24299caa0c226aa694eacde43d740._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94a928f51e39e76b0acd1b5608a79b523824f32059ca5436c353a5164bd4dd97.png"
     },
     {
       "name": "Bad Timing",
@@ -10079,7 +10081,7 @@
       "originalTitle": "An Angel at My Table",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/e7BtwQXF0xiztbFPsOlvR0zNCdM.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/zpPZ0HVqVC6Vrx9Xfgz30GMEAfu.jpg"
     },
     {
       "name": "The Life Aquatic with Steve Zissou",
@@ -11282,7 +11284,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-wold-shadow/",
       "year": "1972",
       "originalTitle": "The Wold Shadow",
-      "rating": 3.1,
+      "rating": 3,
       "streamProviders": []
     },
     {
@@ -11403,7 +11405,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/i-am-curious-blue/",
       "year": "1968",
       "originalTitle": "Jag är nyfiken - en film i blått",
-      "rating": 3.2,
+      "rating": 3.1,
       "streamProviders": [
         "Prime Video Channels MUBI"
       ],
@@ -12281,7 +12283,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0e0b5dfc39407f3225dfd1bf9028fb8fb958533824ceb96becf6d4f8ec4772ce._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4e15b8007733ecd806781c5a526463a7ddaccef035ad79cdd8bf684205e80657._SX342_SY600_.jpg"
     },
     {
       "name": "Ivan the Terrible, Part II: The Boyars' Plot",
@@ -12627,7 +12629,7 @@
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels MUBI"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4a8cb005d416e9f61b589daf6417ae89547489cd41c1223b70f437ce32243655._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94b2d2d8c79313cdea72ca8b497c0d2499d555baa71c19d97bcfed3ea83f59c7._SX342_SY600_.jpg"
     },
     {
       "name": "The 39 Steps",
@@ -12991,10 +12993,11 @@
       "originalTitle": "Sid & Nancy",
       "rating": 3.5,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c29444c4b0bafad334f6ebe181c61ff28f9b0efabe9986a135db3f77661a69ca._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4cd5d1c3802a49fa360d6ca2b2ae9dbe076955c22daa3ac674e06940c0b88d38.png"
     },
     {
       "name": "Shock Corridor",
@@ -13231,7 +13234,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/the-love-goddesses/",
       "year": "1965",
       "originalTitle": "The Love Goddesses",
-      "rating": 3.1,
+      "rating": 3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/74cENKRCyOoN7dCN4nVdoy6VZvL.jpg"
     },
@@ -13584,7 +13587,7 @@
       "streamProviders": [
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/95cf1156fba84a761a17af7a560eddb5a982bcdadaf6743185fef4d1ff5e92f5._SX342_SY600_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/hgRu3Ete6ueYVOxPGwvcrIkooNY.jpg"
     },
     {
       "name": "The Fiancés of Macdonald Bridge",
@@ -13667,7 +13670,7 @@
       "streamProviders": [
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b1cec24bd5b3c35b1779952387fb3d528f972eb0f935b2ba7219b0c1c2a7c79._SX342_SY600_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/yhEstp1TzV8cagOKRYodykWzcxN.jpg"
     },
     {
       "name": "Uncle Yanco",
@@ -13694,7 +13697,7 @@
       "letterboxdUrl": "https://letterboxd.com/film/lions-love/",
       "year": "1969",
       "originalTitle": "Lions Love",
-      "rating": 3.4,
+      "rating": 3.3,
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Mubi"
@@ -13710,7 +13713,7 @@
       "streamProviders": [
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb0d3ff8bb890826ccf893c7cbe77561134b309e5625c9864ece81c26f023fe5._SX342_SY600_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/3diV1YuLZU3SdwTW43nQCEx5UXq.jpg"
     },
     {
       "name": "Documenteur",
@@ -13721,7 +13724,7 @@
       "streamProviders": [
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb4b9d59fe251cb8b4959f712d42a0acc610b87e2c0a9cc6d99eb07587fa2589._SX342_SY600_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vG836Cq6ankX6Hgodkha9gEf756.jpg"
     },
     {
       "name": "Women Reply",
@@ -13775,7 +13778,7 @@
       "streamProviders": [
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9e93a55dcd9862d96c7f6e836ea893166d633ed70837b9f705916ec609a663f9._SX342_SY600_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ymnlN8fhRDx0dmkqmZW4mQCbLXs.jpg"
     },
     {
       "name": "Jacquot",
@@ -13822,7 +13825,7 @@
       "streamProviders": [
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e5f92bc4dc09259f8fabaacbfcd86c27ec9dbefd02cc98e09b526863779518d4._SX342_SY600_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/581ikn6BkZ08GhKLQpqYJvajdfA.jpg"
     },
     {
       "name": "The Gleaners and I: Two Years Later",
