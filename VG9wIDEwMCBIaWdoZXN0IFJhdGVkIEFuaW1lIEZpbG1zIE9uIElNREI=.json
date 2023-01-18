@@ -62,7 +62,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c71b331fdeb96f3acfd30d42d9d55b62c4141a3f6c2ef412dfc5e893c906392f._SX342_SY600_.jpg"
     },
     {
       "name": "Magnetic Rose",
@@ -219,7 +219,7 @@
       "originalTitle": "ベルセルク 黄金時代篇III 降臨",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/0/p10714536_v_v8_aa.jpg&out=jpeg"
+      "imageUrl": "https://www.justwatch.com/images/poster/244745570/s166/Berserk-Das-goldene-Zeitalter-3"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part II: Eternal",
@@ -504,7 +504,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/176216671/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gKFGQBKI1TnZ6foqoFgQruM86Mq.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -552,7 +552,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53b9a2433844f3bd89ce56e6dfe32b9bbf1820dddd434fc7eb4bc6ee7bd2d87b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/683f71eb7e7f2ff110422d3b20749a43e936a03950566f9d41970e72f480d842._SX342_SY600_.jpg"
     },
     {
       "name": "When Marnie Was There",
@@ -677,11 +677,7 @@
       "year": "2000",
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
       "rating": 3.9,
-      "streamProviders": [
-        "Prime Video Channels Netzkino Select",
-        "Prime Video Channels Silverline"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbe9c724ac280ac38bdff55b027fc3c517ba23bad353865934fe5fa4c69de090._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Angel's Egg",
@@ -718,7 +714,7 @@
       "originalTitle": "夜は短し歩けよ乙女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
     },
     {
       "name": "No Game No Life: Zero",
@@ -729,7 +725,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/30d86752872d55625ca73d847dea834320ebb5ce86eb5a33a8640bea76e7d405._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f93e3620b31b11420ee7544913e1bf0767e2a654f6e62c286960ce38f88e172._SX342_SY600_.jpg"
     },
     {
       "name": "Kizumonogatari Part 1: Tekketsu",
@@ -794,7 +790,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/175988539/s166/Inuyasha"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/180ab54f6d1b9690095b37bd5223e91083b23995eec2610523e7001c44df19ec._SX342_SY600_.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -821,7 +817,7 @@
       "originalTitle": "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/gd3argrGcs6mEHYPmnVHrP11sCG.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/xU2L35dvXsQKyu3rh2fmgePva50.jpg"
     },
     {
       "name": "Patlabor 2: The Movie",
@@ -875,7 +871,7 @@
       "originalTitle": "映画けいおん！",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/257936128/s166/K-ON-The-Movie"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2b9e48fba8ffc22ae563ecd5c84f1336f6da7ad7b689660d2c66609d4ee4aec._SX342_SY600_.jpg"
     },
     {
       "name": "From Up on Poppy Hill",
@@ -980,15 +976,7 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Netzkino Select",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels Qello Concerts by Stingray",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {
