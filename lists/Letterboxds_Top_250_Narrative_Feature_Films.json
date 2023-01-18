@@ -6,6 +6,7 @@
     {
       "name": "Come and See",
       "letterboxdUrl": "https://letterboxd.com/film/come-and-see/",
+      "listPosition": 0,
       "year": "1985",
       "originalTitle": "Иди и смотри",
       "rating": 4.6,
@@ -15,6 +16,7 @@
     {
       "name": "Parasite",
       "letterboxdUrl": "https://letterboxd.com/film/parasite-2019/",
+      "listPosition": 0,
       "year": "2019",
       "originalTitle": "기생충",
       "rating": 4.6,
@@ -24,6 +26,7 @@
     {
       "name": "Harakiri",
       "letterboxdUrl": "https://letterboxd.com/film/harakiri/",
+      "listPosition": 0,
       "year": "1962",
       "originalTitle": "切腹",
       "rating": 4.5,
@@ -33,6 +36,7 @@
     {
       "name": "A Dog's Will",
       "letterboxdUrl": "https://letterboxd.com/film/a-dogs-will/",
+      "listPosition": 4,
       "year": "2000",
       "originalTitle": "O Auto da Compadecida",
       "rating": 4.5,
@@ -41,6 +45,7 @@
     {
       "name": "The Godfather",
       "letterboxdUrl": "https://letterboxd.com/film/the-godfather/",
+      "listPosition": 0,
       "year": "1972",
       "originalTitle": "The Godfather",
       "rating": 4.5,
@@ -53,6 +58,7 @@
     {
       "name": "The Godfather: Part II",
       "letterboxdUrl": "https://letterboxd.com/film/the-godfather-part-ii/",
+      "listPosition": 0,
       "year": "1974",
       "originalTitle": "The Godfather: Part II",
       "rating": 4.5,
@@ -64,6 +70,7 @@
     {
       "name": "The Human Condition III: A Soldier's Prayer",
       "letterboxdUrl": "https://letterboxd.com/film/the-human-condition-iii-a-soldiers-prayer/",
+      "listPosition": 7,
       "year": "1961",
       "originalTitle": "人間の條件　完結篇",
       "rating": 4.5,
@@ -73,6 +80,7 @@
     {
       "name": "12 Angry Men",
       "letterboxdUrl": "https://letterboxd.com/film/12-angry-men/",
+      "listPosition": 0,
       "year": "1957",
       "originalTitle": "12 Angry Men",
       "rating": 4.5,
@@ -82,6 +90,7 @@
     {
       "name": "Seven Samurai",
       "letterboxdUrl": "https://letterboxd.com/film/seven-samurai/",
+      "listPosition": 9,
       "year": "1954",
       "originalTitle": "七人の侍",
       "rating": 4.5,
@@ -91,6 +100,7 @@
     {
       "name": "The Shawshank Redemption",
       "letterboxdUrl": "https://letterboxd.com/film/the-shawshank-redemption/",
+      "listPosition": 10,
       "year": "1994",
       "originalTitle": "The Shawshank Redemption",
       "rating": 4.5,
@@ -102,6 +112,7 @@
     {
       "name": "Spirited Away",
       "letterboxdUrl": "https://letterboxd.com/film/spirited-away/",
+      "listPosition": 11,
       "year": "2001",
       "originalTitle": "千と千尋の神隠し",
       "rating": 4.5,
@@ -113,6 +124,7 @@
     {
       "name": "High and Low",
       "letterboxdUrl": "https://letterboxd.com/film/high-and-low/",
+      "listPosition": 0,
       "year": "1963",
       "originalTitle": "天国と地獄",
       "rating": 4.5,
@@ -122,6 +134,7 @@
     {
       "name": "Central Station",
       "letterboxdUrl": "https://letterboxd.com/film/central-station/",
+      "listPosition": 13,
       "year": "1998",
       "originalTitle": "Central do Brasil",
       "rating": 4.5,
@@ -133,6 +146,7 @@
     {
       "name": "The Dark Knight",
       "letterboxdUrl": "https://letterboxd.com/film/the-dark-knight/",
+      "listPosition": 14,
       "year": "2008",
       "originalTitle": "The Dark Knight",
       "rating": 4.5,
@@ -146,6 +160,7 @@
     {
       "name": "Everything Everywhere All at Once",
       "letterboxdUrl": "https://letterboxd.com/film/everything-everywhere-all-at-once/",
+      "listPosition": 0,
       "year": "2022",
       "originalTitle": "Everything Everywhere All at Once",
       "rating": 4.4,
@@ -155,6 +170,7 @@
     {
       "name": "Spider-Man: Into the Spider-Verse",
       "letterboxdUrl": "https://letterboxd.com/film/spider-man-into-the-spider-verse/",
+      "listPosition": 0,
       "year": "2018",
       "originalTitle": "Spider-Man: Into the Spider-Verse",
       "rating": 4.4,
@@ -167,6 +183,7 @@
     {
       "name": "Yi Yi",
       "letterboxdUrl": "https://letterboxd.com/film/yi-yi/",
+      "listPosition": 0,
       "year": "2000",
       "originalTitle": "一一",
       "rating": 4.4,
@@ -176,6 +193,7 @@
     {
       "name": "A Brighter Summer Day",
       "letterboxdUrl": "https://letterboxd.com/film/a-brighter-summer-day/",
+      "listPosition": 0,
       "year": "1991",
       "originalTitle": "牯嶺街少年殺人事件",
       "rating": 4.4,
@@ -185,6 +203,7 @@
     {
       "name": "City of God",
       "letterboxdUrl": "https://letterboxd.com/film/city-of-god/",
+      "listPosition": 0,
       "year": "2002",
       "originalTitle": "Cidade de Deus",
       "rating": 4.4,
@@ -194,6 +213,7 @@
     {
       "name": "GoodFellas",
       "letterboxdUrl": "https://letterboxd.com/film/goodfellas/",
+      "listPosition": 0,
       "year": "1990",
       "originalTitle": "GoodFellas",
       "rating": 4.4,
@@ -205,6 +225,7 @@
     {
       "name": "Schindler's List",
       "letterboxdUrl": "https://letterboxd.com/film/schindlers-list/",
+      "listPosition": 21,
       "year": "1993",
       "originalTitle": "Schindler's List",
       "rating": 4.4,
@@ -217,6 +238,7 @@
     {
       "name": "Neon Genesis Evangelion: The End of Evangelion",
       "letterboxdUrl": "https://letterboxd.com/film/neon-genesis-evangelion-the-end-of-evangelion/",
+      "listPosition": 22,
       "year": "1997",
       "originalTitle": "新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION",
       "rating": 4.4,
@@ -228,6 +250,7 @@
     {
       "name": "The Human Condition I: No Greater Love",
       "letterboxdUrl": "https://letterboxd.com/film/the-human-condition-i-no-greater-love/",
+      "listPosition": 23,
       "year": "1959",
       "originalTitle": "人間の條件　第１部純愛篇／第２部激怒篇",
       "rating": 4.4,
@@ -237,6 +260,7 @@
     {
       "name": "The Lord of the Rings: The Return of the King",
       "letterboxdUrl": "https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/",
+      "listPosition": 24,
       "year": "2003",
       "originalTitle": "The Lord of the Rings: The Return of the King",
       "rating": 4.4,
@@ -248,6 +272,7 @@
     {
       "name": "Portrait of a Lady on Fire",
       "letterboxdUrl": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/",
+      "listPosition": 0,
       "year": "2019",
       "originalTitle": "Portrait de la jeune fille en feu",
       "rating": 4.4,
@@ -257,6 +282,7 @@
     {
       "name": "Ikiru",
       "letterboxdUrl": "https://letterboxd.com/film/ikiru/",
+      "listPosition": 0,
       "year": "1952",
       "originalTitle": "生きる",
       "rating": 4.4,
@@ -268,6 +294,7 @@
     {
       "name": "The Good, the Bad and the Ugly",
       "letterboxdUrl": "https://letterboxd.com/film/the-good-the-bad-and-the-ugly/",
+      "listPosition": 27,
       "year": "1966",
       "originalTitle": "Il buono, il brutto, il cattivo",
       "rating": 4.4,
@@ -279,6 +306,7 @@
     {
       "name": "Whiplash",
       "letterboxdUrl": "https://letterboxd.com/film/whiplash-2014/",
+      "listPosition": 0,
       "year": "2014",
       "originalTitle": "Whiplash",
       "rating": 4.4,
@@ -288,6 +316,7 @@
     {
       "name": "La Haine",
       "letterboxdUrl": "https://letterboxd.com/film/la-haine/",
+      "listPosition": 29,
       "year": "1995",
       "originalTitle": "La Haine",
       "rating": 4.4,
@@ -297,6 +326,7 @@
     {
       "name": "The Empire Strikes Back",
       "letterboxdUrl": "https://letterboxd.com/film/the-empire-strikes-back/",
+      "listPosition": 30,
       "year": "1980",
       "originalTitle": "The Empire Strikes Back",
       "rating": 4.4,
@@ -308,6 +338,7 @@
     {
       "name": "There Will Be Blood",
       "letterboxdUrl": "https://letterboxd.com/film/there-will-be-blood/",
+      "listPosition": 31,
       "year": "2007",
       "originalTitle": "There Will Be Blood",
       "rating": 4.4,
@@ -319,6 +350,7 @@
     {
       "name": "Stalker",
       "letterboxdUrl": "https://letterboxd.com/film/stalker/",
+      "listPosition": 0,
       "year": "1979",
       "originalTitle": "Сталкер",
       "rating": 4.4,
@@ -330,6 +362,7 @@
     {
       "name": "Perfect Blue",
       "letterboxdUrl": "https://letterboxd.com/film/perfect-blue/",
+      "listPosition": 33,
       "year": "1997",
       "originalTitle": "パーフェクトブルー",
       "rating": 4.4,
@@ -339,6 +372,7 @@
     {
       "name": "Grave of the Fireflies",
       "letterboxdUrl": "https://letterboxd.com/film/grave-of-the-fireflies/",
+      "listPosition": 34,
       "year": "1988",
       "originalTitle": "火垂るの墓",
       "rating": 4.4,
@@ -348,6 +382,7 @@
     {
       "name": "The Handmaiden",
       "letterboxdUrl": "https://letterboxd.com/film/the-handmaiden/",
+      "listPosition": 35,
       "year": "2016",
       "originalTitle": "아가씨",
       "rating": 4.4,
@@ -359,6 +394,7 @@
     {
       "name": "Ran",
       "letterboxdUrl": "https://letterboxd.com/film/ran/",
+      "listPosition": 0,
       "year": "1985",
       "originalTitle": "乱",
       "rating": 4.4,
@@ -370,6 +406,7 @@
     {
       "name": "In the Mood for Love",
       "letterboxdUrl": "https://letterboxd.com/film/in-the-mood-for-love/",
+      "listPosition": 0,
       "year": "2000",
       "originalTitle": "花樣年華",
       "rating": 4.4,
@@ -381,6 +418,7 @@
     {
       "name": "Cinema Paradiso",
       "letterboxdUrl": "https://letterboxd.com/film/cinema-paradiso/",
+      "listPosition": 38,
       "year": "1988",
       "originalTitle": "Nuovo Cinema Paradiso",
       "rating": 4.4,
@@ -390,6 +428,7 @@
     {
       "name": "Persona",
       "letterboxdUrl": "https://letterboxd.com/film/persona/",
+      "listPosition": 39,
       "year": "1966",
       "originalTitle": "Persona",
       "rating": 4.4,
@@ -401,6 +440,7 @@
     {
       "name": "Sunset Boulevard",
       "letterboxdUrl": "https://letterboxd.com/film/sunset-boulevard/",
+      "listPosition": 40,
       "year": "1950",
       "originalTitle": "Sunset Boulevard",
       "rating": 4.4,
@@ -413,6 +453,7 @@
     {
       "name": "Apocalypse Now",
       "letterboxdUrl": "https://letterboxd.com/film/apocalypse-now/",
+      "listPosition": 41,
       "year": "1979",
       "originalTitle": "Apocalypse Now",
       "rating": 4.4,
@@ -426,6 +467,7 @@
     {
       "name": "The Passion of Joan of Arc",
       "letterboxdUrl": "https://letterboxd.com/film/the-passion-of-joan-of-arc/",
+      "listPosition": 0,
       "year": "1928",
       "originalTitle": "La passion de Jeanne d'Arc",
       "rating": 4.3,
@@ -437,6 +479,7 @@
     {
       "name": "Woman in the Dunes",
       "letterboxdUrl": "https://letterboxd.com/film/woman-in-the-dunes/",
+      "listPosition": 43,
       "year": "1964",
       "originalTitle": "砂の女",
       "rating": 4.3,
@@ -446,6 +489,7 @@
     {
       "name": "Andrei Rublev",
       "letterboxdUrl": "https://letterboxd.com/film/andrei-rublev/",
+      "listPosition": 0,
       "year": "1966",
       "originalTitle": "Андрей Рублёв",
       "rating": 4.3,
@@ -457,6 +501,7 @@
     {
       "name": "The Human Condition II: Road to Eternity",
       "letterboxdUrl": "https://letterboxd.com/film/the-human-condition-ii-road-to-eternity/",
+      "listPosition": 45,
       "year": "1959",
       "originalTitle": "人間の條件　第３部望郷篇／第４部戦雲篇",
       "rating": 4.3,
@@ -466,6 +511,7 @@
     {
       "name": "Tokyo Story",
       "letterboxdUrl": "https://letterboxd.com/film/tokyo-story/",
+      "listPosition": 46,
       "year": "1953",
       "originalTitle": "東京物語",
       "rating": 4.3,
@@ -475,6 +521,7 @@
     {
       "name": "Autumn Sonata",
       "letterboxdUrl": "https://letterboxd.com/film/autumn-sonata/",
+      "listPosition": 47,
       "year": "1978",
       "originalTitle": "Höstsonaten",
       "rating": 4.3,
@@ -486,6 +533,7 @@
     {
       "name": "Paths of Glory",
       "letterboxdUrl": "https://letterboxd.com/film/paths-of-glory/",
+      "listPosition": 48,
       "year": "1957",
       "originalTitle": "Paths of Glory",
       "rating": 4.3,
@@ -495,6 +543,7 @@
     {
       "name": "Paris, Texas",
       "letterboxdUrl": "https://letterboxd.com/film/paris-texas/",
+      "listPosition": 0,
       "year": "1984",
       "originalTitle": "Paris, Texas",
       "rating": 4.3,
@@ -506,6 +555,7 @@
     {
       "name": "Princess Mononoke",
       "letterboxdUrl": "https://letterboxd.com/film/princess-mononoke/",
+      "listPosition": 50,
       "year": "1997",
       "originalTitle": "もののけ姫",
       "rating": 4.3,
@@ -517,6 +567,7 @@
     {
       "name": "Satantango",
       "letterboxdUrl": "https://letterboxd.com/film/satantango/",
+      "listPosition": 51,
       "year": "1994",
       "originalTitle": "Sátántangó",
       "rating": 4.3,
@@ -526,6 +577,7 @@
     {
       "name": "Mishima: A Life in Four Chapters",
       "letterboxdUrl": "https://letterboxd.com/film/mishima-a-life-in-four-chapters/",
+      "listPosition": 52,
       "year": "1985",
       "originalTitle": "Mishima: A Life in Four Chapters",
       "rating": 4.3,
@@ -537,6 +589,7 @@
     {
       "name": "Do the Right Thing",
       "letterboxdUrl": "https://letterboxd.com/film/do-the-right-thing/",
+      "listPosition": 53,
       "year": "1989",
       "originalTitle": "Do the Right Thing",
       "rating": 4.3,
@@ -546,6 +599,7 @@
     {
       "name": "Before Sunrise",
       "letterboxdUrl": "https://letterboxd.com/film/before-sunrise/",
+      "listPosition": 54,
       "year": "1995",
       "originalTitle": "Before Sunrise",
       "rating": 4.3,
@@ -555,6 +609,7 @@
     {
       "name": "The Lord of the Rings: The Fellowship of the Ring",
       "letterboxdUrl": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+      "listPosition": 55,
       "year": "2001",
       "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
       "rating": 4.3,
@@ -566,6 +621,7 @@
     {
       "name": "The Lord of the Rings: The Two Towers",
       "letterboxdUrl": "https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/",
+      "listPosition": 56,
       "year": "2002",
       "originalTitle": "The Lord of the Rings: The Two Towers",
       "rating": 4.3,
@@ -577,6 +633,7 @@
     {
       "name": "Apur Sansar",
       "letterboxdUrl": "https://letterboxd.com/film/apur-sansar/",
+      "listPosition": 57,
       "year": "1959",
       "originalTitle": "অপুর সংসার",
       "rating": 4.3,
@@ -586,6 +643,7 @@
     {
       "name": "The Thing",
       "letterboxdUrl": "https://letterboxd.com/film/the-thing/",
+      "listPosition": 58,
       "year": "1982",
       "originalTitle": "The Thing",
       "rating": 4.3,
@@ -594,6 +652,7 @@
     {
       "name": "The Apartment",
       "letterboxdUrl": "https://letterboxd.com/film/the-apartment/",
+      "listPosition": 59,
       "year": "1960",
       "originalTitle": "The Apartment",
       "rating": 4.3,
@@ -603,6 +662,7 @@
     {
       "name": "Howl's Moving Castle",
       "letterboxdUrl": "https://letterboxd.com/film/howls-moving-castle/",
+      "listPosition": 60,
       "year": "2004",
       "originalTitle": "ハウルの動く城",
       "rating": 4.3,
@@ -614,6 +674,7 @@
     {
       "name": "Eternity and a Day",
       "letterboxdUrl": "https://letterboxd.com/film/eternity-and-a-day/",
+      "listPosition": 61,
       "year": "1998",
       "originalTitle": "Μια αιωνιότητα και μια μέρα",
       "rating": 4.3,
@@ -625,6 +686,7 @@
     {
       "name": "Macario",
       "letterboxdUrl": "https://letterboxd.com/film/macario/",
+      "listPosition": 62,
       "year": "1960",
       "originalTitle": "Macario",
       "rating": 4.3,
@@ -634,6 +696,7 @@
     {
       "name": "Oldboy",
       "letterboxdUrl": "https://letterboxd.com/film/oldboy/",
+      "listPosition": 0,
       "year": "2003",
       "originalTitle": "올드보이",
       "rating": 4.3,
@@ -646,6 +709,7 @@
     {
       "name": "Rear Window",
       "letterboxdUrl": "https://letterboxd.com/film/rear-window/",
+      "listPosition": 0,
       "year": "1954",
       "originalTitle": "Rear Window",
       "rating": 4.3,
@@ -655,6 +719,7 @@
     {
       "name": "Le Trou",
       "letterboxdUrl": "https://letterboxd.com/film/le-trou/",
+      "listPosition": 65,
       "year": "1960",
       "originalTitle": "Le Trou",
       "rating": 4.3,
@@ -666,6 +731,7 @@
     {
       "name": "Fanny and Alexander",
       "letterboxdUrl": "https://letterboxd.com/film/fanny-and-alexander/",
+      "listPosition": 66,
       "year": "1982",
       "originalTitle": "Fanny och Alexander",
       "rating": 4.3,
@@ -675,6 +741,7 @@
     {
       "name": "The Silence of the Lambs",
       "letterboxdUrl": "https://letterboxd.com/film/the-silence-of-the-lambs/",
+      "listPosition": 67,
       "year": "1991",
       "originalTitle": "The Silence of the Lambs",
       "rating": 4.3,
@@ -686,6 +753,7 @@
     {
       "name": "The Cranes Are Flying",
       "letterboxdUrl": "https://letterboxd.com/film/the-cranes-are-flying/",
+      "listPosition": 68,
       "year": "1957",
       "originalTitle": "Летят журавли",
       "rating": 4.3,
@@ -697,6 +765,7 @@
     {
       "name": "It's Such a Beautiful Day",
       "letterboxdUrl": "https://letterboxd.com/film/its-such-a-beautiful-day/",
+      "listPosition": 69,
       "year": "2012",
       "originalTitle": "It's Such a Beautiful Day",
       "rating": 4.3,
@@ -706,6 +775,7 @@
     {
       "name": "Before Sunset",
       "letterboxdUrl": "https://letterboxd.com/film/before-sunset/",
+      "listPosition": 70,
       "year": "2004",
       "originalTitle": "Before Sunset",
       "rating": 4.3,
@@ -715,6 +785,7 @@
     {
       "name": "A Woman Under the Influence",
       "letterboxdUrl": "https://letterboxd.com/film/a-woman-under-the-influence/",
+      "listPosition": 71,
       "year": "1974",
       "originalTitle": "A Woman Under the Influence",
       "rating": 4.3,
@@ -724,6 +795,7 @@
     {
       "name": "Memories of Murder",
       "letterboxdUrl": "https://letterboxd.com/film/memories-of-murder/",
+      "listPosition": 0,
       "year": "2003",
       "originalTitle": "살인의 추억",
       "rating": 4.3,
@@ -737,6 +809,7 @@
     {
       "name": "It's a Wonderful Life",
       "letterboxdUrl": "https://letterboxd.com/film/its-a-wonderful-life/",
+      "listPosition": 0,
       "year": "1946",
       "originalTitle": "It's a Wonderful Life",
       "rating": 4.3,
@@ -751,6 +824,7 @@
     {
       "name": "Scenes from a Marriage",
       "letterboxdUrl": "https://letterboxd.com/film/scenes-from-a-marriage/",
+      "listPosition": 74,
       "year": "1974",
       "originalTitle": "Scener ur ett äktenskap",
       "rating": 4.3,
@@ -762,6 +836,7 @@
     {
       "name": "I Am Cuba",
       "letterboxdUrl": "https://letterboxd.com/film/i-am-cuba/",
+      "listPosition": 0,
       "year": "1964",
       "originalTitle": "Soy Cuba",
       "rating": 4.3,
@@ -771,6 +846,7 @@
     {
       "name": "The Red Shoes",
       "letterboxdUrl": "https://letterboxd.com/film/the-red-shoes/",
+      "listPosition": 76,
       "year": "1948",
       "originalTitle": "The Red Shoes",
       "rating": 4.3,
@@ -780,6 +856,7 @@
     {
       "name": "Fight Club",
       "letterboxdUrl": "https://letterboxd.com/film/fight-club/",
+      "listPosition": 0,
       "year": "1999",
       "originalTitle": "Fight Club",
       "rating": 4.3,
@@ -791,6 +868,7 @@
     {
       "name": "Sansho the Bailiff",
       "letterboxdUrl": "https://letterboxd.com/film/sansho-the-bailiff/",
+      "listPosition": 0,
       "year": "1954",
       "originalTitle": "山椒大夫",
       "rating": 4.3,
@@ -800,6 +878,7 @@
     {
       "name": "Psycho",
       "letterboxdUrl": "https://letterboxd.com/film/psycho/",
+      "listPosition": 0,
       "year": "1960",
       "originalTitle": "Psycho",
       "rating": 4.3,
@@ -809,6 +888,7 @@
     {
       "name": "War and Peace",
       "letterboxdUrl": "https://letterboxd.com/film/war-and-peace-1965/",
+      "listPosition": 0,
       "year": "1965",
       "originalTitle": "Война и мир",
       "rating": 4.3,
@@ -818,6 +898,7 @@
     {
       "name": "The Given Word",
       "letterboxdUrl": "https://letterboxd.com/film/the-given-word/",
+      "listPosition": 81,
       "year": "1962",
       "originalTitle": "O Pagador de Promessas",
       "rating": 4.3,
@@ -827,6 +908,7 @@
     {
       "name": "The Ascent",
       "letterboxdUrl": "https://letterboxd.com/film/the-ascent/",
+      "listPosition": 82,
       "year": "1977",
       "originalTitle": "Восхождение",
       "rating": 4.3,
@@ -836,6 +918,7 @@
     {
       "name": "Once Upon a Time in the West",
       "letterboxdUrl": "https://letterboxd.com/film/once-upon-a-time-in-the-west/",
+      "listPosition": 0,
       "year": "1968",
       "originalTitle": "C'era una volta il West",
       "rating": 4.3,
@@ -850,6 +933,7 @@
     {
       "name": "Inglourious Basterds",
       "letterboxdUrl": "https://letterboxd.com/film/inglourious-basterds/",
+      "listPosition": 0,
       "year": "2009",
       "originalTitle": "Inglourious Basterds",
       "rating": 4.3,
@@ -861,6 +945,7 @@
     {
       "name": "Barry Lyndon",
       "letterboxdUrl": "https://letterboxd.com/film/barry-lyndon/",
+      "listPosition": 85,
       "year": "1975",
       "originalTitle": "Barry Lyndon",
       "rating": 4.3,
@@ -870,6 +955,7 @@
     {
       "name": "Pulp Fiction",
       "letterboxdUrl": "https://letterboxd.com/film/pulp-fiction/",
+      "listPosition": 0,
       "year": "1994",
       "originalTitle": "Pulp Fiction",
       "rating": 4.3,
@@ -885,6 +971,7 @@
     {
       "name": "Se7en",
       "letterboxdUrl": "https://letterboxd.com/film/se7en/",
+      "listPosition": 0,
       "year": "1995",
       "originalTitle": "Se7en",
       "rating": 4.3,
@@ -896,6 +983,7 @@
     {
       "name": "2001: A Space Odyssey",
       "letterboxdUrl": "https://letterboxd.com/film/2001-a-space-odyssey/",
+      "listPosition": 0,
       "year": "1968",
       "originalTitle": "2001: A Space Odyssey",
       "rating": 4.3,
@@ -905,6 +993,7 @@
     {
       "name": "Mirror",
       "letterboxdUrl": "https://letterboxd.com/film/mirror/",
+      "listPosition": 89,
       "year": "1975",
       "originalTitle": "Зеркало",
       "rating": 4.3,
@@ -916,6 +1005,7 @@
     {
       "name": "The Second Mother",
       "letterboxdUrl": "https://letterboxd.com/film/the-second-mother/",
+      "listPosition": 90,
       "year": "2015",
       "originalTitle": "Que Horas Ela Volta?",
       "rating": 4.3,
@@ -927,6 +1017,7 @@
     {
       "name": "Love Exposure",
       "letterboxdUrl": "https://letterboxd.com/film/love-exposure/",
+      "listPosition": 0,
       "year": "2008",
       "originalTitle": "愛のむきだし",
       "rating": 4.3,
@@ -936,6 +1027,7 @@
     {
       "name": "Incendies",
       "letterboxdUrl": "https://letterboxd.com/film/incendies/",
+      "listPosition": 92,
       "year": "2010",
       "originalTitle": "Incendies",
       "rating": 4.3,
@@ -947,6 +1039,7 @@
     {
       "name": "One Flew Over the Cuckoo's Nest",
       "letterboxdUrl": "https://letterboxd.com/film/one-flew-over-the-cuckoos-nest/",
+      "listPosition": 0,
       "year": "1975",
       "originalTitle": "One Flew Over the Cuckoo's Nest",
       "rating": 4.3,
@@ -956,6 +1049,7 @@
     {
       "name": "Nights of Cabiria",
       "letterboxdUrl": "https://letterboxd.com/film/nights-of-cabiria/",
+      "listPosition": 94,
       "year": "1957",
       "originalTitle": "Le notti di Cabiria",
       "rating": 4.3,
@@ -967,6 +1061,7 @@
     {
       "name": "The Battle of Algiers",
       "letterboxdUrl": "https://letterboxd.com/film/the-battle-of-algiers/",
+      "listPosition": 95,
       "year": "1966",
       "originalTitle": "La battaglia di Algeri",
       "rating": 4.3,
@@ -976,6 +1071,7 @@
     {
       "name": "Pather Panchali",
       "letterboxdUrl": "https://letterboxd.com/film/pather-panchali/",
+      "listPosition": 96,
       "year": "1955",
       "originalTitle": "পথের পাঁচালী",
       "rating": 4.3,
@@ -985,6 +1081,7 @@
     {
       "name": "No Country for Old Men",
       "letterboxdUrl": "https://letterboxd.com/film/no-country-for-old-men/",
+      "listPosition": 0,
       "year": "2007",
       "originalTitle": "No Country for Old Men",
       "rating": 4.3,
@@ -997,6 +1094,7 @@
     {
       "name": "The Seventh Seal",
       "letterboxdUrl": "https://letterboxd.com/film/the-seventh-seal/",
+      "listPosition": 98,
       "year": "1957",
       "originalTitle": "Det sjunde inseglet",
       "rating": 4.3,
@@ -1008,6 +1106,7 @@
     {
       "name": "The Pianist",
       "letterboxdUrl": "https://letterboxd.com/film/the-pianist/",
+      "listPosition": 99,
       "year": "2002",
       "originalTitle": "The Pianist",
       "rating": 4.3,
@@ -1021,6 +1120,7 @@
     {
       "name": "Ordet",
       "letterboxdUrl": "https://letterboxd.com/film/ordet/",
+      "listPosition": 100,
       "year": "1955",
       "originalTitle": "Ordet",
       "rating": 4.3,
@@ -1030,15 +1130,17 @@
     {
       "name": "Farewell My Concubine",
       "letterboxdUrl": "https://letterboxd.com/film/farewell-my-concubine/",
+      "listPosition": 101,
       "year": "1993",
       "originalTitle": "霸王别姬",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/270986310/s166/Lebewohl-meine-Konkubine"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/uVLFolQ93rolf16Z3IihPGagBOv.jpg"
     },
     {
       "name": "Alien",
       "letterboxdUrl": "https://letterboxd.com/film/alien/",
+      "listPosition": 102,
       "year": "1979",
       "originalTitle": "Alien",
       "rating": 4.3,
@@ -1047,14 +1149,17 @@
     {
       "name": "Chungking Express",
       "letterboxdUrl": "https://letterboxd.com/film/chungking-express/",
+      "listPosition": 103,
       "year": "1994",
       "originalTitle": "重慶森林",
       "rating": 4.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c62448022a05cc38246e00883d296fd764d0e3babfeecee43510af0cb51a94b8._SX342_SY600_.jpg"
     },
     {
       "name": "The Shining",
       "letterboxdUrl": "https://letterboxd.com/film/the-shining/",
+      "listPosition": 0,
       "year": "1980",
       "originalTitle": "The Shining",
       "rating": 4.3,
@@ -1067,6 +1172,7 @@
     {
       "name": "Werckmeister Harmonies",
       "letterboxdUrl": "https://letterboxd.com/film/werckmeister-harmonies/",
+      "listPosition": 105,
       "year": "2000",
       "originalTitle": "Werckmeister harmóniák",
       "rating": 4.3,
@@ -1079,6 +1185,7 @@
     {
       "name": "Interstellar",
       "letterboxdUrl": "https://letterboxd.com/film/interstellar/",
+      "listPosition": 0,
       "year": "2014",
       "originalTitle": "Interstellar",
       "rating": 4.3,
@@ -1090,6 +1197,7 @@
     {
       "name": "Marcel the Shell with Shoes On",
       "letterboxdUrl": "https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/",
+      "listPosition": 107,
       "year": "2021",
       "originalTitle": "Marcel the Shell with Shoes On",
       "rating": 4.3,
@@ -1099,6 +1207,7 @@
     {
       "name": "Aftersun",
       "letterboxdUrl": "https://letterboxd.com/film/aftersun/",
+      "listPosition": 0,
       "year": "2022",
       "originalTitle": "Aftersun",
       "rating": 4.3,
@@ -1108,6 +1217,7 @@
     {
       "name": "City Lights",
       "letterboxdUrl": "https://letterboxd.com/film/city-lights/",
+      "listPosition": 109,
       "year": "1931",
       "originalTitle": "City Lights",
       "rating": 4.3,
@@ -1119,6 +1229,7 @@
     {
       "name": "Singin' in the Rain",
       "letterboxdUrl": "https://letterboxd.com/film/singin-in-the-rain/",
+      "listPosition": 110,
       "year": "1952",
       "originalTitle": "Singin' in the Rain",
       "rating": 4.3,
@@ -1128,6 +1239,7 @@
     {
       "name": "All About Eve",
       "letterboxdUrl": "https://letterboxd.com/film/all-about-eve/",
+      "listPosition": 111,
       "year": "1950",
       "originalTitle": "All About Eve",
       "rating": 4.3,
@@ -1137,6 +1249,7 @@
     {
       "name": "Late Spring",
       "letterboxdUrl": "https://letterboxd.com/film/late-spring/",
+      "listPosition": 112,
       "year": "1949",
       "originalTitle": "晩春",
       "rating": 4.3,
@@ -1145,6 +1258,7 @@
     {
       "name": "8½",
       "letterboxdUrl": "https://letterboxd.com/film/8-half/",
+      "listPosition": 113,
       "year": "1963",
       "originalTitle": "8½",
       "rating": 4.3,
@@ -1153,6 +1267,7 @@
     {
       "name": "Sherlock, Jr.",
       "letterboxdUrl": "https://letterboxd.com/film/sherlock-jr/",
+      "listPosition": 0,
       "year": "1924",
       "originalTitle": "Sherlock, Jr.",
       "rating": 4.3,
@@ -1164,6 +1279,7 @@
     {
       "name": "Landscape in the Mist",
       "letterboxdUrl": "https://letterboxd.com/film/landscape-in-the-mist/",
+      "listPosition": 115,
       "year": "1988",
       "originalTitle": "Τοπίο στην ομίχλη",
       "rating": 4.3,
@@ -1175,6 +1291,7 @@
     {
       "name": "The Best of Youth",
       "letterboxdUrl": "https://letterboxd.com/film/the-best-of-youth/",
+      "listPosition": 116,
       "year": "2003",
       "originalTitle": "La meglio gioventù",
       "rating": 4.3,
@@ -1184,6 +1301,7 @@
     {
       "name": "An Elephant Sitting Still",
       "letterboxdUrl": "https://letterboxd.com/film/an-elephant-sitting-still/",
+      "listPosition": 117,
       "year": "2018",
       "originalTitle": "大象席地而坐",
       "rating": 4.3,
@@ -1193,6 +1311,7 @@
     {
       "name": "The 400 Blows",
       "letterboxdUrl": "https://letterboxd.com/film/the-400-blows/",
+      "listPosition": 118,
       "year": "1959",
       "originalTitle": "Les Quatre Cents Coups",
       "rating": 4.3,
@@ -1204,6 +1323,7 @@
     {
       "name": "Tampopo",
       "letterboxdUrl": "https://letterboxd.com/film/tampopo/",
+      "listPosition": 0,
       "year": "1985",
       "originalTitle": "タンポポ",
       "rating": 4.3,
@@ -1215,6 +1335,7 @@
     {
       "name": "Funeral Parade of Roses",
       "letterboxdUrl": "https://letterboxd.com/film/funeral-parade-of-roses/",
+      "listPosition": 120,
       "year": "1969",
       "originalTitle": "薔薇の葬列",
       "rating": 4.3,
@@ -1227,6 +1348,7 @@
     {
       "name": "A Special Day",
       "letterboxdUrl": "https://letterboxd.com/film/a-special-day/",
+      "listPosition": 121,
       "year": "1977",
       "originalTitle": "Una giornata particolare",
       "rating": 4.2,
@@ -1236,6 +1358,7 @@
     {
       "name": "Mars One",
       "letterboxdUrl": "https://letterboxd.com/film/mars-one/",
+      "listPosition": 122,
       "year": "2022",
       "originalTitle": "Marte Um",
       "rating": 4.2,
@@ -1247,6 +1370,7 @@
     {
       "name": "Bicycle Thieves",
       "letterboxdUrl": "https://letterboxd.com/film/bicycle-thieves/",
+      "listPosition": 0,
       "year": "1948",
       "originalTitle": "Ladri di biciclette",
       "rating": 4.2,
@@ -1259,6 +1383,7 @@
     {
       "name": "Mommy",
       "letterboxdUrl": "https://letterboxd.com/film/mommy-2014/",
+      "listPosition": 124,
       "year": "2014",
       "originalTitle": "Mommy",
       "rating": 4.2,
@@ -1270,6 +1395,7 @@
     {
       "name": "Puss in Boots: The Last Wish",
       "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
+      "listPosition": 0,
       "year": "2022",
       "originalTitle": "Puss in Boots: The Last Wish",
       "rating": 4.3,
@@ -1279,6 +1405,7 @@
     {
       "name": "A Man Escaped",
       "letterboxdUrl": "https://letterboxd.com/film/a-man-escaped/",
+      "listPosition": 126,
       "year": "1956",
       "originalTitle": "Un condamné à mort s'est échappé",
       "rating": 4.2,
@@ -1288,6 +1415,7 @@
     {
       "name": "A Separation",
       "letterboxdUrl": "https://letterboxd.com/film/a-separation/",
+      "listPosition": 127,
       "year": "2011",
       "originalTitle": "جدایی نادر از سیمین",
       "rating": 4.2,
@@ -1300,6 +1428,7 @@
     {
       "name": "Three Colors: Red",
       "letterboxdUrl": "https://letterboxd.com/film/three-colors-red/",
+      "listPosition": 128,
       "year": "1994",
       "originalTitle": "Trois couleurs : Rouge",
       "rating": 4.2,
@@ -1309,6 +1438,7 @@
     {
       "name": "Life Is Beautiful",
       "letterboxdUrl": "https://letterboxd.com/film/life-is-beautiful/",
+      "listPosition": 129,
       "year": "1997",
       "originalTitle": "La vita è bella",
       "rating": 4.2,
@@ -1318,6 +1448,7 @@
     {
       "name": "Where Is My Friend's House?",
       "letterboxdUrl": "https://letterboxd.com/film/where-is-my-friends-house/",
+      "listPosition": 130,
       "year": "1987",
       "originalTitle": "خانه‌ی دوست کجاست؟",
       "rating": 4.2,
@@ -1329,6 +1460,7 @@
     {
       "name": "Wild Strawberries",
       "letterboxdUrl": "https://letterboxd.com/film/wild-strawberries/",
+      "listPosition": 131,
       "year": "1957",
       "originalTitle": "Smultronstället",
       "rating": 4.2,
@@ -1340,6 +1472,7 @@
     {
       "name": "M",
       "letterboxdUrl": "https://letterboxd.com/film/m/",
+      "listPosition": 132,
       "year": "1931",
       "originalTitle": "M - Eine Stadt sucht einen Mörder",
       "rating": 4.2,
@@ -1352,6 +1485,7 @@
     {
       "name": "Red Beard",
       "letterboxdUrl": "https://letterboxd.com/film/red-beard/",
+      "listPosition": 133,
       "year": "1965",
       "originalTitle": "赤ひげ",
       "rating": 4.2,
@@ -1361,6 +1495,7 @@
     {
       "name": "Lawrence of Arabia",
       "letterboxdUrl": "https://letterboxd.com/film/lawrence-of-arabia/",
+      "listPosition": 134,
       "year": "1962",
       "originalTitle": "Lawrence of Arabia",
       "rating": 4.2,
@@ -1373,6 +1508,7 @@
     {
       "name": "They Don't Wear Black Tie",
       "letterboxdUrl": "https://letterboxd.com/film/they-dont-wear-black-tie/",
+      "listPosition": 135,
       "year": "1981",
       "originalTitle": "Eles não usam black-tie",
       "rating": 4.2,
@@ -1381,6 +1517,7 @@
     {
       "name": "All That Jazz",
       "letterboxdUrl": "https://letterboxd.com/film/all-that-jazz/",
+      "listPosition": 136,
       "year": "1979",
       "originalTitle": "All That Jazz",
       "rating": 4.2,
@@ -1390,6 +1527,7 @@
     {
       "name": "The Young Girls of Rochefort",
       "letterboxdUrl": "https://letterboxd.com/film/the-young-girls-of-rochefort/",
+      "listPosition": 137,
       "year": "1967",
       "originalTitle": "Les demoiselles de Rochefort",
       "rating": 4.2,
@@ -1401,6 +1539,7 @@
     {
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
       "letterboxdUrl": "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
+      "listPosition": 138,
       "year": "1964",
       "originalTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
       "rating": 4.2,
@@ -1410,6 +1549,7 @@
     {
       "name": "Army of Shadows",
       "letterboxdUrl": "https://letterboxd.com/film/army-of-shadows/",
+      "listPosition": 139,
       "year": "1969",
       "originalTitle": "L'Armée des ombres",
       "rating": 4.2,
@@ -1421,6 +1561,7 @@
     {
       "name": "Fantastic Mr. Fox",
       "letterboxdUrl": "https://letterboxd.com/film/fantastic-mr-fox/",
+      "listPosition": 0,
       "year": "2009",
       "originalTitle": "Fantastic Mr. Fox",
       "rating": 4.2,
@@ -1432,6 +1573,7 @@
     {
       "name": "Prisoners",
       "letterboxdUrl": "https://letterboxd.com/film/prisoners/",
+      "listPosition": 141,
       "year": "2013",
       "originalTitle": "Prisoners",
       "rating": 4.2,
@@ -1444,6 +1586,7 @@
     {
       "name": "The Father",
       "letterboxdUrl": "https://letterboxd.com/film/the-father-2020/",
+      "listPosition": 0,
       "year": "2020",
       "originalTitle": "The Father",
       "rating": 4.2,
@@ -1456,6 +1599,7 @@
     {
       "name": "Casablanca",
       "letterboxdUrl": "https://letterboxd.com/film/casablanca/",
+      "listPosition": 0,
       "year": "1942",
       "originalTitle": "Casablanca",
       "rating": 4.2,
@@ -1465,6 +1609,7 @@
     {
       "name": "The Grand Budapest Hotel",
       "letterboxdUrl": "https://letterboxd.com/film/the-grand-budapest-hotel/",
+      "listPosition": 0,
       "year": "2014",
       "originalTitle": "The Grand Budapest Hotel",
       "rating": 4.2,
@@ -1476,6 +1621,7 @@
     {
       "name": "The Sacrifice",
       "letterboxdUrl": "https://letterboxd.com/film/the-sacrifice/",
+      "listPosition": 145,
       "year": "1986",
       "originalTitle": "Offret",
       "rating": 4.2,
@@ -1487,6 +1633,7 @@
     {
       "name": "Dead Poets Society",
       "letterboxdUrl": "https://letterboxd.com/film/dead-poets-society/",
+      "listPosition": 146,
       "year": "1989",
       "originalTitle": "Dead Poets Society",
       "rating": 4.2,
@@ -1498,6 +1645,7 @@
     {
       "name": "Eternal Sunshine of the Spotless Mind",
       "letterboxdUrl": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/",
+      "listPosition": 147,
       "year": "2004",
       "originalTitle": "Eternal Sunshine of the Spotless Mind",
       "rating": 4.2,
@@ -1507,6 +1655,7 @@
     {
       "name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
       "letterboxdUrl": "https://letterboxd.com/film/evangelion-3010-thrice-upon-a-time/",
+      "listPosition": 148,
       "year": "2021",
       "originalTitle": "シン・エヴァンゲリオン劇場版:||",
       "rating": 4.2,
@@ -1518,6 +1667,7 @@
     {
       "name": "Wings of Desire",
       "letterboxdUrl": "https://letterboxd.com/film/wings-of-desire/",
+      "listPosition": 0,
       "year": "1987",
       "originalTitle": "Der Himmel über Berlin",
       "rating": 4.2,
@@ -1529,6 +1679,7 @@
     {
       "name": "Yojimbo",
       "letterboxdUrl": "https://letterboxd.com/film/yojimbo/",
+      "listPosition": 0,
       "year": "1961",
       "originalTitle": "用心棒",
       "rating": 4.2,
@@ -1540,6 +1691,7 @@
     {
       "name": "Good Will Hunting",
       "letterboxdUrl": "https://letterboxd.com/film/good-will-hunting/",
+      "listPosition": 0,
       "year": "1997",
       "originalTitle": "Good Will Hunting",
       "rating": 4.2,
@@ -1549,6 +1701,7 @@
     {
       "name": "Paper Moon",
       "letterboxdUrl": "https://letterboxd.com/film/paper-moon/",
+      "listPosition": 152,
       "year": "1973",
       "originalTitle": "Paper Moon",
       "rating": 4.2,
@@ -1561,6 +1714,7 @@
     {
       "name": "Dog Day Afternoon",
       "letterboxdUrl": "https://letterboxd.com/film/dog-day-afternoon/",
+      "listPosition": 153,
       "year": "1975",
       "originalTitle": "Dog Day Afternoon",
       "rating": 4.2,
@@ -1570,6 +1724,7 @@
     {
       "name": "Nobody Knows",
       "letterboxdUrl": "https://letterboxd.com/film/nobody-knows/",
+      "listPosition": 154,
       "year": "2004",
       "originalTitle": "誰も知らない",
       "rating": 4.2,
@@ -1579,6 +1734,7 @@
     {
       "name": "Children of Paradise",
       "letterboxdUrl": "https://letterboxd.com/film/children-of-paradise/",
+      "listPosition": 155,
       "year": "1945",
       "originalTitle": "Les Enfants du Paradis",
       "rating": 4.2,
@@ -1587,6 +1743,7 @@
     {
       "name": "Rocco and His Brothers",
       "letterboxdUrl": "https://letterboxd.com/film/rocco-and-his-brothers/",
+      "listPosition": 156,
       "year": "1960",
       "originalTitle": "Rocco e i suoi fratelli",
       "rating": 4.2,
@@ -1596,6 +1753,7 @@
     {
       "name": "The Young and the Damned",
       "letterboxdUrl": "https://letterboxd.com/film/the-young-and-the-damned/",
+      "listPosition": 157,
       "year": "1950",
       "originalTitle": "Los olvidados",
       "rating": 4.2,
@@ -1605,6 +1763,7 @@
     {
       "name": "Amadeus",
       "letterboxdUrl": "https://letterboxd.com/film/amadeus/",
+      "listPosition": 158,
       "year": "1984",
       "originalTitle": "Amadeus",
       "rating": 4.2,
@@ -1614,6 +1773,7 @@
     {
       "name": "The Wages of Fear",
       "letterboxdUrl": "https://letterboxd.com/film/the-wages-of-fear/",
+      "listPosition": 159,
       "year": "1953",
       "originalTitle": "Le Salaire de la peur",
       "rating": 4.2,
@@ -1625,6 +1785,7 @@
     {
       "name": "La Dolce Vita",
       "letterboxdUrl": "https://letterboxd.com/film/la-dolce-vita/",
+      "listPosition": 0,
       "year": "1960",
       "originalTitle": "La Dolce Vita",
       "rating": 4.2,
@@ -1636,14 +1797,21 @@
     {
       "name": "Still Walking",
       "letterboxdUrl": "https://letterboxd.com/film/still-walking/",
+      "listPosition": 161,
       "year": "2008",
       "originalTitle": "歩いても 歩いても",
       "rating": 4.2,
-      "streamProviders": []
+      "streamProviders": [
+        "Prime Video Channels MUBI",
+        "Sooner",
+        "filmingo"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/98b0330bebd06257a835d2314a10c5c286bae28211b1b9f3e05a491173824bc5._SX342_SY600_.jpg"
     },
     {
       "name": "Akira",
       "letterboxdUrl": "https://letterboxd.com/film/akira/",
+      "listPosition": 162,
       "year": "1988",
       "originalTitle": "アキラ",
       "rating": 4.2,
@@ -1655,6 +1823,7 @@
     {
       "name": "The Night of the Hunter",
       "letterboxdUrl": "https://letterboxd.com/film/the-night-of-the-hunter/",
+      "listPosition": 0,
       "year": "1955",
       "originalTitle": "The Night of the Hunter",
       "rating": 4.2,
@@ -1664,6 +1833,7 @@
     {
       "name": "Brief Encounter",
       "letterboxdUrl": "https://letterboxd.com/film/brief-encounter/",
+      "listPosition": 164,
       "year": "1945",
       "originalTitle": "Brief Encounter",
       "rating": 4.2,
@@ -1673,6 +1843,7 @@
     {
       "name": "Children of Men",
       "letterboxdUrl": "https://letterboxd.com/film/children-of-men/",
+      "listPosition": 165,
       "year": "2006",
       "originalTitle": "Children of Men",
       "rating": 4.2,
@@ -1682,6 +1853,7 @@
     {
       "name": "Terminator 2: Judgment Day",
       "letterboxdUrl": "https://letterboxd.com/film/terminator-2-judgment-day/",
+      "listPosition": 166,
       "year": "1991",
       "originalTitle": "Terminator 2: Judgment Day",
       "rating": 4.2,
@@ -1694,6 +1866,7 @@
     {
       "name": "Burning Days",
       "letterboxdUrl": "https://letterboxd.com/film/burning-days/",
+      "listPosition": 167,
       "year": "2022",
       "originalTitle": "Kurak Günler",
       "rating": 4.2,
@@ -1702,6 +1875,7 @@
     {
       "name": "We All Loved Each Other So Much",
       "letterboxdUrl": "https://letterboxd.com/film/we-all-loved-each-other-so-much/",
+      "listPosition": 168,
       "year": "1974",
       "originalTitle": "C'eravamo tanto amati",
       "rating": 4.2,
@@ -1713,6 +1887,7 @@
     {
       "name": "Modern Times",
       "letterboxdUrl": "https://letterboxd.com/film/modern-times/",
+      "listPosition": 0,
       "year": "1936",
       "originalTitle": "Modern Times",
       "rating": 4.2,
@@ -1724,6 +1899,7 @@
     {
       "name": "Raise the Red Lantern",
       "letterboxdUrl": "https://letterboxd.com/film/raise-the-red-lantern/",
+      "listPosition": 170,
       "year": "1991",
       "originalTitle": "大红灯笼高高挂",
       "rating": 4.2,
@@ -1733,6 +1909,7 @@
     {
       "name": "Napoleon",
       "letterboxdUrl": "https://letterboxd.com/film/napoleon/",
+      "listPosition": 171,
       "year": "1927",
       "originalTitle": "Napoléon",
       "rating": 4.2,
@@ -1742,6 +1919,7 @@
     {
       "name": "The Great Dictator",
       "letterboxdUrl": "https://letterboxd.com/film/the-great-dictator/",
+      "listPosition": 0,
       "year": "1940",
       "originalTitle": "The Great Dictator",
       "rating": 4.2,
@@ -1753,6 +1931,7 @@
     {
       "name": "Ritual",
       "letterboxdUrl": "https://letterboxd.com/film/ritual-2000/",
+      "listPosition": 173,
       "year": "2000",
       "originalTitle": "式日",
       "rating": 4.2,
@@ -1761,6 +1940,7 @@
     {
       "name": "To Be or Not to Be",
       "letterboxdUrl": "https://letterboxd.com/film/to-be-or-not-to-be/",
+      "listPosition": 174,
       "year": "1942",
       "originalTitle": "To Be or Not to Be",
       "rating": 4.2,
@@ -1773,6 +1953,7 @@
     {
       "name": "Chinatown",
       "letterboxdUrl": "https://letterboxd.com/film/chinatown/",
+      "listPosition": 175,
       "year": "1974",
       "originalTitle": "Chinatown",
       "rating": 4.2,
@@ -1785,6 +1966,7 @@
     {
       "name": "Moonlight",
       "letterboxdUrl": "https://letterboxd.com/film/moonlight-2016/",
+      "listPosition": 176,
       "year": "2016",
       "originalTitle": "Moonlight",
       "rating": 4.2,
@@ -1797,6 +1979,7 @@
     {
       "name": "The Departed",
       "letterboxdUrl": "https://letterboxd.com/film/the-departed/",
+      "listPosition": 177,
       "year": "2006",
       "originalTitle": "The Departed",
       "rating": 4.2,
@@ -1811,6 +1994,7 @@
     {
       "name": "Witness for the Prosecution",
       "letterboxdUrl": "https://letterboxd.com/film/witness-for-the-prosecution-1957/",
+      "listPosition": 178,
       "year": "1957",
       "originalTitle": "Witness for the Prosecution",
       "rating": 4.2,
@@ -1820,6 +2004,7 @@
     {
       "name": "Z",
       "letterboxdUrl": "https://letterboxd.com/film/z/",
+      "listPosition": 179,
       "year": "1969",
       "originalTitle": "Z",
       "rating": 4.2,
@@ -1829,6 +2014,7 @@
     {
       "name": "Taste of Cherry",
       "letterboxdUrl": "https://letterboxd.com/film/taste-of-cherry/",
+      "listPosition": 180,
       "year": "1997",
       "originalTitle": "طعم گيلاس",
       "rating": 4.2,
@@ -1840,6 +2026,7 @@
     {
       "name": "Fargo",
       "letterboxdUrl": "https://letterboxd.com/film/fargo/",
+      "listPosition": 0,
       "year": "1996",
       "originalTitle": "Fargo",
       "rating": 4.2,
@@ -1851,6 +2038,7 @@
     {
       "name": "Nostalgia",
       "letterboxdUrl": "https://letterboxd.com/film/nostalgia-1983/",
+      "listPosition": 182,
       "year": "1983",
       "originalTitle": "Nostalghia",
       "rating": 4.2,
@@ -1863,6 +2051,7 @@
     {
       "name": "Get Out",
       "letterboxdUrl": "https://letterboxd.com/film/get-out-2017/",
+      "listPosition": 0,
       "year": "2017",
       "originalTitle": "Get Out",
       "rating": 4.2,
@@ -1875,6 +2064,7 @@
     {
       "name": "Star Wars",
       "letterboxdUrl": "https://letterboxd.com/film/star-wars/",
+      "listPosition": 184,
       "year": "1977",
       "originalTitle": "Star Wars",
       "rating": 4.2,
@@ -1886,6 +2076,7 @@
     {
       "name": "La Notte",
       "letterboxdUrl": "https://letterboxd.com/film/la-notte/",
+      "listPosition": 185,
       "year": "1961",
       "originalTitle": "La Notte",
       "rating": 4.2,
@@ -1895,6 +2086,7 @@
     {
       "name": "My Neighbor Totoro",
       "letterboxdUrl": "https://letterboxd.com/film/my-neighbor-totoro/",
+      "listPosition": 186,
       "year": "1988",
       "originalTitle": "となりのトトロ",
       "rating": 4.2,
@@ -1906,6 +2098,7 @@
     {
       "name": "Aparajito",
       "letterboxdUrl": "https://letterboxd.com/film/aparajito/",
+      "listPosition": 187,
       "year": "1956",
       "originalTitle": "অপরাজিত",
       "rating": 4.2,
@@ -1917,6 +2110,7 @@
     {
       "name": "To Live",
       "letterboxdUrl": "https://letterboxd.com/film/to-live/",
+      "listPosition": 188,
       "year": "1994",
       "originalTitle": "活着",
       "rating": 4.2,
@@ -1926,6 +2120,7 @@
     {
       "name": "Mulholland Drive",
       "letterboxdUrl": "https://letterboxd.com/film/mulholland-drive/",
+      "listPosition": 0,
       "year": "2001",
       "originalTitle": "Mulholland Drive",
       "rating": 4.2,
@@ -1939,6 +2134,7 @@
     {
       "name": "Back to the Future",
       "letterboxdUrl": "https://letterboxd.com/film/back-to-the-future/",
+      "listPosition": 190,
       "year": "1985",
       "originalTitle": "Back to the Future",
       "rating": 4.2,
@@ -1951,6 +2147,7 @@
     {
       "name": "The Life and Death of Colonel Blimp",
       "letterboxdUrl": "https://letterboxd.com/film/the-life-and-death-of-colonel-blimp/",
+      "listPosition": 191,
       "year": "1943",
       "originalTitle": "The Life and Death of Colonel Blimp",
       "rating": 4.2,
@@ -1960,6 +2157,7 @@
     {
       "name": "The Lion King",
       "letterboxdUrl": "https://letterboxd.com/film/the-lion-king/",
+      "listPosition": 192,
       "year": "1994",
       "originalTitle": "The Lion King",
       "rating": 4.2,
@@ -1971,6 +2169,7 @@
     {
       "name": "The Third Man",
       "letterboxdUrl": "https://letterboxd.com/film/the-third-man/",
+      "listPosition": 193,
       "year": "1949",
       "originalTitle": "The Third Man",
       "rating": 4.2,
@@ -1982,6 +2181,7 @@
     {
       "name": "Django Unchained",
       "letterboxdUrl": "https://letterboxd.com/film/django-unchained/",
+      "listPosition": 194,
       "year": "2012",
       "originalTitle": "Django Unchained",
       "rating": 4.2,
@@ -1994,6 +2194,7 @@
     {
       "name": "Underground",
       "letterboxdUrl": "https://letterboxd.com/film/underground-1995/",
+      "listPosition": 195,
       "year": "1995",
       "originalTitle": "Подземље",
       "rating": 4.2,
@@ -2003,6 +2204,7 @@
     {
       "name": "The Hunt",
       "letterboxdUrl": "https://letterboxd.com/film/the-hunt-2012/",
+      "listPosition": 0,
       "year": "2012",
       "originalTitle": "Jagten",
       "rating": 4.2,
@@ -2014,6 +2216,7 @@
     {
       "name": "Fallen Angels",
       "letterboxdUrl": "https://letterboxd.com/film/fallen-angels/",
+      "listPosition": 197,
       "year": "1995",
       "originalTitle": "墮落天使",
       "rating": 4.2,
@@ -2023,6 +2226,7 @@
     {
       "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
       "letterboxdUrl": "https://letterboxd.com/film/jeanne-dielman-23-quai-du-commerce-1080-bruxelles/",
+      "listPosition": 198,
       "year": "1975",
       "originalTitle": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
       "rating": 4.2,
@@ -2032,6 +2236,7 @@
     {
       "name": "Taxi Driver",
       "letterboxdUrl": "https://letterboxd.com/film/taxi-driver/",
+      "listPosition": 0,
       "year": "1976",
       "originalTitle": "Taxi Driver",
       "rating": 4.2,
@@ -2043,6 +2248,7 @@
     {
       "name": "Argentina, 1985",
       "letterboxdUrl": "https://letterboxd.com/film/argentina-1985/",
+      "listPosition": 200,
       "year": "2022",
       "originalTitle": "Argentina, 1985",
       "rating": 4.2,
@@ -2054,6 +2260,7 @@
     {
       "name": "Shoplifters",
       "letterboxdUrl": "https://letterboxd.com/film/shoplifters/",
+      "listPosition": 201,
       "year": "2018",
       "originalTitle": "万引き家族",
       "rating": 4.2,
@@ -2065,6 +2272,7 @@
     {
       "name": "Opening Night",
       "letterboxdUrl": "https://letterboxd.com/film/opening-night/",
+      "listPosition": 202,
       "year": "1977",
       "originalTitle": "Opening Night",
       "rating": 4.2,
@@ -2074,6 +2282,7 @@
     {
       "name": "Vertigo",
       "letterboxdUrl": "https://letterboxd.com/film/vertigo/",
+      "listPosition": 203,
       "year": "1958",
       "originalTitle": "Vertigo",
       "rating": 4.2,
@@ -2083,6 +2292,7 @@
     {
       "name": "Il Sorpasso",
       "letterboxdUrl": "https://letterboxd.com/film/il-sorpasso/",
+      "listPosition": 204,
       "year": "1962",
       "originalTitle": "Il Sorpasso",
       "rating": 4.2,
@@ -2092,6 +2302,7 @@
     {
       "name": "The Big City",
       "letterboxdUrl": "https://letterboxd.com/film/the-big-city/",
+      "listPosition": 205,
       "year": "1963",
       "originalTitle": "মহানগর",
       "rating": 4.2,
@@ -2101,6 +2312,7 @@
     {
       "name": "Once Upon a Time in America",
       "letterboxdUrl": "https://letterboxd.com/film/once-upon-a-time-in-america/",
+      "listPosition": 0,
       "year": "1984",
       "originalTitle": "Once Upon a Time in America",
       "rating": 4.2,
@@ -2110,6 +2322,7 @@
     {
       "name": "Your Name.",
       "letterboxdUrl": "https://letterboxd.com/film/your-name/",
+      "listPosition": 207,
       "year": "2016",
       "originalTitle": "君の名は。",
       "rating": 4.2,
@@ -2119,6 +2332,7 @@
     {
       "name": "Manila in the Claws of Light",
       "letterboxdUrl": "https://letterboxd.com/film/manila-in-the-claws-of-light/",
+      "listPosition": 208,
       "year": "1975",
       "originalTitle": "Maynila sa mga Kuko ng Liwanag",
       "rating": 4.2,
@@ -2131,6 +2345,7 @@
     {
       "name": "Happy Hour",
       "letterboxdUrl": "https://letterboxd.com/film/happy-hour-2015-1/",
+      "listPosition": 209,
       "year": "2015",
       "originalTitle": "ハッピーアワー",
       "rating": 4.2,
@@ -2139,6 +2354,7 @@
     {
       "name": "Paddington 2",
       "letterboxdUrl": "https://letterboxd.com/film/paddington-2/",
+      "listPosition": 210,
       "year": "2017",
       "originalTitle": "Paddington 2",
       "rating": 4.2,
@@ -2153,6 +2369,7 @@
     {
       "name": "Metropolis",
       "letterboxdUrl": "https://letterboxd.com/film/metropolis/",
+      "listPosition": 211,
       "year": "1927",
       "originalTitle": "Metropolis",
       "rating": 4.2,
@@ -2162,6 +2379,7 @@
     {
       "name": "The Truman Show",
       "letterboxdUrl": "https://letterboxd.com/film/the-truman-show/",
+      "listPosition": 0,
       "year": "1998",
       "originalTitle": "The Truman Show",
       "rating": 4.2,
@@ -2173,6 +2391,7 @@
     {
       "name": "Happy Together",
       "letterboxdUrl": "https://letterboxd.com/film/happy-together-1997/",
+      "listPosition": 213,
       "year": "1997",
       "originalTitle": "春光乍洩",
       "rating": 4.2,
@@ -2184,6 +2403,7 @@
     {
       "name": "Raging Bull",
       "letterboxdUrl": "https://letterboxd.com/film/raging-bull/",
+      "listPosition": 214,
       "year": "1980",
       "originalTitle": "Raging Bull",
       "rating": 4.2,
@@ -2195,6 +2415,7 @@
     {
       "name": "Make Way for Tomorrow",
       "letterboxdUrl": "https://letterboxd.com/film/make-way-for-tomorrow/",
+      "listPosition": 215,
       "year": "1937",
       "originalTitle": "Make Way for Tomorrow",
       "rating": 4.2,
@@ -2204,6 +2425,7 @@
     {
       "name": "The Cremator",
       "letterboxdUrl": "https://letterboxd.com/film/the-cremator/",
+      "listPosition": 216,
       "year": "1969",
       "originalTitle": "Spalovač mrtvol",
       "rating": 4.2,
@@ -2213,6 +2435,7 @@
     {
       "name": "Once Upon a Time in Anatolia",
       "letterboxdUrl": "https://letterboxd.com/film/once-upon-a-time-in-anatolia/",
+      "listPosition": 217,
       "year": "2011",
       "originalTitle": "Bir zamanlar Anadolu'da",
       "rating": 4.2,
@@ -2226,6 +2449,7 @@
     {
       "name": "I Dream in Another Language",
       "letterboxdUrl": "https://letterboxd.com/film/i-dream-in-another-language/",
+      "listPosition": 218,
       "year": "2017",
       "originalTitle": "Sueño en otro idioma",
       "rating": 4.2,
@@ -2234,6 +2458,7 @@
     {
       "name": "A Matter of Life and Death",
       "letterboxdUrl": "https://letterboxd.com/film/a-matter-of-life-and-death/",
+      "listPosition": 219,
       "year": "1946",
       "originalTitle": "A Matter of Life and Death",
       "rating": 4.2,
@@ -2246,6 +2471,7 @@
     {
       "name": "Sweet Smell of Success",
       "letterboxdUrl": "https://letterboxd.com/film/sweet-smell-of-success/",
+      "listPosition": 220,
       "year": "1957",
       "originalTitle": "Sweet Smell of Success",
       "rating": 4.2,
@@ -2255,6 +2481,7 @@
     {
       "name": "The Treasure of the Sierra Madre",
       "letterboxdUrl": "https://letterboxd.com/film/the-treasure-of-the-sierra-madre/",
+      "listPosition": 221,
       "year": "1948",
       "originalTitle": "The Treasure of the Sierra Madre",
       "rating": 4.2,
@@ -2264,6 +2491,7 @@
     {
       "name": "Gangs of Wasseypur - Part 2",
       "letterboxdUrl": "https://letterboxd.com/film/gangs-of-wasseypur-part-2/",
+      "listPosition": 222,
       "year": "2012",
       "originalTitle": "गैंग्स ऑफ़ वास्सेपुर पार्ट - २",
       "rating": 4.2,
@@ -2276,6 +2504,7 @@
     {
       "name": "Güeros",
       "letterboxdUrl": "https://letterboxd.com/film/gueros/",
+      "listPosition": 223,
       "year": "2014",
       "originalTitle": "Güeros",
       "rating": 4.2,
@@ -2285,6 +2514,7 @@
     {
       "name": "Inception",
       "letterboxdUrl": "https://letterboxd.com/film/inception/",
+      "listPosition": 224,
       "year": "2010",
       "originalTitle": "Inception",
       "rating": 4.2,
@@ -2296,6 +2526,7 @@
     {
       "name": "Heat",
       "letterboxdUrl": "https://letterboxd.com/film/heat-1995/",
+      "listPosition": 225,
       "year": "1995",
       "originalTitle": "Heat",
       "rating": 4.2,
@@ -2307,6 +2538,7 @@
     {
       "name": "The Iron Giant",
       "letterboxdUrl": "https://letterboxd.com/film/the-iron-giant/",
+      "listPosition": 226,
       "year": "1999",
       "originalTitle": "The Iron Giant",
       "rating": 4.2,
@@ -2316,6 +2548,7 @@
     {
       "name": "Throne of Blood",
       "letterboxdUrl": "https://letterboxd.com/film/throne-of-blood/",
+      "listPosition": 0,
       "year": "1957",
       "originalTitle": "蜘蛛巣城",
       "rating": 4.2,
@@ -2325,6 +2558,7 @@
     {
       "name": "Double Indemnity",
       "letterboxdUrl": "https://letterboxd.com/film/double-indemnity/",
+      "listPosition": 228,
       "year": "1944",
       "originalTitle": "Double Indemnity",
       "rating": 4.2,
@@ -2334,6 +2568,7 @@
     {
       "name": "Hope",
       "letterboxdUrl": "https://letterboxd.com/film/hope-2013/",
+      "listPosition": 229,
       "year": "2013",
       "originalTitle": "소원",
       "rating": 4.2,
@@ -2343,6 +2578,7 @@
     {
       "name": "Ugetsu",
       "letterboxdUrl": "https://letterboxd.com/film/ugetsu/",
+      "listPosition": 230,
       "year": "1953",
       "originalTitle": "雨月物語",
       "rating": 4.2,
@@ -2354,6 +2590,7 @@
     {
       "name": "The Tale of the Princess Kaguya",
       "letterboxdUrl": "https://letterboxd.com/film/the-tale-of-the-princess-kaguya/",
+      "listPosition": 0,
       "year": "2013",
       "originalTitle": "かぐや姫の物語",
       "rating": 4.2,
@@ -2365,6 +2602,7 @@
     {
       "name": "Time of the Gypsies",
       "letterboxdUrl": "https://letterboxd.com/film/time-of-the-gypsies/",
+      "listPosition": 232,
       "year": "1988",
       "originalTitle": "Dom za vešanje",
       "rating": 4.2,
@@ -2374,6 +2612,7 @@
     {
       "name": "Life, and Nothing More...",
       "letterboxdUrl": "https://letterboxd.com/film/life-and-nothing-more/",
+      "listPosition": 233,
       "year": "1992",
       "originalTitle": "زندگی و دیگر هیچ",
       "rating": 4.2,
@@ -2382,6 +2621,7 @@
     {
       "name": "Comrades, Almost a Love Story",
       "letterboxdUrl": "https://letterboxd.com/film/comrades-almost-a-love-story/",
+      "listPosition": 234,
       "year": "1996",
       "originalTitle": "甜蜜蜜",
       "rating": 4.2,
@@ -2391,6 +2631,7 @@
     {
       "name": "Umberto D.",
       "letterboxdUrl": "https://letterboxd.com/film/umberto-d/",
+      "listPosition": 235,
       "year": "1952",
       "originalTitle": "Umberto D.",
       "rating": 4.2,
@@ -2400,6 +2641,7 @@
     {
       "name": "RRR",
       "letterboxdUrl": "https://letterboxd.com/film/rrr/",
+      "listPosition": 0,
       "year": "2022",
       "originalTitle": "రౌద్రం రణం రుధిరం",
       "rating": 4.2,
@@ -2411,6 +2653,7 @@
     {
       "name": "Ratatouille",
       "letterboxdUrl": "https://letterboxd.com/film/ratatouille/",
+      "listPosition": 0,
       "year": "2007",
       "originalTitle": "Ratatouille",
       "rating": 4.2,
@@ -2422,6 +2665,7 @@
     {
       "name": "Coco",
       "letterboxdUrl": "https://letterboxd.com/film/coco-2017/",
+      "listPosition": 0,
       "year": "2017",
       "originalTitle": "Coco",
       "rating": 4.2,
@@ -2433,6 +2677,7 @@
     {
       "name": "Solaris",
       "letterboxdUrl": "https://letterboxd.com/film/solaris/",
+      "listPosition": 0,
       "year": "1972",
       "originalTitle": "Солярис",
       "rating": 4.2,
@@ -2442,6 +2687,7 @@
     {
       "name": "The Devils",
       "letterboxdUrl": "https://letterboxd.com/film/the-devils/",
+      "listPosition": 240,
       "year": "1971",
       "originalTitle": "The Devils",
       "rating": 4.2,
@@ -2451,6 +2697,7 @@
     {
       "name": "Saving Private Ryan",
       "letterboxdUrl": "https://letterboxd.com/film/saving-private-ryan/",
+      "listPosition": 241,
       "year": "1998",
       "originalTitle": "Saving Private Ryan",
       "rating": 4.2,
@@ -2462,6 +2709,7 @@
     {
       "name": "A Face in the Crowd",
       "letterboxdUrl": "https://letterboxd.com/film/a-face-in-the-crowd/",
+      "listPosition": 242,
       "year": "1957",
       "originalTitle": "A Face in the Crowd",
       "rating": 4.2,
@@ -2471,6 +2719,7 @@
     {
       "name": "Little Women",
       "letterboxdUrl": "https://letterboxd.com/film/little-women-2019/",
+      "listPosition": 243,
       "year": "2019",
       "originalTitle": "Little Women",
       "rating": 4.2,
@@ -2480,6 +2729,7 @@
     {
       "name": "Network",
       "letterboxdUrl": "https://letterboxd.com/film/network/",
+      "listPosition": 244,
       "year": "1976",
       "originalTitle": "Network",
       "rating": 4.2,
@@ -2489,6 +2739,7 @@
     {
       "name": "Winter Sleep",
       "letterboxdUrl": "https://letterboxd.com/film/winter-sleep/",
+      "listPosition": 245,
       "year": "2014",
       "originalTitle": "Kış Uykusu",
       "rating": 4.2,
@@ -2500,6 +2751,7 @@
     {
       "name": "Samurai Rebellion",
       "letterboxdUrl": "https://letterboxd.com/film/samurai-rebellion/",
+      "listPosition": 246,
       "year": "1967",
       "originalTitle": "上意討ち 拝領妻始末",
       "rating": 4.2,
@@ -2508,6 +2760,7 @@
     {
       "name": "Raiders of the Lost Ark",
       "letterboxdUrl": "https://letterboxd.com/film/raiders-of-the-lost-ark/",
+      "listPosition": 247,
       "year": "1981",
       "originalTitle": "Raiders of the Lost Ark",
       "rating": 4.2,
@@ -2519,6 +2772,7 @@
     {
       "name": "Pastoral: To Die in the Country",
       "letterboxdUrl": "https://letterboxd.com/film/pastoral-to-die-in-the-country/",
+      "listPosition": 248,
       "year": "1974",
       "originalTitle": "田園に死す",
       "rating": 4.2,
@@ -2528,6 +2782,7 @@
     {
       "name": "Citizen Kane",
       "letterboxdUrl": "https://letterboxd.com/film/citizen-kane/",
+      "listPosition": 0,
       "year": "1941",
       "originalTitle": "Citizen Kane",
       "rating": 4.2,
@@ -2537,6 +2792,7 @@
     {
       "name": "Some Like It Hot",
       "letterboxdUrl": "https://letterboxd.com/film/some-like-it-hot/",
+      "listPosition": 250,
       "year": "1959",
       "originalTitle": "Some Like It Hot",
       "rating": 4.2,
