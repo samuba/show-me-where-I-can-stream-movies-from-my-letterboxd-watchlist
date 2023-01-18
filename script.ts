@@ -62,6 +62,7 @@ async function createEntry(listName: string, url: string) {
 					const name = $(el).find('img').attr('alt')!;
 					const letterboxdUrl = 'https://letterboxd.com' + $(el).find('[data-film-slug]').attr('data-film-slug')!;
 					const listPosition = Number($(el).find('.list-number').text());
+					console.log({ name, listPosition });
 					letterboxdFilms.push({ name, letterboxdUrl, listPosition });
 				});
 
