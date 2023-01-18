@@ -1,5 +1,4 @@
 import * as cheerio from 'npm:cheerio@1.0.0-rc.12';
-import { encode as base64Encode } from 'https://deno.land/std@0.82.0/encoding/base64.ts';
 import type { LetterboxdFilm, LetterboxdList, Film, LetterboxdListFile } from './src/app.d.ts';
 
 console.time('finished after');
@@ -19,7 +18,7 @@ const infoCache = new Map<string, Film>();
 const listFiles = [] as LetterboxdListFile[];
 // const filledLists = [] as LetterboxdList[];
 for (const list of lists) {
-	const nameUrl = encodeURIComponent(list.name.replaceAll(' ', '_').replaceAll('`', '').replaceAll("'", ''));
+	const nameUrl = encodeURIComponent(list.name.replace(/[^a-zA-Z0-9 ]/g, '').replaceAll(' ', '_'));
 	const filePath = `lists/${nameUrl}.json`;
 	const listObj = await createEntry(list.name, list.url);
 	Deno.writeTextFileSync('static/' + filePath, JSON.stringify(listObj, null, 2));
