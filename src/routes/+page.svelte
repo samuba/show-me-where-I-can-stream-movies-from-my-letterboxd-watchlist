@@ -117,16 +117,6 @@
 						{#each selectedList.entries.filter((x) => x.streamProviders.includes(provider.name)) as movie}
 							<div style="display: inline-block; margin-left: 1rem; margin-bottom: 1rem">
 								<a href={movie.letterboxdUrl}>
-									<!-- <body class="p-10">
-    <div class="relative">
-        <img src="https://www.kindacode.com/wp-content/uploads/2022/06/night-sky.jpeg" />
-        <h1 class="absolute text-5xl text-white top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
-            KindaCode.com</h1>
-        <h2 class="absolute text-3xl text-amber-400 bottom-4 left-1/2 -translate-x-1/2">Bottom Center</h2>
-        <h3 class="absolute text-2xl text-blue-300 top-5 left-5">Top Left</h3>
-        <h3 class="absolute text-2xl text-green-300 bottom-5 right-5">Bottom Right</h3>
-    </div>
-</body> -->
 									<div style="display: relative;">
 										<img
 											src={movie.imageUrl}
@@ -134,9 +124,18 @@
 											title={movie.name}
 											alt={`${movie.name}`}
 										/>
-										<div style="display: flex; justify-content: flex-end;">
+										<div style="display: flex; justify-content: space-between; font-size: 8.5pt;">
+											{#if movie.listPosition}
+												<div
+													style="padding-right: 0.2rem; padding-left: 0.1rem; padding-top: 0; transform: translateY(-100%); border-top-right-radius: 0.3rem; width: fit-content; background-color: rgba(0 14 0 / 75%);"
+												>
+													#{movie.listPosition}
+												</div>
+											{:else}
+												<div />
+											{/if}
 											<div
-												style="font-size: 8.5pt; padding-left: 0.2rem; padding-top: 0; transform: translateY(-100%); border-top-left-radius: 0.3rem; width: fit-content; background-color: rgba(0 14 0 / 75%);"
+												style="padding-left: 0.2rem; padding-top: 0; transform: translateY(-100%); border-top-left-radius: 0.3rem; width: fit-content; background-color: rgba(0 14 0 / 75%);"
 											>
 												{movie.rating}★
 											</div>

@@ -15,6 +15,7 @@ export type LetterboxdFilm = {
 	originalTitle: string;
 	imageUrl: string;
 	rating: number;
+	listPosition: number;
 };
 
 export type Film = LetterboxdFilm & { streamProviders: string[] };

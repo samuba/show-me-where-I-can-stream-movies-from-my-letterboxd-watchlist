@@ -58,10 +58,11 @@ async function createEntry(listName: string, url: string) {
 				if ($('.linked-film-poster img').length === 0) currentPage = lastPage;
 
 				const letterboxdFilms: LetterboxdFilm[] = [];
-				$('.linked-film-poster').each((_, el) => {
+				$('.poster-container').each((_, el) => {
 					const name = $(el).find('img').attr('alt')!;
-					const letterboxdUrl = 'https://letterboxd.com' + $(el).attr('data-film-slug')!;
-					letterboxdFilms.push({ name, letterboxdUrl });
+					const letterboxdUrl = 'https://letterboxd.com' + $(el).find('[data-film-slug]').attr('data-film-slug')!;
+					const listPosition = Number($(el).find('.list-number').text());
+					letterboxdFilms.push({ name, letterboxdUrl, listPosition });
 				});
 
 				const filmsWithInfo = await Promise.all(letterboxdFilms.map((x) => getFilmInfo(x)));
