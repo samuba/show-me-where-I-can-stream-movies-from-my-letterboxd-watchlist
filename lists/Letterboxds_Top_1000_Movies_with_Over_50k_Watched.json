@@ -263,7 +263,7 @@
       "originalTitle": "La Haine",
       "rating": 4.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "The Empire Strikes Back",
@@ -880,8 +880,7 @@
       "year": "1994",
       "originalTitle": "重慶森林",
       "rating": 4.3,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c62448022a05cc38246e00883d296fd764d0e3babfeecee43510af0cb51a94b8._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Dear Zachary: A Letter to a Son About His Father",
@@ -1128,7 +1127,7 @@
       "originalTitle": "All That Jazz",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -1201,7 +1200,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "The Grand Budapest Hotel",
@@ -2459,7 +2458,7 @@
       "originalTitle": "PlayTime",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Millennium Actress",
@@ -2486,7 +2485,7 @@
       "originalTitle": "The Kid",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Reservoir Dogs",
@@ -3495,7 +3494,7 @@
       "originalTitle": "The Batman",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Die Hard",
@@ -3660,7 +3659,7 @@
       "originalTitle": "In a Heartbeat",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Hunt for the Wilderpeople",
@@ -4297,7 +4296,7 @@
       "originalTitle": "Piper",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Return of the Jedi",
@@ -5246,7 +5245,7 @@
       "originalTitle": "Night of the Living Dead",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "L.A. Confidential",
@@ -7224,7 +7223,7 @@
       "originalTitle": "Thor: Ragnarok",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Citizenfour",
@@ -7726,7 +7725,7 @@
       "streamProviders": [
         "Netflix",
         "Sky WOW",
-        "Sky Go\n Sky",
+        "Sky Go\nSky",
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
@@ -8364,7 +8363,7 @@
       "originalTitle": "Doubt",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Waking Life",
@@ -10483,7 +10482,7 @@
       "originalTitle": "Day & Night",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "The Fighter",
@@ -10719,10 +10718,6 @@
     },
     {
       "name": "Rakuten TV",
-      "enabled": false
-    },
-    {
-      "name": "Sky Go\n Sky",
       "enabled": false
     },
     {

@@ -13087,8 +13087,10 @@
       "year": "2017",
       "originalTitle": "626 Evolution",
       "rating": 0,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/768d215330904a6a0044da8ef837054e0bc0fb526582f00b066b3ca8b42ffb86._SX342_SY600_.jpg"
     },
     {
       "name": "Ten: The Secret Mission",
@@ -16028,7 +16030,8 @@
       "year": "1996",
       "originalTitle": "悍婦崗",
       "rating": 0,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Jokes My Folks Never Told Me",
@@ -16341,7 +16344,8 @@
       "year": "2013",
       "originalTitle": "受難",
       "rating": 0,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/fWMZXSPTe8Is2T440xyZEGZMe49.jpg"
     },
     {
       "name": "Platinum Pussycat",
@@ -29743,9 +29747,10 @@
       "originalTitle": "T&A Time Travelers",
       "rating": 0,
       "streamProviders": [
-        "Prime Video Channels FILMLEGENDEN"
+        "Amazon Prime Video",
+        "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2a38380195f8ba7ba133877ce30476577d95cad85eb4d633828c1c6b3c1e63ea._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8f6dc4c680bdf527cc9be5c6e866b69dea0558fad68be4207a56a9c579751114._SX342_SY600_.jpg"
     },
     {
       "name": "Scorpio Nights",
@@ -29802,8 +29807,7 @@
       "year": "1995",
       "originalTitle": "Bikini Drive-In",
       "rating": 3,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/aab5f10ac99552d09d0327a200801af5094cff6f9ee10f71077dd479cf1007e1._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Chain of Desire",

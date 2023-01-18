@@ -1493,7 +1493,7 @@
       "originalTitle": "The Kid",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Woman in the Dunes",
@@ -1563,7 +1563,7 @@
       "originalTitle": "La Haine",
       "rating": 4.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Once Upon a Time in America",
@@ -1858,8 +1858,7 @@
       "year": "1994",
       "originalTitle": "重慶森林",
       "rating": 4.3,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c62448022a05cc38246e00883d296fd764d0e3babfeecee43510af0cb51a94b8._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Conversation",
@@ -2306,7 +2305,7 @@
       "originalTitle": "Night of the Living Dead",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "The Thing",
@@ -2487,7 +2486,7 @@
       "originalTitle": "PlayTime",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Ivan's Childhood",
@@ -4800,7 +4799,7 @@
       "originalTitle": "霸王别姬",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/uVLFolQ93rolf16Z3IihPGagBOv.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/270986310/s166/Lebewohl-meine-Konkubine"
     },
     {
       "name": "The Breakfast Club",
@@ -5039,7 +5038,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "The 39 Steps",
@@ -5232,7 +5231,7 @@
       "originalTitle": "All That Jazz",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Castle in the Sky",
@@ -5754,7 +5753,7 @@
       "originalTitle": "My Man Godfrey",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Dangal",
@@ -6184,7 +6183,7 @@
       "originalTitle": "Nueve reinas",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/107773637/s166/Die-neun-Koeniginnen"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/aD5OHePMlGeryApmMS3Xv8ltLq6.jpg"
     },
     {
       "name": "The Sweet Hereafter",
@@ -6607,7 +6606,9 @@
       "year": "2012",
       "originalTitle": "The Avengers",
       "rating": 3.7,
-      "streamProviders": [],
+      "streamProviders": [
+        "Disney+"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41fa223e0f150eac46fc3118161c0f6d5d6864c003864be8365f0e9dd002bdce._SX342_SY600_.jpg"
     },
     {
@@ -6915,7 +6916,11 @@
       "year": "2012",
       "originalTitle": "The Dark Knight Rises",
       "rating": 3.7,
-      "streamProviders": [],
+      "streamProviders": [
+        "Netflix",
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6f6945762d1a4b289ab6ae19bf8580498f614cc006ec092fdacb5ac7d3aabc19._SX342_SY600_.jpg"
     },
     {
@@ -7006,7 +7011,7 @@
       "originalTitle": "Toy Story 4",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Godzilla",
@@ -7309,7 +7314,7 @@
       "originalTitle": "Thor: Ragnarok",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Burning",
@@ -8235,7 +8240,7 @@
       "streamProviders": [
         "Netflix",
         "Sky WOW",
-        "Sky Go\n Sky",
+        "Sky Go\nSky",
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
@@ -8278,12 +8283,7 @@
       "year": "2008",
       "originalTitle": "歩いても 歩いても",
       "rating": 4.2,
-      "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Sooner",
-        "filmingo"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/98b0330bebd06257a835d2314a10c5c286bae28211b1b9f3e05a491173824bc5._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Seven Chances",
@@ -10469,10 +10469,6 @@
     },
     {
       "name": "Rakuten TV",
-      "enabled": false
-    },
-    {
-      "name": "Sky Go\n Sky",
       "enabled": false
     },
     {
