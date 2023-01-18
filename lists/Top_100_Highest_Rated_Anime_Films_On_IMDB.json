@@ -219,7 +219,7 @@
       "originalTitle": "ベルセルク 黄金時代篇III 降臨",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/244745570/s166/Berserk-Das-goldene-Zeitalter-3"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/0/p10714536_v_v8_aa.jpg&out=jpeg"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part II: Eternal",
@@ -677,7 +677,11 @@
       "year": "2000",
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
       "rating": 3.9,
-      "streamProviders": []
+      "streamProviders": [
+        "Prime Video Channels Netzkino Select",
+        "Prime Video Channels Silverline"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c3785c78fbbb16cf49cd9df86fe4cf0869f2de1e12e1891c44792bb535b93106._SX342_SY600_.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -714,7 +718,7 @@
       "originalTitle": "夜は短し歩けよ乙女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
     },
     {
       "name": "No Game No Life: Zero",
@@ -790,7 +794,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/180ab54f6d1b9690095b37bd5223e91083b23995eec2610523e7001c44df19ec._SX342_SY600_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -976,7 +980,15 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels Netzkino Select",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Qello Concerts by Stingray",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {

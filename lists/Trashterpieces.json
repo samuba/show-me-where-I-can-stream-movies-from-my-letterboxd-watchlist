@@ -359,7 +359,7 @@
       "originalTitle": "The Taint",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "The Funhouse",
@@ -783,7 +783,7 @@
       "originalTitle": "Suor Omicidi",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Women in Cages",
@@ -1561,7 +1561,7 @@
       "originalTitle": "Father's Day",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Pervert!",
@@ -1570,7 +1570,7 @@
       "originalTitle": "Pervert!",
       "rating": 2.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Home Sick",
@@ -1611,7 +1611,9 @@
       "year": "2004",
       "originalTitle": "Closer",
       "rating": 3.5,
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/62f10ca197a516b3d49b58372663e9de55dccfb981d158f83c2d0694e4823fee._SX342_SY600_.jpg"
     },
     {
@@ -2003,9 +2005,7 @@
       "year": "1998",
       "originalTitle": "Wild Things",
       "rating": 3.1,
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/87e827c90961ad891d66e68201d53b89efaf47a8fad2c316346406506f543b65._SX342_SY600_.jpg"
     },
     {

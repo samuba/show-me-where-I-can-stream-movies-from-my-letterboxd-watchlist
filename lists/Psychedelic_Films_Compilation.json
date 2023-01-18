@@ -2113,7 +2113,7 @@
       "originalTitle": "Planet Earth",
       "rating": 4.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Fantastic Fungi",
@@ -2668,7 +2668,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Spellbound",
@@ -2775,7 +2775,9 @@
       "year": "1981",
       "originalTitle": "Time Bandits",
       "rating": 3.5,
-      "streamProviders": [],
+      "streamProviders": [
+        "Netzkino"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc6db6fa5ed546d3c5908209ed9d88646d965261945fa5573a57e15aa492426._SX342_SY600_.jpg"
     },
     {
@@ -4117,7 +4119,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1674049027"
     },
     {
       "name": "Multiple Personality Detective Psycho - Kazuhiko Amamiya Returns",
@@ -5358,7 +5360,7 @@
       "originalTitle": "Vormittagsspuk",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Dreams That Money Can Buy",
@@ -5723,7 +5725,7 @@
       "originalTitle": "PlayTime",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
     },
     {
       "name": "Death Powder",
@@ -6220,7 +6222,7 @@
       "originalTitle": "Jimi Plays Monterey",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Orgazmo",
@@ -7848,10 +7850,7 @@
       "originalTitle": "Chinatown",
       "rating": 4.2,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
-        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5457c5eb6d9ecc65c7318244bbbacd75fb3ffa12d9032abbca62be5336011101._SX342_SY600_.jpg"
@@ -8454,7 +8453,7 @@
       "originalTitle": "Hells",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "New Kids Turbo",
@@ -8686,7 +8685,7 @@
       "originalTitle": "1001 Nights",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
     },
     {
       "name": "Tangerine",
@@ -9330,7 +9329,7 @@
       "originalTitle": "The Chronicles of Riddick",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/7RcYwJ3ZOWNuuHGfdLmaOe1Dp6M.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41a269be408b47a24661d614f0ef922ef42ba57aff5eb6702f31e8d524925641._SX342_SY600_.jpg"
     },
     {
       "name": "Christmas on Mars",
@@ -9355,8 +9354,7 @@
       "year": "1992",
       "originalTitle": "鉄男II BODY HAMMER",
       "rating": 3.4,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/3712meFiMKaS7h7O1SM5ajxL35S.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Hypnotist",
@@ -9489,7 +9487,7 @@
       "originalTitle": "夜は短し歩けよ乙女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
     },
     {
       "name": "The Boxer's Omen",

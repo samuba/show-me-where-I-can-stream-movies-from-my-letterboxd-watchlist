@@ -75,7 +75,9 @@
       "year": "2022",
       "originalTitle": "The Menu",
       "rating": 3.7,
-      "streamProviders": [],
+      "streamProviders": [
+        "Disney+"
+      ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/z4KppocjuYkxK4UOzgWqRS666IB.jpg"
     },
     {
@@ -105,6 +107,10 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Disney+",
       "enabled": false
     },
     {

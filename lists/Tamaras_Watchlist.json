@@ -276,7 +276,9 @@
       "year": "2022",
       "originalTitle": "The Menu",
       "rating": 3.7,
-      "streamProviders": [],
+      "streamProviders": [
+        "Disney+"
+      ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/z4KppocjuYkxK4UOzgWqRS666IB.jpg"
     },
     {
@@ -772,7 +774,7 @@
       "originalTitle": "Die Deutschen",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1673986094"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674036353"
     },
     {
       "name": "A Bigger Splash",
@@ -999,8 +1001,7 @@
       "rating": 3.6,
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2993206e4bf6f98f7e8129f6563e540a0705147444931f7e004bb974029673dc._SX342_SY600_.jpg"
     },
