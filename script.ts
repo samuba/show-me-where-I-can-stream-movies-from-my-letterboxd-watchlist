@@ -18,11 +18,12 @@ const infoCache = new Map<string, Film>();
 const listFiles = [] as LetterboxdListFile[];
 // const filledLists = [] as LetterboxdList[];
 for (const list of lists) {
-	const listFileName = base64Encode(list.name) + '.json';
+	const nameUrl = encodeURIComponent(list.name.replaceAll(' ', '_').replaceAll('`', '').replaceAll("'", ''));
+	const filePath = `lists/${nameUrl}.json`;
 	const listObj = await createEntry(list.name, list.url);
-	Deno.writeTextFileSync('static/' + listFileName, JSON.stringify(listObj, null, 2));
-	listFiles.push({ name: list.name, filePath: listFileName });
-	console.log(`file for '${list.name}' is ${await fileSize('static/' + listFileName)}`);
+	Deno.writeTextFileSync('static/' + filePath, JSON.stringify(listObj, null, 2));
+	listFiles.push({ name: list.name, filePath, nameUrl });
+	console.log(`file for '${list.name}' is ${await fileSize('static/' + filePath)}`);
 }
 
 Deno.writeTextFileSync(fileName, JSON.stringify(listFiles, null, 2));

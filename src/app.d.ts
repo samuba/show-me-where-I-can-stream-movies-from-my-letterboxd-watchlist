@@ -30,6 +30,7 @@ export type LetterboxdList = {
 export type LetterboxdListFile = {
 	name: string;
 	filePath: string;
+	nameUrl: string;
 };
 
 export type StreamProvider = {

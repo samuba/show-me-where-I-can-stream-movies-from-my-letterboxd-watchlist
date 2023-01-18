@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { page } from '$app/stores';
 	import '@picocss/pico/css/pico.min.css';
 	import type { LetterboxdList, LetterboxdListFile, StreamProvider } from 'src/app';
 	import { onMount } from 'svelte';
@@ -11,20 +12,33 @@
 	let loading = true;
 
 	onMount(() => {
-		const storedSelectedListName = localStorage.getItem('selectedList');
-		selectedListFile = letterboxdListFiles.find((x) => x.name === storedSelectedListName) ?? letterboxdListFiles[0];
+		const selectedListFromUrl = new URL(document.location as unknown as string).searchParams.get('list');
+		if (selectedListFromUrl) {
+			selectedListFile = letterboxdListFiles.find((x) => x.nameUrl === selectedListFromUrl);
+		} else {
+			selectedListFile = letterboxdListFiles.find((x) => x.name === localStorage.getItem('selectedList'));
+		}
+		selectedListFile ??= letterboxdListFiles[0];
 		listChanged();
 	});
 
 	async function listChanged() {
+		console.log(selectedListFile?.name.replaceAll(' ', '_'));
 		loading = true;
 		try {
 			selectedList = await fetch(selectedListFile!.filePath).then((x) => x.json());
 			streamProviders = selectedList.streamProviders.map((x) => ({ ...x, enabled: readIsProviderEnabled(x.name) }));
 			localStorage.setItem('selectedList', selectedListFile!.name);
+			setSearchParam('list', selectedListFile?.nameUrl ?? '');
 		} finally {
 			loading = false;
 		}
+	}
+
+	function setSearchParam(key: string, value: string) {
+		const url = new URL(document.location as unknown as string);
+		url.searchParams.set(key, value);
+		window.history.pushState(null, '', url.toString());
 	}
 
 	function saveProviderEnabled(provider: string, enabled: boolean) {
