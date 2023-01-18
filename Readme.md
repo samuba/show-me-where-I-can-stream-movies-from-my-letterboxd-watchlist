@@ -4,6 +4,6 @@ Show where I can stream my letterboxd watchlist. Automatically updated once ever
 
 # Todo
 
-- show letterboxd ratings
+- show list position as number
 - sort by list position or rating
 - PWA

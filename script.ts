@@ -9,6 +9,7 @@ const numberOfConcurrentFetches = 1;
 
 const lists = Deno.readTextFileSync('letterboxdUrls.txt')
 	.split('\n')
+	.filter((x) => x)
 	.map((x) => ({ url: x.split('|')[1].trim(), name: x.split('|')[0].trim() }));
 
 // const filledLists = await Promise.all(lists.map((x) => createEntry(x.name, x.url)));

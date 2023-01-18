@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { page } from '$app/stores';
 	import '@picocss/pico/css/pico.min.css';
 	import type { LetterboxdList, LetterboxdListFile, StreamProvider } from 'src/app';
 	import { onMount } from 'svelte';
