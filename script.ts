@@ -122,7 +122,7 @@ async function fetchPageFromLetterboxd(listUrl: string, currentPage: number) {
 async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 	if (infoCache.has(movie.letterboxdUrl)) {
 		consoleLogSameLine('  cache hit\n');
-		return infoCache.get(movie.letterboxdUrl);
+		return { ...infoCache.get(movie.letterboxdUrl), listPosition: movie.listPosition };
 	}
 	try {
 		// consoleLogSameLine('  info.. \n');
