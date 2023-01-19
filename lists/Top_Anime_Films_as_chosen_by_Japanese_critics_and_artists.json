@@ -66,7 +66,7 @@
       "listPosition": 0,
       "year": "1962",
       "originalTitle": "アラビアンナイト　シンドバッドの冒険",
-      "rating": 3,
+      "rating": 3.1,
       "streamProviders": []
     },
     {
@@ -233,7 +233,7 @@
       "listPosition": 0,
       "year": "1979",
       "originalTitle": "龍の子太郎",
-      "rating": 3.5,
+      "rating": 3.4,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/qaNOlF1LDsDtkc5U31HOQW0vqj4.jpg"
     },
@@ -941,7 +941,7 @@
       "listPosition": 0,
       "year": "2005",
       "originalTitle": "劇場版 鋼の錬金術師 シャンバラを征く者",
-      "rating": 3.1,
+      "rating": 3.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/8l4lqbcKe3goZm0OetstBpywYYd.jpg"
     },
@@ -1082,18 +1082,14 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
     }
   ],
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {

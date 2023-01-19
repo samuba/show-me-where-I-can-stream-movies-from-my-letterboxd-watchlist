@@ -399,7 +399,7 @@
       "originalTitle": "The Taint",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674128209"
     },
     {
       "name": "The Funhouse",
@@ -700,7 +700,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/900c390a13ce22c609feb9794634e44f11e7d001b04b36856389ce85019cbaf6._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e460d43abdc7b1424f5602dde3a0b5ce2a1da095504ec90fabbee338e500e729._SX342_SY600_.jpg"
     },
     {
       "name": "House on the Edge of the Park",
@@ -832,7 +832,7 @@
         "Prime Video Channels superfresh",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/07ea573ba3553d3d1db5fd8ccdf1888a24782be01005bdd01d532c863e4bd80c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ecf4e5463094f2e088634b39ae9e3fb855feb5bb3ec63d5842334d96305f8ec._SX342_SY600_.jpg"
     },
     {
       "name": "Love Camp 7",
@@ -870,7 +870,7 @@
       "originalTitle": "Suor Omicidi",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674128209"
     },
     {
       "name": "Women in Cages",
@@ -1012,7 +1012,7 @@
       "streamProviders": [
         "Netzkino"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/cMCyFAZFZThij5YlKFYMBiEmGg7.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/c3WetjfJ2Q26gDWygCjflSAv4zK.jpg"
     },
     {
       "name": "Don't Go in the House",
@@ -1732,7 +1732,7 @@
       "originalTitle": "Father's Day",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674128209"
     },
     {
       "name": "Pervert!",
@@ -1742,7 +1742,7 @@
       "originalTitle": "Pervert!",
       "rating": 2.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674049027"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674128209"
     },
     {
       "name": "Home Sick",
@@ -1889,9 +1889,7 @@
       "streamProviders": [
         "Joyn",
         "Netflix",
-        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
-        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a9a9b51975d6a6845ea854c432894d54704865f9df9aa97f539b9a17ff1a3fd0._SX342_SY600_.jpg"
@@ -2392,10 +2390,6 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Kabel Eins CLASSICS",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels MGM",
       "enabled": false
     },
@@ -2413,10 +2407,6 @@
     },
     {
       "name": "Prime Video Channels Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Seven Entertainment",
       "enabled": false
     },
     {
