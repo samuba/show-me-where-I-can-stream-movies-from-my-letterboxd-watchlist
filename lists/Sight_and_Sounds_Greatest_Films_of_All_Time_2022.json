@@ -404,7 +404,8 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels FlimmerkisteTV",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa42db8a4c6939c622058b30fe51e33f59b5fbbde6447e7a61b7e64e6646d30a._SX342_SY600_.jpg"
     },
@@ -653,8 +654,7 @@
       "originalTitle": "Sans Soleil",
       "rating": 4.2,
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7ed5f1c868ecf689ad9e121111d1456e7b1c0d27429e59b078a975c13b678204._SX342_SY600_.jpg"
     },

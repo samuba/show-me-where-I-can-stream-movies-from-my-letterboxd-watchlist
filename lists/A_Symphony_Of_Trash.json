@@ -2052,7 +2052,8 @@
       "year": "1986",
       "originalTitle": "Vendetta",
       "rating": 3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/6DbUO05o6b1Dh6swf2yqYGeP5lW.jpg"
     },
     {
       "name": "The Swinging Barmaids",
@@ -2359,7 +2360,7 @@
       "listPosition": 0,
       "year": "1992",
       "originalTitle": "Miracle Beach",
-      "rating": 2.7,
+      "rating": 2.6,
       "streamProviders": []
     },
     {
@@ -2807,7 +2808,7 @@
       "streamProviders": [
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/425a902ddd3357c47cc5e107aa068c5efaf63daf2729cd4d57d418eeb64b6a1e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8383d12a338e99d01e1dbf369dafb8cf4eb755064365d60d5e280299a9e9663b._SX342_SY600_.jpg"
     },
     {
       "name": "Girl in Gold Boots",
@@ -4230,7 +4231,7 @@
       "listPosition": 0,
       "year": "1968",
       "originalTitle": "Brides of Blood",
-      "rating": 2.7,
+      "rating": 2.8,
       "streamProviders": []
     },
     {
@@ -4813,7 +4814,7 @@
         "Prime Video Channels realeyz",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5e26c27897ef5d2dd4ea3fc9f07f1ae25d5df83331f450ef80bb7ce032612e90._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/55afe140d72edfc93f456a35669fee0d3ea9137ff7acae11bf2ac002c420b3af._SX342_SY600_.jpg"
     },
     {
       "name": "Confessions from the David Galaxy Affair",
@@ -4940,7 +4941,7 @@
         "Amazon Prime Video",
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d22ae669d92c9098266e9cf0a43081c777d56236543e2261505014ed237f8ab6._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e8effc81fe8a209a875654541ff7877c8c00badde53360496dc760333bd242c7._SX342_SY600_.jpg"
     },
     {
       "name": "Crazy Love",
@@ -4970,7 +4971,7 @@
       "streamProviders": [
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/45ac843e4a6489738f58b7210bcf2221f06a9e25ad96aa722ae8969cf8b552ec._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b339bbdaf40926b4d0a7327cfa9762bec3bd08350ced9bc36ecafe4fa9047637._SX342_SY600_.jpg"
     },
     {
       "name": "Criminal Lovers",
@@ -5556,8 +5557,7 @@
       "year": "1977",
       "originalTitle": "ＯＬ官能日記　あァ！私の中で",
       "rating": 3.3,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/2nWdpHPS8WvktDoPKF7cGfMkF11.jpg"
+      "streamProviders": []
     },
     {
       "name": "Siren",
@@ -8963,6 +8963,7 @@
       "rating": 3.3,
       "streamProviders": [
         "Prime Video Channels alleskino",
+        "alleskino",
         "filmfriend"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dfe7649571ce3f32475d83a19360747d84a6f99abdc7c948ecc931c90d594752._SX342_SY600_.jpg"
@@ -9955,8 +9956,7 @@
       "year": "1969",
       "originalTitle": "Stoney",
       "rating": 2.6,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5e79410919c0d88b7be44c48310c7f95cb27315e539374851452ea15add16225._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Story of a Cloistered Nun",
@@ -11429,7 +11429,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/891faf1c90b42c7aad76b4f1c51007b25c75cc9ea157fdeaa8ae118345f6952b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6c62a238df505e209b3f938f742b9beee035ad5059f407ea6f87a75fbbc8013f._SX342_SY600_.jpg"
     },
     {
       "name": "Age of Tomorrow",
@@ -13248,7 +13248,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/87598cd55d7067b7bf16fa8cd7c168c0c4027365ea6e43996d331cc194fdc4c1._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/36b28ba78adcf40d0192ae9e2cc664f0d8e0f664b5b1528d6e74c40b6e0a237e._SX342_SY600_.jpg"
     },
     {
       "name": "The Touch of Flesh",
@@ -13481,7 +13481,7 @@
         "Amazon Prime Video",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c0300bb0e219b92c3fbba25d61e062f521d5f580c4ea21ab8ed63877cacf75f0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/234befde9c2a41a735fe58b10c54da4ba8a48476c2b7df2a2ad272397549bbb0._SX342_SY600_.jpg"
     },
     {
       "name": "Atone",
@@ -14602,8 +14602,10 @@
       "year": "2017",
       "originalTitle": "626 Evolution",
       "rating": 0,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674128209"
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/768d215330904a6a0044da8ef837054e0bc0fb526582f00b066b3ca8b42ffb86._SX342_SY600_.jpg"
     },
     {
       "name": "Ten: The Secret Mission",
@@ -17403,7 +17405,7 @@
       "listPosition": 0,
       "year": "1978",
       "originalTitle": "Follie di notte",
-      "rating": 2.9,
+      "rating": 3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/suhTN0zqBdbpYtZY1qvCG5Hhjdz.jpg"
     },
@@ -20400,7 +20402,7 @@
       "listPosition": 0,
       "year": "1981",
       "originalTitle": "...All the Marbles",
-      "rating": 3.4,
+      "rating": 3.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/9QeLf5MzikiU3GRGNSKgYppB3Rf.jpg"
     },
@@ -23054,7 +23056,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a879610cbc597570e1b40587c9eeb1f0b2cbbdc85b754277e4fc5bcedcc122d1._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3abdb902246b6f36812279891d9c187481e24a080955d6a43ed373f65126146d._SX342_SY600_.jpg"
     },
     {
       "name": "Among Friends",
@@ -24771,7 +24773,10 @@
       "year": "2018",
       "originalTitle": "Pickings",
       "rating": 2.7,
-      "streamProviders": []
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/rSf9JzjOobkP3VqDOKpXZnHBLUR.jpg"
     },
     {
       "name": "Picture Claire",
@@ -25543,7 +25548,7 @@
       "listPosition": 0,
       "year": "1964",
       "originalTitle": "Passion in the Sun",
-      "rating": 2.7,
+      "rating": 2.6,
       "streamProviders": []
     },
     {
@@ -26283,7 +26288,7 @@
       "listPosition": 0,
       "year": "1994",
       "originalTitle": "Running Delilah",
-      "rating": 2.6,
+      "rating": 2.7,
       "streamProviders": []
     },
     {
@@ -28613,8 +28618,7 @@
       "year": "2010",
       "originalTitle": "Empusa",
       "rating": 0,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/3OwgvGfOgNcFnKTWgoHdibLmcEv.jpg"
+      "streamProviders": []
     },
     {
       "name": "A Super Fêmea",
@@ -31574,7 +31578,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/19c5ad700876b0746d6df603d70308919d688500da6d35019f223179d33bd38e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/093d54b3a9039db9e1f6eb61f5096f9271b9ac40a5faa909b78ce3883317a076._SX342_SY600_.jpg"
     },
     {
       "name": "LoveJacked",
@@ -31867,7 +31871,7 @@
         "Prime Video Channels Bloody Movies",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/db55a73c0aca943c9a4a0f5910af008c7b52449a681461421f525ddf18c1fc83._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ab776be0a48cafedc97c05408d92b4efbe63a4d5bfbfc72c8988b3cf0d48f88._SX342_SY600_.jpg"
     },
     {
       "name": "Camino",
@@ -32468,7 +32472,7 @@
       "listPosition": 0,
       "year": "2013",
       "originalTitle": "Vamp U",
-      "rating": 2.2,
+      "rating": 2.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f988bc6614c233b5c43f0486f94dc6824f416d37360a710cb4103820bbc0f1f._SX342_SY600_.jpg"
     },
@@ -33259,7 +33263,8 @@
       "year": "1995",
       "originalTitle": "Bikini Drive-In",
       "rating": 3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/aab5f10ac99552d09d0327a200801af5094cff6f9ee10f71077dd479cf1007e1._SX342_SY600_.jpg"
     },
     {
       "name": "Chain of Desire",
@@ -33546,7 +33551,7 @@
         "Amazon Prime Video",
         "Joyn"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cd6b2e8937eac0a2ddae7751b2da4c622ef9e8e8a25813f2c9077b0e27942b85._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e8c646786fba5ff069b65f08b0b40df7875425f59800692db987f110fc6eafe._SX342_SY600_.jpg"
     },
     {
       "name": "Possession Diaries",
@@ -33885,11 +33890,7 @@
       "year": "2019",
       "originalTitle": "Girl/Girl Scene: The Movie",
       "rating": 2.4,
-      "streamProviders": [
-        "Netflix",
-        "Prime Video Channels MGM"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bcb8ae9f19a95288c57d91518786ba0452939df1d03ebcb186bbd8ed5ee3a75d._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Girl",
@@ -36296,7 +36297,7 @@
       "streamProviders": [
         "Prime Video Channels Bloody Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/249fc93730702150696228ba56d589d650b8246e55fcdb150db20b484edaa0d1._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f409851019e2ab6ac585e0511a3a863ba3b3cf14e76da34a3b1dad52a4ea45a2._SX342_SY600_.jpg"
     },
     {
       "name": "Little Red Riding Hood",
@@ -36382,7 +36383,7 @@
       "originalTitle": "Revealer",
       "rating": 2.5,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dab06cbe8b3e93daf0032c01ff87abdc51a3db86ec1a6ad9ec6df34466a58441._SX342_SY600_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/nPSyQ8LuHfYjErwuCrg8irdDIE3.jpg"
     },
     {
       "name": "Terror on the Prairie",
@@ -36655,7 +36656,7 @@
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "Stowaway",
-      "rating": 2,
+      "rating": 1.9,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e62bc424c4dddd02e9c5c6af09b47afb8c50057354ccde555133c0c269849dd9._SX342_SY600_.jpg"
     },
@@ -36680,7 +36681,7 @@
         "Prime Video Channels FlimmerkisteTV",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/282b306262ca8bc1862130a7d41525f903b7b9923b0178922b350f6191f822b2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1b6040354303ab1e2004a0daffa6cdffa5e1401d200026e9c47a6974497c023e._SX342_SY600_.jpg"
     },
     {
       "name": "Aphrodisiac!: The Sexual Secret of Marijuana",
@@ -38621,10 +38622,6 @@
     },
     {
       "name": "Prime Video Channels Love & Passion",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels MGM",
       "enabled": false
     },
     {

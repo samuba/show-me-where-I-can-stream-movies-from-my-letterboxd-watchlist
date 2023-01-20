@@ -65,9 +65,10 @@
       "originalTitle": "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
       "rating": 4,
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/150673631/s166/Gintama-the-Movie-The-Final-Chapter-Be-Forever-Yorozuya"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_SY600_.jpg"
     },
     {
       "name": "Magnetic Rose",
@@ -408,7 +409,7 @@
       "originalTitle": "獣兵衛忍風帖",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_SY600_.jpg"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -462,7 +463,7 @@
       "originalTitle": "傷物語〈Ⅱ熱血篇〉",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/106807724/s166/Kizumonogatari-II-Heisses-Blut"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vdMx2VqjZE7IkbirNPTIj526MBi.jpg"
     },
     {
       "name": "In This Corner of the World",
@@ -555,7 +556,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/176216671/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gKFGQBKI1TnZ6foqoFgQruM86Mq.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -564,7 +565,8 @@
       "year": "1995",
       "originalTitle": "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ",
       "rating": 3.5,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/8q9bjSa6QxBEtVqaZCAkVBHBTDO.jpg"
     },
     {
       "name": "Sailor Moon S the Movie: Hearts in Ice",
@@ -745,7 +747,11 @@
       "year": "2000",
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
       "rating": 3.9,
-      "streamProviders": []
+      "streamProviders": [
+        "Prime Video Channels Netzkino Select",
+        "Prime Video Channels Silverline"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c3785c78fbbb16cf49cd9df86fe4cf0869f2de1e12e1891c44792bb535b93106._SX342_SY600_.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -808,7 +814,7 @@
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/99164694/s166/Kizumonogatari-I-Blut-und-Eisen"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
     },
     {
       "name": "The Garden of Words",
@@ -870,7 +876,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/175988539/s166/Inuyasha"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -960,7 +966,7 @@
       "originalTitle": "映画けいおん！",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2b9e48fba8ffc22ae563ecd5c84f1336f6da7ad7b689660d2c66609d4ee4aec._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/257936128/s166/K-ON-The-Movie"
     },
     {
       "name": "From Up on Poppy Hill",
@@ -1055,7 +1061,7 @@
       "listPosition": 100,
       "year": "2005",
       "originalTitle": "劇場版 鋼の錬金術師 シャンバラを征く者",
-      "rating": 3.2,
+      "rating": 3.1,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/8l4lqbcKe3goZm0OetstBpywYYd.jpg"
     }
@@ -1074,7 +1080,15 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels Netzkino Select",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Qello Concerts by Stingray",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {

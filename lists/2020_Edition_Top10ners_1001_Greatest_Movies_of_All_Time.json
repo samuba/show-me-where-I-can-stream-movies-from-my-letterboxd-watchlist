@@ -52,7 +52,7 @@
         "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c3de7ac0a768fde0ac247c61cd9174edda213565c5fb4a6fed5c33e45f0bd93._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/75ba3b5812c12346b08aab0ba340d8f7d138a4846eed80303e3c0cdf083c2b53.png"
     },
     {
       "name": "12 Angry Men",
@@ -227,7 +227,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47dce1e6d650c33cee892ab89eb9356ff9274a34039d07f7537bbf8418d521b8._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5815e72b711d56f405e1269cbfbe9ca79a14341abba8cab23a1a9a0edf27a27d._SX342_SY600_.jpg"
     },
     {
       "name": "2001: A Space Odyssey",
@@ -259,7 +259,8 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels FlimmerkisteTV",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa42db8a4c6939c622058b30fe51e33f59b5fbbde6447e7a61b7e64e6646d30a._SX342_SY600_.jpg"
     },
@@ -470,10 +471,7 @@
       "year": "1979",
       "originalTitle": "Alien",
       "rating": 4.3,
-      "streamProviders": [
-        "Disney+"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b725b61279a59c75ec69c1a9e71ac9157f75263d1b79cc32d6650fd6f48436be._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Third Man",
@@ -2253,7 +2251,7 @@
         "filmfriend",
         "filmingo"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc53df6e314be4ace31bf68406f9ffceef0c283b8e1635ce57149564751ccdd9._SX342_SY600_.jpg"
     },
     {
       "name": "King Kong",
@@ -3272,7 +3270,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f81cc533a43c7f6994d9ee1bbb166a03034081f0d8e7763310f44db4e0ab7b6f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/102e998844aa85cee6a88574ea8df91b6fdddd89d36d608bca0128da1462db98._SX342_SY600_.jpg"
     },
     {
       "name": "The Killing",
@@ -3299,7 +3297,7 @@
       "listPosition": 294,
       "year": "1931",
       "originalTitle": "Frankenstein",
-      "rating": 3.8,
+      "rating": 3.9,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c2d6eae1e6686b56095837ff26e023ef03b93b5d3066c4bc16baf7d8980ac70b._SX342_SY600_.jpg"
     },
@@ -3382,7 +3380,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e22009abbf8c9fa9ef8d863218229469323396754d23c760b6767253ec48759a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74dcaabb9c58fc79ae0f370a53834cd71af6317457c7a157e8f4722349e88936._SX342_SY600_.jpg"
     },
     {
       "name": "The Shop Around the Corner",
@@ -3525,7 +3523,7 @@
       "originalTitle": "Z",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/tTzomdrZ3ZThFB9hrwFcUIoIooc.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/cN7A9OODtSQpTgMxC31vFAN8ta.jpg"
     },
     {
       "name": "Underground",
@@ -3701,7 +3699,7 @@
       "streamProviders": [
         "Prime Video Channels SONY AXN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41e542b3a533a8c51037faafcc6e01dea66a41e34f15167e94a1f433b62cc764._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/acbefffa8652961ea8670cb6e109c30a243e1f011dcef37b4b59b479b9e0a0db._SX342_SY600_.jpg"
     },
     {
       "name": "The Right Stuff",
@@ -4555,7 +4553,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fcbb127078c4e3f197bd104179b3d7139770e98dcb9383826fb220c5a87a1b33._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e1d2b6a8263bb3bcb3a111a57d42a9a21bffb581fd8fd1afbd067aa7d9c2ed0._SX342_SY600_.jpg"
     },
     {
       "name": "Hunt for the Wilderpeople",
@@ -4857,7 +4855,7 @@
         "MagentaTV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c73af7c3d6404fc543143f2451563785c7ea43e178e355335058178cd2304c9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/580a2b756e8dadec0d60b0e1a5fa0bf8756bb88269a5a6d66253cf1123f6a12a._SX342_SY600_.jpg"
     },
     {
       "name": "Rushmore",
@@ -4958,7 +4956,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d73f925b762b53245c4eed6c02c937c0a5282cebf1dd6dd0c0bc92afb0bd9b4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ed1ccc5c9a2f01b65c8a0b21830fec9b2e66d9e5f964e1a6c7690d1f4c8d2b2._SX342_SY600_.jpg"
     },
     {
       "name": "Autumn Sonata",
@@ -6605,7 +6603,7 @@
         "Prime Video Channels LIONSGATE+",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8375c1f4e5e5bac03b1888c9d32ef9718f5e764212ef7a30da14078fcf755e04._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5ec4012d87dbbfe274f94ab14596ec4ecc76971c2cf152e4662876aed3b89e09._SX342_SY600_.jpg"
     },
     {
       "name": "The Favourite",
@@ -6688,7 +6686,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/317800a11686be4e5b6e42acc7c8bff3bf4f07f76db4254528f8dcc0093a720c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f77cae4106a6ebb287b70eaafa1ba159f9c8189cf384eb436cf103cdf1d62818._SX342_SY600_.jpg"
     },
     {
       "name": "Hell or High Water",
@@ -7045,7 +7043,7 @@
       "originalTitle": "Pride",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d4d086da870f6f21fa6091130018e52047137e266911bdd58a6218e9fc8eed9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5fba36161b75ca3429cc97e3d73c13e348f19805741738be408c9e6c0da29776._SX342_SY600_.jpg"
     },
     {
       "name": "After Hours",
@@ -8097,7 +8095,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/762bc2852689e07286dd738eb31898ec87c0db60473e35ed1e1fce519cd589dd._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8f3b898f10d82bb5d526d435fe355d20455148c70df04675234b5d62f286b217._SX342_SY600_.jpg"
     },
     {
       "name": "Willy Wonka & the Chocolate Factory",
@@ -8780,7 +8778,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1bf85a6ab9bf4a7604c0706d416dfa8ec5bc13bfc97c253c68d5cab6e0e1971e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e7f8cac989cf81421973b5a86ebc87d2e69b8fe1a553d46a0c8a95886bf05090._SX342_SY600_.jpg"
     },
     {
       "name": "The Human Condition III: A Soldier's Prayer",
@@ -8998,7 +8996,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3346906d987c30341acb89ba280ea61db435621284d2568b9ce5e31ec3494b07._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8a8ee616412f13ed1da44f048d6f66e20137f27c1f4528b50441da899bb45529._SX342_SY600_.jpg"
     },
     {
       "name": "The Invisible Man",
