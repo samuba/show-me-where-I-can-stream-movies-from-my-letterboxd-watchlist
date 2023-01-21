@@ -68,7 +68,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c71b331fdeb96f3acfd30d42d9d55b62c4141a3f6c2ef412dfc5e893c906392f._SX342_SY600_.jpg"
     },
     {
       "name": "Magnetic Rose",
@@ -463,7 +463,7 @@
       "originalTitle": "傷物語〈Ⅱ熱血篇〉",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/vdMx2VqjZE7IkbirNPTIj526MBi.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/106807724/s166/Kizumonogatari-II-Heisses-Blut"
     },
     {
       "name": "In This Corner of the World",
@@ -473,9 +473,9 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
     },
     {
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
@@ -663,7 +663,7 @@
       "originalTitle": "ベルセルク 黄金時代篇I 覇王の卵",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/5/p9526348_v_v8_aa.jpg&out=jpeg"
+      "imageUrl": "https://www.justwatch.com/images/poster/180095158/s166/Berserk-Das-goldene-Zeitalter-I"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
@@ -792,7 +792,7 @@
       "originalTitle": "夜は短し歩けよ乙女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
     },
     {
       "name": "No Game No Life: Zero",
@@ -814,7 +814,7 @@
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/99164694/s166/Kizumonogatari-I-Blut-und-Eisen"
     },
     {
       "name": "The Garden of Words",
@@ -966,7 +966,7 @@
       "originalTitle": "映画けいおん！",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/257936128/s166/K-ON-The-Movie"
+      "imageUrl": "https://www.justwatch.com/images/poster/257936127/s166/K-ON-The-Movie"
     },
     {
       "name": "From Up on Poppy Hill",
@@ -1069,6 +1069,10 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {

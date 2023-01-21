@@ -159,7 +159,8 @@
       "year": "1969",
       "originalTitle": "空飛ぶゆうれい船",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/138411319/s166/Flying-Phantom-Ship"
     },
     {
       "name": "Cleopatra: Queen of Sex",
@@ -206,8 +207,7 @@
       "year": "1978",
       "originalTitle": "さらば宇宙戦艦ヤマト 愛の戦士たち",
       "rating": 3.6,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/psw1ryE9AYZWckWnzOtkLZVvxMl.jpg"
+      "streamProviders": []
     },
     {
       "name": "Lupin the Third: The Mystery of Mamo",
@@ -443,8 +443,11 @@
       "year": "1985",
       "originalTitle": "銀河鉄道の夜",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/mk7dpiFAgI3fyloMCbdaDDQBDjO.jpg"
+      "streamProviders": [
+        "MUBI",
+        "MUBI Amazon Channel"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/262177552/s166/Night-Train-to-Terror"
     },
     {
       "name": "Angel's Egg",
@@ -630,7 +633,7 @@
         "MagentaTV",
         "filmfriend"
       ],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11215679_b_v8_ab.jpg&out=jpeg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/y5BDBMC1EZ0JwEiglbyz6jT0p6l.jpg"
     },
     {
       "name": "Pom Poko",
@@ -1082,14 +1085,26 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
     }
   ],
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Arthouse CNMA Amazon Channel",
+      "enabled": false
+    },
+    {
+      "name": "MUBI",
+      "enabled": false
+    },
+    {
+      "name": "MUBI Amazon Channel",
       "enabled": false
     },
     {
