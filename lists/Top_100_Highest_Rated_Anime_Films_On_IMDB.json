@@ -240,7 +240,7 @@
       "originalTitle": "ベルセルク 黄金時代篇III 降臨",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/0/p10714536_v_v8_aa.jpg&out=jpeg"
+      "imageUrl": "https://www.justwatch.com/images/poster/244745570/s166/Berserk-Das-goldene-Zeitalter-3"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part II: Eternal",
@@ -269,7 +269,7 @@
       "originalTitle": "GHOST IN THE SHELL／攻殻機動隊2.0",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15661816_v_v8_ab.jpg&out=jpeg"
+      "imageUrl": "https://www.justwatch.com/images/poster/151538121/s166/Ghost-in-the-Shell-2-0"
     },
     {
       "name": "Evangelion: 2.0 You Can (Not) Advance",
@@ -302,8 +302,12 @@
       "year": "1995",
       "originalTitle": "Ghost in the Shell",
       "rating": 4,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_SY600_.jpg"
+      "streamProviders": [
+        "Joyn",
+        "Prime Video Channels ProSieben FUN",
+        "Prime Video Channels Seven Entertainment"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7ae8ccb7fa891cd9bcf2ce62c5c753ff8f4cf2447e39604d38fb7746f3544fa7._SX342_SY600_.jpg"
     },
     {
       "name": "Steins;Gate: The Movie - Load Region of Déjà Vu",
@@ -449,10 +453,9 @@
       "originalTitle": "君の膵臓をたべたい",
       "rating": 3.8,
       "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels aniverse"
+        "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/121318222/s166/I-Want-to-Eat-Your-Pancreas"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -535,7 +538,7 @@
       "originalTitle": "名探偵コナン ベイカー街（ストリート）の亡霊",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d46460cdc25a5fa2e29cdc69095b84286eaa5754b0094c50ab102a537f434812._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/175393591/s166/Detektiv-Conan-Das-Phantom-der-Baker-Street"
     },
     {
       "name": "The Girl Who Leapt Through Time",
@@ -555,7 +558,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/gKFGQBKI1TnZ6foqoFgQruM86Mq.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176216671/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -608,7 +611,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/683f71eb7e7f2ff110422d3b20749a43e936a03950566f9d41970e72f480d842._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53b9a2433844f3bd89ce56e6dfe32b9bbf1820dddd434fc7eb4bc6ee7bd2d87b._SX342_SY600_.jpg"
     },
     {
       "name": "When Marnie Was There",
@@ -652,7 +655,7 @@
       "originalTitle": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/ceObWLbLyCMHaAJcW4zvN1wmMmG.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/10407224/s166/Mahou-Shoujo-Madoka-Magica-the-Movie-Part-3-The-Story-of-the-Rebellion"
     },
     {
       "name": "Berserk: The Golden Age Arc I - The Egg of the King",
@@ -737,7 +740,7 @@
       "originalTitle": "楽しいムーミン一家 ムーミン谷の彗星",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/dd43OJom9DaD7kEcPvRuSClJrJ5.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/89723849/s166/Die-Mumins-Der-Komet-im-Muminland"
     },
     {
       "name": "Vampire Hunter D: Bloodlust",
@@ -750,7 +753,7 @@
         "Prime Video Channels Netzkino Select",
         "Prime Video Channels Silverline"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbe9c724ac280ac38bdff55b027fc3c517ba23bad353865934fe5fa4c69de090._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c3785c78fbbb16cf49cd9df86fe4cf0869f2de1e12e1891c44792bb535b93106._SX342_SY600_.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -813,7 +816,7 @@
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/99164694/s166/Kizumonogatari-I-Blut-und-Eisen"
     },
     {
       "name": "The Garden of Words",
@@ -845,7 +848,7 @@
       "originalTitle": "名探偵コナン 天国へのカウントダウン",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41e1830217a1f66ba59acb5a24b2ca1513e17a1b3988a16741f0a55fb291e8f0._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/133165090/s166/Detektiv-Conan-Countdown-zum-Himmel"
     },
     {
       "name": "Detective Conan: Captured in Her Eyes",
@@ -855,7 +858,7 @@
       "originalTitle": "名探偵コナン 瞳の中の暗殺者",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b4aebed9494e9aef588e86102bce65804c34f5d9e55d0f3828a12ad243dc44b._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/133166255/s166/Detektiv-Conan-Der-Killer-in-ihren-Augen"
     },
     {
       "name": "Tekkonkinkreet",
@@ -865,7 +868,7 @@
       "originalTitle": "鉄コン筋クリート",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/ePFlq56e7MmVDGKtKeOPy1YbKC3.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/112412104/s166/Tekkonkinkreet"
     },
     {
       "name": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass",
@@ -875,7 +878,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/175988539/s166/Inuyasha"
+      "imageUrl": "https://www.justwatch.com/images/poster/176220981/s166/Inuyasha-Movie-2-Das-Traumschloss-im-Inneren-der-Spiegel"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -894,7 +897,8 @@
       "year": "1997",
       "originalTitle": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/428619/s166/Rurouni-Kenshin-The-Movie"
     },
     {
       "name": "Dragon Ball Z: Wrath of the Dragon",
@@ -964,7 +968,7 @@
       "originalTitle": "映画けいおん！",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2b9e48fba8ffc22ae563ecd5c84f1336f6da7ad7b689660d2c66609d4ee4aec._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/257936127/s166/K-ON-The-Movie"
     },
     {
       "name": "From Up on Poppy Hill",
@@ -974,9 +978,10 @@
       "originalTitle": "コクリコ坂から",
       "rating": 3.7,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/52OpB0jfcKJLP9svRcgwNMSQFYA.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/249341276/s166/Der-Mohnblumenberg"
     },
     {
       "name": "Bleach the Movie: Hell Verse",
@@ -1070,7 +1075,15 @@
       "enabled": false
     },
     {
+      "name": "Joyn",
+      "enabled": false
+    },
+    {
       "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {
@@ -1082,7 +1095,15 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels ProSieben FUN",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Qello Concerts by Stingray",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Seven Entertainment",
       "enabled": false
     },
     {
