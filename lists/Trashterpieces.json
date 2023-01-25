@@ -300,7 +300,7 @@
       "originalTitle": "La montagna del dio cannibale",
       "rating": 2.7,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/bNYWU70UfBzVQ8vjBNe7sYog6Oc.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/loLrp8OIKbVM2Jp7zaZAdKYAhRP.jpg"
     },
     {
       "name": "Eaten Alive",
@@ -399,7 +399,7 @@
       "originalTitle": "The Taint",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674469579"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674562173"
     },
     {
       "name": "The Funhouse",
@@ -832,7 +832,7 @@
         "Prime Video Channels superfresh",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ecf4e5463094f2e088634b39ae9e3fb855feb5bb3ec63d5842334d96305f8ec._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/07ea573ba3553d3d1db5fd8ccdf1888a24782be01005bdd01d532c863e4bd80c._SX342_SY600_.jpg"
     },
     {
       "name": "Love Camp 7",
@@ -870,7 +870,7 @@
       "originalTitle": "Suor Omicidi",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674469579"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674562173"
     },
     {
       "name": "Women in Cages",
@@ -1732,7 +1732,7 @@
       "originalTitle": "Father's Day",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674469579"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674562173"
     },
     {
       "name": "Pervert!",
@@ -1742,7 +1742,7 @@
       "originalTitle": "Pervert!",
       "rating": 2.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674469579"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674562173"
     },
     {
       "name": "Home Sick",
@@ -1887,8 +1887,11 @@
       "originalTitle": "Feuchtgebiete",
       "rating": 3.1,
       "streamProviders": [
+        "Joyn",
         "Netflix",
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a9a9b51975d6a6845ea854c432894d54704865f9df9aa97f539b9a17ff1a3fd0._SX342_SY600_.jpg"
@@ -2085,7 +2088,7 @@
       "listPosition": 206,
       "year": "1996",
       "originalTitle": "Kondom des Grauens",
-      "rating": 2.9,
+      "rating": 3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/rgSa6G8PeslNvF73P0tWMBJoj5M.jpg"
     },
@@ -2389,6 +2392,10 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels Kabel Eins CLASSICS",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels MGM",
       "enabled": false
     },
@@ -2406,6 +2413,10 @@
     },
     {
       "name": "Prime Video Channels Paramount+",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Seven Entertainment",
       "enabled": false
     },
     {
