@@ -178,7 +178,7 @@
       "originalTitle": "どうぶつ宝島",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/1klkcqvcZ1dn073ID4DbRSb3hTR.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/85670795/s166/Die-Schatzinsel-1971"
     },
     {
       "name": "Belladonna of Sadness",
@@ -640,10 +640,9 @@
       "originalTitle": "平成狸合戦ぽんぽこ",
       "rating": 3.6,
       "streamProviders": [
-        "Netflix",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/80232354/s166/Pom-Poko"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/tT2E6Txb9GTLGrvRMdd1LwKK0VC.jpg"
     },
     {
       "name": "Whisper of the Heart",
@@ -925,8 +924,7 @@
       "year": "2004",
       "originalTitle": "Mind Game",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/7Zf7DDAaUYsNcgROQJlp7OXyvHT.jpg"
+      "streamProviders": []
     },
     {
       "name": "Howl's Moving Castle",
@@ -1107,10 +1105,6 @@
     },
     {
       "name": "Netflix",
-      "enabled": false
-    },
-    {
-      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {
