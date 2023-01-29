@@ -68,7 +68,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c71b331fdeb96f3acfd30d42d9d55b62c4141a3f6c2ef412dfc5e893c906392f._SX342_SY600_.jpg"
     },
     {
       "name": "Magnetic Rose",
@@ -309,7 +309,7 @@
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7ae8ccb7fa891cd9bcf2ce62c5c753ff8f4cf2447e39604d38fb7746f3544fa7._SX342_SY600_.jpg"
     },
     {
       "name": "Steins;Gate: The Movie - Load Region of Déjà Vu",
@@ -561,7 +561,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/176216671/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gKFGQBKI1TnZ6foqoFgQruM86Mq.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -614,7 +614,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53b9a2433844f3bd89ce56e6dfe32b9bbf1820dddd434fc7eb4bc6ee7bd2d87b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/683f71eb7e7f2ff110422d3b20749a43e936a03950566f9d41970e72f480d842._SX342_SY600_.jpg"
     },
     {
       "name": "When Marnie Was There",
@@ -797,7 +797,7 @@
       "originalTitle": "夜は短し歩けよ乙女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
     },
     {
       "name": "No Game No Life: Zero",
@@ -809,7 +809,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/30d86752872d55625ca73d847dea834320ebb5ce86eb5a33a8640bea76e7d405._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f93e3620b31b11420ee7544913e1bf0767e2a654f6e62c286960ce38f88e172._SX342_SY600_.jpg"
     },
     {
       "name": "Kizumonogatari Part 1: Tekketsu",
@@ -1025,8 +1025,10 @@
       "year": "2010",
       "originalTitle": "銀魂 新訳紅桜篇",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/150679095/s166/Gintama-Benizakura-Arc-A-New-Retelling"
+      "streamProviders": [
+        "Prime Video Channels aniverse"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f037071f849566dfe74000b61b6e240a32be95f39cc4861179369a5a01515553._SX342_SY600_.jpg"
     },
     {
       "name": "Redline",
