@@ -4,6 +4,26 @@
   "description": "",
   "entries": [
     {
+      "name": "Marcel the Shell with Shoes On",
+      "letterboxdUrl": "https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/",
+      "listPosition": 0,
+      "year": "2021",
+      "originalTitle": "Marcel the Shell with Shoes On",
+      "rating": 4.3,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/saF4uBuzkhMYQnVN4Wt96c5ccKA.jpg"
+    },
+    {
+      "name": "The Master",
+      "letterboxdUrl": "https://letterboxd.com/film/the-master-2012/",
+      "listPosition": 0,
+      "year": "2012",
+      "originalTitle": "The Master",
+      "rating": 4,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/61effaf42f09dc154644b4c807730eca877b7055d9242e43ca5936d619c469b8._SX342_SY600_.jpg"
+    },
+    {
       "name": "Puss in Boots: The Last Wish",
       "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
       "listPosition": 0,
@@ -167,7 +187,7 @@
       "streamProviders": [
         "Prime Video Channels Filmtastic"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_SY600_.jpg"
     },
     {
       "name": "Cosmopolis",
@@ -264,7 +284,6 @@
       "originalTitle": "Good Time",
       "rating": 4,
       "streamProviders": [
-        "Amazon Prime Video",
         "filmfriend"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0282778d02409159f2de88ab3535f227afb1b4ff40a4c83e3164d42f10be47d7._SX342_SY600_.jpg"
@@ -332,18 +351,6 @@
       "rating": 3.8,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/jXHmT914ACC81F1Dy57hsesuoYj.jpg"
-    },
-    {
-      "name": "The Menu",
-      "letterboxdUrl": "https://letterboxd.com/film/the-menu-2022/",
-      "listPosition": 0,
-      "year": "2022",
-      "originalTitle": "The Menu",
-      "rating": 3.7,
-      "streamProviders": [
-        "Disney+"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7a432c3899faa55f77e9a8de3b73f21e08df842aceb05c172c8730f1b43b05da._SX342_SY600_.jpg"
     },
     {
       "name": "The Shining",
@@ -511,7 +518,7 @@
         "MagentaTV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/580a2b756e8dadec0d60b0e1a5fa0bf8756bb88269a5a6d66253cf1123f6a12a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c73af7c3d6404fc543143f2451563785c7ea43e178e355335058178cd2304c9._SX342_SY600_.jpg"
     },
     {
       "name": "Hanna's Journey",
@@ -639,7 +646,7 @@
         "Prime Video Channels Seven Entertainment",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b9961a04931d9981c8f27f41d2da9c1e16615a52852189b979da3ee82b725da.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/90be6986121eb62b142e7e4defe83382d06956a06ed7211c175b1d21c11345da._SX342_SY600_.jpg"
     },
     {
       "name": "Punch-Drunk Love",
@@ -1280,7 +1287,7 @@
         "Disney+",
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e975c93d0f601d4f43fa2881ce34f953c4b738f8c33c8d150b47c983c44fa233._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1e4aeabba5a525b5015e69e3e4a1644347a5d7197aa0c85e6ae38ec4995d5fb9._SX342_SY600_.jpg"
     },
     {
       "name": "The Hobbit: The Battle of the Five Armies",
@@ -1292,7 +1299,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eafa9a7eb308d2f4e3a4320597a29cea7e22600d4f889786ee94e46be6b5ce72._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ac7aba471e8104f976b2d6be2ed7db1b8f180265286ec02e4812f9f69140f89._SX342_SY600_.jpg"
     },
     {
       "name": "1917",

@@ -2044,7 +2044,8 @@
       "year": "1986",
       "originalTitle": "Vendetta",
       "rating": 3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/6DbUO05o6b1Dh6swf2yqYGeP5lW.jpg"
     },
     {
       "name": "The Swinging Barmaids",
@@ -2431,11 +2432,11 @@
       "name": "Ski School",
       "letterboxdUrl": "https://letterboxd.com/film/ski-school/",
       "listPosition": 0,
-      "year": "1990",
+      "year": "1991",
       "originalTitle": "Ski School",
       "rating": 2.3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/gDlLWxvr6lMBRevo2RXb0eUF8RQ.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/nb8oJex83rEKyOvSN2Txaa9TzZC.jpg"
     },
     {
       "name": "Space Girls in Beverly Hills",
@@ -2886,7 +2887,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f67f99cbde4a7c1410a8595eb90cade031eabf18dbde7162a72ad467bad97e53._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f654709f525a5aad987e923f89e582db99ff3fb4a944f5454886dbf0e93dec71._SX342_SY600_.jpg"
     },
     {
       "name": "Pray for Power",
@@ -2982,7 +2983,7 @@
       "listPosition": 0,
       "year": "1966",
       "originalTitle": "The Wild World of Batwoman",
-      "rating": 1.4,
+      "rating": 1.5,
       "streamProviders": []
     },
     {
@@ -3136,7 +3137,7 @@
       "listPosition": 0,
       "year": "1972",
       "originalTitle": "Sweet Georgia",
-      "rating": 3.2,
+      "rating": 0,
       "streamProviders": []
     },
     {
@@ -3828,7 +3829,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3c1d6160b2407b705d7f24dbe9857c370fc7536737bca9289b4aea938cc04a59._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5e2fd906e5dad0fbfd20354e2601812efaae17824e1f844c593e283d08fdac96._SX342_SY600_.jpg"
     },
     {
       "name": "Birth Rite",
@@ -3836,7 +3837,7 @@
       "listPosition": 0,
       "year": "2003",
       "originalTitle": "Birth Rite",
-      "rating": 2.7,
+      "rating": 2.6,
       "streamProviders": []
     },
     {
@@ -5221,7 +5222,7 @@
         "Flimmit",
         "alleskino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/22f6d0bcca2e2a209368ec0fe8e239a8efcbbd1558593f273e743cb78bd4af93._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4663a8336990181ffb2ec9cbc733812ed0bdb4ad1af00b7be9df0e8873c0ffc7._SX342_SY600_.jpg"
     },
     {
       "name": "Demon of Paradise",
@@ -6282,7 +6283,7 @@
       "listPosition": 0,
       "year": "1976",
       "originalTitle": "The First Nudie Musical",
-      "rating": 3,
+      "rating": 2.9,
       "streamProviders": []
     },
     {
@@ -8411,7 +8412,9 @@
       "year": "1970",
       "originalTitle": "La Vampire Nue",
       "rating": 3.3,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels Silverline"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ea167700fcb377fd5b54024f7e6fe12d5113ac89a756b8f83128e3599e2741cd._SX342_SY600_.jpg"
     },
     {
@@ -8558,7 +8561,7 @@
       "listPosition": 0,
       "year": "2002",
       "originalTitle": "Pandora Peaks",
-      "rating": 2.5,
+      "rating": 2.4,
       "streamProviders": []
     },
     {
@@ -9380,7 +9383,7 @@
       "listPosition": 0,
       "year": "1991",
       "originalTitle": "玉蒲團之偷情寶鑑",
-      "rating": 3,
+      "rating": 2.9,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/45kCd4HPNgrQINHvSAXF11DtLMZ.jpg"
     },
@@ -11417,7 +11420,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6c62a238df505e209b3f938f742b9beee035ad5059f407ea6f87a75fbbc8013f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/891faf1c90b42c7aad76b4f1c51007b25c75cc9ea157fdeaa8ae118345f6952b._SX342_SY600_.jpg"
     },
     {
       "name": "Age of Tomorrow",
@@ -12338,7 +12341,7 @@
       "listPosition": 0,
       "year": "1999",
       "originalTitle": "Veronica 2030",
-      "rating": 2.8,
+      "rating": 2.9,
       "streamProviders": []
     },
     {
@@ -13212,7 +13215,7 @@
       "listPosition": 0,
       "year": "1999",
       "originalTitle": "Teen Sorcery",
-      "rating": 2.7,
+      "rating": 2.8,
       "streamProviders": []
     },
     {
@@ -13230,7 +13233,7 @@
       "listPosition": 0,
       "year": "2019",
       "originalTitle": "Tooth Fairy",
-      "rating": 1.7,
+      "rating": 1.6,
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels Netzkino Select",
@@ -13469,7 +13472,7 @@
         "Amazon Prime Video",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/234befde9c2a41a735fe58b10c54da4ba8a48476c2b7df2a2ad272397549bbb0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c0300bb0e219b92c3fbba25d61e062f521d5f580c4ea21ab8ed63877cacf75f0._SX342_SY600_.jpg"
     },
     {
       "name": "Atone",
@@ -13567,7 +13570,7 @@
         "Prime Video Channels FRANATIC – dein Film-Channel",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dbc2c9b3491a3877b43eb9a823f0cc0de7d7e7146b59fe096f67518878bbfc1d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b7b165997895979c49b3c12371923399339ba471c07c5c1ad1b69893065fc7e0._SX342_SY600_.jpg"
     },
     {
       "name": "The Seduction of Dr. Fugazzi",
@@ -16412,7 +16415,7 @@
       "listPosition": 0,
       "year": "1981",
       "originalTitle": "Lady Street Fighter",
-      "rating": 2.5,
+      "rating": 2.4,
       "streamProviders": []
     },
     {
@@ -16770,7 +16773,7 @@
       "listPosition": 0,
       "year": "1968",
       "originalTitle": "The Exotic Ones",
-      "rating": 3.4,
+      "rating": 3.3,
       "streamProviders": []
     },
     {
@@ -18065,7 +18068,7 @@
       "originalTitle": "Mind, Body & Soul",
       "rating": 2.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/AeXfFfvm8kkFYC9bKWrbpkwzCOR.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/a1OHEwsPniV3zOknN7d0T52GtuQ.jpg"
     },
     {
       "name": "Bloodlust",
@@ -18508,7 +18511,7 @@
       "originalTitle": "Somersault",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/4e0GKiVDlI2xZNeWadBeNlNsiwC.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/3shdWoOrstHsy45mdlOHSBVzBmV.jpg"
     },
     {
       "name": "Stacked Racks from Mars",
@@ -18687,7 +18690,7 @@
       "listPosition": 0,
       "year": "1991",
       "originalTitle": "Uncaged",
-      "rating": 2.5,
+      "rating": 2.6,
       "streamProviders": []
     },
     {
@@ -18772,7 +18775,7 @@
       "listPosition": 0,
       "year": "2004",
       "originalTitle": "Until the Night",
-      "rating": 0,
+      "rating": 3,
       "streamProviders": []
     },
     {
@@ -19254,7 +19257,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f1f8df02888d3ce0b965d4b97c3da4758f1a281f09d67b4da565e19612b54375._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/938eeedd3e2267d3d3088aa7dafb4e4ba107224a67186f28e1b3011136551749._SX342_SY600_.jpg"
     },
     {
       "name": "Sunstorm",
@@ -19544,7 +19547,7 @@
       "listPosition": 0,
       "year": "1981",
       "originalTitle": "El sexo está loco",
-      "rating": 3.2,
+      "rating": 3.1,
       "streamProviders": []
     },
     {
@@ -20303,7 +20306,7 @@
       "listPosition": 0,
       "year": "1983",
       "originalTitle": "Il Trono di Fuoco",
-      "rating": 2.3,
+      "rating": 2.4,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/4viZXUlerWcH48tlxngGuIiEJBa.jpg"
     },
@@ -20532,9 +20535,7 @@
       "year": "1981",
       "originalTitle": "Les Fruits de la Passion",
       "rating": 3,
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/hPn5k5dGHRlPll64crabowjlL3l.jpg"
     },
     {
@@ -20554,7 +20555,9 @@
       "year": "2016",
       "originalTitle": "The Creature Below",
       "rating": 2.3,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels Silverline"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ff60524227ce07fdba00f2fb22ccad79841f0ba9dcd519d3ee114bb323c952a._SX342_SY600_.jpg"
     },
     {
@@ -20844,8 +20847,7 @@
       "year": "2018",
       "originalTitle": "4/20 Massacre",
       "rating": 2.3,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/ocVjCUfvRtXLt8yuaG0DcompxuV.jpg"
+      "streamProviders": []
     },
     {
       "name": "Depraved!",
@@ -22452,7 +22454,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84410f716b88ed1c1bc3ef25035cd321183f0a4bdf508bf703458d03b704a60e.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6197578cc00e857547c00bd3eaef4ced1c90e88903489492e5f439010f0572a6._SX342_SY600_.jpg"
     },
     {
       "name": "Play Hooky",
@@ -22538,7 +22540,10 @@
       "year": "2011",
       "originalTitle": "American Nudist",
       "rating": 0,
-      "streamProviders": []
+      "streamProviders": [
+        "Plex"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/203857544/s166/American-Nudist"
     },
     {
       "name": "Come as You Are",
@@ -23041,7 +23046,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3abdb902246b6f36812279891d9c187481e24a080955d6a43ed373f65126146d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a879610cbc597570e1b40587c9eeb1f0b2cbbdc85b754277e4fc5bcedcc122d1._SX342_SY600_.jpg"
     },
     {
       "name": "Among Friends",
@@ -23931,7 +23936,7 @@
       "originalTitle": "Force: Five",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fpsm2pg0r9kcznpf5RlldMQpy5H.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/8OOlrRi0jF5L2r4pEZoEoJqLM3l.jpg"
     },
     {
       "name": "Mission NinetyTwo: Part I - Dragonfly",
@@ -25375,7 +25380,10 @@
       "year": "1963",
       "originalTitle": "Mr. Peters' Pets",
       "rating": 0,
-      "streamProviders": []
+      "streamProviders": [
+        "Prime Video Channels Stingray All Good Vibes"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/32d3e73add89d2367babfca4e456ba8dc38364eda934c42e2bbf9cb0f3f23f2a._SX342_SY600_.jpg"
     },
     {
       "name": "My Tale Is Hot",
@@ -25698,7 +25706,7 @@
       "originalTitle": "Schnick Schnack Schnuck",
       "rating": 2.7,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/u33dy7XyolNowch5x5woVr8X1fv.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
     },
     {
       "name": "Intimate Encounters",
@@ -26541,7 +26549,7 @@
       "originalTitle": "Scherzo diabólico",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc8d25e80df5b8446212b453dc4df1bff3c0fa0603cb811e09dd94734b00f204._SX342_SY600_.jpg"
     },
     {
       "name": "Deceptive Intentions",
@@ -27467,7 +27475,7 @@
       "originalTitle": "Femmine in fuga",
       "rating": 3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/3ZLIeG1yUXWlYBCy5vfvsEI0EHJ.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/7g3IrtxAnqPIa8OJZBcrDGgDJGu.jpg"
     },
     {
       "name": "Wrong Way",
@@ -27974,7 +27982,7 @@
       "originalTitle": "The Wrong Car",
       "rating": 2.5,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/693b818ab9c274cc614b31d26be26901e2a4a4814a78e595c81dd2966ee080f8.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/18c76a69a7cae7466b259c832bd4b36395be1e9d16f8d6b1f3ac5228e4b38ac5._SX342_SY600_.jpg"
     },
     {
       "name": "Yasmine",
@@ -29239,7 +29247,7 @@
       "originalTitle": "Sexual Predator",
       "rating": 2.5,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/99Batw3E2YrJ2ascMkIl61UdJL4.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/f3Ux06E7XYcLVVhNMnN6xkhpWvP.jpg"
     },
     {
       "name": "Sexual Surrender",
@@ -29256,7 +29264,7 @@
       "listPosition": 0,
       "year": "1983",
       "originalTitle": "Macumba Sexual",
-      "rating": 3,
+      "rating": 3.1,
       "streamProviders": []
     },
     {
@@ -30094,7 +30102,7 @@
       "listPosition": 0,
       "year": "1987",
       "originalTitle": "Nice Girls Don't Explode",
-      "rating": 2.9,
+      "rating": 2.8,
       "streamProviders": []
     },
     {
@@ -30764,7 +30772,7 @@
         "Joyn",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53b8c8ed8390914a8e75a004bdd29a67c5afcf2bbf35698c250967ec284f7aa4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c41012303cb30aad3cfe8291e7f5bbde8b378d5f52fcf683639c45d702a05932._SX342_SY600_.jpg"
     },
     {
       "name": "The Coming of Sin",
@@ -30864,7 +30872,7 @@
       "originalTitle": "Linda",
       "rating": 3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/ipCRDU5TV8y8RCXBTpe4OuaeFFE.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/kqf9DSEG57Ry9LDDlBFt9hAcmrk.jpg"
     },
     {
       "name": "Slaughter Hotel",
@@ -31770,7 +31778,7 @@
       "listPosition": 0,
       "year": "2019",
       "originalTitle": "Cyber Bride",
-      "rating": 2.4,
+      "rating": 2.3,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c5613ca096870d4ceb51ddb185f0084558e67929544a019da33fcd1f55f853c3._SX342_SY600_.jpg"
     },
@@ -31859,7 +31867,7 @@
         "Prime Video Channels Bloody Movies",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/db55a73c0aca943c9a4a0f5910af008c7b52449a681461421f525ddf18c1fc83._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ab776be0a48cafedc97c05408d92b4efbe63a4d5bfbfc72c8988b3cf0d48f88._SX342_SY600_.jpg"
     },
     {
       "name": "Camino",
@@ -32116,7 +32124,7 @@
       "listPosition": 0,
       "year": "1996",
       "originalTitle": "Girl 6",
-      "rating": 3.3,
+      "rating": 3.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/un5YpVy7fxb7PxlRlQqLusVM2SM.jpg"
     },
@@ -32594,7 +32602,7 @@
       "listPosition": 0,
       "year": "1974",
       "originalTitle": "Jorden runt med Fanny Hill",
-      "rating": 2.9,
+      "rating": 2.8,
       "streamProviders": []
     },
     {
@@ -32949,7 +32957,7 @@
       "listPosition": 0,
       "year": "1993",
       "originalTitle": "A Mother's Revenge",
-      "rating": 0,
+      "rating": 3.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/brJFj8A4qV6hPYg07SgiyzZtgaa.jpg"
     },
@@ -33118,7 +33126,7 @@
       "originalTitle": "Diet of Sex",
       "rating": 2.3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/1ttwlHEZBXIv6ftQ1KmBMgiZh7f.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
     },
     {
       "name": "Crow Valley",
@@ -33440,7 +33448,7 @@
         "Prime Video Channels FlimmerkisteTV",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cecc161b03c492ac7621c4b04c357abf9e06b94d19e523e0be37be5acc015a54._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6fd938dcc286f128ebf2a59bdb6be4e1d2aa3e4d6cd6a0aaba9d7ab14a6577af._SX342_SY600_.jpg"
     },
     {
       "name": "Succubus: Hell-Bent",
@@ -34140,7 +34148,7 @@
       "listPosition": 0,
       "year": "2011",
       "originalTitle": "Cougar Hunting",
-      "rating": 2,
+      "rating": 2.1,
       "streamProviders": []
     },
     {
@@ -34181,7 +34189,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2e82b66bad7664e844f022c56bff37d14193e5a1232fd6b1d457e598f68fbd8f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ee8f2964a5853afbf82b45685ce2e1ae5832e6f31af7c05904904e60811b9829._SX342_SY600_.jpg"
     },
     {
       "name": "Chain of Souls",
@@ -34940,7 +34948,7 @@
       "listPosition": 0,
       "year": "1956",
       "originalTitle": "Man Beast",
-      "rating": 2.3,
+      "rating": 2.2,
       "streamProviders": []
     },
     {
@@ -35671,7 +35679,7 @@
       "listPosition": 0,
       "year": "1977",
       "originalTitle": "The Spell",
-      "rating": 2.7,
+      "rating": 2.8,
       "streamProviders": []
     },
     {
@@ -36171,7 +36179,7 @@
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "Double Threat",
-      "rating": 2.6,
+      "rating": 2.7,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/v5a3Gzc0WYQNpUdLhMgkqKGCkhq.jpg"
     },
@@ -36542,7 +36550,7 @@
       "originalTitle": "So, You've Downloaded a Demon",
       "rating": 0,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/wEHSGIxAdvTMoe317WAYcZYkr3E.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7eb785d8f9e4f3bdb0b779f3cf1146b5c83748c1f7b6c30ce0aa4e41b18a827f._SX342_SY600_.jpg"
     },
     {
       "name": "Some Kind of Hate",
@@ -36562,7 +36570,7 @@
       "listPosition": 0,
       "year": "1987",
       "originalTitle": "Streets of Death",
-      "rating": 2.7,
+      "rating": 2.8,
       "streamProviders": []
     },
     {
@@ -38548,6 +38556,10 @@
     },
     {
       "name": "Paramount+",
+      "enabled": false
+    },
+    {
+      "name": "Plex",
       "enabled": false
     },
     {
