@@ -124,7 +124,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cc6afcb9c269810b1db721c67659f15b24008d6fcdc395c1cdebfd5d44fdc16b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc484bd4154266a46f7f65bec5e1bbc3d03df9a46b77c739aafd85ee0fe668f7._SX342_SY600_.jpg"
     },
     {
       "name": "Labyrinth of Cinema",
@@ -158,7 +158,7 @@
       "streamProviders": [
         "Paramount+"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675094299"
     },
     {
       "name": "Bones and All",
@@ -607,7 +607,7 @@
       "originalTitle": "Free Guy",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675094299"
     },
     {
       "name": "Memories of Murder",
@@ -685,7 +685,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/049deee9f693770105bf981bf3cb5e96678dc7600411dbac58b6cce4906346df._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b31d51b2c81984d353fbdd34b5a3564f94f9f9f76dbb4b48e7b8abd09956febe._SX342_SY600_.jpg"
     },
     {
       "name": "Minari",
@@ -710,7 +710,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/19a276ab759e617602ee8fc454793990ad2631e6c46a71029dd062943b0e6867._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1c7f7b6e0f88d765b80070b1ae4448ffc513137827f6ca95f09b05fcd856cf7a._SX342_SY600_.jpg"
     },
     {
       "name": "Moonwalker",
@@ -1071,6 +1071,7 @@
       "originalTitle": "Il racconto dei racconti",
       "rating": 3.3,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
@@ -1084,7 +1085,7 @@
       "originalTitle": "Guns Akimbo",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675094299"
     },
     {
       "name": "The Producers",
@@ -1348,18 +1349,6 @@
       "imageUrl": "https://image.tmdb.org/t/p/w342/AkugqoHw5vUWBd8xZ02cvURP0J9.jpg"
     },
     {
-      "name": "The Wind Rises",
-      "letterboxdUrl": "https://letterboxd.com/film/the-wind-rises/",
-      "listPosition": 0,
-      "year": "2013",
-      "originalTitle": "風立ちぬ",
-      "rating": 4,
-      "streamProviders": [
-        "Netflix"
-      ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/zxb86S1Fh06sPdkkAJ1a7oXpDeJ.jpg"
-    },
-    {
       "name": "Gunbuster",
       "letterboxdUrl": "https://letterboxd.com/film/gunbuster/",
       "listPosition": 0,
@@ -1423,7 +1412,7 @@
       "originalTitle": "ピンポン THE ANIMATION",
       "rating": 4.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675094299"
     },
     {
       "name": "Ultimate Teacher",
@@ -1464,7 +1453,7 @@
       "originalTitle": "Nuit blanche",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675094299"
     },
     {
       "name": "Blood Machines",
@@ -1526,7 +1515,7 @@
       "originalTitle": "Toy Story 4",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675094299"
     },
     {
       "name": "Stalker",
@@ -1570,7 +1559,7 @@
       "originalTitle": "Prospect",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/268a50363cca910fef801de0cffc6f34e0269506fa6d236dfc20544834be2892._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79062ff0cf2d16be5c1dd2303ceb59a95590caa0b26f592ea4443612a07299c3._SX342_SY600_.jpg"
     },
     {
       "name": "Solaris",
@@ -1615,6 +1604,7 @@
       "originalTitle": "Good Time",
       "rating": 4,
       "streamProviders": [
+        "Prime Video Channels Moviedome PLUS",
         "filmfriend"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0282778d02409159f2de88ab3535f227afb1b4ff40a4c83e3164d42f10be47d7._SX342_SY600_.jpg"
@@ -1661,7 +1651,7 @@
       "originalTitle": "Die Deutschen",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675094299"
     },
     {
       "name": "Warrior",
@@ -1863,7 +1853,7 @@
         "alleskino",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3e092a7308b47001da69bc52cd2cfeac92209fab57184371bcc32d79f69680d7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2f21e1d3ee60ad6c4a5806104cc16f9cdd5e4b4de371d2d7a157f1ab1f43463c._SX342_SY600_.jpg"
     },
     {
       "name": "Dirty Harry",
@@ -2096,7 +2086,7 @@
       "originalTitle": "Utopia",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675094299"
     },
     {
       "name": "Black Cat, White Cat",
@@ -2374,7 +2364,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a39bee35097a2efaf38d116759a6d6a824ab7d4a06a36f28379483343ee47b36._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b588fa418f098d25ea1225359434f0aace217a4c7ace1ad47f9eaf7bd8e1a1d4._SX342_SY600_.jpg"
     },
     {
       "name": "Blade of the Immortal",
@@ -2431,7 +2421,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/37feaeb7acff04977d4eeb64e1e6e24025d3a1d5900f2b1ba5cc41bc8c798123._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d0817e63c48a202e4431261897b0f624d59d0ff29de53ab5be605bf85c76b18._SX342_SY600_.jpg"
     },
     {
       "name": "Trespass Against Us",
@@ -2976,18 +2966,6 @@
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c48f40c593500fa1153bd8414f9b79edb6286b73ae118fe915b47125104132c1._SX342_SY600_.jpg"
     },
     {
-      "name": "Gangster Squad",
-      "letterboxdUrl": "https://letterboxd.com/film/gangster-squad/",
-      "listPosition": 0,
-      "year": "2013",
-      "originalTitle": "Gangster Squad",
-      "rating": 2.8,
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0d55b53779295c018c1c0a0786f4d28ac947370458256136a12db44e97275ecf._SX342_SY600_.jpg"
-    },
-    {
       "name": "Adventureland",
       "letterboxdUrl": "https://letterboxd.com/film/adventureland/",
       "listPosition": 0,
@@ -3029,7 +3007,7 @@
       "originalTitle": "Im Angesicht des Verbrechens",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675094299"
     },
     {
       "name": "Gigantic",
@@ -3158,7 +3136,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f2951f5f509de01c4dac73ef38d10774eecd509a2c2e4a3c2e9d6cc4529fd7f._SX342_SY600_.jpg"
     },
     {
       "name": "The Hacker Wars",
@@ -3870,7 +3848,7 @@
       "originalTitle": "Art War",
       "rating": 0,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1674746149"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675094299"
     },
     {
       "name": "Blue Is the Warmest Color",
@@ -4164,6 +4142,7 @@
       "originalTitle": "C'era una volta il West",
       "rating": 4.3,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels FILMLEGENDEN",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
