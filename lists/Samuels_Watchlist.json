@@ -11,7 +11,7 @@
       "originalTitle": "Vesper",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ae8de2b6054e3ea0a3b909731b879522283ad43a138e680c701cdfa55066215e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6f51784b6834825ed2f8dcf2df8b8580a271ddd3c0b227fa91c60ac7d7a87a8c._SX342_SY600_.jpg"
     },
     {
       "name": "Aftersun",
@@ -29,7 +29,7 @@
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "TÁR",
-      "rating": 4.1,
+      "rating": 4,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/9FSlyzf5qXOOxAthSFHzxB7iVGg.jpg"
     },
@@ -124,7 +124,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc484bd4154266a46f7f65bec5e1bbc3d03df9a46b77c739aafd85ee0fe668f7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cc6afcb9c269810b1db721c67659f15b24008d6fcdc395c1cdebfd5d44fdc16b._SX342_SY600_.jpg"
     },
     {
       "name": "Labyrinth of Cinema",
@@ -371,7 +371,8 @@
       "rating": 4.2,
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\nSky"
+        "Sky Go\nSky",
+        "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a40746fb45384b83c3f5506e09352e40a2ebadcfcafcc59d1a93ce07e8647a5c._SX342_SY600_.jpg"
     },
@@ -407,8 +408,6 @@
       "originalTitle": "Cave of Forgotten Dreams",
       "rating": 3.8,
       "streamProviders": [
-        "RTL+",
-        "Prime Video Channels GEO Television",
         "Prime Video Channels Geo wild + television",
         "filmfriend",
         "filmingo"
@@ -596,8 +595,10 @@
       "year": "2016",
       "originalTitle": "Orange",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/pElD520j1jgANaPUIm6qkR4ThEY.jpg"
+      "streamProviders": [
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47ef1fce3e17f353e457e32ecffb6b8d1cbaab272bcd3beea3c169858c0d783f._SX342_SY600_.jpg"
     },
     {
       "name": "Free Guy",
@@ -623,7 +624,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc53df6e314be4ace31bf68406f9ffceef0c283b8e1635ce57149564751ccdd9._SX342_SY600_.jpg"
     },
     {
       "name": "Traffic",
@@ -656,10 +657,9 @@
       "originalTitle": "The Family",
       "rating": 2.8,
       "streamProviders": [
-        "Amazon Prime Video",
         "Prime Video Channels FILMLEGENDEN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8c97aadbe84c6a045a8e3a82cb34cb36b89c95536ab4cbfb910e3cff3202ae53._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ba4f1d02855de4424910d6fc9a8dd9e4d922ece36f22a9927edc1e22615bcc93._SX342_SY600_.jpg"
     },
     {
       "name": "The Dark Valley",
@@ -778,7 +778,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/pavCWa3mvcu7iIsEkRgRcmfYj9c.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
     },
     {
       "name": "Monos",
@@ -1313,7 +1313,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/629dac4190c5d857f93bed9bd3df183f6a31730e060f15ba8006d7acbfe3f491._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e0cb6e2bb66d231c88f0ecf43f3e354458ff7cafb8ca595e1de01afe4f0aee4._SX342_SY600_.jpg"
     },
     {
       "name": "A Place Further Than the Universe",
@@ -1559,7 +1559,7 @@
       "originalTitle": "Prospect",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79062ff0cf2d16be5c1dd2303ceb59a95590caa0b26f592ea4443612a07299c3._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/268a50363cca910fef801de0cffc6f34e0269506fa6d236dfc20544834be2892._SX342_SY600_.jpg"
     },
     {
       "name": "Solaris",
@@ -1665,7 +1665,7 @@
         "Netflix",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7d8fe44a27dd3f2bd771f10f5434fd5b43e53b16c770ea0a92f4f9bfa6b4584a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0b9472966f95f04e3a4f232b9f369f3ad68256c24a68912030423c6433ff8253._SX342_SY600_.jpg"
     },
     {
       "name": "Apollo 11",
@@ -1742,7 +1742,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/63aaa7d6760743a569310c1b78cb445ce9a27c72468f17fbaf4b5f57e282cb9e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/66256f8b264746927b97db0e1496a91752812bf5d4a372269217c01b17baacb1._SX342_SY600_.jpg"
     },
     {
       "name": "The Pinchcliffe Grand Prix",
@@ -1764,7 +1764,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/16266adfc734a02b27049996a05f98233d5e2029c19d55da2aaa9a64c57f5d13._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/221072767f928236bc3e060624127bdc81ad73dbb3e5b4bf67409d49b277777f._SX342_SY600_.jpg"
     },
     {
       "name": "Force Majeure",
@@ -1907,7 +1907,8 @@
       "originalTitle": "Das schweigende Klassenzimmer",
       "rating": 3.6,
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
+        "Prime Video Channels ARTHAUS+",
+        "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/46216493e0017f4e4d3c556141dbff3091593d5902740f9130d8a4057ea41648._SX342_SY600_.jpg"
     },
@@ -2364,7 +2365,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b588fa418f098d25ea1225359434f0aace217a4c7ace1ad47f9eaf7bd8e1a1d4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a39bee35097a2efaf38d116759a6d6a824ab7d4a06a36f28379483343ee47b36._SX342_SY600_.jpg"
     },
     {
       "name": "Blade of the Immortal",
@@ -2421,7 +2422,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d0817e63c48a202e4431261897b0f624d59d0ff29de53ab5be605bf85c76b18._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/37feaeb7acff04977d4eeb64e1e6e24025d3a1d5900f2b1ba5cc41bc8c798123._SX342_SY600_.jpg"
     },
     {
       "name": "Trespass Against Us",
@@ -2719,7 +2720,7 @@
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/552358fe23260046e2bab2db0d0244d894344ab4a8670182274062900b0a5728._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b8eaaffecfd4115c8636d2cc12d50ea82341a7a2a36b8c213b05905777cef67e._SX342_SY600_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -3427,7 +3428,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_SY600_.jpg"
     },
     {
       "name": "The Salvation",
@@ -3684,11 +3685,7 @@
       "year": "2013",
       "originalTitle": "Spieltrieb",
       "rating": 2.8,
-      "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e068a6ff80e651312d564d34a30b0bf03328c9eb1145c71cded7cf8b8ea66db4._SX342_SY600_.jpg"
     },
     {
