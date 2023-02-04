@@ -70,7 +70,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c71b331fdeb96f3acfd30d42d9d55b62c4141a3f6c2ef412dfc5e893c906392f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_SY600_.jpg"
     },
     {
       "name": "Magnetic Rose",
@@ -311,7 +311,7 @@
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7ae8ccb7fa891cd9bcf2ce62c5c753ff8f4cf2447e39604d38fb7746f3544fa7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_SY600_.jpg"
     },
     {
       "name": "Steins;Gate: The Movie - Load Region of Déjà Vu",
@@ -416,7 +416,7 @@
       "originalTitle": "獣兵衛忍風帖",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -460,7 +460,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9cd92925a76795c0db5191b10148f0860eb51ca2587ac4351d7b25593eb258b6._SX342_SY600_.jpg"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -755,10 +755,11 @@
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
       "rating": 3.9,
       "streamProviders": [
-        "Prime Video Channels Netzkino Select",
-        "Prime Video Channels Silverline"
+        "Amazon Prime Video",
+        "Joyn",
+        "Silverline Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c3785c78fbbb16cf49cd9df86fe4cf0869f2de1e12e1891c44792bb535b93106._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/215305381/s166/Vampire-Hunter-D-Bloodlust"
     },
     {
       "name": "Angel's Egg",
@@ -883,7 +884,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/180ab54f6d1b9690095b37bd5223e91083b23995eec2610523e7001c44df19ec._SX342_SY600_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -893,7 +894,7 @@
       "originalTitle": "イノセンス",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/pOAHfEtR6mBxQNMz696s0fWQPsg.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/205642233/s166/Ghost-in-the-Shell-2-Innocence"
     },
     {
       "name": "Rurouni Kenshin: Requiem for the Ishin Patriots",
@@ -973,7 +974,7 @@
       "originalTitle": "映画けいおん！",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/257936127/s166/K-ON-The-Movie"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2b9e48fba8ffc22ae563ecd5c84f1336f6da7ad7b689660d2c66609d4ee4aec._SX342_SY600_.jpg"
     },
     {
       "name": "From Up on Poppy Hill",
@@ -1091,10 +1092,6 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Netzkino Select",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels ProSieben FUN",
       "enabled": false
     },
@@ -1107,15 +1104,15 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Silverline",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels Stingray All Good Vibes",
       "enabled": false
     },
     {
       "name": "Prime Video Channels aniverse",
+      "enabled": false
+    },
+    {
+      "name": "Silverline Amazon Channel",
       "enabled": false
     }
   ]
