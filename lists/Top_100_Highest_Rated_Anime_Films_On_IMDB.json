@@ -70,7 +70,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c71b331fdeb96f3acfd30d42d9d55b62c4141a3f6c2ef412dfc5e893c906392f._SX342_SY600_.jpg"
     },
     {
       "name": "Magnetic Rose",
@@ -416,7 +416,7 @@
       "originalTitle": "獣兵衛忍風帖",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_SY600_.jpg"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -460,7 +460,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9cd92925a76795c0db5191b10148f0860eb51ca2587ac4351d7b25593eb258b6._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_SY600_.jpg"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -755,11 +755,10 @@
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
       "rating": 3.9,
       "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn",
-        "Silverline Amazon Channel"
+        "Prime Video Channels Netzkino Select",
+        "Prime Video Channels Silverline"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/215305381/s166/Vampire-Hunter-D-Bloodlust"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbe9c724ac280ac38bdff55b027fc3c517ba23bad353865934fe5fa4c69de090._SX342_SY600_.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -884,7 +883,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176220981/s166/Inuyasha-Movie-2-Das-Traumschloss-im-Inneren-der-Spiegel"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -894,7 +893,7 @@
       "originalTitle": "イノセンス",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/205642233/s166/Ghost-in-the-Shell-2-Innocence"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/pOAHfEtR6mBxQNMz696s0fWQPsg.jpg"
     },
     {
       "name": "Rurouni Kenshin: Requiem for the Ishin Patriots",
@@ -1092,6 +1091,10 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels Netzkino Select",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels ProSieben FUN",
       "enabled": false
     },
@@ -1104,15 +1107,15 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels Silverline",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Stingray All Good Vibes",
       "enabled": false
     },
     {
       "name": "Prime Video Channels aniverse",
-      "enabled": false
-    },
-    {
-      "name": "Silverline Amazon Channel",
       "enabled": false
     }
   ]

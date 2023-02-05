@@ -128,7 +128,7 @@
       "originalTitle": "The Last House on the Left",
       "rating": 3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/iMeXdKEvSeoEh4WfDFQamaHZlG3.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/w7VYs2cqcpO3Ird1hgP11smfn9F.jpg"
     },
     {
       "name": "The King of Boxers",
@@ -747,7 +747,9 @@
       "year": "2010",
       "originalTitle": "Machete",
       "rating": 3,
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cefb657202f76fce347064d5dfb99a14a7d24da11d32d76b77f8edfe72e0d916._SX342_SY600_.jpg"
     },
     {
@@ -832,7 +834,7 @@
         "Prime Video Channels superfresh",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/07ea573ba3553d3d1db5fd8ccdf1888a24782be01005bdd01d532c863e4bd80c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ecf4e5463094f2e088634b39ae9e3fb855feb5bb3ec63d5842334d96305f8ec._SX342_SY600_.jpg"
     },
     {
       "name": "Love Camp 7",
@@ -943,7 +945,7 @@
         "Prime Video Channels superfresh",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c66b089269ec6d44d2e6edd38623b7b34f7e5385a357188ee5e555f41fc8001f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d91cf9380f0f5fc15ce1a7a7d7d8d8884dbb4f09512eacf1dddd019682ca3137._SX342_SY600_.jpg"
     },
     {
       "name": "Color Me Blood Red",
@@ -1010,8 +1012,7 @@
       "originalTitle": "Salon Kitty",
       "rating": 3,
       "streamProviders": [
-        "Netzkino",
-        "Mubi"
+        "Netzkino"
       ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/c3WetjfJ2Q26gDWygCjflSAv4zK.jpg"
     },
@@ -1094,7 +1095,7 @@
       "originalTitle": "Braindead",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/xVyOcREr0OSbjVUqjGQn4oMyqiF.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8818659/s166/Braindead"
     },
     {
       "name": "Rats: Night of Terror",
@@ -1250,7 +1251,7 @@
         "Prime Video Channels Bloody Movies",
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b94fd022ddc33b531cfb886c2dd61bbc414506247772ffea90649e17a0ebc59._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d632fa9ae08693f557e2ead2be49fe08671d8c8425d7fe506ea2a16909c23192._SX342_SY600_.jpg"
     },
     {
       "name": "From Beyond",
@@ -1534,7 +1535,7 @@
         "Prime Video Channels Bloody Movies",
         "Prime Video Channels Silverline"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69708240b16a976ec3ea9bf1daa6ed2bc65062f50f562a4b88cdfbf38119721d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c42f3681e8d4f41b0a7e993e3e2d35d1a1296d27eef830b13b80961e74b47c01._SX342_SY600_.jpg"
     },
     {
       "name": "Samurai Cop",
@@ -2122,7 +2123,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6d8ad2831b3a6e43ec89b7d62cc4f42f43758032f68a58517bd034043e0b1825._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9fa610f1ee91e93c7cbe511c6d02e7f968625415170b121c8ff255156820f0fc._SX342_SY600_.jpg"
     },
     {
       "name": "Q",
