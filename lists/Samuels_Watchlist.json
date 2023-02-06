@@ -4,6 +4,15 @@
   "description": "",
   "entries": [
     {
+      "name": "Adventure Time: Distant Lands",
+      "letterboxdUrl": "https://letterboxd.com/film/adventure-time-distant-lands/",
+      "listPosition": 0,
+      "year": "2020",
+      "originalTitle": "Adventure Time: Distant Lands",
+      "rating": 4.5,
+      "streamProviders": []
+    },
+    {
       "name": "All Quiet on the Western Front",
       "letterboxdUrl": "https://letterboxd.com/film/all-quiet-on-the-western-front-2022/",
       "listPosition": 0,
@@ -166,7 +175,7 @@
       "listPosition": 0,
       "year": "2021",
       "originalTitle": "South Park: Post COVID",
-      "rating": 3.6,
+      "rating": 3.5,
       "streamProviders": [
         "Paramount+"
       ],
@@ -372,7 +381,7 @@
       "streamProviders": [
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85fc0d0a358f6ba9d0025d962314994d9490d5f51d30a4e977c01353ab9ef694._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a40746fb45384b83c3f5506e09352e40a2ebadcfcafcc59d1a93ce07e8647a5c._SX342_SY600_.jpg"
     },
     {
       "name": "Nightmare Alley",
@@ -594,8 +603,10 @@
       "year": "2016",
       "originalTitle": "Orange",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/pElD520j1jgANaPUIm6qkR4ThEY.jpg"
+      "streamProviders": [
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47ef1fce3e17f353e457e32ecffb6b8d1cbaab272bcd3beea3c169858c0d783f._SX342_SY600_.jpg"
     },
     {
       "name": "Free Guy",
@@ -621,7 +632,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/807d482d87fc0cddd0be5e6c40f2433f5ad9bb1c41004b2f270e45eade983efc._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
     },
     {
       "name": "Traffic",
@@ -682,7 +693,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b31d51b2c81984d353fbdd34b5a3564f94f9f9f76dbb4b48e7b8abd09956febe._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/049deee9f693770105bf981bf3cb5e96678dc7600411dbac58b6cce4906346df._SX342_SY600_.jpg"
     },
     {
       "name": "Minari",
@@ -1072,7 +1083,7 @@
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/efa2292116865051474012f365ee886235d867e1cb5e04894a50421178bcd2b5.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b48e11d81bcb0884f728dbcd2cb712f7d791741ef7ccac3b75b270460ac51a8a._SX342_SY600_.jpg"
     },
     {
       "name": "Guns Akimbo",
@@ -1314,7 +1325,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e0cb6e2bb66d231c88f0ecf43f3e354458ff7cafb8ca595e1de01afe4f0aee4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/629dac4190c5d857f93bed9bd3df183f6a31730e060f15ba8006d7acbfe3f491._SX342_SY600_.jpg"
     },
     {
       "name": "A Place Further Than the Universe",
@@ -1560,7 +1571,7 @@
       "originalTitle": "Prospect",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79062ff0cf2d16be5c1dd2303ceb59a95590caa0b26f592ea4443612a07299c3._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/268a50363cca910fef801de0cffc6f34e0269506fa6d236dfc20544834be2892._SX342_SY600_.jpg"
     },
     {
       "name": "Solaris",
@@ -1666,7 +1677,7 @@
         "Netflix",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0b9472966f95f04e3a4f232b9f369f3ad68256c24a68912030423c6433ff8253._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7d8fe44a27dd3f2bd771f10f5434fd5b43e53b16c770ea0a92f4f9bfa6b4584a._SX342_SY600_.jpg"
     },
     {
       "name": "Apollo 11",
@@ -2420,7 +2431,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d0817e63c48a202e4431261897b0f624d59d0ff29de53ab5be605bf85c76b18._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/37feaeb7acff04977d4eeb64e1e6e24025d3a1d5900f2b1ba5cc41bc8c798123._SX342_SY600_.jpg"
     },
     {
       "name": "Trespass Against Us",
@@ -2521,16 +2532,6 @@
         "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79847f6d6d851e00f8c2c8922964b094d043fdfa289226907e3f0220ddf71bac._SX342_SY600_.jpg"
-    },
-    {
-      "name": "The Neon Demon",
-      "letterboxdUrl": "https://letterboxd.com/film/the-neon-demon/",
-      "listPosition": 0,
-      "year": "2016",
-      "originalTitle": "The Neon Demon",
-      "rating": 3.2,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c8ed49524d7c95f6a04addc9b5fbdae9e573663f74f4ae5878eb5c6c8b0e348a._SX342_SY600_.jpg"
     },
     {
       "name": "Computer Chess",
@@ -3218,8 +3219,7 @@
       "originalTitle": "American Sniper",
       "rating": 3.2,
       "streamProviders": [
-        "Netflix",
-        "Sky Go\nSky"
+        "Netflix"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8085f7fb23e2f0a75d2c4046b51197baaeb746cab2f10915661e68df85568e68._SX342_SY600_.jpg"
     },
@@ -3712,9 +3712,7 @@
       "year": "2013",
       "originalTitle": "Tore tanzt",
       "rating": 3.5,
-      "streamProviders": [
-        "alleskino"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/eX9OkMwZatLF9eUIrvULQ552e3M.jpg"
     },
     {
@@ -3906,7 +3904,7 @@
       "streamProviders": [
         "Prime Video Channels Bloody Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/820abaee13316df28b7fe3b40f259e7f9e1b06d09ee25be00e8299069c990f4a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1f63f7ddf1a1021b05f5a7e1ccfdd17a7b87af1162efa821c04476d8643f423a._SX342_SY600_.jpg"
     },
     {
       "name": "Control",

@@ -295,9 +295,11 @@
       "originalTitle": "耳をすませば",
       "rating": 4.1,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/s9VTQCVVtxVHAkIhFcNiOdmnDdC.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/249540596/s166/Stimme-des-Herzens-Whisper-of-the-Heart"
     },
     {
       "name": "Ghost in the Shell",
@@ -311,7 +313,7 @@
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7ae8ccb7fa891cd9bcf2ce62c5c753ff8f4cf2447e39604d38fb7746f3544fa7._SX342_SY600_.jpg"
     },
     {
       "name": "Steins;Gate: The Movie - Load Region of Déjà Vu",
@@ -426,9 +428,11 @@
       "originalTitle": "魔女の宅急便",
       "rating": 4.1,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/tqvaBI50VYztv8jzlsY9982278S.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/249393502/s166/Kikis-kleiner-Lieferservice-1989"
     },
     {
       "name": "Macross: Do You Remember Love?",
@@ -758,7 +762,7 @@
         "Prime Video Channels Netzkino Select",
         "Prime Video Channels Silverline"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbe9c724ac280ac38bdff55b027fc3c517ba23bad353865934fe5fa4c69de090._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c3785c78fbbb16cf49cd9df86fe4cf0869f2de1e12e1891c44792bb535b93106._SX342_SY600_.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -883,7 +887,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/176220981/s166/Inuyasha-Movie-2-Das-Traumschloss-im-Inneren-der-Spiegel"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -911,7 +915,7 @@
       "listPosition": 85,
       "year": "1995",
       "originalTitle": "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
-      "rating": 3.2,
+      "rating": 3.3,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/xU2L35dvXsQKyu3rh2fmgePva50.jpg"
     },
@@ -1084,6 +1088,14 @@
     },
     {
       "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Netflix Kids",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {
