@@ -560,11 +560,9 @@
       "originalTitle": "魔女の宅急便",
       "rating": 4.1,
       "streamProviders": [
-        "Netflix",
-        "Netflix Kids",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/249393502/s166/Kikis-kleiner-Lieferservice-1989"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/tqvaBI50VYztv8jzlsY9982278S.jpg"
     },
     {
       "name": "Only Yesterday",
@@ -654,11 +652,9 @@
       "originalTitle": "耳をすませば",
       "rating": 4.1,
       "streamProviders": [
-        "Netflix",
-        "Netflix Kids",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/249540596/s166/Stimme-des-Herzens-Whisper-of-the-Heart"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/s9VTQCVVtxVHAkIhFcNiOdmnDdC.jpg"
     },
     {
       "name": "Ghost in the Shell",
@@ -1112,14 +1108,6 @@
     },
     {
       "name": "Netflix",
-      "enabled": false
-    },
-    {
-      "name": "Netflix Kids",
-      "enabled": false
-    },
-    {
-      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {
