@@ -570,7 +570,7 @@
       "originalTitle": "Bustin' Loose",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675336963"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675789144"
     },
     {
       "name": "The Candy Tangerine Man",
@@ -1170,7 +1170,7 @@
       "originalTitle": "The Greatest",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675336963"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675789144"
     },
     {
       "name": "The Guy From Harlem",
@@ -1452,7 +1452,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/08f5211d8372c59db8d11d718b79eae96f82441455ca4cc14718131ab7df4267._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b9b484229ed87bf718d3ad5ac2a1c1a4572d57fe9f48371417f93662c62b7289._SX342_SY600_.jpg"
     },
     {
       "name": "The Last Fight",
@@ -1823,7 +1823,7 @@
       "originalTitle": "Right On!",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675336963"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675789144"
     },
     {
       "name": "The River Niger",
@@ -1994,8 +1994,10 @@
       "year": "1974",
       "originalTitle": "Space Is the Place",
       "rating": 3.7,
-      "streamProviders": [],
-      "imageUrl": "https://cfvod.kaltura.com/p/2031841/sp/203184100/thumbnail/entry_id/0_t6mnjub3/width/342"
+      "streamProviders": [
+        "Sooner"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/5yPhG0iBQpBObowErVrZLPZzTq.jpg"
     },
     {
       "name": "Sparkle",
@@ -2126,7 +2128,7 @@
       "listPosition": 0,
       "year": "1975",
       "originalTitle": "Take a Hard Ride",
-      "rating": 3,
+      "rating": 3.1,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/A87pwbLIcXU0Uj8frVTr7PuUVkx.jpg"
     },
@@ -2138,7 +2140,7 @@
       "originalTitle": "E yu tou hei sha xing",
       "rating": 2.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675336963"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675789144"
     },
     {
       "name": "That Man Bolt",
@@ -2509,6 +2511,10 @@
     },
     {
       "name": "Sky WOW",
+      "enabled": false
+    },
+    {
+      "name": "Sooner",
       "enabled": false
     }
   ]
