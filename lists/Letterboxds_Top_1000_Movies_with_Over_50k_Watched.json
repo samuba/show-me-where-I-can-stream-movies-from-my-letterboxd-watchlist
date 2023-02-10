@@ -145,7 +145,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9e6f40ec62b0df07ee8beb4f2007c09fc823a2838a7ede982a59f8e79fd80a49._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc46567834074e00d648c6d819bc8fd68b166554b3e919d53683d03f02dc1e6f._SX342_SY600_.jpg"
     },
     {
       "name": "Spider-Man: Into the Spider-Verse",
@@ -158,7 +158,7 @@
         "Disney+",
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0bf15f9d6a52f43fbf9b598c16583387b8c18d1ba2b466a26576bd4997b5c2b4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0b64d32faa41b537a341553380df06220e2438a86c11256ccb7e707c4aab54a._SX342_SY600_.jpg"
     },
     {
       "name": "Everything Everywhere All at Once",
@@ -289,7 +289,7 @@
       "originalTitle": "La Haine",
       "rating": 4.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "The Empire Strikes Back",
@@ -416,7 +416,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d8a2a590d71cf9b9cc51c5ac320d412e79902211c450c45596b0eb2787c79ad9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0076edf7ef3076191e6b22ee63c66b5d9e4195e75976646a5c27b2914c685bec._SX342_SY600_.jpg"
     },
     {
       "name": "Apocalypse Now",
@@ -432,7 +432,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0dc5af0a04a37209fcfa536564475d26a52710f89e053a2be3d6f767d63bf324._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ed8b4f91b034fb34f54c03c39142b20aabd7f177984a220db627403dfa2b50ed._SX342_SY600_.jpg"
     },
     {
       "name": "The Passion of Joan of Arc",
@@ -618,7 +618,8 @@
       "originalTitle": "올드보이",
       "rating": 4.3,
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b0ab93bb52cec0dce4b0db10e3a0bfbec5d549bd872904d869cb1f3095624de4._SX342_SY600_.jpg"
     },
@@ -817,7 +818,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c3de7ac0a768fde0ac247c61cd9174edda213565c5fb4a6fed5c33e45f0bd93._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15fb6fa9ab4bed71f0f92218d56bec4c9f1e026a57500a5b392486c5409abd2d._SX342_SY600_.jpg"
     },
     {
       "name": "2001: A Space Odyssey",
@@ -908,7 +909,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_SY600_.jpg"
     },
     {
       "name": "The Seventh Seal",
@@ -961,7 +962,10 @@
       "year": "1979",
       "originalTitle": "Alien",
       "rating": 4.3,
-      "streamProviders": []
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0ecbc6c1f492ffd52da4a5fbc0e27f8db0d4128ced63c7ee643d162469edd498._SX342_SY600_.jpg"
     },
     {
       "name": "Chungking Express",
@@ -1210,7 +1214,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dadc9d1b15d4704b1da11c77988fa7edc23b0ef9ccd61abd4e63c9b6a8983908._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa42db8a4c6939c622058b30fe51e33f59b5fbbde6447e7a61b7e64e6646d30a._SX342_SY600_.jpg"
     },
     {
       "name": "All That Jazz",
@@ -1220,7 +1224,7 @@
       "originalTitle": "All That Jazz",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "Lawrence of Arabia",
@@ -1368,7 +1372,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "Wings of Desire",
@@ -1393,7 +1397,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74dcaabb9c58fc79ae0f370a53834cd71af6317457c7a157e8f4722349e88936._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e22009abbf8c9fa9ef8d863218229469323396754d23c760b6767253ec48759a._SX342_SY600_.jpg"
     },
     {
       "name": "Yojimbo",
@@ -1558,7 +1562,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0555a7165fd4da62885708479df87e7e69372d658162cb71fe5c801eba5c8e3._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4e0e25d8a2b4107ff7b70a8a0eeae67baa27a8495cfee651f999c8ccfcb1656c._SX342_SY600_.jpg"
     },
     {
       "name": "Moonlight",
@@ -1676,7 +1680,7 @@
         "Joyn",
         "Prime Video Channels SONY AXN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e598a408af09170d8d1fff634c493343fb01f8d3a604b433e19770658890222c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/028ccd6daaca4111affc91adb51f0d1ec711c20b2589ba0e0d146e89b77a37bd._SX342_SY600_.jpg"
     },
     {
       "name": "Meshes of the Afternoon",
@@ -1759,7 +1763,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f2951f5f509de01c4dac73ef38d10774eecd509a2c2e4a3c2e9d6cc4529fd7f._SX342_SY600_.jpg"
     },
     {
       "name": "Fallen Angels",
@@ -1825,7 +1829,7 @@
       "streamProviders": [
         "Prime Video Channels Filmtastic"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_SY600_.jpg"
     },
     {
       "name": "The Truman Show",
@@ -1930,7 +1934,7 @@
       "originalTitle": "The Iron Giant",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/19aec5ecad94bd8a8b55b1c8f4102131787113d949a0c7eda733c52ea9edeba1._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/55854cae92c8a52ae4cec11db4eaf1dc5de1915d69578181233560f894e67f1f._SX342_SY600_.jpg"
     },
     {
       "name": "The Wrong Trousers",
@@ -2008,7 +2012,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e0cb6e2bb66d231c88f0ecf43f3e354458ff7cafb8ca595e1de01afe4f0aee4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/629dac4190c5d857f93bed9bd3df183f6a31730e060f15ba8006d7acbfe3f491._SX342_SY600_.jpg"
     },
     {
       "name": "RRR",
@@ -2342,7 +2346,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cff42f907a3cf87b8c38ecaecdb8f527e293baca1cbb6aa77f7b2e8ac72ec44._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/80ab6ea26c4043cb8486196f8ad94717ee6d7c88a251a1db83b428a9ca6e1a5e._SX342_SY600_.jpg"
     },
     {
       "name": "The Secret in Their Eyes",
@@ -2374,7 +2378,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/aca33b338143636576f5adccb23dc9df72bf53055e526a611ce0f05ffb7ef2c2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d343a52887d7225336a47659151a776c70f9deb7837fd4e48ceaec6ab064e517._SX342_SY600_.jpg"
     },
     {
       "name": "Little Miss Sunshine",
@@ -2386,7 +2390,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3d72674fb083873ba91587c13afedd2abb5ca9c2b52c9dad1e0b87899c1351ab._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6101337160682a52e1a6bf8d381d740539802622b55f0563325d77c9cfa67868._SX342_SY600_.jpg"
     },
     {
       "name": "Magnolia",
@@ -2412,7 +2416,7 @@
         "Rakuten TV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4674e7d14aa471c0aabda897c1fe1391c047c651fce9dbb30876328ed3639640._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/12f93d94b5ee7adbf865bbf5f138b8fcd2ba3fd2d18cd4063d514aa9f170bf60._SX342_SY600_.jpg"
     },
     {
       "name": "Pan's Labyrinth",
@@ -2707,7 +2711,7 @@
       "originalTitle": "PlayTime",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "Millennium Actress",
@@ -2764,7 +2768,7 @@
       "originalTitle": "The Kid",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "Y Tu Mamá También",
@@ -3031,7 +3035,7 @@
       "originalTitle": "Casino",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/rZzpEQLN4qfr2EGVmh5Vzssz1VA.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/7HvkjnRD3A1Ex2KcP67mVUzFCU7.jpg"
     },
     {
       "name": "What We Do in the Shadows",
@@ -3061,7 +3065,7 @@
         "Netzkino",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ce8fc2936b1300b84e4149ad9ebe3a880485c00e87895127ab8af18d12a079b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f81cc533a43c7f6994d9ee1bbb166a03034081f0d8e7763310f44db4e0ab7b6f._SX342_SY600_.jpg"
     },
     {
       "name": "Rome, Open City",
@@ -3117,7 +3121,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c9095c5932540a903b30864f5851f6e2a6203dd6d19b0910aab7eb9f058c1e46._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/82c298e9fbdc2f0571667a2c95d8709a1d11fafd9b9cf7315e4507a786b38285._SX342_SY600_.jpg"
     },
     {
       "name": "The Conformist",
@@ -3692,7 +3696,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d3246447be9735eb5d22113ff696cce3becc1f0bc17624908446bf0539f3176._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ff95015200901a185c0c969c3304abd1cca21141d8a3044458510cf76eea50b._SX342_SY600_.jpg"
     },
     {
       "name": "The Sting",
@@ -3739,7 +3743,7 @@
       "streamProviders": [
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/17b3df24ff5cd7806d70aa14aa8195964ed1946287036155ba3d7430ff401c05._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2bcbfa2cd1b644e8e81624805e1f4bbef3794b4c0ecfd07860325b671f586d14._SX342_SY600_.jpg"
     },
     {
       "name": "Blue Velvet",
@@ -3895,7 +3899,7 @@
         "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d49c8e245b87c51ea5719379f147f0260704ff88dcbb6ce47e6c2c4e90195f44.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6a7be27e60371f912aa7b941c7c9d1a40970dd4d3584809d770221ed60b3e90e._SX342_SY600_.jpg"
     },
     {
       "name": "Harold and Maude",
@@ -3915,7 +3919,7 @@
       "originalTitle": "The Batman",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "Scream",
@@ -4041,7 +4045,7 @@
       "originalTitle": "In a Heartbeat",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "The Graduate",
@@ -4133,7 +4137,7 @@
         "Rakuten TV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c3e47b2fab191747eef03769c755176610ea16f7e71cdd97eae23b6e0548a514._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/292404699fba4edb62ffda5dcf9ecf097799306ec03cba1507b1878ce1a98f52._SX342_SY600_.jpg"
     },
     {
       "name": "A Grand Day Out",
@@ -4305,7 +4309,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc141a3ddb273f2b9a174edd893fa94bcbf33e0040fbc453b50ecb3d658aa01._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_SY600_.jpg"
     },
     {
       "name": "Her",
@@ -4428,8 +4432,10 @@
       "year": "1981",
       "originalTitle": "Blow Out",
       "rating": 4,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/cYpRHtB7Os7y1UgMDrp1uq7678c.jpg"
+      "streamProviders": [
+        "Prime Video Channels MGM"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c67cdae08110d34466c7f6d49ae84c2b6301b202a0bffc3753fd212ca8d1e7c1._SX342_SY600_.jpg"
     },
     {
       "name": "A Close Shave",
@@ -4555,6 +4561,7 @@
       "rating": 4,
       "streamProviders": [
         "Amazon Prime Video",
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
@@ -4779,7 +4786,7 @@
       "originalTitle": "Piper",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "Ed Wood",
@@ -4893,8 +4900,7 @@
       "year": "2012",
       "originalTitle": "Paperman",
       "rating": 4,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d8de5e166a2349878f8959a560e16de4c865194dcee29a5dfa0f9932eab175ae._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Breaking the Waves",
@@ -5068,7 +5074,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cc6afcb9c269810b1db721c67659f15b24008d6fcdc395c1cdebfd5d44fdc16b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc484bd4154266a46f7f65bec5e1bbc3d03df9a46b77c739aafd85ee0fe668f7._SX342_SY600_.jpg"
     },
     {
       "name": "Laurence Anyways",
@@ -5083,7 +5089,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2ffce2c143716ce20a0e0d79ffe2c82d24cd55955787ebd6edd0a39064ce81de._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ee83ee11dd84d80e2b849877cf7f9dd9baf1336bc8fb4825d7375293f8235ff._SX342_SY600_.jpg"
     },
     {
       "name": "Grizzly Man",
@@ -5302,7 +5308,7 @@
       "originalTitle": "The Exorcist",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79d1062e27676e2e00a5d33706e66ade25a4b4a7060a4a0a579207d1b8117516._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/07d2e8fd3dfa1b33b7716ab706ddb7244b9c5d51b38616a21c148885efa367bf._SX342_SY600_.jpg"
     },
     {
       "name": "Vivre Sa Vie",
@@ -5578,7 +5584,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/263d837100fa00f1d17755e5bb0de5fc245b3ba5355f5732c9c00ab535b721d0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4144c9b11ced5e10dd3d7a0135300f6613e3b8ba862ab938da9977a10408b825._SX342_SY600_.jpg"
     },
     {
       "name": "La La Land",
@@ -5687,7 +5693,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6442abf6b1ccce90023edad4dc60149fd0a7ec700bf52da058415d2110f257c2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/78a886481cd0d1b596f5d6e525409521f9e77936980a3ea0e2fb34568200f788._SX342_SY600_.jpg"
     },
     {
       "name": "Laura",
@@ -5811,7 +5817,7 @@
         "Prime Video Channels LIONSGATE+",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8375c1f4e5e5bac03b1888c9d32ef9718f5e764212ef7a30da14078fcf755e04._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5ec4012d87dbbfe274f94ab14596ec4ecc76971c2cf152e4662876aed3b89e09._SX342_SY600_.jpg"
     },
     {
       "name": "Toy Story 3",
@@ -5871,7 +5877,7 @@
       "originalTitle": "Night of the Living Dead",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "Free Solo",
@@ -5902,7 +5908,9 @@
       "year": "1997",
       "originalTitle": "L.A. Confidential",
       "rating": 4,
-      "streamProviders": [],
+      "streamProviders": [
+        "Disney+"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7acfbabeb44f25dbc7c51fc3a8a5e45b5eb250e0c83af6192c2a83f61c823caa._SX342_SY600_.jpg"
     },
     {
@@ -6007,6 +6015,7 @@
       "originalTitle": "Punch-Drunk Love",
       "rating": 4,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment",
         "MagentaTV"
@@ -6126,7 +6135,7 @@
         "MagentaTV",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5ce8904aaffb706bd2fb16ee210d210dc5b45b8042ab1c92a6f13b786da888b3._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ea0d3ad251f1a8dc5c963a3415f93d49b5e4598e5708a1f2b46de551d447195._SX342_SY600_.jpg"
     },
     {
       "name": "The Raid 2",
@@ -6250,7 +6259,7 @@
       "streamProviders": [
         "Prime Video Channels SONY AXN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/33795e2b3cf8e8df06efafa2b4c2efcfda805b599fe1a65ef5495d64ef6c66fc._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2c17fa7a3f24cd8adfdb1faf85a3acb70056fc27102631d610799adc561b135._SX342_SY600_.jpg"
     },
     {
       "name": "Dazed and Confused",
@@ -6317,7 +6326,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b9371293cdf66e29af82258c12279eddbcf7ae1c3a1ae64f5f4a230df66b6247._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b9acc2f74bd5f8408901f5a6a2270753beaabbee5b5507b05a5ba72790d13979._SX342_SY600_.jpg"
     },
     {
       "name": "The Fly",
@@ -6403,7 +6412,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/04cbcc56503858b7557f3167f11e84f27394a3d554661a35c4f8fb2ef6295627._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/478d707b4d257a9f5e63a48e932df86d6a128111d9ae5a56381442014139e1e1._SX342_SY600_.jpg"
     },
     {
       "name": "Lady Vengeance",
@@ -6737,8 +6746,7 @@
       "year": "1956",
       "originalTitle": "The Killing",
       "rating": 3.9,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/310a1124bb7a12acdbcbbcad87a8fff8ca0460bdaa1f92af8299a518a2c8d65e._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Life of Brian",
@@ -6799,7 +6807,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cd6e3ae30bab7bc62ba58b87bb330d0ae526f637786482d5f28fc529cbf0e9b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b6cb4bbe485d1eb7adbcd8a3c7333e0efef3b6b8d45479d47c1015d5e10e1658._SX342_SY600_.jpg"
     },
     {
       "name": "Avengers: Endgame",
@@ -6847,7 +6855,7 @@
         "Netflix",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0b9472966f95f04e3a4f232b9f369f3ad68256c24a68912030423c6433ff8253._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7d8fe44a27dd3f2bd771f10f5434fd5b43e53b16c770ea0a92f4f9bfa6b4584a._SX342_SY600_.jpg"
     },
     {
       "name": "Birdman or (The Unexpected Virtue of Ignorance)",
@@ -6963,7 +6971,7 @@
       "originalTitle": "Miller's Crossing",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ea983218db2568ad6eb5138c9b712724b74f7774bb1390853afedb2cca5d14e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4371db8f281beb5e31344e33d21d0718229546875555b3c981e3c12e29ecf92a._SX342_SY600_.jpg"
     },
     {
       "name": "Duck Soup",
@@ -6985,7 +6993,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a6982bed0cbf76177051eed0d30738124b95de8766b0bc3be91814d71a171b29._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6f0fa5a8270626ddea4b87496e5b2286fa21b06af042f2ecf6ad12daae7bae56._SX342_SY600_.jpg"
     },
     {
       "name": "Tangled",
@@ -7047,7 +7055,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5746e6011ced1358d78785ae843c1c8903808a2e76188d00fe28925dbaab0e6e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_SY600_.jpg"
     },
     {
       "name": "Jiro Dreams of Sushi",
@@ -7071,7 +7079,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f8e7d101fb140f82238711b4528caf13d86f73b0e9107326fe282f7387ec7489._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2f5642cac5854bff065d1242c8653dbdf3495f57ec364e3c9f0cc8dcde670a0c._SX342_SY600_.jpg"
     },
     {
       "name": "Planet of the Apes",
@@ -7242,7 +7250,8 @@
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
         "Prime Video Channels Netzkino Select",
-        "Netzkino"
+        "Netzkino",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9b4c3dbbfeceee4ac3d62bf0cf6b6a89c209bfe86c1458af614b95334dcdfb6d._SX342_SY600_.jpg"
     },
@@ -7401,7 +7410,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9a7b6ad4ba25ec5d92e5ba37885aec30cd30ad65198fae5470393278baa81bd8._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6c8a37746634cd55e8be15c925ff2fc4ca3e5e7e36d954668898ecb7d8c6c5a._SX342_SY600_.jpg"
     },
     {
       "name": "My Own Private Idaho",
@@ -7583,7 +7592,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e06584197f22caf4e7354d957fb3c8d5483204801c40ff6d6a301d73be27d3f8._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/97618862390ce1c29bb6aeb9c9635ddc2ff01559fb0d64d7f7391a569aeaff37._SX342_SY600_.jpg"
     },
     {
       "name": "Ben-Hur",
@@ -7764,7 +7773,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0e9cbeb2b6842a1ae668be16063eb623519300d8da68c9931e689ddc4724e59._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5ea303f3ea03faa887ec92e8d67feada35853e075310a04596ec4120c2d3e49f._SX342_SY600_.jpg"
     },
     {
       "name": "High Noon",
@@ -7932,7 +7941,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5103cedbb77a4b5e4b12474460b4fb6d66ea4697d762d0d71515d0905e318226._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2e976f9ffda960bd5a58fe6ffbdd15971a3076dab40ccc17356c5c7098fc9d5._SX342_SY600_.jpg"
     },
     {
       "name": "Pickpocket",
@@ -8089,7 +8098,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/06f0e06ef869805b112370cbdb4dd1ab8800db514662c7a855e76ff704d5d212._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3e105921656b5bd36afcd65a6d85d856c1493ad5d85d9c73e24cc75a820fb619._SX342_SY600_.jpg"
     },
     {
       "name": "Inside Out",
@@ -8165,7 +8174,7 @@
       "originalTitle": "Thor: Ragnarok",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "Red Rocket",
@@ -8289,7 +8298,7 @@
         "Rakuten TV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/504093b34b511cffa202f93dba4548e3849a91f347ae7751f2de73df14f921c1._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/256e88b9c1714b3568998d838728a98e6f9268e126dfe5e0234a476bc30c00d9._SX342_SY600_.jpg"
     },
     {
       "name": "Cha Cha Real Smooth",
@@ -8415,7 +8424,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a39bee35097a2efaf38d116759a6d6a824ab7d4a06a36f28379483343ee47b36._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b588fa418f098d25ea1225359434f0aace217a4c7ace1ad47f9eaf7bd8e1a1d4._SX342_SY600_.jpg"
     },
     {
       "name": "Corpse Bride",
@@ -8747,7 +8756,9 @@
       "year": "1994",
       "originalTitle": "The Adventures of Priscilla, Queen of the Desert",
       "rating": 3.8,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels MGM"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/09d07b228d1643426d4d196a84af57e762c1127daba973a431c2e9243d3cbf7e._SX342_SY600_.jpg"
     },
     {
@@ -8860,7 +8871,8 @@
       "originalTitle": "A Serious Man",
       "rating": 3.8,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Prime Video Channels Arthouse CNMA",
+        "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9705323bf531ba8da2594033400312400466d49405b9c8976cc034285e0a95b5._SX342_SY600_.jpg"
     },
@@ -8904,7 +8916,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1c7f7b6e0f88d765b80070b1ae4448ffc513137827f6ca95f09b05fcd856cf7a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/19a276ab759e617602ee8fc454793990ad2631e6c46a71029dd062943b0e6867._SX342_SY600_.jpg"
     },
     {
       "name": "Triangle of Sadness",
@@ -8997,7 +9009,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/af931398dc6e78bc6a533f6028267a025ba015f7a2fdd87abdd2d67e23ac3b2d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41c7402b2184eb5c5b16ea34bbaea5ad03f3eb5b929dac4e8dd8eb150555ae61._SX342_SY600_.jpg"
     },
     {
       "name": "Paddington",
@@ -9068,7 +9080,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b8fb50ca8d4ed13894eb97512f1efc5f6a916c25448429e9eb032f5ac146b84d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/593dd3dba61660927728c385692edde77dd5adc507face3dd706e7e5d51092b6._SX342_SY600_.jpg"
     },
     {
       "name": "Jackie Brown",
@@ -9269,7 +9281,7 @@
       "originalTitle": "Doubt",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "Dangal",
@@ -9292,7 +9304,7 @@
         "Prime Video Channels Good!Movies",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ebbe84581aa6e3b7f1454bb8690b2f99ca5dad477c1551939096b60cef8271fd._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/282267178e2fed8e2a07330bc21e5a9c5a9d129b39203e40cae29ad8ca512bf3._SX342_SY600_.jpg"
     },
     {
       "name": "The Hours",
@@ -9396,7 +9408,7 @@
         "Prime Video Channels Silverline",
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b764da5a91ecf36ca6254e7e94eb06ce78d0a9d7265a768fa83ccbcc88b8adee._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b97dc75cac24b70955631e6af47a236e35e6ad4d0343144b8d7a5561697da64e._SX342_SY600_.jpg"
     },
     {
       "name": "The Girl with the Dragon Tattoo",
@@ -9406,7 +9418,7 @@
       "originalTitle": "The Girl with the Dragon Tattoo",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7aee7358bf3c3bd07f21ac8073d64453c41b2a1110effeadcbd21b60050526eb._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/de61aa689466daec4e11245dc9573eb17bee8aaf9507208b8750183d519886ca._SX342_SY600_.jpg"
     },
     {
       "name": "SLC Punk",
@@ -9426,7 +9438,7 @@
       "originalTitle": "Close Encounters of the Third Kind",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a3388ec509b190684f34b0b72ae31a22995643e5e82788d99ec4094541f9dc4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84e426c17620a34e590962adf998ce3ec3bc1a2ffbe8f803ae252956c82f3dc8._SX342_SY600_.jpg"
     },
     {
       "name": "Audition",
@@ -9436,7 +9448,7 @@
       "originalTitle": "オーディション",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/u795SfIuxwInt9I4cBhIq2KnVA3.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fb7056ccca86ea90d3ea83b03dce4268aecbb8a8d3d1f4587d2aad49a3b8aca3._SX342_SY600_.jpg"
     },
     {
       "name": "The Woman King",
@@ -9586,7 +9598,7 @@
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/847de2c868110d525be8bb6efb9b3613394f12214a4298e7b0817473cc6e417a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b29f1ad6c5f3150f493c2a227af86be595573d8a6983e52644e771e8e9a49735._SX342_SY600_.jpg"
     },
     {
       "name": "The Nice Guys",
@@ -10062,7 +10074,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ef9de2ba02c29c5a3d2111edae0819c2e781a41228809f42be5f7265bb3704b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e787add9b411d2825459788ecafdc6ef53dabcf16616b312682da09faa1ac425._SX342_SY600_.jpg"
     },
     {
       "name": "The Secret of NIMH",
@@ -10087,7 +10099,7 @@
         "Disney+",
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/50d3f20753bf3eb893e3104bbea21f5872a09623a2ac9bce5969e970ee363832._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1fb41e6292b214e4b712591289d23ee85189c911b6fbef3c9b3f3a308937336f._SX342_SY600_.jpg"
     },
     {
       "name": "Collateral",
@@ -10127,7 +10139,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/317800a11686be4e5b6e42acc7c8bff3bf4f07f76db4254528f8dcc0093a720c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f77cae4106a6ebb287b70eaafa1ba159f9c8189cf384eb436cf103cdf1d62818._SX342_SY600_.jpg"
     },
     {
       "name": "Dunkirk",
@@ -10181,7 +10193,7 @@
         "Prime Video Channels Good!Movies",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b7dbd05753e09c0ab6d83398d6a51a365442d7efc2eaf8623847fbfd98887b95._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a2c0232bcb59fb0bc92c0e89842e6c6ec5d34f3a32e77b71256a389515e513bb._SX342_SY600_.jpg"
     },
     {
       "name": "Avatar: The Way of Water",
@@ -10235,7 +10247,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c08702e6c45df176a2c6bf30f59f9a968be24e1f0aaea5f7254d7b08b4d57b7a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/038d6d884c8884c97f2659443704c0134f5ec0fa171710f2be260825364e788c._SX342_SY600_.jpg"
     },
     {
       "name": "The Lobster",
@@ -10307,7 +10319,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41fadbc525d50a4cfdd216f5091f84e2d7e22811c14fc34c044e9d1f3d29e9b8._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fd222338913099787b161eaca9675600c6be105fe445d66dcbb44481f67aa2c4._SX342_SY600_.jpg"
     },
     {
       "name": "Rain Man",
@@ -10779,7 +10791,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3bdbed552de967ac0fc22f3dfc3b8cb545a6cbdc91fd8ec1f2d2a5132c076626._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b431ed7f3987f829ba0e7d499e7f4ae69147419797c3d5d9ad23a7fce024734._SX342_SY600_.jpg"
     },
     {
       "name": "Midnight Run",
@@ -10802,7 +10814,7 @@
         "filmfriend",
         "filmingo"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eadb75dc69dfcaad415bf1e614b8a9ec1bfb77a7945055ce78d4e6703cbc27d9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7b2b3be16429a0b460340fa1357bc87efd1834c4c8ace4c39b63597d903fdd94._SX342_SY600_.jpg"
     },
     {
       "name": "The Lego Movie",
@@ -10862,7 +10874,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d0213642b3c2db4ef7cbcba371d446c2b1993e555feed41405c9847e339a26d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c0c5a2cb3f2ea0de750f3ec43f86ce051e1d44dabb607218cf924cce7defd8f._SX342_SY600_.jpg"
     },
     {
       "name": "Sex, Lies, and Videotape",
@@ -10950,7 +10962,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9b4d12fdd65eaba4116acc06d87adacc158d2a324206800db9c8c8f877e634d7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c7dbc582ea23d99324fa527b565a1395ddfee4a3b24b3d9516ecd5067cfba096._SX342_SY600_.jpg"
     },
     {
       "name": "Suspiria",
@@ -11246,7 +11258,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b38a7583a370360ad644d956fad295dc6979aa4426b2f303b5d204e1caff2e66._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2a1c3211935d9e8af8c4abb692025747fab689ee9e4892c0d6c0a9ad08bf4e96._SX342_SY600_.jpg"
     },
     {
       "name": "Nocturnal Animals",
@@ -11327,7 +11339,7 @@
         "Amazon Prime Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72ff5835924943a4a2ad4921ed37e5713089a514b2c364a1abb6a7cd52367a24._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41573db022efdd3e0ac01379c5828e0f52e92af159ddee201ac94994b9f9c5f1._SX342_SY600_.jpg"
     },
     {
       "name": "The Killing of a Sacred Deer",
@@ -11376,7 +11388,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b55b64c1b780dc6d5af48144432996b899dde7e6d5b04f8c1d8a48e0d161b353._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d076be28ff6e6262d12a04eef025a4ea6848c65fa68496965abf1611bc6115ad._SX342_SY600_.jpg"
     },
     {
       "name": "Jacob's Ladder",
@@ -11462,7 +11474,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/762bc2852689e07286dd738eb31898ec87c0db60473e35ed1e1fce519cd589dd._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8f3b898f10d82bb5d526d435fe355d20455148c70df04675234b5d62f286b217._SX342_SY600_.jpg"
     },
     {
       "name": "Goldfinger",

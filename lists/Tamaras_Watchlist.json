@@ -222,7 +222,7 @@
       "streamProviders": [
         "Prime Video Channels Filmtastic"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_SY600_.jpg"
     },
     {
       "name": "Cosmopolis",
@@ -259,7 +259,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_SY600_.jpg"
     },
     {
       "name": "Primer",
@@ -467,7 +467,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d43f6f63099709b20a5dd15b6d0ee3c535fc114d2d3ecc960b45ce75ad1b277f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c4af10b83071e3edd294a7a62a78327ad883a74a457d8fa4b9a3e5b295f6c303._SX342_SY600_.jpg"
     },
     {
       "name": "Love Steaks",
@@ -480,7 +480,6 @@
         "Amazon Prime Video",
         "PantaRay",
         "Sooner",
-        "alleskino",
         "filmfriend"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d996ba635d500ed0e1331493a2dd3c4e3b33a889517381fd05a2eaaf57c206c9._SX342_SY600_.jpg"
@@ -507,7 +506,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a39bee35097a2efaf38d116759a6d6a824ab7d4a06a36f28379483343ee47b36._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b588fa418f098d25ea1225359434f0aace217a4c7ace1ad47f9eaf7bd8e1a1d4._SX342_SY600_.jpg"
     },
     {
       "name": "Out of Nature",
@@ -677,6 +676,7 @@
       "originalTitle": "Punch-Drunk Love",
       "rating": 4,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment",
         "MagentaTV"
@@ -851,7 +851,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f2951f5f509de01c4dac73ef38d10774eecd509a2c2e4a3c2e9d6cc4529fd7f._SX342_SY600_.jpg"
     },
     {
       "name": "Nerve",
@@ -908,7 +908,7 @@
       "originalTitle": "Die Deutschen",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675859267"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
     },
     {
       "name": "A Bigger Splash",
@@ -1080,7 +1080,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5746e6011ced1358d78785ae843c1c8903808a2e76188d00fe28925dbaab0e6e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_SY600_.jpg"
     },
     {
       "name": "The Favourite",
@@ -1159,7 +1159,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e374680fd3138b2220c4410ee9e26033e055941f6791304d9ecfe998ceff8ea._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2993206e4bf6f98f7e8129f6563e540a0705147444931f7e004bb974029673dc._SX342_SY600_.jpg"
     },
     {
       "name": "Still Alice",
@@ -1303,7 +1303,7 @@
         "Disney+",
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/732744bcbc541ab937ce5a7fbaab5553f0de37ab31e6cc6273278be05524b4e0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1e4aeabba5a525b5015e69e3e4a1644347a5d7197aa0c85e6ae38ec4995d5fb9._SX342_SY600_.jpg"
     },
     {
       "name": "The Hobbit: The Battle of the Five Armies",
@@ -1315,7 +1315,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eafa9a7eb308d2f4e3a4320597a29cea7e22600d4f889786ee94e46be6b5ce72._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ac23097763f145bb322f244f0870c41fa5b4fbd4d8e613dac5b3a61e326c89a8._SX342_SY600_.jpg"
     },
     {
       "name": "1917",
@@ -1486,10 +1486,6 @@
     },
     {
       "name": "Sooner",
-      "enabled": false
-    },
-    {
-      "name": "alleskino",
       "enabled": false
     },
     {
