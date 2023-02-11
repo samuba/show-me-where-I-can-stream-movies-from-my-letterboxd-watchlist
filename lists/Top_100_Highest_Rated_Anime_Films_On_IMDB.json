@@ -263,7 +263,8 @@
       "year": "2008",
       "originalTitle": "劇場版「空の境界」第五章 矛盾螺旋",
       "rating": 4,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/yKmxwtC34IaqSfk21dvQYIKcU5V.jpg"
     },
     {
       "name": "Ghost in the Shell 2.0",
@@ -460,7 +461,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9cd92925a76795c0db5191b10148f0860eb51ca2587ac4351d7b25593eb258b6._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_SY600_.jpg"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -470,7 +471,7 @@
       "originalTitle": "傷物語〈Ⅱ熱血篇〉",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/106807724/s166/Kizumonogatari-II-Heisses-Blut"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vdMx2VqjZE7IkbirNPTIj526MBi.jpg"
     },
     {
       "name": "In This Corner of the World",
@@ -563,7 +564,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/176216671/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gKFGQBKI1TnZ6foqoFgQruM86Mq.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -713,7 +714,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/64853317/s166/Evangelion-1-0-You-Are-Not-Alone"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cf674af7b87673284d44891d9100cae4afddf4a7b672bc1c1c0a3e3af24a0f2b._SX342_SY600_.jpg"
     },
     {
       "name": "Ponyo",
@@ -755,11 +756,10 @@
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
       "rating": 3.9,
       "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn",
-        "Silverline Amazon Channel"
+        "Prime Video Channels Netzkino Select",
+        "Prime Video Channels Silverline"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/215305381/s166/Vampire-Hunter-D-Bloodlust"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbe9c724ac280ac38bdff55b027fc3c517ba23bad353865934fe5fa4c69de090._SX342_SY600_.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -884,7 +884,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/176220981/s166/Inuyasha-Movie-2-Das-Traumschloss-im-Inneren-der-Spiegel"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -913,7 +913,8 @@
       "year": "1995",
       "originalTitle": "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/xU2L35dvXsQKyu3rh2fmgePva50.jpg"
     },
     {
       "name": "Patlabor 2: The Movie",
@@ -1091,6 +1092,10 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels Netzkino Select",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels ProSieben FUN",
       "enabled": false
     },
@@ -1103,15 +1108,15 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels Silverline",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Stingray All Good Vibes",
       "enabled": false
     },
     {
       "name": "Prime Video Channels aniverse",
-      "enabled": false
-    },
-    {
-      "name": "Silverline Amazon Channel",
       "enabled": false
     }
   ]
