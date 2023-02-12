@@ -314,7 +314,7 @@
       "listPosition": 0,
       "year": "1972",
       "originalTitle": "Black Gunn",
-      "rating": 3.1,
+      "rating": 3.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/7AoJmPAaGqkwcwY3wm7hiJWLdCB.jpg"
     },
@@ -657,7 +657,7 @@
       "originalTitle": "Cleopatra Jones and the Casino of Gold",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/olHa0AdsHLuAFQzlyagi9Vhyjv7.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/yqXTLGEnQ8wjo6RkzPOXY61WgVc.jpg"
     },
     {
       "name": "Coffy",
@@ -937,7 +937,7 @@
       "listPosition": 0,
       "year": "1976",
       "originalTitle": "Ebony, Ivory & Jade",
-      "rating": 2.7,
+      "rating": 2.6,
       "streamProviders": []
     },
     {
@@ -1870,7 +1870,9 @@
       "year": "1971",
       "originalTitle": "Shaft",
       "rating": 3.4,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fb2fa63b8ebbee3addc0d80c344a567f5eddac99474ad3c04fb5e4d5b7e5b3ba._SX342_SY600_.jpg"
     },
     {
@@ -2254,7 +2256,7 @@
       "originalTitle": "Three Tough Guys",
       "rating": 3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/yxuZNVP5a0UygOGNONkQHTXiYS5.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/loEk43YlQNvfGvuylgLDOpwo4wA.jpg"
     },
     {
       "name": "Trick Baby",

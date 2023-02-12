@@ -210,12 +210,12 @@
       "rating": 4.4,
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\nSky",
+        "Sky Go\n Sky",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0dc5af0a04a37209fcfa536564475d26a52710f89e053a2be3d6f767d63bf324._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/143f2a711e3b623e785912f984b1e70cec2309554baccd385620801959c7855c._SX342_SY600_.jpg"
     },
     {
       "name": "Seven Samurai",
@@ -411,7 +411,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dadc9d1b15d4704b1da11c77988fa7edc23b0ef9ccd61abd4e63c9b6a8983908._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa42db8a4c6939c622058b30fe51e33f59b5fbbde6447e7a61b7e64e6646d30a._SX342_SY600_.jpg"
     },
     {
       "name": "Breathless",
@@ -751,9 +751,10 @@
       "originalTitle": "Les Glaneurs et la Glaneuse",
       "rating": 4.2,
       "streamProviders": [
+        "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/581ikn6BkZ08GhKLQpqYJvajdfA.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e5f92bc4dc09259f8fabaacbfcd86c27ec9dbefd02cc98e09b526863779518d4._SX342_SY600_.jpg"
     },
     {
       "name": "Metropolis",
@@ -916,7 +917,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0076edf7ef3076191e6b22ee63c66b5d9e4195e75976646a5c27b2914c685bec._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d8a2a590d71cf9b9cc51c5ac320d412e79902211c450c45596b0eb2787c79ad9._SX342_SY600_.jpg"
     },
     {
       "name": "A Matter of Life and Death",
@@ -984,7 +985,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_SY600_.jpg"
     },
     {
       "name": "Chungking Express",
@@ -1076,10 +1077,7 @@
       "originalTitle": "C'era una volta il West",
       "rating": 4.3,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels FILMLEGENDEN"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cc8718e4ec627fc26c54b0d7604ad567a3106d7c2ad66fb112b40a977ee9967a._SX342_SY600_.jpg"
     },
@@ -1126,9 +1124,10 @@
       "originalTitle": "Sans toit ni loi",
       "rating": 4,
       "streamProviders": [
+        "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/cGpidyxqfkgdmoltRwVTWtWbVxt.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74775427062f2c533ca205003cf393eb06878580b82648fe9ad51de47027c843._SX342_SY600_.jpg"
     },
     {
       "name": "The House Is Black",
@@ -1412,6 +1411,7 @@
       "originalTitle": "Les parapluies de Cherbourg",
       "rating": 4.1,
       "streamProviders": [
+        "Prime Video Channels MUBI",
         "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11e967090d4a8e5da8af4d0db7e843ef2332aa3e137832caf41701195a555264._SX342_SY600_.jpg"
@@ -1434,7 +1434,7 @@
       "originalTitle": "His Girl Friday",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/685166e7e510d835287df64fd4d2138f29c071a923a99a36a98a591e8a06b828._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7943e23a734cfb5b528c2af62f7fb6837ed61bcc51751f76f0b6de073f8ee4a0._SX342_SY600_.jpg"
     },
     {
       "name": "Pulp Fiction",
@@ -1505,7 +1505,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b9961a04931d9981c8f27f41d2da9c1e16615a52852189b979da3ee82b725da.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/90be6986121eb62b142e7e4defe83382d06956a06ed7211c175b1d21c11345da._SX342_SY600_.jpg"
     },
     {
       "name": "A Day in the Country",
@@ -1596,9 +1596,10 @@
       "originalTitle": "Pickpocket",
       "rating": 3.9,
       "streamProviders": [
+        "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/u6sp3YjUzQzA3k8KJvlku130bqv.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/705f4b93f9ae89b6f19f7bd331c2531778e6d2c219e8bf35c3221e307a4ef2df._SX342_SY600_.jpg"
     },
     {
       "name": "All That Heaven Allows",
@@ -1720,10 +1721,9 @@
       "originalTitle": "Le Bonheur",
       "rating": 4,
       "streamProviders": [
-        "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/135d5261692428c36787c702574ccafb8fa17ce5ebd82e0b3896f6825646aa34._SX342_SY600_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/3Rhe6oVPGCmghZ0M0iqiJkNJu7d.jpg"
     },
     {
       "name": "West Indies",
@@ -1817,9 +1817,10 @@
       "originalTitle": "خانه‌ی دوست کجاست؟",
       "rating": 4.2,
       "streamProviders": [
+        "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/5pT5jUax8IRxuFd4FYEmbYJXKbX.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9161988df357eef4a4180faa3e5b5d3138cd13440b6755a97b538e1b1a143258._SX342_SY600_.jpg"
     },
     {
       "name": "Orlando",
@@ -2136,9 +2137,10 @@
       "originalTitle": "Les demoiselles de Rochefort",
       "rating": 4.2,
       "streamProviders": [
+        "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ff7feb05b7d1de52dbabe793159ab82f932dc298919546162d70b93bcb9e1653._SX342_SY600_.jpg"
     },
     {
       "name": "The River",
@@ -2426,7 +2428,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e6bbf5e20f6707b94d1187fb49f173a525d6c5457cae7649fe123499952859f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84488d6f097a655baa59d2c30d0ce68302b011f5b3bf85e816a0ccb12166c1b8._SX342_SY600_.jpg"
     },
     {
       "name": "Duck Soup",
@@ -2660,7 +2662,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc141a3ddb273f2b9a174edd893fa94bcbf33e0040fbc453b50ecb3d658aa01._SX342_SY600_.jpg"
     },
     {
       "name": "In Vanda's Room",
@@ -2867,9 +2869,10 @@
       "originalTitle": "طعم گيلاس",
       "rating": 4.2,
       "streamProviders": [
+        "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/iRWO8e2L8mU31Tlnx8AQg6XR9hK.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffd3c10c3440fe5c0c300b5f7c7769168af04a908658431f88d4f272d04d0ede._SX342_SY600_.jpg"
     },
     {
       "name": "Possession",
@@ -2983,6 +2986,10 @@
     },
     {
       "name": "Prime Video Channels superfresh",
+      "enabled": false
+    },
+    {
+      "name": "Sky Go\n Sky",
       "enabled": false
     },
     {
