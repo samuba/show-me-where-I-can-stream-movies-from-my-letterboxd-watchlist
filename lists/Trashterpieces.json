@@ -753,7 +753,7 @@
       "streamProviders": [
         "Joyn"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d992aa8b7097ea49908aacbfc6ebed3a92fb233f64b0317a4bbf2e57221b698._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cefb657202f76fce347064d5dfb99a14a7d24da11d32d76b77f8edfe72e0d916._SX342_SY600_.jpg"
     },
     {
       "name": "Glen or Glenda",
@@ -945,8 +945,7 @@
       "rating": 3.3,
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "Prime Video Channels superfresh",
-        "Mubi"
+        "Prime Video Channels superfresh"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c66b089269ec6d44d2e6edd38623b7b34f7e5385a357188ee5e555f41fc8001f._SX342_SY600_.jpg"
     },
@@ -1285,7 +1284,8 @@
       "originalTitle": "Castle Freak",
       "rating": 3.1,
       "streamProviders": [
-        "Prime Video Channels Full Action"
+        "Prime Video Channels Full Action",
+        "Prime Video Channels Silverline"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e341fc6438c04623bc537d05758bf1fdbaf24ca27fb55893a716e7e9e915885d._SX342_SY600_.jpg"
     },
