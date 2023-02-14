@@ -4,6 +4,16 @@
   "description": "",
   "entries": [
     {
+      "name": "Decision to Leave",
+      "letterboxdUrl": "https://letterboxd.com/film/decision-to-leave/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "헤어질 결심",
+      "rating": 3.9,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/yGWYS4A3jrygbAOgTXQNVXCUAA7.jpg"
+    },
+    {
       "name": "Midsommar",
       "letterboxdUrl": "https://letterboxd.com/film/midsommar/",
       "listPosition": 0,
@@ -98,7 +108,7 @@
       "originalTitle": "The Whale",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/k2ez0xoCc2uDkRPqktGhW1qZzuP.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ken2sQbCqZuAYmgPknrChXvkrEK.jpg"
     },
     {
       "name": "One Last Evening",
@@ -608,7 +618,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6b86f9c6ece39b16882b85762ddc4644d0bce7e947cb91623e6d1fe994e76b61._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e3fb85ff3a534570706852166faac42deff7421d2d5271f4a6253f4c6b8f2aad._SX342_SY600_.jpg"
     },
     {
       "name": "Avengers: Infinity War",
@@ -668,7 +678,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/90be6986121eb62b142e7e4defe83382d06956a06ed7211c175b1d21c11345da._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b9961a04931d9981c8f27f41d2da9c1e16615a52852189b979da3ee82b725da.png"
     },
     {
       "name": "Punch-Drunk Love",
@@ -841,7 +851,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_SY600_.jpg"
     },
     {
       "name": "The Hunt",
@@ -853,7 +863,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f2951f5f509de01c4dac73ef38d10774eecd509a2c2e4a3c2e9d6cc4529fd7f._SX342_SY600_.jpg"
     },
     {
       "name": "Nerve",
@@ -910,7 +920,7 @@
       "originalTitle": "Die Deutschen",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1676283987"
     },
     {
       "name": "A Bigger Splash",
@@ -1245,9 +1255,11 @@
       "originalTitle": "The Aviator",
       "rating": 3.7,
       "streamProviders": [
-        "Prime Video Channels FILMLEGENDEN"
+        "Prime Video Channels FILMLEGENDEN",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2dcb86f19905aaa5e4d80c74f7026c5c833ad481c7c588f00dbf9b69734ed8d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/50001c656cf0c1b54d24e8a4bdf0684092283c028abf5b89410bd3cc34e2fdfd._SX342_SY600_.jpg"
     },
     {
       "name": "Les Misérables",
@@ -1305,7 +1317,7 @@
         "Disney+",
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/732744bcbc541ab937ce5a7fbaab5553f0de37ab31e6cc6273278be05524b4e0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e975c93d0f601d4f43fa2881ce34f953c4b738f8c33c8d150b47c983c44fa233._SX342_SY600_.jpg"
     },
     {
       "name": "The Hobbit: The Battle of the Five Armies",

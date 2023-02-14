@@ -167,7 +167,10 @@
       "year": "1956",
       "originalTitle": "The Searchers",
       "rating": 3.9,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3c0679066a10a1fabe4cc10ddc37f6040f36e4b3636972117e6a1ebd7f2391a2._SX342_SY600_.jpg"
     },
     {
@@ -210,12 +213,12 @@
       "rating": 4.4,
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\n Sky",
+        "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fcd72e096687537085d101ed9dc13148768cc656d33dc2240cd8fb7a04aef01f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7e1bd889f95c42f2703c5572525c6ead25680af907275670b87ea94fa1e2c406._SX342_SY600_.jpg"
     },
     {
       "name": "Seven Samurai",
@@ -259,7 +262,7 @@
       "originalTitle": "PlayTime",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1676283987"
     },
     {
       "name": "Do the Right Thing",
@@ -335,7 +338,9 @@
       "year": "2019",
       "originalTitle": "Portrait de la jeune fille en feu",
       "rating": 4.4,
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41ca5022ce1dec796391347b315f5e152e41088a111983e68d91d4a923e11ac3._SX342_SY600_.jpg"
     },
     {
@@ -414,7 +419,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dadc9d1b15d4704b1da11c77988fa7edc23b0ef9ccd61abd4e63c9b6a8983908._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa42db8a4c6939c622058b30fe51e33f59b5fbbde6447e7a61b7e64e6646d30a._SX342_SY600_.jpg"
     },
     {
       "name": "Breathless",
@@ -557,7 +562,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_SY600_.jpg"
     },
     {
       "name": "The Piano",
@@ -920,7 +925,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d8a2a590d71cf9b9cc51c5ac320d412e79902211c450c45596b0eb2787c79ad9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0076edf7ef3076191e6b22ee63c66b5d9e4195e75976646a5c27b2914c685bec._SX342_SY600_.jpg"
     },
     {
       "name": "A Matter of Life and Death",
@@ -965,7 +970,7 @@
       "originalTitle": "Histoire(s) du cinéma",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1675937695"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1676283987"
     },
     {
       "name": "The Spirit of the Beehive",
@@ -1437,7 +1442,7 @@
       "originalTitle": "His Girl Friday",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7943e23a734cfb5b528c2af62f7fb6837ed61bcc51751f76f0b6de073f8ee4a0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/685166e7e510d835287df64fd4d2138f29c071a923a99a36a98a591e8a06b828._SX342_SY600_.jpg"
     },
     {
       "name": "Pulp Fiction",
@@ -1509,7 +1514,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/90be6986121eb62b142e7e4defe83382d06956a06ed7211c175b1d21c11345da._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b9961a04931d9981c8f27f41d2da9c1e16615a52852189b979da3ee82b725da.png"
     },
     {
       "name": "A Day in the Country",
@@ -1695,7 +1700,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1675937695"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1676283987"
     },
     {
       "name": "The Cloud-Capped Star",
@@ -2173,7 +2178,7 @@
       "originalTitle": "Paisà",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/k3tn6p5ElKVrciCUvk662NKiamN.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/r5IGAFASCXmp8m51vUbER3WwVcB.jpg"
     },
     {
       "name": "The Headless Woman",
@@ -2666,7 +2671,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc141a3ddb273f2b9a174edd893fa94bcbf33e0040fbc453b50ecb3d658aa01._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_SY600_.jpg"
     },
     {
       "name": "In Vanda's Room",
@@ -2990,10 +2995,6 @@
     },
     {
       "name": "Prime Video Channels superfresh",
-      "enabled": false
-    },
-    {
-      "name": "Sky Go\n Sky",
       "enabled": false
     },
     {
