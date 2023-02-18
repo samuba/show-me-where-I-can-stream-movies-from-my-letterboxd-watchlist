@@ -311,7 +311,7 @@
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7ae8ccb7fa891cd9bcf2ce62c5c753ff8f4cf2447e39604d38fb7746f3544fa7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_SY600_.jpg"
     },
     {
       "name": "Steins;Gate: The Movie - Load Region of Déjà Vu",
@@ -414,7 +414,7 @@
       "originalTitle": "獣兵衛忍風帖",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -445,7 +445,7 @@
       "originalTitle": "僕のヒーローアカデミア THE MOVIE ～2人の英雄～",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/258567108/s166/My-Hero-Academia-the-Movie-The-Two-Heroes"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f18dac8c5fa536718b96178971af897bcde7708ee9c2a2504b7a30b71ba1a365._SX342_SY600_.jpg"
     },
     {
       "name": "I Want to Eat Your Pancreas",
@@ -468,7 +468,7 @@
       "originalTitle": "傷物語〈Ⅱ熱血篇〉",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/vdMx2VqjZE7IkbirNPTIj526MBi.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/106807724/s166/Kizumonogatari-II-Heisses-Blut"
     },
     {
       "name": "In This Corner of the World",
@@ -478,9 +478,9 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
     },
     {
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
@@ -561,7 +561,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/gKFGQBKI1TnZ6foqoFgQruM86Mq.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53bb233ecc61aca0bf75a494431d1442fb2ee4378e7ab7dcb9e5f86177bc1f0d._SX342_SY600_.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -614,7 +614,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53b9a2433844f3bd89ce56e6dfe32b9bbf1820dddd434fc7eb4bc6ee7bd2d87b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/683f71eb7e7f2ff110422d3b20749a43e936a03950566f9d41970e72f480d842._SX342_SY600_.jpg"
     },
     {
       "name": "When Marnie Was There",
@@ -810,7 +810,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/30d86752872d55625ca73d847dea834320ebb5ce86eb5a33a8640bea76e7d405._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f93e3620b31b11420ee7544913e1bf0767e2a654f6e62c286960ce38f88e172._SX342_SY600_.jpg"
     },
     {
       "name": "Kizumonogatari Part 1: Tekketsu",
@@ -882,7 +882,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176220981/s166/Inuyasha-Movie-2-Das-Traumschloss-im-Inneren-der-Spiegel"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -1075,10 +1075,6 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {

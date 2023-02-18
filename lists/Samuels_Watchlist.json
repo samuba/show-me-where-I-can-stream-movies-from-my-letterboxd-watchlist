@@ -52,7 +52,7 @@
       "originalTitle": "TÁR",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/9FSlyzf5qXOOxAthSFHzxB7iVGg.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg"
     },
     {
       "name": "RRR",
@@ -145,7 +145,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cc6afcb9c269810b1db721c67659f15b24008d6fcdc395c1cdebfd5d44fdc16b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc484bd4154266a46f7f65bec5e1bbc3d03df9a46b77c739aafd85ee0fe668f7._SX342_SY600_.jpg"
     },
     {
       "name": "Labyrinth of Cinema",
@@ -239,7 +239,7 @@
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "브로커",
-      "rating": 3.8,
+      "rating": 3.7,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/pFWNJKz1UMndX8lVpUs94fcTADt.jpg"
     },
@@ -383,7 +383,7 @@
       "streamProviders": [
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a40746fb45384b83c3f5506e09352e40a2ebadcfcafcc59d1a93ce07e8647a5c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85fc0d0a358f6ba9d0025d962314994d9490d5f51d30a4e977c01353ab9ef694._SX342_SY600_.jpg"
     },
     {
       "name": "Nightmare Alley",
@@ -605,8 +605,10 @@
       "year": "2016",
       "originalTitle": "Orange",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/pElD520j1jgANaPUIm6qkR4ThEY.jpg"
+      "streamProviders": [
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47ef1fce3e17f353e457e32ecffb6b8d1cbaab272bcd3beea3c169858c0d783f._SX342_SY600_.jpg"
     },
     {
       "name": "Free Guy",
@@ -632,7 +634,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc53df6e314be4ace31bf68406f9ffceef0c283b8e1635ce57149564751ccdd9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
     },
     {
       "name": "Traffic",
@@ -693,7 +695,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/049deee9f693770105bf981bf3cb5e96678dc7600411dbac58b6cce4906346df._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b31d51b2c81984d353fbdd34b5a3564f94f9f9f76dbb4b48e7b8abd09956febe._SX342_SY600_.jpg"
     },
     {
       "name": "Minari",
@@ -718,7 +720,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/19a276ab759e617602ee8fc454793990ad2631e6c46a71029dd062943b0e6867._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1c7f7b6e0f88d765b80070b1ae4448ffc513137827f6ca95f09b05fcd856cf7a._SX342_SY600_.jpg"
     },
     {
       "name": "Moonwalker",
@@ -1083,7 +1085,7 @@
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b48e11d81bcb0884f728dbcd2cb712f7d791741ef7ccac3b75b270460ac51a8a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/efa2292116865051474012f365ee886235d867e1cb5e04894a50421178bcd2b5.png"
     },
     {
       "name": "Guns Akimbo",
@@ -1268,7 +1270,7 @@
         "Netzkino",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fff95977209aa49c4083c52db671f4f46a3177b471165d225c0c033efbf34d9a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84a54ca33ef6391faa28e2f9dc8a083a4e541d899036778a0807c540892aab4c._SX342_SY600_.jpg"
     },
     {
       "name": "Rocky",
@@ -1487,7 +1489,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b76a95378ec02359137f096a6c3a5d8aac83da5af77083fb1600491b39a77043._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41ca5022ce1dec796391347b315f5e152e41088a111983e68d91d4a923e11ac3._SX342_SY600_.jpg"
     },
     {
       "name": "Save the Green Planet!",
@@ -1867,7 +1869,7 @@
         "alleskino",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3e092a7308b47001da69bc52cd2cfeac92209fab57184371bcc32d79f69680d7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2f21e1d3ee60ad6c4a5806104cc16f9cdd5e4b4de371d2d7a157f1ab1f43463c._SX342_SY600_.jpg"
     },
     {
       "name": "Dirty Harry",
@@ -2790,7 +2792,7 @@
         "Rakuten TV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0f282c38ce1fe357313e4a9ff104ec62462fea80a5997532330c903ff4f0138f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2f266bdfaa1488df86b8fddaa093118b657fce3ca352e15653cf40dc70f13d14._SX342_SY600_.jpg"
     },
     {
       "name": "Nerve",
@@ -3271,7 +3273,7 @@
         "Prime Video Channels Silverline",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ed10eb4cd45c3a81ba46f9c80ddb59031bf7492980a8831d92db7ba33229d4ad._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/29f80ab5b68424363f39dfdde1b8940f21cc9cd21262848e03d8d08cfd2715b9._SX342_SY600_.jpg"
     },
     {
       "name": "A Pigeon Sat on a Branch Reflecting on Existence",
@@ -3933,7 +3935,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/31d664fe006075b56137c6af0b8ed56ae3947024e6c2acbaec567fff021d34be._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/faadba0ff02f6e5b73f92be42f425be6d001b109c24b74437137a34790ff6d98._SX342_SY600_.jpg"
     },
     {
       "name": "Wayne's World",
@@ -3947,7 +3949,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ead013f0f450e6785ba3ec4d0595ff97d22b5a426afa9fecbc1a229ee240cc7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84f94a67087529ce122be5011ede23c5fab3c07c4510a28f77ed3d2755ad994d._SX342_SY600_.jpg"
     },
     {
       "name": "Igby Goes Down",

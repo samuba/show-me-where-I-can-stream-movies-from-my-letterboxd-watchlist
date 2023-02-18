@@ -1,8 +1,43 @@
 {
   "name": "The Complete Criterion Collection",
   "url": "https://letterboxd.com/jbutts15/list/the-complete-criterion-collection/",
-  "description": "<div class=\"body-text -prose -hero clear collapsible-text\" data-full-text-url=\"#list-notes\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p><b>Updated:</b> January 18, 2023<br><b>Created:</b> January 13, 2013<br><a href=\"https://letterboxd.com/jbutts15/list/featured-lists/\" rel=\"nofollow\"> View More Lists</a><br><a href=\"https://letterboxd.com/jbutts15/\" rel=\"nofollow\">Follow Me</a></p><p>———————————————————————<br><b><a href=\"https://letterboxd.com/benvsthemovies/list/the-criterion-challenge-2023/\" rel=\"nofollow\">CRITERION CHALLENGE 2023</a></b> ➔<br>———————————————————————</p><p>The <a href=\"https://letterboxd.com/criterion/\" rel=\"nofollow\">Criterion Collection</a> is a video distribution company that sells \"important classic and contemporary films\" in \"editions that offer the highest technical quality and award-winning, original supplements.\"</p><p>This list contains only the official DVD, BluRay and 4K Criterion releases. It is organized by spine number with the newest releases first and is best viewed in <a href=\"http://letterboxd.com/jbutts15/list/the-complete-criterion-collection/detail/\" rel=\"nofollow\">List View</a>. Collections containing multiple films (whether feature length or shorts) under a single spine number have been separated out and noted as such, hence in the disparity in spine number versus actual list count.</p><p><strong>Omitted:</strong><br><i><a href=\"https://letterboxd.com/michaelhutchins/list/the-criterion-collection-laserdisc-titles/\" rel=\"nofollow\">Laserdisc Releases</a></i><br><i><a href=\"https://letterboxd.com/mattheuswc/list/the-merchant-ivory-collection/\" rel=\"nofollow\">The Merchant Ivory Collection</a></i><br><i><a href=\"https://letterboxd.com/yaanu/list/the-criterion-collection-eclipse/\" rel=\"nofollow\">The Eclipse Collection</a></i></p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>",
+  "description": "<div class=\"body-text -prose -hero clear collapsible-text\" data-full-text-url=\"#list-notes\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p><b>Updated:</b> February 17, 2023<br><b>Created:</b> January 13, 2013<br><a href=\"https://letterboxd.com/jbutts15/list/featured-lists/\" rel=\"nofollow\"> View More Lists</a><br><a href=\"https://letterboxd.com/jbutts15/\" rel=\"nofollow\">Follow Me</a></p><p>———————————————————————<br><b><a href=\"https://letterboxd.com/benvsthemovies/list/the-criterion-challenge-2023/\" rel=\"nofollow\">CRITERION CHALLENGE 2023</a></b> ➔<br>———————————————————————</p><p>The <a href=\"https://letterboxd.com/criterion/\" rel=\"nofollow\">Criterion Collection</a> is a video distribution company that sells \"important classic and contemporary films\" in \"editions that offer the highest technical quality and award-winning, original supplements.\"</p><p>This list contains only the official DVD, BluRay and 4K Criterion releases. It is organized by spine number with the newest releases first and is best viewed in <a href=\"http://letterboxd.com/jbutts15/list/the-complete-criterion-collection/detail/\" rel=\"nofollow\">List View</a>. Collections containing multiple films (whether feature length or shorts) under a single spine number have been separated out and noted as such, hence in the disparity in spine number versus actual list count.</p><p><strong>Omitted:</strong><br><i><a href=\"https://letterboxd.com/michaelhutchins/list/the-criterion-collection-laserdisc-titles/\" rel=\"nofollow\">Laserdisc Releases</a></i><br><i><a href=\"https://letterboxd.com/mattheuswc/list/the-merchant-ivory-collection/\" rel=\"nofollow\">The Merchant Ivory Collection</a></i><br><i><a href=\"https://letterboxd.com/yaanu/list/the-criterion-collection-eclipse/\" rel=\"nofollow\">The Eclipse Collection</a></i></p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>",
   "entries": [
+    {
+      "name": "Petite Maman",
+      "letterboxdUrl": "https://letterboxd.com/film/petite-maman/",
+      "listPosition": 0,
+      "year": "2021",
+      "originalTitle": "Petite Maman",
+      "rating": 4,
+      "streamProviders": [
+        "Prime Video Channels MUBI",
+        "Mubi"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Thelma & Louise",
+      "letterboxdUrl": "https://letterboxd.com/film/thelma-louise/",
+      "listPosition": 0,
+      "year": "1991",
+      "originalTitle": "Thelma & Louise",
+      "rating": 4,
+      "streamProviders": [
+        "Prime Video Channels MGM"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fb623e8399e624d54499f2fd74d59e454739c659772309e25682bb7044133d0b._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Targets",
+      "letterboxdUrl": "https://letterboxd.com/film/targets/",
+      "listPosition": 0,
+      "year": "1968",
+      "originalTitle": "Targets",
+      "rating": 3.9,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/abc815b519bd137d676703ea78c09d5d3cd0402a46d4f99e1042ce4064e82fc0._SX342_SY600_.jpg"
+    },
     {
       "name": "Triangle of Sadness",
       "letterboxdUrl": "https://letterboxd.com/film/triangle-of-sadness/",
@@ -285,7 +320,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d1b80243ec33ea56bee74ea4356dc5f84bb9e315397b7a44f575c56eced3e955._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bc52b04c1d97babbd07842b64378fb586bb640666d1be354ad82a1016c78994e._SX342_SY600_.jpg"
     },
     {
       "name": "Malcolm X",
@@ -719,11 +754,11 @@
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/699551228c114a0cf6629e6633fb7e3f3ccf0e3828f1f33f98dab1c42e4233bb._SX342_SY600_.jpg"
     },
     {
-      "name": "Round Midnight",
+      "name": "'Round Midnight",
       "letterboxdUrl": "https://letterboxd.com/film/round-midnight/",
       "listPosition": 0,
       "year": "1986",
-      "originalTitle": "Round Midnight",
+      "originalTitle": "'Round Midnight",
       "rating": 3.8,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/8aNGnEsvLBldNvaBkfYkGGgZDhe.jpg"
@@ -909,7 +944,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/566f84583e7ebf0d78342bf1e11d00a63d4a62b1138e202ed809d4e2ee1f6a5a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d4c9b7a22f32e2df4d18e4926541ec4ff42e457d9e091a9c06466afc209d42d0._SX342_SY600_.jpg"
     },
     {
       "name": "Citizen Kane",
@@ -1333,7 +1368,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc53df6e314be4ace31bf68406f9ffceef0c283b8e1635ce57149564751ccdd9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
     },
     {
       "name": "History Is Made at Night",
@@ -1761,7 +1796,7 @@
         "Prime Video Channels Film Total",
         "Prime Video Channels FILMLEGENDEN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b01f89a84b511d3d61316a9e71e3f23ab57191fe739538d2909853a8d450bdc3._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1b5254fb33cf01e87a6f24cf6261531db87172a2f64e67543d7d1916b2396d72._SX342_SY600_.jpg"
     },
     {
       "name": "The Big Boss",
@@ -1798,7 +1833,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b76a95378ec02359137f096a6c3a5d8aac83da5af77083fb1600491b39a77043._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41ca5022ce1dec796391347b315f5e152e41088a111983e68d91d4a923e11ac3._SX342_SY600_.jpg"
     },
     {
       "name": "The Cameraman",
@@ -2587,7 +2622,7 @@
         "Netzkino",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fff95977209aa49c4083c52db671f4f46a3177b471165d225c0c033efbf34d9a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84a54ca33ef6391faa28e2f9dc8a083a4e541d899036778a0807c540892aab4c._SX342_SY600_.jpg"
     },
     {
       "name": "The Heiress",
@@ -3131,10 +3166,9 @@
       "rating": 3.7,
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9e25f6e4b8fc1143a294f6c263f81009dbaee6bec1aba0d418e5847cf2b783b1._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b316b90cb85284a08d366f4dceb59208f9038615e3abd6512eb690119655e9db._SX342_SY600_.jpg"
     },
     {
       "name": "Moonrise",
@@ -3142,7 +3176,7 @@
       "listPosition": 0,
       "year": "1948",
       "originalTitle": "Moonrise",
-      "rating": 3.6,
+      "rating": 3.7,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/5yB8ofxzh6ghcPUFeNu0Wl8CMYv.jpg"
     },
@@ -3227,7 +3261,7 @@
       "originalTitle": "The Age of Innocence",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/378b10388cefa7e4cccdb865bd167f976ae7d28f0e526cc69a64996450ae4b22._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4a8ad5eca7b2ac6b93906622ec10b7e14d6fab31d5bc5530300c227c18fbe2fa._SX342_SY600_.jpg"
     },
     {
       "name": "An Actor's Revenge",
@@ -3862,7 +3896,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e6bbf5e20f6707b94d1187fb49f173a525d6c5457cae7649fe123499952859f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84488d6f097a655baa59d2c30d0ce68302b011f5b3bf85e816a0ccb12166c1b8._SX342_SY600_.jpg"
     },
     {
       "name": "Barry Lyndon",
@@ -4234,7 +4268,7 @@
         "Amazon Prime Video",
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b6b6eeaeedcc286a096c2f68c7768aac47a51ceb95a8b35471a6f3ea47eddcb1._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/decd1332ab25271d0b1dba8541a17583645a457f07a91a68eda95bf6320594b0._SX342_SY600_.jpg"
     },
     {
       "name": "Mildred Pierce",
@@ -4383,7 +4417,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c32e231bb549a4ac866b493f58e5c88ca497941236268a8d696b802e15739f88._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f27d9055172da16533eeb0524231485791bef2474b1996559917dba6052dab85._SX342_SY600_.jpg"
     },
     {
       "name": "The Squid and the Whale",
@@ -5605,8 +5639,7 @@
       "year": "1990",
       "originalTitle": "Yum, Yum, Yum! A Taste of Cajun and Creole Cooking of Louisiana",
       "rating": 3.9,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f3b7aed51fbf07fa932e90c4fe2d68f9af3fe275f9260e67033aec56d3d8b1af._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Gap-Toothed Women",
@@ -5725,7 +5758,7 @@
       "streamProviders": [
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/17b3df24ff5cd7806d70aa14aa8195964ed1946287036155ba3d7430ff401c05._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2bcbfa2cd1b644e8e81624805e1f4bbef3794b4c0ecfd07860325b671f586d14._SX342_SY600_.jpg"
     },
     {
       "name": "Ride in the Whirlwind",
@@ -5929,7 +5962,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11e967090d4a8e5da8af4d0db7e843ef2332aa3e137832caf41701195a555264._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/34da2dbbbc2ab77cce7e977daee3df8198f081da121b1161ab6da9f6d3ab0571._SX342_SY600_.jpg"
     },
     {
       "name": "Bay of Angels",
@@ -6093,7 +6126,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a19ca2dcfed4be11ec3ad58c11dc952052acd4ee81f278b41ada8f9992907111._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dd64d19e0984e03cabdde283bafe18c896d441973509218c16b496614c46c074._SX342_SY600_.jpg"
     },
     {
       "name": "A Brief History of Time",
@@ -6343,7 +6376,8 @@
       "year": "1972",
       "originalTitle": "座頭市御用旅",
       "rating": 3.2,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/tjHPYDJnojIFIyQvFX8He0gfqP5.jpg"
     },
     {
       "name": "Zatoichi Meets the One-Armed Swordsman",
@@ -6495,7 +6529,7 @@
       "listPosition": 0,
       "year": "1964",
       "originalTitle": "座頭市千両首",
-      "rating": 3.8,
+      "rating": 3.7,
       "streamProviders": []
     },
     {
@@ -6533,7 +6567,7 @@
       "originalTitle": "続・座頭市物語",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/302403555/s166/Zatoichi-2-The-Tale-of-Zatoichi-Continues"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/18af93e4d793cf562740b99d57e2cf5852063749e034dbba936ffd74ec2bd65e._SX342_SY600_.jpg"
     },
     {
       "name": "The Tale of Zatoichi",
@@ -6543,7 +6577,7 @@
       "originalTitle": "座頭市物語",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/18af93e4d793cf562740b99d57e2cf5852063749e034dbba936ffd74ec2bd65e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/37e40d3e38e6e6b28fceeadb257f80d7a5cd4654bad8642e808bcbaae43e1821._SX342_SY600_.jpg"
     },
     {
       "name": "La Notte",
@@ -6616,9 +6650,9 @@
       "originalTitle": "La Cage aux Folles",
       "rating": 3.5,
       "streamProviders": [
-        "MGM Amazon Channel"
+        "Prime Video Channels MGM"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/10995151/s166/Ein-Kaefig-voller-Narren"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f58582508f8c325188d73dd80fff27c1e5e0cc753f14ad287e00d328e05da627._SX342_SY600_.jpg"
     },
     {
       "name": "To Be or Not to Be",
@@ -6736,10 +6770,8 @@
       "year": "1936",
       "originalTitle": "Things to Come",
       "rating": 3.2,
-      "streamProviders": [
-        "Classix"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/217844152/s166/Things-to-Come-Was-kommen-wird"
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1676367903"
     },
     {
       "name": "Life Is Sweet",
@@ -6748,7 +6780,8 @@
       "year": "1990",
       "originalTitle": "Life Is Sweet",
       "rating": 3.9,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/zdkKNQzzwyciP9vAohAPFZdujlA.jpg"
     },
     {
       "name": "Medium Cool",
@@ -6768,7 +6801,7 @@
       "originalTitle": "3:10 to Yuma",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/243626342/s166/Zaehl-bis-drei-und-bete"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/042c5ad1b000dae8f1230fabd01e7941db5a3e4d2a9fc92b4f0e49857bfea2f7._SX342_SY600_.jpg"
     },
     {
       "name": "Jubal",
@@ -6796,7 +6829,8 @@
       "year": "1969",
       "originalTitle": "Le Grand Amour",
       "rating": 3.8,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/qTpO8TLs3boFRXByLLAhwKAS4Cd.jpg"
     },
     {
       "name": "As Long as You've Got Your Health",
@@ -6805,7 +6839,8 @@
       "year": "1966",
       "originalTitle": "Tant qu'on a la santé",
       "rating": 3.5,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ix98qk5DKMNiCKPBK2no2mSUwbR.jpg"
     },
     {
       "name": "Yoyo",
@@ -6823,7 +6858,8 @@
       "year": "1962",
       "originalTitle": "Le soupirant",
       "rating": 3.7,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/6UnSXWjNZm0CCf5LuTTO6We2PIA.jpg"
     },
     {
       "name": "Repo Man",
@@ -6842,7 +6878,8 @@
       "year": "1953",
       "originalTitle": "地獄門",
       "rating": 3.6,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/q0Vf3B5et9yZ1r6xaPjsnmmpBUT.jpg"
     },
     {
       "name": "Monsieur Verdoux",
@@ -6944,7 +6981,10 @@
       "year": "1934",
       "originalTitle": "The Man Who Knew Too Much",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a56510363e8ad529e57c02a0cc3f6780a00b9ccf177deb502b777c8ff82c77f9._SX342_SY600_.jpg"
     },
     {
       "name": "Naqoyqatsi",
@@ -6983,7 +7023,8 @@
       "year": "1998",
       "originalTitle": "Following",
       "rating": 3.4,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/lK9LE5D67HNyPlhJcjKAgnRh0OO.jpg"
     },
     {
       "name": "Purple Noon",
@@ -7035,7 +7076,7 @@
       "originalTitle": "I racconti di Canterbury",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/73131553/s166/Pasolinis-tolldreiste-Geschichten"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/5pk9lV0kUoa3D4svTTx9Pejmpqj.jpg"
     },
     {
       "name": "The Decameron",
@@ -7045,7 +7086,7 @@
       "originalTitle": "Il Decameron",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/59686002/s166/Decameron"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/dHIHIUUBj5QHVI98XVOWVQY91PA.jpg"
     },
     {
       "name": "Rosemary's Baby",
@@ -7116,7 +7157,7 @@
       "originalTitle": "Quadrophenia",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/209263154/s166/Quadrophenia"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2b40af7ede86786413f4dcc58c86e5c74d9f574cc79cfe3ab3dcabf7087c065._SX342_SY600_.jpg"
     },
     {
       "name": "Lonesome",
@@ -7154,7 +7195,8 @@
       "year": "1996",
       "originalTitle": "La Promesse",
       "rating": 3.9,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/eNwJWZp71v6nISXj1TyX3Gt1A5y.jpg"
     },
     {
       "name": "Le Havre",
@@ -7186,7 +7228,8 @@
       "year": "2010",
       "originalTitle": "And Everything Is Going Fine",
       "rating": 3.7,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/eKZS0Pib1D2RgfKDvyJM2EulBql.jpg"
     },
     {
       "name": "Shallow Grave",
@@ -7196,9 +7239,9 @@
       "originalTitle": "Shallow Grave",
       "rating": 3.7,
       "streamProviders": [
-        "Amazon Arthaus Channel"
+        "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/10393848/s166/Kleine-Morde-unter-Freunden"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/968f430dfe59c275d75e0fa299a3b48636d123c78f3bd316dd2717e18dc2e1e1._SX342_SY600_.jpg"
     },
     {
       "name": "The Gold Rush",
@@ -7269,7 +7312,8 @@
       "year": "1977",
       "originalTitle": "Alambrista!",
       "rating": 3.8,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/dubpRwUF73rh99FkpR4xz41XrzR.jpg"
     },
     {
       "name": "Harold and Maude",
@@ -7829,8 +7873,7 @@
       "year": "1956",
       "originalTitle": "The Killing",
       "rating": 3.9,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/310a1124bb7a12acdbcbbcad87a8fff8ca0460bdaa1f92af8299a518a2c8d65e._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Life During Wartime",
@@ -8094,7 +8137,7 @@
       "listPosition": 0,
       "year": "1972",
       "originalTitle": "The King of Marvin Gardens",
-      "rating": 3.4,
+      "rating": 3.5,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/5JpKFEp9niY90Qgz7xhcIGAOifK.jpg"
     },
@@ -8538,8 +8581,7 @@
       "year": "1989",
       "originalTitle": "Visions in Meditation #1",
       "rating": 3.5,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/aZ2j0a5MbgWzroceupPR5sWFpt.jpg"
+      "streamProviders": []
     },
     {
       "name": "Arabic Numeral Series 12",
@@ -8679,7 +8721,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels Wild West"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a6cf8d4b44383f63023fc6715f4be4c5a27185abc28cfc015f175a09759385de._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f8572a0a18d6f5063438d742ebc4fea767621de37a8bc2bc987ea1a1f28f04e1._SX342_SY600_.jpg"
     },
     {
       "name": "The Fugitive Kind",
@@ -8807,7 +8849,7 @@
       "originalTitle": "Revanche",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/836515738236f2177b17adad9f765adae7709369f0ea97925aa3124f12f44ba9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/98502f3510f59a03978e6ac4abc379a367193d6036b649fee50fec4a9fd2ac87._SX342_SY600_.jpg"
     },
     {
       "name": "Paris, Texas",
@@ -10056,7 +10098,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9a7b6ad4ba25ec5d92e5ba37885aec30cd30ad65198fae5470393278baa81bd8._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6c8a37746634cd55e8be15c925ff2fc4ca3e5e7e36d954668898ecb7d8c6c5a._SX342_SY600_.jpg"
     },
     {
       "name": "Mala Noche",
@@ -10828,7 +10870,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3fa8b0a3ceba875c5d97d2864a9608eb8a582f516a5eb72079503b21a15b0223.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2fabbf1c0e374c997b53d29f8c85cb7d3f761e6e013da7ca30eb5163968533d5._SX342_SY600_.jpg"
     },
     {
       "name": "Dazed and Confused",
@@ -11161,13 +11203,14 @@
       "originalTitle": "The Man Who Fell to Earth",
       "rating": 3.5,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/477cb6a4ae19c8ef2f9c4e747d783050fead679307d5575137c7cadb97081b39._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/10d7d38e7f375572ba653cba7ce17c5096f24299caa0c226aa694eacde43d740._SX342_SY600_.jpg"
     },
     {
       "name": "Bad Timing",
@@ -12541,7 +12584,7 @@
       "name": "Eye Myth",
       "letterboxdUrl": "https://letterboxd.com/film/eye-myth/",
       "listPosition": 0,
-      "year": "1977",
+      "year": "1967",
       "originalTitle": "Eye Myth",
       "rating": 3.1,
       "streamProviders": []
@@ -13635,7 +13678,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4e15b8007733ecd806781c5a526463a7ddaccef035ad79cdd8bf684205e80657._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0e0b5dfc39407f3225dfd1bf9028fb8fb958533824ceb96becf6d4f8ec4772ce._SX342_SY600_.jpg"
     },
     {
       "name": "Ivan the Terrible, Part II: The Boyars' Plot",
@@ -14017,7 +14060,7 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4a8cb005d416e9f61b589daf6417ae89547489cd41c1223b70f437ce32243655._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/32ce8fe0c9fbb2cff2d2f422b7c983b9fd96a887218b227a9d624786d0869673._SX342_SY600_.jpg"
     },
     {
       "name": "The 39 Steps",
@@ -14073,7 +14116,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/188051079/s166/Yojimbo-Der-Leibwaechter"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/lIbwlZe5KHKfrFykpOTWHzPdqbO.jpg"
     },
     {
       "name": "Brazil",
@@ -14226,7 +14269,7 @@
         "Prime Video Channels realeyz",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec703d5abef0cb09da9156675ff67d4526e2474ca618cbf7199111484d4b25bc._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/13119b24070db8841d157f5e7079eb28faec2fbe2397624b966e3b9db0480459._SX342_SY600_.jpg"
     },
     {
       "name": "Time Bandits",
@@ -14292,7 +14335,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/edabc1a0fe451107ba0d74b2f3a36684a8f23ad3cf61e6610141d140d98102ce._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/65a754c3900d371b1ff96b99d5b36d5492b84bdb81ffc5ff45f1d6a10f17bc47._SX342_SY600_.jpg"
     },
     {
       "name": "Great Expectations",
@@ -14424,7 +14467,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4cd5d1c3802a49fa360d6ca2b2ae9dbe076955c22daa3ac674e06940c0b88d38.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c29444c4b0bafad334f6ebe181c61ff28f9b0efabe9986a135db3f77661a69ca._SX342_SY600_.jpg"
     },
     {
       "name": "Shock Corridor",
@@ -14579,7 +14622,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_SY600_.jpg"
     },
     {
       "name": "Amarcord",
@@ -15048,7 +15091,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d5b07622a5ea8240d8bf6c2ba2472d792800d5952ebbbd40d34e6f97800c8934._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/51546dfb85dec143457d0b3884a3c0ccb5ef7d1e9df0b3f23500903856981c3b._SX342_SY600_.jpg"
     },
     {
       "name": "Les 3 Boutons",
@@ -15181,7 +15224,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/75d9f26ff5b76b230c0da473d4fb3ae802d04c85b27e2a55a2b1575cc30c5571._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4a8dcac7ebdf4bd85ca9aef69f00a76faaeaec1fa797720b6d9f97ae9efa61d2._SX342_SY600_.jpg"
     },
     {
       "name": "Lions Love",
@@ -15189,7 +15232,7 @@
       "listPosition": 0,
       "year": "1969",
       "originalTitle": "Lions Love",
-      "rating": 3.3,
+      "rating": 3.4,
       "streamProviders": [
         "Mubi"
       ],
@@ -15340,7 +15383,7 @@
         "PantaRay",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/acb03f9983de49b6bad43d83d672c260b0ee43b8037ae7b81a523572005033a0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6cca2c7c8805d59c2f40d7587c38c9475f51ea84ff47ed05f5d52c579a04ab8._SX342_SY600_.jpg"
     },
     {
       "name": "Salut les Cubains",
@@ -15475,19 +15518,11 @@
   ],
   "streamProviders": [
     {
-      "name": "Amazon Arthaus Channel",
-      "enabled": false
-    },
-    {
       "name": "Amazon Prime Video",
       "enabled": false
     },
     {
       "name": "Apple TV",
-      "enabled": false
-    },
-    {
-      "name": "Classix",
       "enabled": false
     },
     {
@@ -15504,10 +15539,6 @@
     },
     {
       "name": "LIONSGATE+",
-      "enabled": false
-    },
-    {
-      "name": "MGM Amazon Channel",
       "enabled": false
     },
     {
