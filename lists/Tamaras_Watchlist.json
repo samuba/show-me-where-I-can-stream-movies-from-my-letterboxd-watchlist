@@ -4,6 +4,18 @@
   "description": "",
   "entries": [
     {
+      "name": "Plus One",
+      "letterboxdUrl": "https://letterboxd.com/film/plus-one-2019/",
+      "listPosition": 0,
+      "year": "2019",
+      "originalTitle": "Plus One",
+      "rating": 3.5,
+      "streamProviders": [
+        "Joyn"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8052da9a21e63cd63ceb3a8aeb6cc97aed98fddb35e55aba658644ced9249373._SX342_SY600_.jpg"
+    },
+    {
       "name": "Decision to Leave",
       "letterboxdUrl": "https://letterboxd.com/film/decision-to-leave/",
       "listPosition": 0,
@@ -267,7 +279,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_SY600_.jpg"
     },
     {
       "name": "Primer",
@@ -515,7 +527,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b588fa418f098d25ea1225359434f0aace217a4c7ace1ad47f9eaf7bd8e1a1d4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a39bee35097a2efaf38d116759a6d6a824ab7d4a06a36f28379483343ee47b36._SX342_SY600_.jpg"
     },
     {
       "name": "Out of Nature",
@@ -549,7 +561,7 @@
         "Rakuten TV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c73af7c3d6404fc543143f2451563785c7ea43e178e355335058178cd2304c9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/580a2b756e8dadec0d60b0e1a5fa0bf8756bb88269a5a6d66253cf1123f6a12a._SX342_SY600_.jpg"
     },
     {
       "name": "Hanna's Journey",
@@ -616,7 +628,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6b86f9c6ece39b16882b85762ddc4644d0bce7e947cb91623e6d1fe994e76b61._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e3fb85ff3a534570706852166faac42deff7421d2d5271f4a6253f4c6b8f2aad._SX342_SY600_.jpg"
     },
     {
       "name": "Avengers: Infinity War",
@@ -860,7 +872,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f2951f5f509de01c4dac73ef38d10774eecd509a2c2e4a3c2e9d6cc4529fd7f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_SY600_.jpg"
     },
     {
       "name": "Nerve",
@@ -1168,7 +1180,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2993206e4bf6f98f7e8129f6563e540a0705147444931f7e004bb974029673dc._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e374680fd3138b2220c4410ee9e26033e055941f6791304d9ecfe998ceff8ea._SX342_SY600_.jpg"
     },
     {
       "name": "Still Alice",
@@ -1327,7 +1339,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eafa9a7eb308d2f4e3a4320597a29cea7e22600d4f889786ee94e46be6b5ce72._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ac7aba471e8104f976b2d6be2ed7db1b8f180265286ec02e4812f9f69140f89._SX342_SY600_.jpg"
     },
     {
       "name": "1917",
@@ -1371,6 +1383,7 @@
       "rating": 3.8,
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
+        "Prime Video Channels MUBI",
         "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_SY600_.jpg"
