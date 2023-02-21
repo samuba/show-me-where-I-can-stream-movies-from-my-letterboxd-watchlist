@@ -74,7 +74,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_SY600_.jpg"
     },
     {
       "name": "12 Angry Men",
@@ -139,7 +139,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c0c15201e3be4af33da29c1aa310f1063d4b31ac166d2d49c68ff4dbf69a1c8f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e0ab9735404ea4748c18ccf7d22267ebcb95ca00e1d315ee08480d3cce053a5f._SX342_SY600_.jpg"
     },
     {
       "name": "Planet Terror",
@@ -165,7 +165,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_SY600_.jpg"
     },
     {
       "name": "Machete",
@@ -474,7 +474,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb59b3d0729b05d8b7b33bfc6ed35884b6ee2b3fa4be5480e8b150f33e994371._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b7049f8532043cd8662bd3dac03b809638f49184c180b3467823121b6c18466._SX342_SY600_.jpg"
     },
     {
       "name": "Edge of Tomorrow",
@@ -510,7 +510,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9c98175f078606c785ca8f59e70f125cf83ace59b5626e9b8b1576c3d2306a61._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0d3ba2a840abe281e057dd7e65e837fc76c9d0565c002c9f9003096936bc33f4._SX342_SY600_.jpg"
     },
     {
       "name": "Black Swan",
@@ -732,7 +732,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0b51daf8453921e379970781f26dd4b923c90684e600a69bbf43bae3aeb81670._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/89e75f1225c5d482c6017b06fbd4dd891d07368bb5ee5589434d1fe9ff19f8bc._SX342_SY600_.jpg"
     },
     {
       "name": "Falling Down",
@@ -782,7 +782,7 @@
         "Rakuten TV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c8ff30ecb0b5b971abe34f9e9f738fa21b76b4f03eda8c776b7492b9b01887e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6b0045d9f1ab6fe21c45cd52bd6538f74dcc7f68ee5aeaae4fd49d0f77f8dd8e._SX342_SY600_.jpg"
     },
     {
       "name": "Inside Out",
@@ -1049,7 +1049,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5746e6011ced1358d78785ae843c1c8903808a2e76188d00fe28925dbaab0e6e._SX342_SY600_.jpg"
     },
     {
       "name": "The Imposter",
@@ -1159,7 +1159,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6442abf6b1ccce90023edad4dc60149fd0a7ec700bf52da058415d2110f257c2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/78a886481cd0d1b596f5d6e525409521f9e77936980a3ea0e2fb34568200f788._SX342_SY600_.jpg"
     },
     {
       "name": "The Act of Killing",
@@ -1325,7 +1325,9 @@
       "year": "2019",
       "originalTitle": "기생충",
       "rating": 4.6,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels superfresh"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/073863df40de7c1fae9fb109f14d81c7aea24018f444c46c080adeb08fac1a52._SX342_SY600_.jpg"
     },
     {
@@ -1368,7 +1370,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eac672ffb51f41707d5872e98262d13933f2969edb6392affd179f423b2da39d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/167cceb037e4d03bc9cd8f4c614bcc46a359925e5b16806b645626a669876936._SX342_SY600_.jpg"
     },
     {
       "name": "The Boondock Saints",
@@ -1494,7 +1496,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eac5f5d5e790bf621c92617ca51cf6387c4b497d06d06f4b1a433e34fa52be53._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79deda28476122774c601a0e4eeb42456a2867e062a55bd436dda45253e1c3c0._SX342_SY600_.jpg"
     },
     {
       "name": "The Green Mile",
@@ -1530,7 +1532,7 @@
       "originalTitle": "Watchmen",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0fe8b89b042914777edeacd50d6663619abb89a45038a9a7bfa60f9897992756._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/611330cf4f7fb1286f3fdeb4a943bc5f6b07df5186cc09cdb3341aceecfc83c4._SX342_SY600_.jpg"
     },
     {
       "name": "Romeo + Juliet",
@@ -1576,7 +1578,10 @@
       "year": "2022",
       "originalTitle": "Everything Everywhere All at Once",
       "rating": 4.4,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0c69a960f7962daac1bfe7e1564911a0033506ed877b029592c0093de10a4400._SX342_SY600_.jpg"
     },
     {

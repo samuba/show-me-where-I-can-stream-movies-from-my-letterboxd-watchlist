@@ -174,7 +174,7 @@
       "originalTitle": "Aftersun",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/hcGyKiQo6x9AL5GlssgBW3OAB4v.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/yx3hS1sZIljZgZNTyt0ATmcs0PC.jpg"
     },
     {
       "name": "Magnolia",
@@ -279,7 +279,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_SY600_.jpg"
     },
     {
       "name": "Primer",
@@ -394,7 +394,7 @@
       "originalTitle": "Triangle of Sadness",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/k9eLozCgCed5FGTSdHu0bBElAV8.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jXHmT914ACC81F1Dy57hsesuoYj.jpg"
     },
     {
       "name": "The Shining",
@@ -452,7 +452,10 @@
       "year": "2022",
       "originalTitle": "Everything Everywhere All at Once",
       "rating": 4.4,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0c69a960f7962daac1bfe7e1564911a0033506ed877b029592c0093de10a4400._SX342_SY600_.jpg"
     },
     {
@@ -527,7 +530,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a39bee35097a2efaf38d116759a6d6a824ab7d4a06a36f28379483343ee47b36._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b588fa418f098d25ea1225359434f0aace217a4c7ace1ad47f9eaf7bd8e1a1d4._SX342_SY600_.jpg"
     },
     {
       "name": "Out of Nature",
@@ -628,7 +631,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e3fb85ff3a534570706852166faac42deff7421d2d5271f4a6253f4c6b8f2aad._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6b86f9c6ece39b16882b85762ddc4644d0bce7e947cb91623e6d1fe994e76b61._SX342_SY600_.jpg"
     },
     {
       "name": "Avengers: Infinity War",
@@ -860,7 +863,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_SY600_.jpg"
     },
     {
       "name": "The Hunt",
@@ -1101,7 +1104,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5746e6011ced1358d78785ae843c1c8903808a2e76188d00fe28925dbaab0e6e._SX342_SY600_.jpg"
     },
     {
       "name": "The Favourite",
@@ -1339,7 +1342,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ac7aba471e8104f976b2d6be2ed7db1b8f180265286ec02e4812f9f69140f89._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eafa9a7eb308d2f4e3a4320597a29cea7e22600d4f889786ee94e46be6b5ce72._SX342_SY600_.jpg"
     },
     {
       "name": "1917",
@@ -1386,7 +1389,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5.png"
     }
   ],
   "streamProviders": [
