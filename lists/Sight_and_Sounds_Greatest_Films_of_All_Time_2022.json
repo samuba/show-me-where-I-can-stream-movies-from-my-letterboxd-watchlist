@@ -115,7 +115,7 @@
       "listPosition": 11,
       "year": "1927",
       "originalTitle": "Sunrise: A Song of Two Humans",
-      "rating": 4.1,
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/6XYqjeiHSbt8WR7Ua22epnGvVND.jpg"
     },
@@ -153,7 +153,8 @@
       "originalTitle": "Cléo de cinq à sept",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eeb05967feb521ac51deee1477d512a86fc037faef1943a5c9b2ce38b5bdd655._SX342_SY600_.jpg"
     },
@@ -215,7 +216,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ed8b4f91b034fb34f54c03c39142b20aabd7f177984a220db627403dfa2b50ed._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/494d431912c90a2789538e0538ce1c0003a071d2c0fc6fc92abc15c968442780._SX342_SY600_.jpg"
     },
     {
       "name": "Seven Samurai",
@@ -337,7 +338,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b76a95378ec02359137f096a6c3a5d8aac83da5af77083fb1600491b39a77043._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41ca5022ce1dec796391347b315f5e152e41088a111983e68d91d4a923e11ac3._SX342_SY600_.jpg"
     },
     {
       "name": "Mirror",
@@ -986,7 +987,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_SY600_.jpg"
     },
     {
       "name": "Chungking Express",
@@ -1417,7 +1418,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/34da2dbbbc2ab77cce7e977daee3df8198f081da121b1161ab6da9f6d3ab0571._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11e967090d4a8e5da8af4d0db7e843ef2332aa3e137832caf41701195a555264._SX342_SY600_.jpg"
     },
     {
       "name": "The Ascent",
@@ -1437,7 +1438,7 @@
       "originalTitle": "His Girl Friday",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/685166e7e510d835287df64fd4d2138f29c071a923a99a36a98a591e8a06b828._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7943e23a734cfb5b528c2af62f7fb6837ed61bcc51751f76f0b6de073f8ee4a0._SX342_SY600_.jpg"
     },
     {
       "name": "Pulp Fiction",
@@ -1495,7 +1496,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f289421bd9fd314ffd55ee211211d2e184b535fecc743435f66ebff31e97b878._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ede1ad61d6451f25498a20071aa39040ca0b49824b24cc451c6b32cf7c54be4._SX342_SY600_.jpg"
     },
     {
       "name": "It's a Wonderful Life",
@@ -1670,7 +1671,6 @@
       "originalTitle": "Chinatown",
       "rating": 4.2,
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -2141,7 +2141,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f101ddccb7103a819591c04ac6ec486c6065212dbc44c6e687dccbc109421d67._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_SY600_.jpg"
     },
     {
       "name": "The River",
@@ -2320,7 +2320,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/48fd3dc6c2bb5d874c45ec42fe3ccb24d60fb7ebc817b1572ecb31ed6b35d492._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ed610429800b7d47bd7f9b3af328f1e8fabf5a66b2dbee8b5b190076f17f5ad._SX342_SY600_.jpg"
     },
     {
       "name": "By the Bluest of Seas",
@@ -2453,7 +2453,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_SY600_.jpg"
     },
     {
       "name": "Twenty Years Later",
@@ -2665,7 +2665,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc141a3ddb273f2b9a174edd893fa94bcbf33e0040fbc453b50ecb3d658aa01._SX342_SY600_.jpg"
     },
     {
       "name": "In Vanda's Room",
@@ -2802,7 +2802,8 @@
       "originalTitle": "Mouchette",
       "rating": 4,
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/87faae22495517bb73f5e8c046742fa0226f506a28603659e5cf81bf83a851de._SX342_SY600_.jpg"
     },
@@ -2908,10 +2909,6 @@
     },
     {
       "name": "Flimmit",
-      "enabled": false
-    },
-    {
-      "name": "Joyn",
       "enabled": false
     },
     {
