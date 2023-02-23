@@ -19,8 +19,7 @@
       "year": "1958",
       "originalTitle": "白蛇伝",
       "rating": 3.1,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/jDNpVVAqdMcFfG8X6BX3azM71yo.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Sparrow in the Pumpkin",
@@ -196,7 +195,7 @@
       "listPosition": 0,
       "year": "1977",
       "originalTitle": "宇宙戦艦ヤマト",
-      "rating": 3.4,
+      "rating": 3.3,
       "streamProviders": []
     },
     {
@@ -663,12 +662,8 @@
       "year": "1995",
       "originalTitle": "Ghost in the Shell",
       "rating": 4,
-      "streamProviders": [
-        "Joyn",
-        "Prime Video Channels ProSieben FUN",
-        "Prime Video Channels Seven Entertainment"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7ae8ccb7fa891cd9bcf2ce62c5c753ff8f4cf2447e39604d38fb7746f3544fa7._SX342_SY600_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_SY600_.jpg"
     },
     {
       "name": "Memories",
@@ -924,7 +919,8 @@
       "year": "2004",
       "originalTitle": "Mind Game",
       "rating": 4.1,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/7Zf7DDAaUYsNcgROQJlp7OXyvHT.jpg"
     },
     {
       "name": "Howl's Moving Castle",
@@ -1087,22 +1083,14 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
     }
   ],
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Arthouse CNMA Amazon Channel",
-      "enabled": false
-    },
-    {
-      "name": "Joyn",
       "enabled": false
     },
     {
@@ -1123,14 +1111,6 @@
     },
     {
       "name": "Prime Video Channels FlimmerkisteTV",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels ProSieben FUN",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Seven Entertainment",
       "enabled": false
     },
     {
