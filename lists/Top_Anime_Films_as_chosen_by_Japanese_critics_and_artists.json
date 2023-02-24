@@ -19,7 +19,8 @@
       "year": "1958",
       "originalTitle": "白蛇伝",
       "rating": 3.1,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jDNpVVAqdMcFfG8X6BX3azM71yo.jpg"
     },
     {
       "name": "The Sparrow in the Pumpkin",
@@ -195,7 +196,7 @@
       "listPosition": 0,
       "year": "1977",
       "originalTitle": "宇宙戦艦ヤマト",
-      "rating": 3.3,
+      "rating": 3.4,
       "streamProviders": []
     },
     {
@@ -626,6 +627,7 @@
       "streamProviders": [
         "Prime Video Channels ARD Plus",
         "Prime Video Channels FlimmerkisteTV",
+        "ARD Plus",
         "MagentaTV",
         "filmfriend"
       ],
@@ -1089,6 +1091,10 @@
     }
   ],
   "streamProviders": [
+    {
+      "name": "ARD Plus",
+      "enabled": false
+    },
     {
       "name": "Amazon Prime Video",
       "enabled": false
