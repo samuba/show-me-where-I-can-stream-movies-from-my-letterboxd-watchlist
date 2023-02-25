@@ -1015,8 +1015,7 @@
       "originalTitle": "Salon Kitty",
       "rating": 3,
       "streamProviders": [
-        "Netzkino",
-        "Mubi"
+        "Netzkino"
       ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/c3WetjfJ2Q26gDWygCjflSAv4zK.jpg"
     },
@@ -1540,7 +1539,7 @@
         "Prime Video Channels Bloody Movies",
         "Prime Video Channels Silverline"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c42f3681e8d4f41b0a7e993e3e2d35d1a1296d27eef830b13b80961e74b47c01._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69708240b16a976ec3ea9bf1daa6ed2bc65062f50f562a4b88cdfbf38119721d._SX342_SY600_.jpg"
     },
     {
       "name": "Samurai Cop",
@@ -1631,7 +1630,7 @@
       "originalTitle": "鉄男",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/62553290/s166/Tetsuo-The-Iron-Man"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/zEzJP8F9EawE1FQySR6ppCyAEX.jpg"
     },
     {
       "name": "Spider Baby",
@@ -1721,7 +1720,7 @@
         "Prime Video Channels FRANATIC – dein Film-Channel",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc8d2212f8baf79424c814e0356bf5fd6ffc49991acdaac39190aec83e7630e5._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e75afd0b7446394bb49bc4b3fb64825b485236577321b0b737e352f72a31c85f._SX342_SY600_.jpg"
     },
     {
       "name": "Bio-Cop",
@@ -2126,7 +2125,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6d8ad2831b3a6e43ec89b7d62cc4f42f43758032f68a58517bd034043e0b1825._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9fa610f1ee91e93c7cbe511c6d02e7f968625415170b121c8ff255156820f0fc._SX342_SY600_.jpg"
     },
     {
       "name": "Q",
@@ -2224,7 +2223,9 @@
       "year": "1998",
       "originalTitle": "Wild Things",
       "rating": 3.1,
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/87e827c90961ad891d66e68201d53b89efaf47a8fad2c316346406506f543b65._SX342_SY600_.jpg"
     },
     {
