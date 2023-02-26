@@ -89,7 +89,7 @@
       "listPosition": 9,
       "year": "1972",
       "originalTitle": "The Thing with Two Heads",
-      "rating": 2.5,
+      "rating": 2.6,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/xYj9DpCeqM6bbvMvxlGqujU9boQ.jpg"
     },
@@ -202,7 +202,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e19f87fa3b7d2251e04fa2899d9518c3bfcae5149508fb023c8e0d925ea65d8e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6d8657d7beea495d6d12af408e8a8b3cc9922c2ffc63ca3e34c2e892d3e1535._SX342_SY600_.jpg"
     },
     {
       "name": "Hack-O-Lantern",
@@ -786,7 +786,7 @@
       "listPosition": 80,
       "year": "1978",
       "originalTitle": "The Alien Factor",
-      "rating": 2.8,
+      "rating": 2.7,
       "streamProviders": []
     },
     {
@@ -1384,7 +1384,7 @@
       "streamProviders": [
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c7d488e7e5e90376f5553b7e042e8383a99eb144abdeb7a88529d8681e66a569._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c076671d84e03d762dc1ded2e272a519d2efffb8fc25e1cf5bf81e1bbf7e3439._SX342_SY600_.jpg"
     },
     {
       "name": "Bad Black",
@@ -1469,7 +1469,7 @@
       "listPosition": 149,
       "year": "1991",
       "originalTitle": "McBain",
-      "rating": 2.7,
+      "rating": 2.6,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/4OtNyEROz1h01w4Fq1eOqRsHRkF.jpg"
     },
@@ -1788,7 +1788,7 @@
       "listPosition": 181,
       "year": "2007",
       "originalTitle": "Born Into Mafia",
-      "rating": 1.7,
+      "rating": 1.6,
       "streamProviders": []
     },
     {
@@ -2320,11 +2320,11 @@
       "listPosition": 235,
       "year": "1977",
       "originalTitle": "End of the World",
-      "rating": 2,
+      "rating": 2.1,
       "streamProviders": [
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0296858828c683119021f55de9405140355c613d44ac4dd821b6c689d77aa14b._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/030e690e9be25b6a073f492551e73ec71c3d422bdad295b884f2c7c1b3669191._SX342_SY600_.jpg"
     },
     {
       "name": "Bloodsuckers from Outer Space",
@@ -2541,7 +2541,9 @@
       "year": "1999",
       "originalTitle": "Bloodsport: The Dark Kumite",
       "rating": 2,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels FRANATIC – dein Film-Channel"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7912c65d7efc6fbdfe42b63cb31a93fcf0d50156bda21b93ce1a6093b81e2f5c._SX342_SY600_.jpg"
     },
     {
@@ -2761,8 +2763,6 @@
       "rating": 1.5,
       "streamProviders": [
         "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment",
         "Prime Video Channels superfresh"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7d0c012193072443c31fbc55eb8e87f74403642ea9f95ab3f280421de6e4d6ce._SX342_SY600_.jpg"
@@ -4033,7 +4033,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/146b040f2d24a930d021a24fc6615196931d0871898320842c8bc9281173e293._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/148c971ef33c95ac0cb548c5167c00bd7787b6f7706dad3378226f6a3e83e2c5._SX342_SY600_.jpg"
     },
     {
       "name": ".com for Murder",

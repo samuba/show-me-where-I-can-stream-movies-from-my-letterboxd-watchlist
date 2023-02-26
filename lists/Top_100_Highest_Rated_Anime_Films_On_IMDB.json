@@ -410,7 +410,7 @@
       "originalTitle": "獣兵衛忍風帖",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -451,10 +451,9 @@
       "originalTitle": "君の膵臓をたべたい",
       "rating": 3.8,
       "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels aniverse"
+        "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/303435594/s166/I-Want-to-Eat-Your-Pancreas"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -749,9 +748,10 @@
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
       "rating": 3.9,
       "streamProviders": [
-        "Prime Video Channels Netzkino Select"
+        "Amazon Prime Video",
+        "Joyn"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbe9c724ac280ac38bdff55b027fc3c517ba23bad353865934fe5fa4c69de090._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/215305381/s166/Vampire-Hunter-D-Bloodlust"
     },
     {
       "name": "Angel's Egg",
@@ -792,7 +792,7 @@
       "originalTitle": "夜は短し歩けよ乙女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
     },
     {
       "name": "No Game No Life: Zero",
@@ -804,7 +804,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f93e3620b31b11420ee7544913e1bf0767e2a654f6e62c286960ce38f88e172._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/30d86752872d55625ca73d847dea834320ebb5ce86eb5a33a8640bea76e7d405._SX342_SY600_.jpg"
     },
     {
       "name": "Kizumonogatari Part 1: Tekketsu",
@@ -813,8 +813,7 @@
       "year": "2016",
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Garden of Words",
@@ -1072,15 +1071,15 @@
       "enabled": false
     },
     {
+      "name": "Joyn",
+      "enabled": false
+    },
+    {
       "name": "Netflix",
       "enabled": false
     },
     {
       "name": "Prime Video Channels Arthouse CNMA",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Netzkino Select",
       "enabled": false
     },
     {

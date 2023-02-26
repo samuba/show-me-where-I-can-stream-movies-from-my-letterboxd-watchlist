@@ -948,7 +948,7 @@
         "Prime Video Channels superfresh",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c66b089269ec6d44d2e6edd38623b7b34f7e5385a357188ee5e555f41fc8001f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d91cf9380f0f5fc15ce1a7a7d7d8d8884dbb4f09512eacf1dddd019682ca3137._SX342_SY600_.jpg"
     },
     {
       "name": "Color Me Blood Red",
@@ -1015,7 +1015,8 @@
       "originalTitle": "Salon Kitty",
       "rating": 3,
       "streamProviders": [
-        "Netzkino"
+        "Netzkino",
+        "Mubi"
       ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/c3WetjfJ2Q26gDWygCjflSAv4zK.jpg"
     },
