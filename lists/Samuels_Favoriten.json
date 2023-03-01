@@ -20,7 +20,9 @@
       "year": "1996",
       "originalTitle": "Fargo",
       "rating": 4.2,
-      "streamProviders": [],
+      "streamProviders": [
+        "MagentaTV"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47d4cf19ff91d89d174895c87e171faf06f25429328d763c94b3ee96f99c572b._SX342_SY600_.jpg"
     },
     {
@@ -78,7 +80,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_SY600_.jpg"
     },
     {
       "name": "12 Angry Men",
@@ -101,7 +103,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c3de7ac0a768fde0ac247c61cd9174edda213565c5fb4a6fed5c33e45f0bd93._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15fb6fa9ab4bed71f0f92218d56bec4c9f1e026a57500a5b392486c5409abd2d._SX342_SY600_.jpg"
     },
     {
       "name": "Reservoir Dogs",
@@ -113,7 +115,6 @@
       "streamProviders": [
         "Joyn",
         "Prime Video Channels LIONSGATE+",
-        "Rakuten TV",
         "LIONSGATE+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8c844e30f2662c54735681b8dcf0802b73febef96584356e56f75997379b9b1b._SX342_SY600_.jpg"
@@ -187,7 +188,8 @@
       "originalTitle": "Desperado",
       "rating": 3.4,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/267c15a89e088da8d4b2409617516bf4b62bca3c38071ddec8fe2128f6ef72b0._SX342_SY600_.jpg"
     },
@@ -285,7 +287,6 @@
       "originalTitle": "Drive",
       "rating": 4,
       "streamProviders": [
-        "Amazon Prime Video",
         "freenet Video",
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
@@ -293,7 +294,7 @@
         "MagentaTV",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5ce8904aaffb706bd2fb16ee210d210dc5b45b8042ab1c92a6f13b786da888b3._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ea0d3ad251f1a8dc5c963a3415f93d49b5e4598e5708a1f2b46de551d447195._SX342_SY600_.jpg"
     },
     {
       "name": "Brick",
@@ -336,7 +337,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/00f64f0f0c0174dd429d1ae9e557d6be2b37902a0721331d903db4ca3bd26fdf._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/af9dd79fdbebfabbb7618b3c51acbfbef5e09d151793d80a8e81074c9ef80433._SX342_SY600_.jpg"
     },
     {
       "name": "V for Vendetta",
@@ -474,7 +475,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb59b3d0729b05d8b7b33bfc6ed35884b6ee2b3fa4be5480e8b150f33e994371._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b7049f8532043cd8662bd3dac03b809638f49184c180b3467823121b6c18466._SX342_SY600_.jpg"
     },
     {
       "name": "Edge of Tomorrow",
@@ -498,7 +499,7 @@
       "originalTitle": "Argo",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6dc51fe6e39d1b040c172942360baeeba6c586dbd1ebd0a85dd25b7e054cf318._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6c154de7aa6ffc8397947699b774f07999d4d835c702e04e5d532f219fd93821._SX342_SY600_.jpg"
     },
     {
       "name": "Life of Pi",
@@ -510,7 +511,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9c98175f078606c785ca8f59e70f125cf83ace59b5626e9b8b1576c3d2306a61._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0d3ba2a840abe281e057dd7e65e837fc76c9d0565c002c9f9003096936bc33f4._SX342_SY600_.jpg"
     },
     {
       "name": "Black Swan",
@@ -522,7 +523,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/80ab6ea26c4043cb8486196f8ad94717ee6d7c88a251a1db83b428a9ca6e1a5e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cff42f907a3cf87b8c38ecaecdb8f527e293baca1cbb6aa77f7b2e8ac72ec44._SX342_SY600_.jpg"
     },
     {
       "name": "Super",
@@ -534,7 +535,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f3a8b5ca86a3ee2c842faef4bbf866957693ac7642cf3dbcdafadf43c5caa623._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dcd3bbaba4d4d7ebe4ddfcc133ee5fe8b5c9cc6d2ef4dbe1ef9346e079e1b304._SX342_SY600_.jpg"
     },
     {
       "name": "The Guard",
@@ -557,10 +558,9 @@
       "rating": 3.5,
       "streamProviders": [
         "Prime Video Channels LIONSGATE+",
-        "Rakuten TV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d66ac2fa4ddc5b779af402e5655e34b9a534c0c0ac45716696481c96e2cefccb._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/31c2e3ec32344c2fc99377cdc3c26de1a56533f52e95aa4d6cb288db27da8a49._SX342_SY600_.jpg"
     },
     {
       "name": "The Social Network",
@@ -776,12 +776,10 @@
       "rating": 3.9,
       "streamProviders": [
         "Joyn",
-        "Netflix",
         "Prime Video Channels LIONSGATE+",
-        "Rakuten TV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c8ff30ecb0b5b971abe34f9e9f738fa21b76b4f03eda8c776b7492b9b01887e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a74ae95d3f87000cc49e320089526fa49d7a5228bf917c4797580e2f3ed46aef._SX342_SY600_.jpg"
     },
     {
       "name": "Inside Out",
@@ -804,7 +802,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70958291b450f957dea3eaf26bd1e5d54f728e75542b85815eaa232959cc812a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0886688a68bb858e054617741f7e94c55a9e0ee04055d0f14a0f6273cbfeea8c._SX342_SY600_.jpg"
     },
     {
       "name": "The Big Short",
@@ -926,7 +924,7 @@
         "MagentaTV",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3cead3133f939245cf7de042676916b47f4bf64ea6e8e8c183c21ad116a7af8c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b35b7284adc580067831005f2916f42a0f366d076422738ef0a3058070c6e190._SX342_SY600_.jpg"
     },
     {
       "name": "2001: A Space Odyssey",
@@ -990,7 +988,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74e6f96793e6f14233a586e8bfd79f0f50d6d15f9dfca023f1c91c6a07f9176c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cfe416b80ab990e16aa83e563f0a8397ff2f21dff0b983f7f2ff7d3638a669e2._SX342_SY600_.jpg"
     },
     {
       "name": "Arrival",
@@ -1001,10 +999,9 @@
       "rating": 4.1,
       "streamProviders": [
         "Prime Video Channels LIONSGATE+",
-        "Rakuten TV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c73af7c3d6404fc543143f2451563785c7ea43e178e355335058178cd2304c9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/580a2b756e8dadec0d60b0e1a5fa0bf8756bb88269a5a6d66253cf1123f6a12a._SX342_SY600_.jpg"
     },
     {
       "name": "Frank",
@@ -1074,7 +1071,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e84de7b14ed0f8912ffd05508d6c2ee0d40966b824692239a161362802a63736._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9261cc999c9b007c9dd455871b69d161efc411bb890e6ceb1ce5fc472e663bed._SX342_SY600_.jpg"
     },
     {
       "name": "Psycho",
@@ -1118,7 +1115,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1bb9e01957cef390671a9a0a6f33c07514f821584a83c7d94875f6279e32ecfa._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/22f00bb3f7c225868743192111cf48a3abcf0bcb2b687cfbd34a50cd13e64da4._SX342_SY600_.jpg"
     },
     {
       "name": "La La Land",
@@ -1130,7 +1127,8 @@
       "streamProviders": [
         "Joyn",
         "RTL+",
-        "Prime Video Channels ARTHAUS+"
+        "Prime Video Channels ARTHAUS+",
+        "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d012dbee090a01145654fe1c257b4739843063d317aecc8738ac19051ca25f28._SX342_SY600_.jpg"
     },
@@ -1281,7 +1279,7 @@
         "Prime Video Channels LIONSGATE+",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5ec4012d87dbbfe274f94ab14596ec4ecc76971c2cf152e4662876aed3b89e09._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8375c1f4e5e5bac03b1888c9d32ef9718f5e764212ef7a30da14078fcf755e04._SX342_SY600_.jpg"
     },
     {
       "name": "Taxi Driver",
@@ -1291,7 +1289,7 @@
       "originalTitle": "Taxi Driver",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_SY600_.jpg"
     },
     {
       "name": "Oldboy",
@@ -1438,7 +1436,6 @@
       "rating": 3.9,
       "streamProviders": [
         "Prime Video Channels LIONSGATE+",
-        "Rakuten TV",
         "LIONSGATE+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/68af3b7debb14d4cda7630cbdd98be4d4f3aeacc7e358f738883d1acdf9a5d4b._SX342_SY600_.jpg"
@@ -1497,7 +1494,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eac5f5d5e790bf621c92617ca51cf6387c4b497d06d06f4b1a433e34fa52be53._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79deda28476122774c601a0e4eeb42456a2867e062a55bd436dda45253e1c3c0._SX342_SY600_.jpg"
     },
     {
       "name": "The Green Mile",
@@ -1508,10 +1505,9 @@
       "rating": 4.1,
       "streamProviders": [
         "Prime Video Channels LIONSGATE+",
-        "Rakuten TV",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/12f93d94b5ee7adbf865bbf5f138b8fcd2ba3fd2d18cd4063d514aa9f170bf60._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4674e7d14aa471c0aabda897c1fe1391c047c651fce9dbb30876328ed3639640._SX342_SY600_.jpg"
     },
     {
       "name": "In Bruges",
@@ -1533,7 +1529,7 @@
       "originalTitle": "Watchmen",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/611330cf4f7fb1286f3fdeb4a943bc5f6b07df5186cc09cdb3341aceecfc83c4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0fe8b89b042914777edeacd50d6663619abb89a45038a9a7bfa60f9897992756._SX342_SY600_.jpg"
     },
     {
       "name": "Romeo + Juliet",
@@ -1729,10 +1725,6 @@
     },
     {
       "name": "RTL+",
-      "enabled": false
-    },
-    {
-      "name": "Rakuten TV",
       "enabled": false
     },
     {

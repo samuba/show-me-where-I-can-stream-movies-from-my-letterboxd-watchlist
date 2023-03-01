@@ -24,7 +24,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cf3151905acd01249e16ee463fd43523394e0777d60eda89ffedbea64028660f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/76013043dd6acde16200ce4634dc1c34901013566a1507d0c94cf957ca086fe4._SX342_SY600_.jpg"
     },
     {
       "name": "Axiom",
@@ -409,7 +409,7 @@
       "streamProviders": [
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85fc0d0a358f6ba9d0025d962314994d9490d5f51d30a4e977c01353ab9ef694._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a40746fb45384b83c3f5506e09352e40a2ebadcfcafcc59d1a93ce07e8647a5c._SX342_SY600_.jpg"
     },
     {
       "name": "Nightmare Alley",
@@ -421,7 +421,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d010c4975a2a47c0b02c4b3cd1171eddc7791b5ead0df43cf0b6b16a909038ad._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dfe1fd3f1723835cf1b180d9e226d2ef24fc46fb5e360126254c5cce84425271._SX342_SY600_.jpg"
     },
     {
       "name": "The Tragedy of Macbeth",
@@ -631,8 +631,10 @@
       "year": "2016",
       "originalTitle": "Orange",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/pElD520j1jgANaPUIm6qkR4ThEY.jpg"
+      "streamProviders": [
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47ef1fce3e17f353e457e32ecffb6b8d1cbaab272bcd3beea3c169858c0d783f._SX342_SY600_.jpg"
     },
     {
       "name": "Free Guy",
@@ -658,7 +660,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/807d482d87fc0cddd0be5e6c40f2433f5ad9bb1c41004b2f270e45eade983efc._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
     },
     {
       "name": "Traffic",
@@ -704,7 +706,8 @@
       "rating": 3.6,
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\nSky"
+        "Sky Go\nSky",
+        "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1013f67b47cb28989fdff9f4db2a2091414431850d94202760ad0909afd52e16._SX342_SY600_.jpg"
     },
@@ -744,7 +747,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/19a276ab759e617602ee8fc454793990ad2631e6c46a71029dd062943b0e6867._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1c7f7b6e0f88d765b80070b1ae4448ffc513137827f6ca95f09b05fcd856cf7a._SX342_SY600_.jpg"
     },
     {
       "name": "Moonwalker",
@@ -922,9 +925,7 @@
       "year": "2018",
       "originalTitle": "La casa lobo",
       "rating": 4.1,
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677487298"
     },
     {
@@ -1111,7 +1112,9 @@
       "year": "2015",
       "originalTitle": "Il racconto dei racconti",
       "rating": 3.3,
-      "streamProviders": [],
+      "streamProviders": [
+        "MagentaTV"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b48e11d81bcb0884f728dbcd2cb712f7d791741ef7ccac3b75b270460ac51a8a._SX342_SY600_.jpg"
     },
     {
@@ -1297,7 +1300,7 @@
         "Netzkino",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fff95977209aa49c4083c52db671f4f46a3177b471165d225c0c033efbf34d9a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84a54ca33ef6391faa28e2f9dc8a083a4e541d899036778a0807c540892aab4c._SX342_SY600_.jpg"
     },
     {
       "name": "Rocky",
@@ -1370,7 +1373,7 @@
       "listPosition": 0,
       "year": "1998",
       "originalTitle": "新世紀エヴァンゲリオン劇場版 DEATH (TRUE)² / Air / まごころを、君に",
-      "rating": 4,
+      "rating": 4.1,
       "streamProviders": [
         "Netflix"
       ],
@@ -1424,7 +1427,7 @@
       "originalTitle": "蟲師 続章「鈴の雫」",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fX9BnIKXM1ticTmIr9FnsI8yLNf.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/dMtmsOEyPC4KgyRDM7ROl3MwvEo.jpg"
     },
     {
       "name": "Adventure Time: Islands",
@@ -1807,7 +1810,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/221072767f928236bc3e060624127bdc81ad73dbb3e5b4bf67409d49b277777f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/16266adfc734a02b27049996a05f98233d5e2029c19d55da2aaa9a64c57f5d13._SX342_SY600_.jpg"
     },
     {
       "name": "Force Majeure",
@@ -1896,7 +1899,7 @@
         "alleskino",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2f21e1d3ee60ad6c4a5806104cc16f9cdd5e4b4de371d2d7a157f1ab1f43463c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3e092a7308b47001da69bc52cd2cfeac92209fab57184371bcc32d79f69680d7._SX342_SY600_.jpg"
     },
     {
       "name": "Dirty Harry",
@@ -2404,7 +2407,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a39bee35097a2efaf38d116759a6d6a824ab7d4a06a36f28379483343ee47b36._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b588fa418f098d25ea1225359434f0aace217a4c7ace1ad47f9eaf7bd8e1a1d4._SX342_SY600_.jpg"
     },
     {
       "name": "Blade of the Immortal",
@@ -2614,7 +2617,8 @@
       "originalTitle": "Oh Boy",
       "rating": 3.6,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/71754bf6a3f14f03a68f1e935e2f2cbb18d962fa60cdc0fc4e792a12a96360d5._SX342_SY600_.jpg"
     },
@@ -2749,7 +2753,7 @@
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b8eaaffecfd4115c8636d2cc12d50ea82341a7a2a36b8c213b05905777cef67e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/552358fe23260046e2bab2db0d0244d894344ab4a8670182274062900b0a5728._SX342_SY600_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -2815,7 +2819,6 @@
       "rating": 3.7,
       "streamProviders": [
         "Prime Video Channels LIONSGATE+",
-        "Rakuten TV",
         "LIONSGATE+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0f282c38ce1fe357313e4a9ff104ec62462fea80a5997532330c903ff4f0138f._SX342_SY600_.jpg"
@@ -2855,7 +2858,7 @@
       "originalTitle": "Miller's Crossing",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4371db8f281beb5e31344e33d21d0718229546875555b3c981e3c12e29ecf92a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ea983218db2568ad6eb5138c9b712724b74f7774bb1390853afedb2cca5d14e._SX342_SY600_.jpg"
     },
     {
       "name": "The Triplets of Belleville",
@@ -2913,7 +2916,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b764da5a91ecf36ca6254e7e94eb06ce78d0a9d7265a768fa83ccbcc88b8adee._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b97dc75cac24b70955631e6af47a236e35e6ad4d0343144b8d7a5561697da64e._SX342_SY600_.jpg"
     },
     {
       "name": "A Serious Man",
@@ -3159,7 +3162,8 @@
       "originalTitle": "Jagten",
       "rating": 4.2,
       "streamProviders": [
-        "Prime Video Channels superfresh"
+        "Prime Video Channels superfresh",
+        "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_SY600_.jpg"
     },
@@ -3298,7 +3302,7 @@
         "Prime Video Channels Silverline",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4f533b982d7d00b1d39662f9c96826488dc537e5a667fd69f2337685f30761c4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ed10eb4cd45c3a81ba46f9c80ddb59031bf7492980a8831d92db7ba33229d4ad._SX342_SY600_.jpg"
     },
     {
       "name": "A Pigeon Sat on a Branch Reflecting on Existence",
@@ -3725,7 +3729,6 @@
       "originalTitle": "Escape from Tomorrow",
       "rating": 2.1,
       "streamProviders": [
-        "Amazon Prime Video",
         "Joyn"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8f504aaf78480e16dc31b41d489e08f81da3ca42483eac6b0fc49697d576ee01._SX342_SY600_.jpg"
@@ -3887,6 +3890,7 @@
       "rating": 3.3,
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
+        "MagentaTV",
         "filmfriend"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8fba433fbb3647e52fb482987e61b036a2fa4fa9f913d86bc6d6c6680405e07b._SX342_SY600_.jpg"
@@ -3963,7 +3967,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/31d664fe006075b56137c6af0b8ed56ae3947024e6c2acbaec567fff021d34be._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/faadba0ff02f6e5b73f92be42f425be6d001b109c24b74437137a34790ff6d98._SX342_SY600_.jpg"
     },
     {
       "name": "Wayne's World",
@@ -4349,10 +4353,6 @@
     },
     {
       "name": "RTL+",
-      "enabled": false
-    },
-    {
-      "name": "Rakuten TV",
       "enabled": false
     },
     {
