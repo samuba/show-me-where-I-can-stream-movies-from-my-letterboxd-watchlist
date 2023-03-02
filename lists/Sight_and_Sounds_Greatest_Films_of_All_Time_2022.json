@@ -1,7 +1,7 @@
 {
   "name": "Sight and Sound's Greatest Films of All Time 2022",
   "url": "https://letterboxd.com/bfi/list/sight-and-sounds-greatest-films-of-all-time/",
-  "description": "<div class=\"body-text -prose -hero clear collapsible-text\" data-full-text-url=\"#list-notes\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p>Every decade the Sight and Sound team asks critics to name the greatest films of all time. Here are the results of the 2022 poll – the largest ever, with 1,639 critics, programmers, curators, archivists and academics each submitting their top ten ballot - and now updated with the complete list. </p><p>Check out <a href=\"https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time?utm_source= bfi_letterboxd&amp;utm_medium=referral&amp;utm_campaign=sight_and_sound_greatest_films_2022\" rel=\"nofollow\">Sight and Sound</a> for the complete breakdown, including where films received the same number of votes.</p><p>Start watching today on <a href=\"https://player.bfi.org.uk/sight-and-sound-poll?utm_source=letterboxdbfi&amp;utm_medium=referral&amp;utm_campaign=sight_and_sound_greatest_films_2022\" rel=\"nofollow\">BFI Player</a> or on the big screen at <a href=\"https://whatson.bfi.org.uk/Online/article/sightandsoundgreatestfilms2022?utm_source=letterboxdbfi&amp;utm_medium=referral&amp;utm_campaign=sight_and_sound_greatest_films_2022\" rel=\"nofollow\">BFI Southbank</a>.</p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>",
+  "description": "<div class=\"body-text -prose -hero clear collapsible-text\" data-full-text-url=\"#list-notes\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p>Every decade the Sight and Sound team asks critics to name the greatest films of all time. Here are the results of the 2022 poll – the largest ever, with 1,639 critics, programmers, curators, archivists and academics each submitting their top ten ballot - and now updated with the complete list. </p><p>Check out <a href=\"https://www.bfi.org.uk/sight-and-sound/greatest-films-all-time?utm_source= bfi_letterboxd&amp;utm_medium=referral&amp;utm_campaign=sight_and_sound_greatest_films_2022\" rel=\"nofollow\">Sight and Sound</a> for the complete breakdown, including where films received the same number of votes.</p><p>Start watching today on <a href=\"https://player.bfi.org.uk/sight-and-sound-poll?utm_source=letterboxdbfi&amp;utm_medium=referral&amp;utm_campaign=sight_and_sound_greatest_films_2022\" rel=\"nofollow\">BFI Player</a>.</p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>",
   "entries": [
     {
       "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
@@ -214,9 +214,10 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Paramount+",
+        "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fcd72e096687537085d101ed9dc13148768cc656d33dc2240cd8fb7a04aef01f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/143f2a711e3b623e785912f984b1e70cec2309554baccd385620801959c7855c._SX342_SY600_.jpg"
     },
     {
       "name": "Seven Samurai",
@@ -260,7 +261,7 @@
       "originalTitle": "PlayTime",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677487298"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677705133"
     },
     {
       "name": "Do the Right Thing",
@@ -922,7 +923,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d8a2a590d71cf9b9cc51c5ac320d412e79902211c450c45596b0eb2787c79ad9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0076edf7ef3076191e6b22ee63c66b5d9e4195e75976646a5c27b2914c685bec._SX342_SY600_.jpg"
     },
     {
       "name": "A Matter of Life and Death",
@@ -964,7 +965,7 @@
       "originalTitle": "Histoire(s) du cinéma",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677487298"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677705133"
     },
     {
       "name": "The Spirit of the Beehive",
@@ -1419,7 +1420,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11e967090d4a8e5da8af4d0db7e843ef2332aa3e137832caf41701195a555264._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/34da2dbbbc2ab77cce7e977daee3df8198f081da121b1161ab6da9f6d3ab0571._SX342_SY600_.jpg"
     },
     {
       "name": "The Ascent",
@@ -1449,7 +1450,10 @@
       "originalTitle": "Pulp Fiction",
       "rating": 4.3,
       "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15fb6fa9ab4bed71f0f92218d56bec4c9f1e026a57500a5b392486c5409abd2d._SX342_SY600_.jpg"
@@ -1497,7 +1501,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f289421bd9fd314ffd55ee211211d2e184b535fecc743435f66ebff31e97b878._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ede1ad61d6451f25498a20071aa39040ca0b49824b24cc451c6b32cf7c54be4._SX342_SY600_.jpg"
     },
     {
       "name": "It's a Wonderful Life",
@@ -1694,7 +1698,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1677487298"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1677705133"
     },
     {
       "name": "The Cloud-Capped Star",
@@ -2146,7 +2150,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ff7feb05b7d1de52dbabe793159ab82f932dc298919546162d70b93bcb9e1653._SX342_SY600_.jpg"
     },
     {
       "name": "The River",
@@ -2325,7 +2329,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/48fd3dc6c2bb5d874c45ec42fe3ccb24d60fb7ebc817b1572ecb31ed6b35d492._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ed610429800b7d47bd7f9b3af328f1e8fabf5a66b2dbee8b5b190076f17f5ad._SX342_SY600_.jpg"
     },
     {
       "name": "By the Bluest of Seas",
@@ -2458,7 +2462,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_SY600_.jpg"
     },
     {
       "name": "Twenty Years Later",
@@ -2670,7 +2674,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc141a3ddb273f2b9a174edd893fa94bcbf33e0040fbc453b50ecb3d658aa01._SX342_SY600_.jpg"
     },
     {
       "name": "In Vanda's Room",
@@ -2822,9 +2826,10 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "alleskino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4db7b86c47522e0a5783440eb56e49593049d66eae49b2545b206155991413e2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e976d1adc1ebf62e990f832a1a1f74751761fa9642ca3e360489cfc671aefa5c._SX342_SY600_.jpg"
     },
     {
       "name": "Nostalgia for the Light",
@@ -2923,6 +2928,10 @@
     },
     {
       "name": "LIONSGATE+",
+      "enabled": false
+    },
+    {
+      "name": "MagentaTV",
       "enabled": false
     },
     {

@@ -154,11 +154,9 @@
       "originalTitle": "The Dark Knight",
       "rating": 4.5,
       "streamProviders": [
-        "Netflix",
-        "Sky WOW",
-        "Sky Go\nSky"
+        "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc46567834074e00d648c6d819bc8fd68b166554b3e919d53683d03f02dc1e6f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9e6f40ec62b0df07ee8beb4f2007c09fc823a2838a7ede982a59f8e79fd80a49._SX342_SY600_.jpg"
     },
     {
       "name": "Spider-Man: Into the Spider-Verse",
@@ -171,7 +169,7 @@
         "Disney+",
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0b64d32faa41b537a341553380df06220e2438a86c11256ccb7e707c4aab54a._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0bf15f9d6a52f43fbf9b598c16583387b8c18d1ba2b466a26576bd4997b5c2b4._SX342_SY600_.jpg"
     },
     {
       "name": "City of God",
@@ -251,7 +249,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1004120461b68e98f69a9a93d8b9e5bcdfecd96f5462dcfd0c7217192d56db4f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f5e589e9861e0218c124db7fe0eab5550bff21fd41123e36ddb645a134c4c801._SX342_SY600_.jpg"
     },
     {
       "name": "Neon Genesis Evangelion: The End of Evangelion",
@@ -332,7 +330,7 @@
       "originalTitle": "La Haine",
       "rating": 4.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677487298"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677705133"
     },
     {
       "name": "The Empire Strikes Back",
@@ -344,7 +342,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47dce1e6d650c33cee892ab89eb9356ff9274a34039d07f7537bbf8418d521b8._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5815e72b711d56f405e1269cbfbe9ca79a14341abba8cab23a1a9a0edf27a27d._SX342_SY600_.jpg"
     },
     {
       "name": "There Will Be Blood",
@@ -459,7 +457,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d8a2a590d71cf9b9cc51c5ac320d412e79902211c450c45596b0eb2787c79ad9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0076edf7ef3076191e6b22ee63c66b5d9e4195e75976646a5c27b2914c685bec._SX342_SY600_.jpg"
     },
     {
       "name": "Apocalypse Now",
@@ -473,9 +471,10 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Paramount+",
+        "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fcd72e096687537085d101ed9dc13148768cc656d33dc2240cd8fb7a04aef01f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/143f2a711e3b623e785912f984b1e70cec2309554baccd385620801959c7855c._SX342_SY600_.jpg"
     },
     {
       "name": "The Passion of Joan of Arc",
@@ -809,7 +808,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/807d482d87fc0cddd0be5e6c40f2433f5ad9bb1c41004b2f270e45eade983efc._SX342_SY600_.jpg"
     },
     {
       "name": "A Woman Under the Influence",
@@ -922,7 +921,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_SY600_.jpg"
     },
     {
       "name": "Psycho",
@@ -998,7 +997,10 @@
       "originalTitle": "Pulp Fiction",
       "rating": 4.3,
       "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15fb6fa9ab4bed71f0f92218d56bec4c9f1e026a57500a5b392486c5409abd2d._SX342_SY600_.jpg"
@@ -1114,7 +1116,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_SY600_.jpg"
     },
     {
       "name": "Puss in Boots: The Last Wish",
@@ -1197,9 +1199,10 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "alleskino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4db7b86c47522e0a5783440eb56e49593049d66eae49b2545b206155991413e2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e976d1adc1ebf62e990f832a1a1f74751761fa9642ca3e360489cfc671aefa5c._SX342_SY600_.jpg"
     },
     {
       "name": "The Shining",
@@ -1467,7 +1470,7 @@
       "originalTitle": "All That Jazz",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677487298"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677705133"
     },
     {
       "name": "They Don't Wear Black Tie",
@@ -1511,7 +1514,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f289421bd9fd314ffd55ee211211d2e184b535fecc743435f66ebff31e97b878._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ede1ad61d6451f25498a20071aa39040ca0b49824b24cc451c6b32cf7c54be4._SX342_SY600_.jpg"
     },
     {
       "name": "Fantastic Mr. Fox",
@@ -1561,7 +1564,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ff7feb05b7d1de52dbabe793159ab82f932dc298919546162d70b93bcb9e1653._SX342_SY600_.jpg"
     },
     {
       "name": "Prisoners",
@@ -1674,7 +1677,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677487298"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677705133"
     },
     {
       "name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
@@ -1956,7 +1959,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0555a7165fd4da62885708479df87e7e69372d658162cb71fe5c801eba5c8e3._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4e0e25d8a2b4107ff7b70a8a0eeae67baa27a8495cfee651f999c8ccfcb1656c._SX342_SY600_.jpg"
     },
     {
       "name": "Moonlight",
@@ -2073,8 +2076,7 @@
       "originalTitle": "Django Unchained",
       "rating": 4.2,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels SONY AXN"
+        "Joyn"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/028ccd6daaca4111affc91adb51f0d1ec711c20b2589ba0e0d146e89b77a37bd._SX342_SY600_.jpg"
     },
@@ -2248,8 +2250,7 @@
       "originalTitle": "Jagten",
       "rating": 4.2,
       "streamProviders": [
-        "Prime Video Channels superfresh",
-        "MagentaTV"
+        "Prime Video Channels superfresh"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_SY600_.jpg"
     },
@@ -2533,7 +2534,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85606f6576c3d8ae0846b62603aa781bd30ecfc0c7acff908e8996d9fa37e026._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d99c190315ae7a7346159d08b9580faa8be10420998ac944030e7751728d6eca._SX342_SY600_.jpg"
     },
     {
       "name": "Sweet Smell of Success",
@@ -2894,10 +2895,6 @@
     },
     {
       "name": "Prime Video Channels Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels SONY AXN",
       "enabled": false
     },
     {
