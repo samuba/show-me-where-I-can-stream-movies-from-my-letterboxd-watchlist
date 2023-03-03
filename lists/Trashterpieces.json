@@ -402,7 +402,7 @@
       "originalTitle": "The Taint",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677705133"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677767137"
     },
     {
       "name": "The Funhouse",
@@ -753,7 +753,7 @@
       "streamProviders": [
         "Joyn"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cefb657202f76fce347064d5dfb99a14a7d24da11d32d76b77f8edfe72e0d916._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d992aa8b7097ea49908aacbfc6ebed3a92fb233f64b0317a4bbf2e57221b698._SX342_SY600_.jpg"
     },
     {
       "name": "Glen or Glenda",
@@ -763,7 +763,7 @@
       "originalTitle": "Glen or Glenda",
       "rating": 2.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/11OHFSacx5CEP6lkn12sO6zyaw.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/uZir2hA6VOmVNS6JdKb6RiYghTA.jpg"
     },
     {
       "name": "Faster, Pussycat! Kill! Kill!",
@@ -875,7 +875,7 @@
       "originalTitle": "Suor Omicidi",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677705133"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677767137"
     },
     {
       "name": "Women in Cages",
@@ -945,9 +945,10 @@
       "rating": 3.3,
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "Prime Video Channels superfresh"
+        "Prime Video Channels superfresh",
+        "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c66b089269ec6d44d2e6edd38623b7b34f7e5385a357188ee5e555f41fc8001f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d91cf9380f0f5fc15ce1a7a7d7d8d8884dbb4f09512eacf1dddd019682ca3137._SX342_SY600_.jpg"
     },
     {
       "name": "Color Me Blood Red",
@@ -1002,7 +1003,7 @@
       "listPosition": 100,
       "year": "1974",
       "originalTitle": "聖獣学園",
-      "rating": 3.6,
+      "rating": 3.5,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/x2UefFCxBk3R00CcmcU73WPeLPX.jpg"
     },
@@ -1254,7 +1255,7 @@
         "Prime Video Channels Bloody Movies",
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b94fd022ddc33b531cfb886c2dd61bbc414506247772ffea90649e17a0ebc59._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d632fa9ae08693f557e2ead2be49fe08671d8c8425d7fe506ea2a16909c23192._SX342_SY600_.jpg"
     },
     {
       "name": "From Beyond",
@@ -1741,7 +1742,7 @@
       "originalTitle": "Father's Day",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677705133"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677767137"
     },
     {
       "name": "Pervert!",
@@ -1751,7 +1752,7 @@
       "originalTitle": "Pervert!",
       "rating": 2.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677705133"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677767137"
     },
     {
       "name": "Home Sick",
@@ -1862,7 +1863,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4ff748e85ab8f730068800d83e597da43985608e8dda7bdcb18a7b53f2d265ee._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5735438a7f217751de4b4fb508110b7279da4af2d71f191abe5890c39b7e4fd6._SX342_SY600_.jpg"
     },
     {
       "name": "Just Before Dawn",
@@ -1895,6 +1896,7 @@
       "rating": 3.1,
       "streamProviders": [
         "Netflix",
+        "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -2126,7 +2128,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6d8ad2831b3a6e43ec89b7d62cc4f42f43758032f68a58517bd034043e0b1825._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9fa610f1ee91e93c7cbe511c6d02e7f968625415170b121c8ff255156820f0fc._SX342_SY600_.jpg"
     },
     {
       "name": "Q",
