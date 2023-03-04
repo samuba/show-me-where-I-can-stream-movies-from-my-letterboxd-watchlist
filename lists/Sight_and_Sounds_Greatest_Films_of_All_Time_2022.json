@@ -41,7 +41,7 @@
       "originalTitle": "東京物語",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/GVYiMOWITLMnxg5jeGmKd7uzWR.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "In the Mood for Love",
@@ -217,7 +217,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/143f2a711e3b623e785912f984b1e70cec2309554baccd385620801959c7855c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fcd72e096687537085d101ed9dc13148768cc656d33dc2240cd8fb7a04aef01f._SX342_SY600_.jpg"
     },
     {
       "name": "Seven Samurai",
@@ -227,7 +227,7 @@
       "originalTitle": "七人の侍",
       "rating": 4.5,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/zhPyobDDr7qT4kQXXDokNINnh9E.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Passion of Joan of Arc",
@@ -261,7 +261,7 @@
       "originalTitle": "PlayTime",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677767137"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Do the Right Thing",
@@ -304,7 +304,7 @@
       "originalTitle": "Shoah",
       "rating": 4.5,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/7eAwFuvXdzx3TzBll8B8OqlrzlY.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Daisies",
@@ -316,7 +316,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/ljoAqt4QztWAzh804wf3SZRsGdX.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Taxi Driver",
@@ -326,7 +326,7 @@
       "originalTitle": "Taxi Driver",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_SY600_.jpg"
     },
     {
       "name": "Portrait of a Lady on Fire",
@@ -339,7 +339,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b76a95378ec02359137f096a6c3a5d8aac83da5af77083fb1600491b39a77043._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41ca5022ce1dec796391347b315f5e152e41088a111983e68d91d4a923e11ac3._SX342_SY600_.jpg"
     },
     {
       "name": "Mirror",
@@ -390,7 +390,7 @@
       "originalTitle": "পথের পাঁচালী",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/rOHuGsO18d8BN3hQ0kMKZ5l9caE.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "City Lights",
@@ -476,7 +476,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/pCh4KnZR7YLxNVCPS9ZtpemkNnS.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Stalker",
@@ -518,7 +518,7 @@
       "originalTitle": "La battaglia di Algeri",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/owFlCpKk0ytB7UauWYortqgd3w3.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Barry Lyndon",
@@ -548,7 +548,7 @@
       "originalTitle": "Ordet",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/3uc2qRKvG1m2Lzwhf4I7UD8NQT.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The 400 Blows",
@@ -675,7 +675,9 @@
       "year": "1991",
       "originalTitle": "Daughters of the Dust",
       "rating": 3.8,
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/jgnNrIErOhhkyxu4j9ZifwSDeW8.jpg"
     },
     {
@@ -782,7 +784,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/oWy0okA7Ev4IjtkkNlmDUXHlNBz.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Red Shoes",
@@ -827,7 +829,7 @@
       "originalTitle": "Viaggio in Italia",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/96An7vU9Cb4sXRONPgZ5HMg6V2l.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "L'Avventura",
@@ -837,7 +839,7 @@
       "originalTitle": "L'Avventura",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/c6hdG99CsskD9V0QDyS2l6gDOJa.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Imitation of Life",
@@ -857,7 +859,7 @@
       "originalTitle": "山椒大夫",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/9hlrq9KPSJZnknLo6qhpYtv5BxY.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Spirited Away",
@@ -879,7 +881,7 @@
       "originalTitle": "牯嶺街少年殺人事件",
       "rating": 4.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/o3CAuPyhfSvNpaZUsmHkss2mn0p.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Satantango",
@@ -965,7 +967,7 @@
       "originalTitle": "Histoire(s) du cinéma",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677767137"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Spirit of the Beehive",
@@ -988,7 +990,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_SY600_.jpg"
     },
     {
       "name": "Chungking Express",
@@ -1008,7 +1010,7 @@
       "originalTitle": "Madame de…",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/zUT9E6HmWI2epqGoCT2GuB9Ui9g.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Leopard",
@@ -1018,7 +1020,7 @@
       "originalTitle": "Il gattopardo",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/xg407NZri2RG2WhC5uoqIrwm7vj.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Ugetsu",
@@ -1062,7 +1064,7 @@
       "originalTitle": "Un condamné à mort s'est échappé",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/bRd5Pofvz0sCOOorMyt6141RNd5.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The General",
@@ -1185,7 +1187,7 @@
       "originalTitle": "La Maman et la Putain",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/zyjSdCEVFMz3nTYmZKo1fhhyjZF.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Jaws",
@@ -1271,7 +1273,7 @@
       "rating": 3.8,
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\nSky",
+        "Sky Go\n Sky",
         "Prime Video Channels ARTHAUS+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c01f31d66d136309781eb45eb4afee588cfe5516c20dc6d9a39adb8bd0570614._SX342_SY600_.jpg"
@@ -1287,7 +1289,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/y6LHFWA99UzUIpOXHDfslNvb9pF.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "A Woman Under the Influence",
@@ -1351,7 +1353,7 @@
       "originalTitle": "Il conformista",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/54hGVTv4cjovsXbSlF0uQrFObAM.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Only Angels Have Wings",
@@ -1420,7 +1422,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11e967090d4a8e5da8af4d0db7e843ef2332aa3e137832caf41701195a555264._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/34da2dbbbc2ab77cce7e977daee3df8198f081da121b1161ab6da9f6d3ab0571._SX342_SY600_.jpg"
     },
     {
       "name": "The Ascent",
@@ -1430,7 +1432,7 @@
       "originalTitle": "Восхождение",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/4AJn93HJz5N0xqRVmRsMgOLP1qY.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "His Girl Friday",
@@ -1574,7 +1576,7 @@
       "originalTitle": "Gertrud",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/sp0dEByz58jj8lQfdyTX8XVnWz7.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Seventh Seal",
@@ -1606,7 +1608,7 @@
       "originalTitle": "Pickpocket",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/u6sp3YjUzQzA3k8KJvlku130bqv.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "All That Heaven Allows",
@@ -1616,7 +1618,7 @@
       "originalTitle": "All That Heaven Allows",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/4JLLdxSR5kF0afH2xHpGZ8StuBG.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Alien",
@@ -1635,7 +1637,7 @@
       "originalTitle": "The Watermelon Woman",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/i99v9sEza4OtThE2dc1Go7d4C7q.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Grand Illusion",
@@ -1698,7 +1700,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1677767137"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Cloud-Capped Star",
@@ -1720,7 +1722,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2ed591372311eded806b04833350e5d4384fa67bf9361d43c6ead78c82434d9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0ccbe4828d31371a076c68b55ac7883addb162e27ac389b28858e96b80544db6._SX342_SY600_.jpg"
     },
     {
       "name": "Le Bonheur",
@@ -1775,7 +1777,7 @@
       "originalTitle": "Todo sobre mi madre",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/OMSlfwyGMx9AhG7gyHWXD4RCIk.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Ikiru",
@@ -1787,7 +1789,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/uMaLKmpxepW4Uq8lcCpels656u0.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Young and the Damned",
@@ -1915,7 +1917,7 @@
       "originalTitle": "Un Chien Andalou",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/rvl3UOnQ1NyYHbPK1QT18hfsHVs.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Symbiopsychotaxiplasm: Take One",
@@ -1993,7 +1995,7 @@
       "originalTitle": "L'Argent",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/6fitfpmHZ24aB22EgBJL2zrppnD.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Black Narcissus",
@@ -2150,7 +2152,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f101ddccb7103a819591c04ac6ec486c6065212dbc44c6e687dccbc109421d67._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ff7feb05b7d1de52dbabe793159ab82f932dc298919546162d70b93bcb9e1653._SX342_SY600_.jpg"
     },
     {
       "name": "The River",
@@ -2169,7 +2171,7 @@
       "originalTitle": "Love Streams",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/vRdMgk0Bx6NPcSxRK8O5KDVwzCe.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Paisan",
@@ -2179,7 +2181,7 @@
       "originalTitle": "Paisà",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/k3tn6p5ElKVrciCUvk662NKiamN.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Headless Woman",
@@ -2230,7 +2232,7 @@
       "originalTitle": "ลุงบุญมีระลึกชาติ",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/3JGLNqZtWI6oIymPAvGrwHiCVlJ.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Nosferatu",
@@ -2338,7 +2340,7 @@
       "originalTitle": "У самого синего моря",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/vz7YyAD4Sn53CqP6CyOXskbHdjY.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Suspiria",
@@ -2402,7 +2404,7 @@
       "originalTitle": "In a Lonely Place",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Pink Flamingos",
@@ -2412,7 +2414,7 @@
       "originalTitle": "Pink Flamingos",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/71IwGRZmEds1yuD2xbaExAofoLS.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Deer Hunter",
@@ -2437,7 +2439,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84488d6f097a655baa59d2c30d0ce68302b011f5b3bf85e816a0ccb12166c1b8._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e6bbf5e20f6707b94d1187fb49f173a525d6c5457cae7649fe123499952859f._SX342_SY600_.jpg"
     },
     {
       "name": "Duck Soup",
@@ -2502,7 +2504,7 @@
       "originalTitle": "俠女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/bjUUmuCX6hRjlJ8S6NL0mtXcF2N.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Green Ray",
@@ -2548,7 +2550,7 @@
       "originalTitle": "Blue",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/wQffxzw30Ng8kZ0wJVTPUYRHqrm.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Napoleon",
@@ -2597,7 +2599,7 @@
       "originalTitle": "Europa '51",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/aAUK3M1DbI6YtilcEhvhNQKOjSB.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Grave of the Fireflies",
@@ -2762,7 +2764,7 @@
       "originalTitle": "Sullivan's Travels",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/z5cqIM0ysVjkCmaDfyTQnlozdIp.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Intruder",
@@ -2781,7 +2783,7 @@
       "originalTitle": "Born in Flames",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/lpt57WY5RqyHVGHLOdFEsYMurSl.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Syndromes and a Century",
@@ -2895,7 +2897,7 @@
       "originalTitle": "Possession",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/yAVfhwRyFm7i0zuMe1lxvXwwwvU.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Videodrome",
@@ -2999,6 +3001,10 @@
     },
     {
       "name": "Prime Video Channels superfresh",
+      "enabled": false
+    },
+    {
+      "name": "Sky Go\n Sky",
       "enabled": false
     },
     {
