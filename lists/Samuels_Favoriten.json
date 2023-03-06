@@ -37,7 +37,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39775226fd6ba0930bc3d090fbb0a5974db81237da2f71b3a4e833eba46ad817._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eba9c54b035b288bd32bfc3ee91dda2d64cd6232f14d5b7d49ac42860f901b7a._SX342_SY600_.jpg"
     },
     {
       "name": "Primer",
@@ -80,7 +80,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_SY600_.jpg"
     },
     {
       "name": "12 Angry Men",
@@ -143,7 +143,7 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e0ab9735404ea4748c18ccf7d22267ebcb95ca00e1d315ee08480d3cce053a5f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f28e41f3eb047a457683d42effb400592eabc2ce56d4c00f35ca1bb0259dc799._SX342_SY600_.jpg"
     },
     {
       "name": "Planet Terror",
@@ -181,7 +181,7 @@
       "streamProviders": [
         "Joyn"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cefb657202f76fce347064d5dfb99a14a7d24da11d32d76b77f8edfe72e0d916._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d992aa8b7097ea49908aacbfc6ebed3a92fb233f64b0317a4bbf2e57221b698._SX342_SY600_.jpg"
     },
     {
       "name": "Desperado",
@@ -340,7 +340,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/00f64f0f0c0174dd429d1ae9e557d6be2b37902a0721331d903db4ca3bd26fdf._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/af9dd79fdbebfabbb7618b3c51acbfbef5e09d151793d80a8e81074c9ef80433._SX342_SY600_.jpg"
     },
     {
       "name": "V for Vendetta",
@@ -464,7 +464,7 @@
       "originalTitle": "Gravity",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/201a2125ad1ca36df8fca139f7de44856d192f25a2a6552f41ad16ba45907a77._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ae2d98af4072be5a0506ad2322b760b31bfc81b4f0dedd6721d42b84a316230._SX342_SY600_.jpg"
     },
     {
       "name": "Moon",
@@ -526,7 +526,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cff42f907a3cf87b8c38ecaecdb8f527e293baca1cbb6aa77f7b2e8ac72ec44._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/80ab6ea26c4043cb8486196f8ad94717ee6d7c88a251a1db83b428a9ca6e1a5e._SX342_SY600_.jpg"
     },
     {
       "name": "Super",
@@ -782,7 +782,7 @@
         "Prime Video Channels LIONSGATE+",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c8ff30ecb0b5b971abe34f9e9f738fa21b76b4f03eda8c776b7492b9b01887e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a74ae95d3f87000cc49e320089526fa49d7a5228bf917c4797580e2f3ed46aef._SX342_SY600_.jpg"
     },
     {
       "name": "Inside Out",
@@ -814,7 +814,11 @@
       "year": "2015",
       "originalTitle": "The Big Short",
       "rating": 3.8,
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn",
+        "Prime Video Channels ProSieben FUN",
+        "Prime Video Channels Seven Entertainment"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cef33702ca7b1a26ed160bd3e5362a307189f43bee1406b241fcaedff81e2227._SX342_SY600_.jpg"
     },
     {
@@ -826,7 +830,8 @@
       "rating": 3.8,
       "streamProviders": [
         "Amazon Prime Video",
-        "Disney+"
+        "Disney+",
+        "Netflix"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d45e58c8c1256c502fd13a4ee3e64bbda75a15c70c1bf08936fe65cfa54bcfca._SX342_SY600_.jpg"
     },
@@ -928,7 +933,7 @@
         "MagentaTV",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3cead3133f939245cf7de042676916b47f4bf64ea6e8e8c183c21ad116a7af8c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b35b7284adc580067831005f2916f42a0f366d076422738ef0a3058070c6e190._SX342_SY600_.jpg"
     },
     {
       "name": "2001: A Space Odyssey",
@@ -969,7 +974,8 @@
       "year": "2002",
       "originalTitle": "英雄",
       "rating": 3.9,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ixkKnqTqo5iqL7xuaP2zY5JJQSg.jpg"
     },
     {
       "name": "Citizen Kane",
@@ -1034,7 +1040,7 @@
       "listPosition": 0,
       "year": "2013",
       "originalTitle": "Kohlhaas oder die Verhältnismäßigkeit der Mittel",
-      "rating": 3.6,
+      "rating": 3.5,
       "streamProviders": []
     },
     {
@@ -1292,7 +1298,7 @@
       "originalTitle": "Taxi Driver",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_SY600_.jpg"
     },
     {
       "name": "Oldboy",
@@ -1305,7 +1311,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/822488f8c80ecdceb69fab51bab887ddd21124e1870ec1cac15f96fec049122d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b0ab93bb52cec0dce4b0db10e3a0bfbec5d549bd872904d869cb1f3095624de4._SX342_SY600_.jpg"
     },
     {
       "name": "Spider-Man: Into the Spider-Verse",
@@ -1318,7 +1324,7 @@
         "Disney+",
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0bf15f9d6a52f43fbf9b598c16583387b8c18d1ba2b466a26576bd4997b5c2b4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0b64d32faa41b537a341553380df06220e2438a86c11256ccb7e707c4aab54a._SX342_SY600_.jpg"
     },
     {
       "name": "Parasite",
@@ -1529,7 +1535,7 @@
       "originalTitle": "Watchmen",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/611330cf4f7fb1286f3fdeb4a943bc5f6b07df5186cc09cdb3341aceecfc83c4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0fe8b89b042914777edeacd50d6663619abb89a45038a9a7bfa60f9897992756._SX342_SY600_.jpg"
     },
     {
       "name": "Romeo + Juliet",

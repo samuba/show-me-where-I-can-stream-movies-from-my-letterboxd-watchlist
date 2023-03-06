@@ -357,7 +357,7 @@
       "originalTitle": "The Fantastic Four",
       "rating": 1.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/2jJoV3Lze514jOAPagF4Fkp5Cl8.jpg"
     },
     {
       "name": "Deadly Prey",
@@ -845,7 +845,7 @@
       "originalTitle": "Antropophagus",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/r0wecMke0GEIAkrgx2pAlkM4mj3.jpg"
     },
     {
       "name": "At Midnight I'll Take Your Soul",
@@ -1033,7 +1033,7 @@
       "originalTitle": "Nabonga",
       "rating": 2.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ssbU9fbrfvaW3f1VdXgsyY5HCrz.jpg"
     },
     {
       "name": "The Terror of Tiny Town",
@@ -1351,7 +1351,7 @@
       "originalTitle": "War of the Satellites",
       "rating": 2.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/rwqqB08qDLiTX9rZhdO2Q2egARx.jpg"
     },
     {
       "name": "Armed Response",
@@ -1547,7 +1547,7 @@
       "listPosition": 157,
       "year": "1985",
       "originalTitle": "Remo Williams: The Adventure Begins",
-      "rating": 2.9,
+      "rating": 3,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
@@ -1571,7 +1571,7 @@
       "streamProviders": [
         "Netzkino"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ouUfJtdHPkRXFJ0zDLPvgbPHPjd.jpg"
     },
     {
       "name": "Slaughter High",
@@ -1910,7 +1910,7 @@
       "originalTitle": "Bog",
       "rating": 2.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/fcq04WabXIwOfUBeSksgMO1F6aq.jpg"
     },
     {
       "name": "The Dark",
@@ -1920,7 +1920,7 @@
       "originalTitle": "The Dark",
       "rating": 2.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/iZygDHDL6FAzYJCqhINtYwCR7oK.jpg"
     },
     {
       "name": "Scary Tales",
@@ -1975,8 +1975,10 @@
       "year": "1977",
       "originalTitle": "Yeti: Il Gigante del 20° Secolo",
       "rating": 2.6,
-      "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/58123910/s166/Yeti-Der-Schneemensch-kommt"
+      "streamProviders": [
+        "Prime Video Channels Silverline"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc83f99c96b19acdf48eaaf33bb57995495951b4a2abf30a7bead46993a22dfe._SX342_SY600_.jpg"
     },
     {
       "name": "Project: Shadowchaser",
@@ -1986,7 +1988,7 @@
       "originalTitle": "Project: Shadowchaser",
       "rating": 2.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/x5KazdzPu8JmuHs35Dwuuqu9I0L.jpg"
     },
     {
       "name": "Project Shadowchaser II",
@@ -2005,7 +2007,8 @@
       "year": "1974",
       "originalTitle": "黃面老虎",
       "rating": 2.5,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Liquidator",
@@ -2015,9 +2018,10 @@
       "originalTitle": "Likvidator",
       "rating": 3.1,
       "streamProviders": [
+        "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/455340/s166/Der-Liquidator-Toeten-war-sein-Job"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/59e0422688644931922c3133fab637484179af7de8974f3899fe0b40e69857f0._SX342_SY600_.jpg"
     },
     {
       "name": "Survival Quest",
@@ -2126,7 +2130,8 @@
       "year": "1986",
       "originalTitle": "The Stabilizer",
       "rating": 3.4,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Panther Squad",
@@ -2134,7 +2139,7 @@
       "listPosition": 217,
       "year": "1984",
       "originalTitle": "Panther Squad",
-      "rating": 2.2,
+      "rating": 2.1,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
@@ -2248,7 +2253,8 @@
       "year": "1986",
       "originalTitle": "Mission Kill",
       "rating": 2.9,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3f4d6a616ac86a0371b76e9160deb4da264d8de055fbd1576b2fa5f8e7de62bb._SX342_SY600_.jpg"
     },
     {
       "name": "Pootie Tang",
@@ -2277,7 +2283,7 @@
       "originalTitle": "Garden of the Dead",
       "rating": 2.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/247251688/s166/Garden-of-the-Dead"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "How to Make a Monster",
@@ -2297,7 +2303,7 @@
       "originalTitle": "Ink",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/9vYyX7c8gZtxuqd6SiRukRb4gRd.jpg"
     },
     {
       "name": "Rad",
@@ -2315,7 +2321,10 @@
       "year": "1977",
       "originalTitle": "End of the World",
       "rating": 2,
-      "streamProviders": []
+      "streamProviders": [
+        "Prime Video Channels Full Action"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/030e690e9be25b6a073f492551e73ec71c3d422bdad295b884f2c7c1b3669191._SX342_SY600_.jpg"
     },
     {
       "name": "Bloodsuckers from Outer Space",
@@ -2409,7 +2418,7 @@
       "originalTitle": "Vortice mortale",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/57812967/s166/Vortice-mortale"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Blastfighter",
@@ -2511,7 +2520,7 @@
       "originalTitle": "Bloodsport II",
       "rating": 2.5,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/235137/s166/Bloodsport-II"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/xVfSGAbOK4FucTwkYrXJjeBFqv4.jpg"
     },
     {
       "name": "Bloodsport III",
@@ -2564,7 +2573,7 @@
       "originalTitle": "Stridulum",
       "rating": 3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/9FUVMaOs1gCN2fCR7X2FGaJyD9W.jpg"
     },
     {
       "name": "Spaghetti House",
@@ -2582,11 +2591,8 @@
       "year": "1953",
       "originalTitle": "Cat-Women of the Moon",
       "rating": 2.2,
-      "streamProviders": [
-        "Cultpix",
-        "Classix"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/284660670/s166/Cat-Women-of-the-Moon"
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "The Chill Factor",
@@ -2594,7 +2600,7 @@
       "listPosition": 263,
       "year": "1993",
       "originalTitle": "The Chill Factor",
-      "rating": 2.2,
+      "rating": 2.1,
       "streamProviders": []
     },
     {
@@ -2693,7 +2699,7 @@
       "originalTitle": "五遁忍術",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/100293756/s166/Five-Element-Ninjas"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Crippled Avengers",
@@ -2732,7 +2738,7 @@
       "originalTitle": "摧花狂魔",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/300882980/s166/Die-Unbesiegbare"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/iLlbJ9bkwQ9zdMiAzsSoalzKYik.jpg"
     },
     {
       "name": "Laser Mission",
@@ -2821,7 +2827,8 @@
       "year": "1979",
       "originalTitle": "Supersonic Man",
       "rating": 2.1,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
     },
     {
       "name": "Edge of the Axe",
@@ -3159,7 +3166,7 @@
         "Prime Video Channels FRANATIC – dein Film-Channel",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/692bd6d224e0f9366f6b8e1610016d274bdbad7dcfcf592711c2883fd4add063._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/366773b063ad86505865aeedcafe8df06421e2a538260a0bf8b64dd0ffa3e379._SX342_SY600_.jpg"
     },
     {
       "name": "2019: After the Fall of New York",
@@ -3294,7 +3301,7 @@
       "originalTitle": "The Burning Moon",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/kbLuLbzy8jnp4dQIdJXvAJwF7yh.jpg"
     },
     {
       "name": "Werewolf in a Girls' Dormitory",
@@ -3370,7 +3377,7 @@
       "originalTitle": "The Being",
       "rating": 2.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/i3hZeQD6b4LeoSJmJEXp5EWtm78.jpg"
     },
     {
       "name": "Ten Zan - Ultimate Mission",
@@ -3520,7 +3527,7 @@
       "originalTitle": "Haunted Boat",
       "rating": 2.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/lV1WXzpG4c05spZP6AAQuei3rSk.jpg"
     },
     {
       "name": "For Y'ur Height Only",
@@ -3530,7 +3537,7 @@
       "originalTitle": "For Y'ur Height Only",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/5hD9yvxNPkYRo5dHPlarikO1RJH.jpg"
     },
     {
       "name": "Teenagers Battle the Thing",
@@ -3765,7 +3772,7 @@
       "originalTitle": "Breaking Point",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/7nY2AltbcoRMFku1kmPVQRS8CFM.jpg"
     },
     {
       "name": "Johnny Firecloud",
@@ -3783,7 +3790,7 @@
       "listPosition": 382,
       "year": "1994",
       "originalTitle": "The Paperboy",
-      "rating": 2.8,
+      "rating": 2.7,
       "streamProviders": []
     },
     {
@@ -3878,7 +3885,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gofWgQh9l5CdBQNXFOGwFDzYRZ9.jpg"
     },
     {
       "name": "Jane and the Lost City",
@@ -4009,7 +4016,7 @@
       "originalTitle": "Sole Survivor",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/kIJDnW9nutBsvSMX3D8J71rDRHA.jpg"
     },
     {
       "name": "Queen Crab",
@@ -4090,7 +4097,7 @@
       "streamProviders": [
         "Netzkino"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/t0ELqfW3x0IZsHgHAMmMFZaSxQq.jpg"
     },
     {
       "name": "Timecop",
@@ -4394,7 +4401,7 @@
       "originalTitle": "Gargoyles",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1677843982"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/74x0yhrNGUsAvggdE8beIEOnQrJ.jpg"
     },
     {
       "name": "Future Cops",
@@ -4518,14 +4525,6 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Classix",
-      "enabled": false
-    },
-    {
-      "name": "Cultpix",
       "enabled": false
     },
     {
