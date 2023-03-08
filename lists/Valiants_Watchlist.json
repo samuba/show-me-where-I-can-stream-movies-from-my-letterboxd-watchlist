@@ -4,6 +4,80 @@
   "description": "",
   "entries": [
     {
+      "name": "The Menu",
+      "letterboxdUrl": "https://letterboxd.com/film/the-menu-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "The Menu",
+      "rating": 3.7,
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7a432c3899faa55f77e9a8de3b73f21e08df842aceb05c172c8730f1b43b05da._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Creed III",
+      "letterboxdUrl": "https://letterboxd.com/film/creed-iii/",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "Creed III",
+      "rating": 3.8,
+      "streamProviders": []
+    },
+    {
+      "name": "Knock at the Cabin",
+      "letterboxdUrl": "https://letterboxd.com/film/knock-at-the-cabin/",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "Knock at the Cabin",
+      "rating": 3.1,
+      "streamProviders": []
+    },
+    {
+      "name": "Babylon",
+      "letterboxdUrl": "https://letterboxd.com/film/babylon-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Babylon",
+      "rating": 3.9,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ejJ1dwntUjwfeQ0Tc74jucnPavP.jpg"
+    },
+    {
+      "name": "Ambulance",
+      "letterboxdUrl": "https://letterboxd.com/film/ambulance-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Ambulance",
+      "rating": 3.1,
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7051f8cbd12668d8269fbe8122216b567b25d2684f65c54e5a457131173d1f84._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Evil Dead",
+      "letterboxdUrl": "https://letterboxd.com/film/evil-dead/",
+      "listPosition": 0,
+      "year": "2013",
+      "originalTitle": "Evil Dead",
+      "rating": 3.4,
+      "streamProviders": [
+        "Prime Video Channels Home of Horror"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2a08dc9399fadfcdb431fa4c284656e7bc0c570be1920b6cb7bb8bc9cf75da92._SX342_SY600_.jpg"
+    },
+    {
+      "name": "Cocaine Bear",
+      "letterboxdUrl": "https://letterboxd.com/film/cocaine-bear/",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "Cocaine Bear",
+      "rating": 3.2,
+      "streamProviders": []
+    },
+    {
       "name": "Puss in Boots: The Last Wish",
       "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
       "listPosition": 0,
@@ -76,43 +150,6 @@
       "rating": 3.7,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d6a6ffd10c85c048d3bfc4b2b3dfd3e6f1b8d094344857244611263aec108620._SX342_SY600_.jpg"
-    },
-    {
-      "name": "The Menu",
-      "letterboxdUrl": "https://letterboxd.com/film/the-menu-2022/",
-      "listPosition": 0,
-      "year": "2022",
-      "originalTitle": "The Menu",
-      "rating": 3.7,
-      "streamProviders": [
-        "Disney+"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7a432c3899faa55f77e9a8de3b73f21e08df842aceb05c172c8730f1b43b05da._SX342_SY600_.jpg"
-    },
-    {
-      "name": "Dune",
-      "letterboxdUrl": "https://letterboxd.com/film/dune-2021/",
-      "listPosition": 0,
-      "year": "2021",
-      "originalTitle": "Dune",
-      "rating": 3.9,
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cdd519298ce46bcf59eb9a00bc392945c028ae6d1f10441de64b8c0d11f7085f._SX342_SY600_.jpg"
-    },
-    {
-      "name": "Knives Out",
-      "letterboxdUrl": "https://letterboxd.com/film/knives-out-2019/",
-      "listPosition": 0,
-      "year": "2019",
-      "originalTitle": "Knives Out",
-      "rating": 4.1,
-      "streamProviders": [
-        "Netflix"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a229f46795d7053d0eaa84307d33cd082a8db9dcf96f8ae7610b0d01419352b1._SX342_SY600_.jpg"
     }
   ],
   "streamProviders": [
@@ -125,7 +162,7 @@
       "enabled": false
     },
     {
-      "name": "Netflix",
+      "name": "Prime Video Channels Home of Horror",
       "enabled": false
     },
     {

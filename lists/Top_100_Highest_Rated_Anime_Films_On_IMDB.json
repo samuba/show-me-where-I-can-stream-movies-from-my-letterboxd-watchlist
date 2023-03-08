@@ -263,8 +263,7 @@
       "year": "2008",
       "originalTitle": "劇場版「空の境界」第五章 矛盾螺旋",
       "rating": 4,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
+      "streamProviders": []
     },
     {
       "name": "Ghost in the Shell 2.0",
@@ -274,7 +273,7 @@
       "originalTitle": "GHOST IN THE SHELL／攻殻機動隊2.0",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/151538121/s166/Ghost-in-the-Shell-2-0"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15661816_v_v8_ab.jpg&out=jpeg"
     },
     {
       "name": "Evangelion: 2.0 You Can (Not) Advance",
@@ -286,7 +285,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/301722772/s166/Evangelion-2-0-You-Can-Not-Advance"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4bf51b47b4730ec7399bee80e791f01ece4f441eb5828927012739269a32006e._SX342_SY600_.jpg"
     },
     {
       "name": "Whisper of the Heart",
@@ -449,9 +448,10 @@
       "originalTitle": "君の膵臓をたべたい",
       "rating": 3.8,
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/303435594/s166/I-Want-to-Eat-Your-Pancreas"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9cd92925a76795c0db5191b10148f0860eb51ca2587ac4351d7b25593eb258b6._SX342_SY600_.jpg"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -461,7 +461,7 @@
       "originalTitle": "傷物語〈Ⅱ熱血篇〉",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/106807724/s166/Kizumonogatari-II-Heisses-Blut"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vdMx2VqjZE7IkbirNPTIj526MBi.jpg"
     },
     {
       "name": "In This Corner of the World",
@@ -661,7 +661,7 @@
       "originalTitle": "ベルセルク 黄金時代篇I 覇王の卵",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/180095158/s166/Berserk-Das-goldene-Zeitalter-I"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/5/p9526348_v_v8_aa.jpg&out=jpeg"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
@@ -736,7 +736,7 @@
       "originalTitle": "楽しいムーミン一家 ムーミン谷の彗星",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/89723849/s166/Die-Mumins-Der-Komet-im-Muminland"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
     },
     {
       "name": "Vampire Hunter D: Bloodlust",
@@ -747,9 +747,9 @@
       "rating": 3.9,
       "streamProviders": [
         "Amazon Prime Video",
-        "Joyn"
+        "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/215305381/s166/Vampire-Hunter-D-Bloodlust"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b0416851a4142a39117438f156b55fc82f00e29e4308a468f41ca197e0f37e6._SX342_SY600_.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -802,7 +802,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f93e3620b31b11420ee7544913e1bf0767e2a654f6e62c286960ce38f88e172._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/30d86752872d55625ca73d847dea834320ebb5ce86eb5a33a8640bea76e7d405._SX342_SY600_.jpg"
     },
     {
       "name": "Kizumonogatari Part 1: Tekketsu",
@@ -812,7 +812,7 @@
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/99164694/s166/Kizumonogatari-I-Blut-und-Eisen"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
     },
     {
       "name": "The Garden of Words",
@@ -864,7 +864,7 @@
       "originalTitle": "鉄コン筋クリート",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/112412104/s166/Tekkonkinkreet"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
     },
     {
       "name": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass",
@@ -894,7 +894,7 @@
       "originalTitle": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/428619/s166/Rurouni-Kenshin-The-Movie"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
     },
     {
       "name": "Dragon Ball Z: Wrath of the Dragon",
@@ -1018,10 +1018,8 @@
       "year": "2010",
       "originalTitle": "銀魂 新訳紅桜篇",
       "rating": 3.8,
-      "streamProviders": [
-        "Prime Video Channels aniverse"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f037071f849566dfe74000b61b6e240a32be95f39cc4861179369a5a01515553._SX342_SY600_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/150679095/s166/Gintama-Benizakura-Arc-A-New-Retelling"
     },
     {
       "name": "Redline",
@@ -1070,15 +1068,15 @@
       "enabled": false
     },
     {
-      "name": "Joyn",
-      "enabled": false
-    },
-    {
       "name": "Netflix",
       "enabled": false
     },
     {
       "name": "Prime Video Channels Arthouse CNMA",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Netzkino Select",
       "enabled": false
     },
     {
