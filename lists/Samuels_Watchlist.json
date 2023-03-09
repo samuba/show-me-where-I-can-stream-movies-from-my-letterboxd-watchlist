@@ -4,6 +4,16 @@
   "description": "",
   "entries": [
     {
+      "name": "Party Girl",
+      "letterboxdUrl": "https://letterboxd.com/film/party-girl-1995/",
+      "listPosition": 0,
+      "year": "1995",
+      "originalTitle": "Party Girl",
+      "rating": 3.5,
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
+    },
+    {
       "name": "Wheel of Fortune and Fantasy",
       "letterboxdUrl": "https://letterboxd.com/film/wheel-of-fortune-and-fantasy/",
       "listPosition": 0,
@@ -409,7 +419,7 @@
       "streamProviders": [
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85fc0d0a358f6ba9d0025d962314994d9490d5f51d30a4e977c01353ab9ef694._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a40746fb45384b83c3f5506e09352e40a2ebadcfcafcc59d1a93ce07e8647a5c._SX342_SY600_.jpg"
     },
     {
       "name": "Nightmare Alley",
@@ -421,7 +431,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d010c4975a2a47c0b02c4b3cd1171eddc7791b5ead0df43cf0b6b16a909038ad._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dfe1fd3f1723835cf1b180d9e226d2ef24fc46fb5e360126254c5cce84425271._SX342_SY600_.jpg"
     },
     {
       "name": "The Tragedy of Macbeth",
@@ -1180,7 +1190,7 @@
       "originalTitle": "天国と地獄",
       "rating": 4.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/cy8N6z9dU9ezamrleoAnRMmmQuy.jpg"
     },
     {
       "name": "A Brighter Summer Day",
@@ -1608,7 +1618,7 @@
       "originalTitle": "Prospect",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79062ff0cf2d16be5c1dd2303ceb59a95590caa0b26f592ea4443612a07299c3._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/268a50363cca910fef801de0cffc6f34e0269506fa6d236dfc20544834be2892._SX342_SY600_.jpg"
     },
     {
       "name": "Solaris",
@@ -1714,7 +1724,7 @@
         "Netflix",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0b9472966f95f04e3a4f232b9f369f3ad68256c24a68912030423c6433ff8253._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7d8fe44a27dd3f2bd771f10f5434fd5b43e53b16c770ea0a92f4f9bfa6b4584a._SX342_SY600_.jpg"
     },
     {
       "name": "Apollo 11",
@@ -1813,7 +1823,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/16266adfc734a02b27049996a05f98233d5e2029c19d55da2aaa9a64c57f5d13._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/221072767f928236bc3e060624127bdc81ad73dbb3e5b4bf67409d49b277777f._SX342_SY600_.jpg"
     },
     {
       "name": "Force Majeure",
@@ -1902,7 +1912,7 @@
         "alleskino",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3e092a7308b47001da69bc52cd2cfeac92209fab57184371bcc32d79f69680d7._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2f21e1d3ee60ad6c4a5806104cc16f9cdd5e4b4de371d2d7a157f1ab1f43463c._SX342_SY600_.jpg"
     },
     {
       "name": "Dirty Harry",
@@ -2467,7 +2477,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d0817e63c48a202e4431261897b0f624d59d0ff29de53ab5be605bf85c76b18._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/37feaeb7acff04977d4eeb64e1e6e24025d3a1d5900f2b1ba5cc41bc8c798123._SX342_SY600_.jpg"
     },
     {
       "name": "Trespass Against Us",
@@ -2756,7 +2766,7 @@
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/552358fe23260046e2bab2db0d0244d894344ab4a8670182274062900b0a5728._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b8eaaffecfd4115c8636d2cc12d50ea82341a7a2a36b8c213b05905777cef67e._SX342_SY600_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -3300,7 +3310,7 @@
         "Prime Video Channels Arthouse CNMA",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ed10eb4cd45c3a81ba46f9c80ddb59031bf7492980a8831d92db7ba33229d4ad._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4f533b982d7d00b1d39662f9c96826488dc537e5a667fd69f2337685f30761c4._SX342_SY600_.jpg"
     },
     {
       "name": "A Pigeon Sat on a Branch Reflecting on Existence",
@@ -3454,7 +3464,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_SY600_.jpg"
     },
     {
       "name": "The Salvation",
@@ -3967,7 +3977,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/faadba0ff02f6e5b73f92be42f425be6d001b109c24b74437137a34790ff6d98._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/31d664fe006075b56137c6af0b8ed56ae3947024e6c2acbaec567fff021d34be._SX342_SY600_.jpg"
     },
     {
       "name": "Wayne's World",

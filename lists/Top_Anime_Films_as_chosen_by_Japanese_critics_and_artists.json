@@ -150,7 +150,7 @@
       "originalTitle": "千夜一夜物語",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/49604801/s166/A-Thousand-and-One-Nights-1969"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
     },
     {
       "name": "Flying Phantom Ship",
@@ -159,8 +159,7 @@
       "year": "1969",
       "originalTitle": "空飛ぶゆうれい船",
       "rating": 3.3,
-      "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/138411319/s166/Flying-Phantom-Ship"
+      "streamProviders": []
     },
     {
       "name": "Cleopatra: Queen of Sex",
@@ -395,7 +394,7 @@
       "originalTitle": "ゴルゴ13",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vSNpoF1AmbFBeuAeTBd2dcp3tiQ.jpg"
     },
     {
       "name": "Urusei Yatsura: Beautiful Dreamer",
@@ -606,7 +605,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/5Ua30TwqJy8RPsk4q9tspl1HEfE.jpg"
     },
     {
       "name": "Patlabor 2: The Movie",
@@ -945,7 +944,7 @@
       "originalTitle": "劇場版 鋼の錬金術師 シャンバラを征く者",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/8l4lqbcKe3goZm0OetstBpywYYd.jpg"
     },
     {
       "name": "The Girl Who Leapt Through Time",
@@ -1019,7 +1018,7 @@
       "originalTitle": "サマーウォーズ",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
+      "imageUrl": "https://www.justwatch.com/images/poster/192735803/s166/Summer-Wars"
     },
     {
       "name": "Colorful",
@@ -1086,9 +1085,9 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
     }
   ],
   "streamProviders": [
@@ -1098,6 +1097,10 @@
     },
     {
       "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {
