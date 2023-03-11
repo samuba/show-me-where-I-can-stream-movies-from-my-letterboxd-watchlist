@@ -19,7 +19,8 @@
       "year": "1958",
       "originalTitle": "白蛇伝",
       "rating": 3.1,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
     },
     {
       "name": "The Sparrow in the Pumpkin",
@@ -38,7 +39,7 @@
       "originalTitle": "少年猿飛佐助",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/239007265/s166/Der-Zauberer-und-die-Banditen"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
     },
     {
       "name": "Alakazam the Great!",
@@ -48,7 +49,7 @@
       "originalTitle": "西遊記",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/303991715/s166/Alakazam-Koenig-der-Tiere"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/mRNsfxDGS0AblBOl6a1Nq7SqHeu.jpg"
     },
     {
       "name": "The Orphan Brother",
@@ -177,7 +178,7 @@
       "originalTitle": "どうぶつ宝島",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/85670795/s166/Die-Schatzinsel-1971"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/1klkcqvcZ1dn073ID4DbRSb3hTR.jpg"
     },
     {
       "name": "Belladonna of Sadness",
@@ -234,7 +235,7 @@
       "originalTitle": "龍の子太郎",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/99774585/s166/Taro-Der-Drachenjunge"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
     },
     {
       "name": "Galaxy Express 999: The Movie",
@@ -583,7 +584,7 @@
       "originalTitle": "老人Z",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/302013563/s166/Dragonball-Z-4-Super-Saiyajin-Son-Goku"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
     },
     {
       "name": "The Heroic Legend of Arslan",
@@ -640,10 +641,9 @@
       "originalTitle": "平成狸合戦ぽんぽこ",
       "rating": 3.6,
       "streamProviders": [
-        "Netflix",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/80232354/s166/Pom-Poko"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
     },
     {
       "name": "Whisper of the Heart",
@@ -1105,10 +1105,6 @@
     },
     {
       "name": "Netflix",
-      "enabled": false
-    },
-    {
-      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {
