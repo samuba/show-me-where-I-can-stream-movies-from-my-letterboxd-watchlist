@@ -178,7 +178,7 @@
       "originalTitle": "どうぶつ宝島",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/1klkcqvcZ1dn073ID4DbRSb3hTR.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/85670795/s166/Die-Schatzinsel-1971"
     },
     {
       "name": "Belladonna of Sadness",
@@ -233,7 +233,7 @@
       "listPosition": 0,
       "year": "1979",
       "originalTitle": "龍の子太郎",
-      "rating": 3.5,
+      "rating": 3.4,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
     },
@@ -615,7 +615,7 @@
       "originalTitle": "機動警察パトレイバー 2 the Movie",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/5LNUJJaKAaM1Jk3FyphZyTbZyDO.jpg"
     },
     {
       "name": "Tokyo Babylon",
@@ -1053,7 +1053,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678098077"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/h9Sfm5BFN4XZswXbtWUzcS8mqeE.jpg"
     },
     {
       "name": "Expelled from Paradise",
@@ -1085,9 +1085,9 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
     }
   ],
   "streamProviders": [
@@ -1097,6 +1097,10 @@
     },
     {
       "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {
