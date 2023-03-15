@@ -150,7 +150,7 @@
       "originalTitle": "千夜一夜物語",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/49604801/s166/A-Thousand-and-One-Nights-1969"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678697895"
     },
     {
       "name": "Flying Phantom Ship",
@@ -443,10 +443,8 @@
       "year": "1985",
       "originalTitle": "銀河鉄道の夜",
       "rating": 3.8,
-      "streamProviders": [
-        "CONtv"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/257937797/s166/Night-On-The-Galactic-Railroad"
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/mk7dpiFAgI3fyloMCbdaDDQBDjO.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -689,7 +687,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678697895"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/c7VvQlMtAAufRQ0XPvBYNwq7JdV.jpg"
     },
     {
       "name": "Crayon Shin-chan: Pursuit of the Balls of Darkness",
@@ -722,7 +720,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678697895"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/c7VvQlMtAAufRQ0XPvBYNwq7JdV.jpg"
     },
     {
       "name": "Perfect Blue",
@@ -956,7 +954,7 @@
       "originalTitle": "時をかける少女",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678697895"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jLdOepQ3pueuZd4BdfYM4S2tYO7.jpg"
     },
     {
       "name": "Paprika",
@@ -1020,7 +1018,7 @@
       "originalTitle": "サマーウォーズ",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678697895"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gmwGwtmZoVqzAnqbHP8MAJhYmMe.jpg"
     },
     {
       "name": "Colorful",
@@ -1099,10 +1097,6 @@
     },
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "CONtv",
       "enabled": false
     },
     {
