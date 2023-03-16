@@ -837,7 +837,7 @@
         "Prime Video Channels superfresh",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/07ea573ba3553d3d1db5fd8ccdf1888a24782be01005bdd01d532c863e4bd80c._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ecf4e5463094f2e088634b39ae9e3fb855feb5bb3ec63d5842334d96305f8ec._SX342_SY600_.jpg"
     },
     {
       "name": "Love Camp 7",
@@ -948,7 +948,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d91cf9380f0f5fc15ce1a7a7d7d8d8884dbb4f09512eacf1dddd019682ca3137._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/86d14932b02597e3de6b7eaf5d00d3e28cfc5fe9fa5c550239e4372584723f23._SX342_SY600_.jpg"
     },
     {
       "name": "Color Me Blood Red",
@@ -1252,10 +1252,9 @@
       "originalTitle": "Re-Animator",
       "rating": 3.8,
       "streamProviders": [
-        "Prime Video Channels Bloody Movies",
-        "Prime Video Channels Full Action"
+        "Prime Video Channels Bloody Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d632fa9ae08693f557e2ead2be49fe08671d8c8425d7fe506ea2a16909c23192._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b94fd022ddc33b531cfb886c2dd61bbc414506247772ffea90649e17a0ebc59._SX342_SY600_.jpg"
     },
     {
       "name": "From Beyond",
@@ -1385,7 +1384,7 @@
       "listPosition": 137,
       "year": "2016",
       "originalTitle": "Gods of Egypt",
-      "rating": 2,
+      "rating": 1.9,
       "streamProviders": [
         "Sky WOW",
         "Sky Go\nSky",
@@ -1538,10 +1537,9 @@
       "originalTitle": "The Greasy Strangler",
       "rating": 3.1,
       "streamProviders": [
-        "Prime Video Channels Bloody Movies",
-        "Prime Video Channels Silverline"
+        "Prime Video Channels Bloody Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69708240b16a976ec3ea9bf1daa6ed2bc65062f50f562a4b88cdfbf38119721d._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c42f3681e8d4f41b0a7e993e3e2d35d1a1296d27eef830b13b80961e74b47c01._SX342_SY600_.jpg"
     },
     {
       "name": "Samurai Cop",
@@ -1905,7 +1903,7 @@
         "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a9a9b51975d6a6845ea854c432894d54704865f9df9aa97f539b9a17ff1a3fd0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/21d215ce31cb0c7968ef36be9a02a8cdd1adb67f469584835dd3d66413fe90cb._SX342_SY600_.jpg"
     },
     {
       "name": "The Naked Kiss",
@@ -2221,7 +2219,7 @@
       "rating": 3.9,
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\nSky"
+        "Sky Go\n Sky"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb4dab0166b5bf81bda6d17d14abfe5236fcb7cb5315fb7000b4d8c86520b838._SX342_SY600_.jpg"
     },
@@ -2287,7 +2285,7 @@
       "originalTitle": "Cat People",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678697895"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/zSNTDd5Q6No5BmY39Zp5BVgl8XE.jpg"
     },
     {
       "name": "Butterfly",
@@ -2436,6 +2434,10 @@
     },
     {
       "name": "Prime Video Channels superfresh",
+      "enabled": false
+    },
+    {
+      "name": "Sky Go\n Sky",
       "enabled": false
     },
     {

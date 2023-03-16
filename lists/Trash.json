@@ -89,7 +89,7 @@
       "listPosition": 9,
       "year": "1972",
       "originalTitle": "The Thing with Two Heads",
-      "rating": 2.6,
+      "rating": 2.5,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678697895"
     },
@@ -189,7 +189,7 @@
       "listPosition": 19,
       "year": "1993",
       "originalTitle": "GetEven",
-      "rating": 3,
+      "rating": 2.9,
       "streamProviders": []
     },
     {
@@ -202,7 +202,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e19f87fa3b7d2251e04fa2899d9518c3bfcae5149508fb023c8e0d925ea65d8e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6d8657d7beea495d6d12af408e8a8b3cc9922c2ffc63ca3e34c2e892d3e1535._SX342_SY600_.jpg"
     },
     {
       "name": "Hack-O-Lantern",
@@ -1382,7 +1382,7 @@
       "streamProviders": [
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c7d488e7e5e90376f5553b7e042e8383a99eb144abdeb7a88529d8681e66a569._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c076671d84e03d762dc1ded2e272a519d2efffb8fc25e1cf5bf81e1bbf7e3439._SX342_SY600_.jpg"
     },
     {
       "name": "Bad Black",
@@ -2920,7 +2920,7 @@
       "listPosition": 296,
       "year": "1989",
       "originalTitle": "Alien Private Eye",
-      "rating": 2.7,
+      "rating": 2.8,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678697895"
     },
@@ -3163,10 +3163,9 @@
       "originalTitle": "L'ultimo squalo",
       "rating": 2.3,
       "streamProviders": [
-        "Prime Video Channels FRANATIC – dein Film-Channel",
-        "Prime Video Channels Netzkino Select"
+        "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/692bd6d224e0f9366f6b8e1610016d274bdbad7dcfcf592711c2883fd4add063._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/366773b063ad86505865aeedcafe8df06421e2a538260a0bf8b64dd0ffa3e379._SX342_SY600_.jpg"
     },
     {
       "name": "2019: After the Fall of New York",
@@ -3761,7 +3760,7 @@
       "listPosition": 379,
       "year": "2016",
       "originalTitle": "I Know Where Lizzie Is",
-      "rating": 2.5,
+      "rating": 2.6,
       "streamProviders": []
     },
     {
@@ -3790,7 +3789,7 @@
       "listPosition": 382,
       "year": "1994",
       "originalTitle": "The Paperboy",
-      "rating": 2.7,
+      "rating": 2.8,
       "streamProviders": []
     },
     {
@@ -4028,7 +4027,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/146b040f2d24a930d021a24fc6615196931d0871898320842c8bc9281173e293._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/148c971ef33c95ac0cb548c5167c00bd7787b6f7706dad3378226f6a3e83e2c5._SX342_SY600_.jpg"
     },
     {
       "name": ".com for Murder",
@@ -4421,10 +4420,7 @@
       "originalTitle": "Johnny Handsome",
       "rating": 3,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels FILMLEGENDEN"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a1ee680ca95340bb815796ecb1c1b097c475541da5853aff4ecf54a27366ba51._SX342_SY600_.jpg"
     },
@@ -4588,10 +4584,6 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Kabel Eins CLASSICS",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels LIONSGATE+",
       "enabled": false
     },
@@ -4605,10 +4597,6 @@
     },
     {
       "name": "Prime Video Channels Netzkino Select",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Seven Entertainment",
       "enabled": false
     },
     {
