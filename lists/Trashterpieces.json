@@ -1015,8 +1015,7 @@
       "originalTitle": "Salon Kitty",
       "rating": 3,
       "streamProviders": [
-        "Netzkino",
-        "Mubi"
+        "Netzkino"
       ],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678978833"
     },
@@ -1721,7 +1720,7 @@
         "Prime Video Channels FRANATIC – dein Film-Channel",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc8d2212f8baf79424c814e0356bf5fd6ffc49991acdaac39190aec83e7630e5._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e75afd0b7446394bb49bc4b3fb64825b485236577321b0b737e352f72a31c85f._SX342_SY600_.jpg"
     },
     {
       "name": "Bio-Cop",
@@ -1864,7 +1863,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4ff748e85ab8f730068800d83e597da43985608e8dda7bdcb18a7b53f2d265ee._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5735438a7f217751de4b4fb508110b7279da4af2d71f191abe5890c39b7e4fd6._SX342_SY600_.jpg"
     },
     {
       "name": "Just Before Dawn",
@@ -2220,7 +2219,7 @@
       "rating": 3.9,
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\nSky"
+        "Sky Go\n Sky"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb4dab0166b5bf81bda6d17d14abfe5236fcb7cb5315fb7000b4d8c86520b838._SX342_SY600_.jpg"
     },
@@ -2435,6 +2434,10 @@
     },
     {
       "name": "Prime Video Channels superfresh",
+      "enabled": false
+    },
+    {
+      "name": "Sky Go\n Sky",
       "enabled": false
     },
     {
