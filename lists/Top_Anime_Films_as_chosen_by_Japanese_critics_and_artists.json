@@ -207,7 +207,7 @@
       "originalTitle": "さらば宇宙戦艦ヤマト 愛の戦士たち",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678978833"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/psw1ryE9AYZWckWnzOtkLZVvxMl.jpg"
     },
     {
       "name": "Lupin the Third: The Mystery of Mamo",
@@ -655,7 +655,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678978833"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/s9VTQCVVtxVHAkIhFcNiOdmnDdC.jpg"
     },
     {
       "name": "Ghost in the Shell",
@@ -1085,9 +1085,9 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
     }
   ],
   "streamProviders": [
@@ -1097,6 +1097,10 @@
     },
     {
       "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {
