@@ -70,7 +70,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c71b331fdeb96f3acfd30d42d9d55b62c4141a3f6c2ef412dfc5e893c906392f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_SY600_.jpg"
     },
     {
       "name": "Magnetic Rose",
@@ -407,7 +407,7 @@
       "originalTitle": "獣兵衛忍風帖",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_SY600_.jpg"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -471,9 +471,9 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_SY600_.jpg"
     },
     {
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
@@ -554,7 +554,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/176216671/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gKFGQBKI1TnZ6foqoFgQruM86Mq.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -607,7 +607,7 @@
         "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/683f71eb7e7f2ff110422d3b20749a43e936a03950566f9d41970e72f480d842._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53b9a2433844f3bd89ce56e6dfe32b9bbf1820dddd434fc7eb4bc6ee7bd2d87b._SX342_SY600_.jpg"
     },
     {
       "name": "When Marnie Was There",
@@ -670,8 +670,7 @@
       "year": "2012",
       "originalTitle": "劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678978833"
+      "streamProviders": []
     },
     {
       "name": "One Piece: Strong World",
@@ -790,7 +789,7 @@
       "originalTitle": "夜は短し歩けよ乙女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
     },
     {
       "name": "No Game No Life: Zero",
@@ -811,8 +810,7 @@
       "year": "2016",
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Garden of Words",
@@ -844,7 +842,7 @@
       "originalTitle": "名探偵コナン 天国へのカウントダウン",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41e1830217a1f66ba59acb5a24b2ca1513e17a1b3988a16741f0a55fb291e8f0._SX342_SY600_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/133165090/s166/Detektiv-Conan-Countdown-zum-Himmel"
     },
     {
       "name": "Detective Conan: Captured in Her Eyes",
@@ -874,7 +872,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/176220981/s166/Inuyasha-Movie-2-Das-Traumschloss-im-Inneren-der-Spiegel"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ba6Zr3loE8ssKQ6H9KK7CY5XKJA.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -1018,8 +1016,10 @@
       "year": "2010",
       "originalTitle": "銀魂 新訳紅桜篇",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/150679095/s166/Gintama-Benizakura-Arc-A-New-Retelling"
+      "streamProviders": [
+        "Prime Video Channels aniverse"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f037071f849566dfe74000b61b6e240a32be95f39cc4861179369a5a01515553._SX342_SY600_.jpg"
     },
     {
       "name": "Redline",
@@ -1065,10 +1065,6 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {
