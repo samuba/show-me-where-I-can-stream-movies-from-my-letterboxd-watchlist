@@ -80,7 +80,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_SY600_.jpg"
     },
     {
       "name": "12 Angry Men",
@@ -143,7 +143,7 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c0c15201e3be4af33da29c1aa310f1063d4b31ac166d2d49c68ff4dbf69a1c8f._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f28e41f3eb047a457683d42effb400592eabc2ce56d4c00f35ca1bb0259dc799._SX342_SY600_.jpg"
     },
     {
       "name": "Planet Terror",
@@ -169,7 +169,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_SY600_.jpg"
     },
     {
       "name": "Machete",
@@ -181,7 +181,7 @@
       "streamProviders": [
         "Joyn"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d992aa8b7097ea49908aacbfc6ebed3a92fb233f64b0317a4bbf2e57221b698._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cefb657202f76fce347064d5dfb99a14a7d24da11d32d76b77f8edfe72e0d916._SX342_SY600_.jpg"
     },
     {
       "name": "Desperado",
@@ -245,7 +245,7 @@
       "streamProviders": [
         "Prime Video Channels SONY AXN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2c17fa7a3f24cd8adfdb1faf85a3acb70056fc27102631d610799adc561b135._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/33795e2b3cf8e8df06efafa2b4c2efcfda805b599fe1a65ef5495d64ef6c66fc._SX342_SY600_.jpg"
     },
     {
       "name": "The Fountain",
@@ -340,7 +340,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/af9dd79fdbebfabbb7618b3c51acbfbef5e09d151793d80a8e81074c9ef80433._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/00f64f0f0c0174dd429d1ae9e557d6be2b37902a0721331d903db4ca3bd26fdf._SX342_SY600_.jpg"
     },
     {
       "name": "V for Vendetta",
@@ -381,7 +381,7 @@
       "listPosition": 0,
       "year": "2006",
       "originalTitle": "Cashback",
-      "rating": 3.2,
+      "rating": 3.1,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/wYTnnai8eoxcjaUb95NezauZqG6.jpg"
     },
@@ -526,7 +526,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cff42f907a3cf87b8c38ecaecdb8f527e293baca1cbb6aa77f7b2e8ac72ec44._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/80ab6ea26c4043cb8486196f8ad94717ee6d7c88a251a1db83b428a9ca6e1a5e._SX342_SY600_.jpg"
     },
     {
       "name": "Super",
@@ -556,14 +556,10 @@
       "name": "The Cabin in the Woods",
       "letterboxdUrl": "https://letterboxd.com/film/the-cabin-in-the-woods/",
       "listPosition": 0,
-      "year": "2011",
+      "year": "2012",
       "originalTitle": "The Cabin in the Woods",
       "rating": 3.5,
-      "streamProviders": [
-        "Prime Video Channels LIONSGATE+",
-        "LIONSGATE+"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/31c2e3ec32344c2fc99377cdc3c26de1a56533f52e95aa4d6cb288db27da8a49._SX342_SY600_.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Social Network",
@@ -643,11 +639,14 @@
       "originalTitle": "Carnage",
       "rating": 3.6,
       "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/be11c91c2dea6244fae229216053363471932148b99458c4633f04bf5de1e552._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bfea3bfc97841bb8a1eabcaeae1abba23cebf281289f3dc425967f616aada11c._SX342_SY600_.jpg"
     },
     {
       "name": "Fear and Loathing in Las Vegas",
@@ -764,7 +763,7 @@
       "originalTitle": "Der Eisbär",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678978833"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1679331978"
     },
     {
       "name": "Lock, Stock and Two Smoking Barrels",
@@ -816,7 +815,7 @@
         "Prime Video Channels Sat.1 emotions",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c9b02a0d6716f7e448f87f053fa52a6b6dc43aeaf10b5c4585339623c7029c5a.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cef33702ca7b1a26ed160bd3e5362a307189f43bee1406b241fcaedff81e2227._SX342_SY600_.jpg"
     },
     {
       "name": "The Revenant",
@@ -850,7 +849,7 @@
       "originalTitle": "김씨 표류기",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678978833"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1679331978"
     },
     {
       "name": "Adam's Apples",
@@ -993,7 +992,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cfe416b80ab990e16aa83e563f0a8397ff2f21dff0b983f7f2ff7d3638a669e2._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74e6f96793e6f14233a586e8bfd79f0f50d6d15f9dfca023f1c91c6a07f9176c._SX342_SY600_.jpg"
     },
     {
       "name": "Arrival",
@@ -1006,7 +1005,7 @@
         "Prime Video Channels LIONSGATE+",
         "LIONSGATE+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c73af7c3d6404fc543143f2451563785c7ea43e178e355335058178cd2304c9._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/580a2b756e8dadec0d60b0e1a5fa0bf8756bb88269a5a6d66253cf1123f6a12a._SX342_SY600_.jpg"
     },
     {
       "name": "Frank",
@@ -1051,7 +1050,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5746e6011ced1358d78785ae843c1c8903808a2e76188d00fe28925dbaab0e6e._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_SY600_.jpg"
     },
     {
       "name": "The Imposter",
@@ -1173,7 +1172,7 @@
       "originalTitle": "Jagal",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678978833"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1679331978"
     },
     {
       "name": "Get Out",
@@ -1227,7 +1226,7 @@
       "listPosition": 0,
       "year": "2017",
       "originalTitle": "Loving Vincent",
-      "rating": 3.9,
+      "rating": 4,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bc4f133b6207eee28d42508cb10aa643a5ba580562915512892257226ac911ec._SX342_SY600_.jpg"
     },
@@ -1298,7 +1297,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b0ab93bb52cec0dce4b0db10e3a0bfbec5d549bd872904d869cb1f3095624de4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/822488f8c80ecdceb69fab51bab887ddd21124e1870ec1cac15f96fec049122d._SX342_SY600_.jpg"
     },
     {
       "name": "Spider-Man: Into the Spider-Verse",
@@ -1354,7 +1353,7 @@
       "originalTitle": "99 francs",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1678978833"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1679331978"
     },
     {
       "name": "Idiocracy",
@@ -1490,7 +1489,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79deda28476122774c601a0e4eeb42456a2867e062a55bd436dda45253e1c3c0._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eac5f5d5e790bf621c92617ca51cf6387c4b497d06d06f4b1a433e34fa52be53._SX342_SY600_.jpg"
     },
     {
       "name": "The Green Mile",
@@ -1523,7 +1522,7 @@
       "originalTitle": "Watchmen",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/611330cf4f7fb1286f3fdeb4a943bc5f6b07df5186cc09cdb3341aceecfc83c4._SX342_SY600_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0fe8b89b042914777edeacd50d6663619abb89a45038a9a7bfa60f9897992756._SX342_SY600_.jpg"
     },
     {
       "name": "Romeo + Juliet",
