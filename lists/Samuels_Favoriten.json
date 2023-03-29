@@ -102,7 +102,7 @@
         "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/75ba3b5812c12346b08aab0ba340d8f7d138a4846eed80303e3c0cdf083c2b53._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15fb6fa9ab4bed71f0f92218d56bec4c9f1e026a57500a5b392486c5409abd2d._SX342_.jpg"
     },
     {
       "name": "Reservoir Dogs",
@@ -135,11 +135,12 @@
       "originalTitle": "Sin City",
       "rating": 3.6,
       "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky",
-        "Prime Video Channels ARTHAUS+"
+        "WOW",
+        "Sky Go",
+        "MagentaTV",
+        "Amazon Arthaus Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e0ab9735404ea4748c18ccf7d22267ebcb95ca00e1d315ee08480d3cce053a5f._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8680651/s166/Sin-City"
     },
     {
       "name": "Planet Terror",
@@ -177,7 +178,7 @@
       "streamProviders": [
         "Joyn"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cefb657202f76fce347064d5dfb99a14a7d24da11d32d76b77f8edfe72e0d916._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d992aa8b7097ea49908aacbfc6ebed3a92fb233f64b0317a4bbf2e57221b698._SX342_.jpg"
     },
     {
       "name": "Desperado",
@@ -199,7 +200,7 @@
       "originalTitle": "The Prestige",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9bdb7a12d16889d935f1542462b0c4398f729cb66496e55d136fbac77a82a556._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5c1a089bbbd98a45bb2c1260b461c42466992ae544c77f4cbd05403d30424079._SX342_.jpg"
     },
     {
       "name": "Scott Pilgrim vs. the World",
@@ -218,8 +219,7 @@
       "year": "2010",
       "originalTitle": "Rubber",
       "rating": 2.8,
-      "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2011/06/image/jpeg/4ff73702940962550f9aec2bfbe71721.jpg"
+      "streamProviders": []
     },
     {
       "name": "Waking Life",
@@ -241,7 +241,7 @@
       "streamProviders": [
         "Prime Video Channels SONY AXN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2c17fa7a3f24cd8adfdb1faf85a3acb70056fc27102631d610799adc561b135._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/33795e2b3cf8e8df06efafa2b4c2efcfda805b599fe1a65ef5495d64ef6c66fc._SX342_.jpg"
     },
     {
       "name": "The Fountain",
@@ -345,8 +345,7 @@
       "year": "2005",
       "originalTitle": "V for Vendetta",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/464a57f23264e416724c483b14b0dc0d90bdb75986cacd4fd1dd1c941ff6b56b._SX342_.jpg"
+      "streamProviders": []
     },
     {
       "name": "City of God",
@@ -461,7 +460,7 @@
       "originalTitle": "Gravity",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/201a2125ad1ca36df8fca139f7de44856d192f25a2a6552f41ad16ba45907a77._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ae2d98af4072be5a0506ad2322b760b31bfc81b4f0dedd6721d42b84a316230._SX342_.jpg"
     },
     {
       "name": "Moon",
@@ -475,7 +474,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d407f5ac188f923edf803a552c4bd3d906d2e5375e423f3f09990699d35bf6d7._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb59b3d0729b05d8b7b33bfc6ed35884b6ee2b3fa4be5480e8b150f33e994371._SX342_.jpg"
     },
     {
       "name": "Edge of Tomorrow",
@@ -499,7 +498,7 @@
       "originalTitle": "Argo",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6c154de7aa6ffc8397947699b774f07999d4d835c702e04e5d532f219fd93821._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6dc51fe6e39d1b040c172942360baeeba6c586dbd1ebd0a85dd25b7e054cf318._SX342_.jpg"
     },
     {
       "name": "Life of Pi",
@@ -553,10 +552,14 @@
       "name": "The Cabin in the Woods",
       "letterboxdUrl": "https://letterboxd.com/film/the-cabin-in-the-woods/",
       "listPosition": 0,
-      "year": "2012",
+      "year": "2011",
       "originalTitle": "The Cabin in the Woods",
       "rating": 3.5,
-      "streamProviders": []
+      "streamProviders": [
+        "Prime Video Channels LIONSGATE+",
+        "LIONSGATE+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d66ac2fa4ddc5b779af402e5655e34b9a534c0c0ac45716696481c96e2cefccb._SX342_.jpg"
     },
     {
       "name": "The Social Network",
@@ -568,7 +571,7 @@
       "streamProviders": [
         "Prime Video Channels SONY AXN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41e542b3a533a8c51037faafcc6e01dea66a41e34f15167e94a1f433b62cc764._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/acbefffa8652961ea8670cb6e109c30a243e1f011dcef37b4b59b479b9e0a0db._SX342_.jpg"
     },
     {
       "name": "Kick-Ass",
@@ -643,7 +646,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/be11c91c2dea6244fae229216053363471932148b99458c4633f04bf5de1e552._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bfea3bfc97841bb8a1eabcaeae1abba23cebf281289f3dc425967f616aada11c._SX342_.jpg"
     },
     {
       "name": "Fear and Loathing in Las Vegas",
@@ -678,7 +681,7 @@
       "streamProviders": [
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/124256b2976a35e86fe2b93e1e0448bc7fad6c8a69ccaef150a1be0b88224fc5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ae7fd1a94e1899bcf22d9ec263f35150e39295013d2948f131ffdda7c74c5a19._SX342_.png"
     },
     {
       "name": "12 Years a Slave",
@@ -725,7 +728,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0b51daf8453921e379970781f26dd4b923c90684e600a69bbf43bae3aeb81670._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/89e75f1225c5d482c6017b06fbd4dd891d07368bb5ee5589434d1fe9ff19f8bc._SX342_.jpg"
     },
     {
       "name": "Falling Down",
@@ -758,7 +761,7 @@
       "originalTitle": "Der Eisbär",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1679912406"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
     },
     {
       "name": "Lock, Stock and Two Smoking Barrels",
@@ -795,7 +798,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0886688a68bb858e054617741f7e94c55a9e0ee04055d0f14a0f6273cbfeea8c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70958291b450f957dea3eaf26bd1e5d54f728e75542b85815eaa232959cc812a._SX342_.jpg"
     },
     {
       "name": "The Big Short",
@@ -810,7 +813,7 @@
         "Prime Video Channels Sat.1 emotions",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cef33702ca7b1a26ed160bd3e5362a307189f43bee1406b241fcaedff81e2227._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c9b02a0d6716f7e448f87f053fa52a6b6dc43aeaf10b5c4585339623c7029c5a._SX342_.png"
     },
     {
       "name": "The Revenant",
@@ -844,7 +847,7 @@
       "originalTitle": "김씨 표류기",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1679912406"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
     },
     {
       "name": "Adam's Apples",
@@ -905,7 +908,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/188051079/s166/Yojimbo-Der-Leibwaechter"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2019/02/image/jpeg/da42dd2acd1b973abfa5744e294e8568.jpg"
     },
     {
       "name": "The Salt of the Earth",
@@ -923,7 +926,7 @@
         "MagentaTV",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b35b7284adc580067831005f2916f42a0f366d076422738ef0a3058070c6e190._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3cead3133f939245cf7de042676916b47f4bf64ea6e8e8c183c21ad116a7af8c._SX342_.jpg"
     },
     {
       "name": "2001: A Space Odyssey",
@@ -987,7 +990,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74e6f96793e6f14233a586e8bfd79f0f50d6d15f9dfca023f1c91c6a07f9176c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cfe416b80ab990e16aa83e563f0a8397ff2f21dff0b983f7f2ff7d3638a669e2._SX342_.jpg"
     },
     {
       "name": "Arrival",
@@ -1070,7 +1073,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9261cc999c9b007c9dd455871b69d161efc411bb890e6ceb1ce5fc472e663bed._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e84de7b14ed0f8912ffd05508d6c2ee0d40966b824692239a161362802a63736._SX342_.jpg"
     },
     {
       "name": "Psycho",
@@ -1158,7 +1161,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6442abf6b1ccce90023edad4dc60149fd0a7ec700bf52da058415d2110f257c2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/78a886481cd0d1b596f5d6e525409521f9e77936980a3ea0e2fb34568200f788._SX342_.jpg"
     },
     {
       "name": "The Act of Killing",
@@ -1276,7 +1279,7 @@
       "originalTitle": "Taxi Driver",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_.jpg"
     },
     {
       "name": "Oldboy",
@@ -1286,7 +1289,8 @@
       "originalTitle": "올드보이",
       "rating": 4.3,
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/822488f8c80ecdceb69fab51bab887ddd21124e1870ec1cac15f96fec049122d._SX342_.jpg"
     },
@@ -1480,7 +1484,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eac5f5d5e790bf621c92617ca51cf6387c4b497d06d06f4b1a433e34fa52be53._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79deda28476122774c601a0e4eeb42456a2867e062a55bd436dda45253e1c3c0._SX342_.jpg"
     },
     {
       "name": "The Green Mile",
@@ -1604,6 +1608,10 @@
       "enabled": false
     },
     {
+      "name": "Amazon Arthaus Channel",
+      "enabled": false
+    },
+    {
       "name": "Amazon Prime Video",
       "enabled": false
     },
@@ -1716,6 +1724,10 @@
       "enabled": false
     },
     {
+      "name": "Sky Go",
+      "enabled": false
+    },
+    {
       "name": "Sky Go\nSky",
       "enabled": false
     },
@@ -1725,6 +1737,10 @@
     },
     {
       "name": "Sooner",
+      "enabled": false
+    },
+    {
+      "name": "WOW",
       "enabled": false
     },
     {
