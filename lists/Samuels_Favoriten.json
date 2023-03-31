@@ -37,7 +37,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39775226fd6ba0930bc3d090fbb0a5974db81237da2f71b3a4e833eba46ad817._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eba9c54b035b288bd32bfc3ee91dda2d64cd6232f14d5b7d49ac42860f901b7a._SX342_.jpg"
     },
     {
       "name": "Primer",
@@ -97,12 +97,13 @@
       "originalTitle": "Pulp Fiction",
       "rating": 4.3,
       "streamProviders": [
+        "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15fb6fa9ab4bed71f0f92218d56bec4c9f1e026a57500a5b392486c5409abd2d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c3de7ac0a768fde0ac247c61cd9174edda213565c5fb4a6fed5c33e45f0bd93._SX342_.jpg"
     },
     {
       "name": "Reservoir Dogs",
@@ -112,7 +113,9 @@
       "originalTitle": "Reservoir Dogs",
       "rating": 4.1,
       "streamProviders": [
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels LIONSGATE+",
+        "Prime Video Channels Seven Entertainment",
         "LIONSGATE+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8c844e30f2662c54735681b8dcf0802b73febef96584356e56f75997379b9b1b._SX342_.jpg"
@@ -135,12 +138,11 @@
       "originalTitle": "Sin City",
       "rating": 3.6,
       "streamProviders": [
-        "WOW",
-        "Sky Go",
-        "MagentaTV",
-        "Amazon Arthaus Channel"
+        "Sky WOW",
+        "Sky Go\nSky",
+        "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/8680651/s166/Sin-City"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c0c15201e3be4af33da29c1aa310f1063d4b31ac166d2d49c68ff4dbf69a1c8f._SX342_.jpg"
     },
     {
       "name": "Planet Terror",
@@ -219,7 +221,8 @@
       "year": "2010",
       "originalTitle": "Rubber",
       "rating": 2.8,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2011/06/image/jpeg/4ff73702940962550f9aec2bfbe71721.jpg"
     },
     {
       "name": "Waking Life",
@@ -345,7 +348,8 @@
       "year": "2005",
       "originalTitle": "V for Vendetta",
       "rating": 3.8,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/464a57f23264e416724c483b14b0dc0d90bdb75986cacd4fd1dd1c941ff6b56b._SX342_.jpg"
     },
     {
       "name": "City of God",
@@ -460,7 +464,7 @@
       "originalTitle": "Gravity",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ae2d98af4072be5a0506ad2322b760b31bfc81b4f0dedd6721d42b84a316230._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/201a2125ad1ca36df8fca139f7de44856d192f25a2a6552f41ad16ba45907a77._SX342_.jpg"
     },
     {
       "name": "Moon",
@@ -474,7 +478,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb59b3d0729b05d8b7b33bfc6ed35884b6ee2b3fa4be5480e8b150f33e994371._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b7049f8532043cd8662bd3dac03b809638f49184c180b3467823121b6c18466._SX342_.jpg"
     },
     {
       "name": "Edge of Tomorrow",
@@ -498,7 +502,7 @@
       "originalTitle": "Argo",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6dc51fe6e39d1b040c172942360baeeba6c586dbd1ebd0a85dd25b7e054cf318._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6c154de7aa6ffc8397947699b774f07999d4d835c702e04e5d532f219fd93821._SX342_.jpg"
     },
     {
       "name": "Life of Pi",
@@ -534,7 +538,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dcd3bbaba4d4d7ebe4ddfcc133ee5fe8b5c9cc6d2ef4dbe1ef9346e079e1b304._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f3a8b5ca86a3ee2c842faef4bbf866957693ac7642cf3dbcdafadf43c5caa623._SX342_.jpg"
     },
     {
       "name": "The Guard",
@@ -603,9 +607,7 @@
       "year": "2009",
       "originalTitle": "District 9",
       "rating": 3.7,
-      "streamProviders": [
-        "MagentaTV"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/43d2740e14bf131914ff9dfcf0e0bd935ba13758b9997fe94124fcbc881c7f98._SX342_.jpg"
     },
     {
@@ -798,7 +800,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70958291b450f957dea3eaf26bd1e5d54f728e75542b85815eaa232959cc812a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0886688a68bb858e054617741f7e94c55a9e0ee04055d0f14a0f6273cbfeea8c._SX342_.jpg"
     },
     {
       "name": "The Big Short",
@@ -926,7 +928,7 @@
         "MagentaTV",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3cead3133f939245cf7de042676916b47f4bf64ea6e8e8c183c21ad116a7af8c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b35b7284adc580067831005f2916f42a0f366d076422738ef0a3058070c6e190._SX342_.jpg"
     },
     {
       "name": "2001: A Space Odyssey",
@@ -1048,7 +1050,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5746e6011ced1358d78785ae843c1c8903808a2e76188d00fe28925dbaab0e6e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_.jpg"
     },
     {
       "name": "The Imposter",
@@ -1608,10 +1610,6 @@
       "enabled": false
     },
     {
-      "name": "Amazon Arthaus Channel",
-      "enabled": false
-    },
-    {
       "name": "Amazon Prime Video",
       "enabled": false
     },
@@ -1724,10 +1722,6 @@
       "enabled": false
     },
     {
-      "name": "Sky Go",
-      "enabled": false
-    },
-    {
       "name": "Sky Go\nSky",
       "enabled": false
     },
@@ -1737,10 +1731,6 @@
     },
     {
       "name": "Sooner",
-      "enabled": false
-    },
-    {
-      "name": "WOW",
       "enabled": false
     },
     {

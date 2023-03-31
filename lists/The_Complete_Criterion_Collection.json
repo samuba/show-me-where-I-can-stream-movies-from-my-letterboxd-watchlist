@@ -124,7 +124,7 @@
       "originalTitle": "Chilly Scenes of Winter",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/teN4NJdGcHbIm9IwXerysNknmGh.jpg"
     },
     {
       "name": "Inland Empire",
@@ -342,7 +342,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d1b80243ec33ea56bee74ea4356dc5f84bb9e315397b7a44f575c56eced3e955._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bc52b04c1d97babbd07842b64378fb586bb640666d1be354ad82a1016c78994e._SX342_.jpg"
     },
     {
       "name": "Malcolm X",
@@ -356,7 +356,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e61205fa238172c9a888d1f2776de80bc98d85de56b5dc058f4b1e00a6bb53ee._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7255d0f763ede9283023de75db671c3e778c7ae43341658c0ba200c9e8a677ab._SX342_.jpg"
     },
     {
       "name": "Infernal Affairs III",
@@ -685,7 +685,7 @@
       "originalTitle": "Pink Flamingos",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/wFQHeg1sRui4jjFoAqYwM9GmDAc.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/71IwGRZmEds1yuD2xbaExAofoLS.jpg"
     },
     {
       "name": "Shaft",
@@ -878,7 +878,7 @@
       "originalTitle": "Miller's Crossing",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ea983218db2568ad6eb5138c9b712724b74f7774bb1390853afedb2cca5d14e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4371db8f281beb5e31344e33d21d0718229546875555b3c981e3c12e29ecf92a._SX342_.jpg"
     },
     {
       "name": "Dick Johnson Is Dead",
@@ -1413,8 +1413,10 @@
       "year": "1996",
       "originalTitle": "Secrets & Lies",
       "rating": 4.2,
-      "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2010/12/image/jpeg/c3e34a1a9771ce5681094505cf93b84c.jpg"
+      "streamProviders": [
+        "Prime Video Channels ARTHAUS+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ee2bb06bcfb40f3e958a803e3a54627a64502a5cca931aa1c7a4d893a9c94f3._SX342_.jpg"
     },
     {
       "name": "Céline and Julie Go Boating",
@@ -1475,7 +1477,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/56c2075767b4628eeb196b735f2c914d98737867181e98cca588eb400c2cc990._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70f7ced29c013eab9db80f4125c7813f96069f80594ca0e151f10847cda7423a._SX342_.jpg"
     },
     {
       "name": "The Ascent",
@@ -1796,7 +1798,7 @@
         "Prime Video Channels Film Total",
         "Prime Video Channels FILMLEGENDEN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d4e287e52eaa1578c2441bb21dc4ef3818ce7aaf250313900a4823b09087976._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/19c35b20ab01d6357cdefb08621790f67f75f05f08b7fd1575b05e919ed1fc68._SX342_.jpg"
     },
     {
       "name": "Fist of Fury",
@@ -1846,7 +1848,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41ca5022ce1dec796391347b315f5e152e41088a111983e68d91d4a923e11ac3._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b76a95378ec02359137f096a6c3a5d8aac83da5af77083fb1600491b39a77043._SX342_.jpg"
     },
     {
       "name": "The Cameraman",
@@ -2639,7 +2641,7 @@
         "Netzkino",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fff95977209aa49c4083c52db671f4f46a3177b471165d225c0c033efbf34d9a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84a54ca33ef6391faa28e2f9dc8a083a4e541d899036778a0807c540892aab4c._SX342_.jpg"
     },
     {
       "name": "The Heiress",
@@ -3275,7 +3277,9 @@
       "year": "1993",
       "originalTitle": "The Age of Innocence",
       "rating": 3.7,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels ARTHAUS+"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/378b10388cefa7e4cccdb865bd167f976ae7d28f0e526cc69a64996450ae4b22._SX342_.jpg"
     },
     {
@@ -3898,7 +3902,7 @@
         "alleskino",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/40d4edaf3a5767167fd140aba8560490587b660399e2c0ddd58744832ac26f0c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/64e0731dd45ec20afe754a259fafc5014d228cb6584f3ee5d71548ad55c8a02d._SX342_.jpg"
     },
     {
       "name": "Twin Peaks: Fire Walk with Me",
@@ -4455,7 +4459,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels MOCONOMY"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9356dee21df8dd2c71e17fad4e1963b0f52d8918ba68dac59ca176b495cec3b3._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e7021687a6c322e02dc95156136e37e9a7249fa46482182f0beaaadbd3ae1981._SX342_.jpg"
     },
     {
       "name": "Punch-Drunk Love",
@@ -4731,7 +4735,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2993206e4bf6f98f7e8129f6563e540a0705147444931f7e004bb974029673dc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e374680fd3138b2220c4410ee9e26033e055941f6791304d9ecfe998ceff8ea._SX342_.jpg"
     },
     {
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -5651,7 +5655,8 @@
       "year": "1990",
       "originalTitle": "Yum, Yum, Yum! A Taste of Cajun and Creole Cooking of Louisiana",
       "rating": 3.9,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f3b7aed51fbf07fa932e90c4fe2d68f9af3fe275f9260e67033aec56d3d8b1af._SX342_.jpg"
     },
     {
       "name": "Gap-Toothed Women",
@@ -5961,7 +5966,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f101ddccb7103a819591c04ac6ec486c6065212dbc44c6e687dccbc109421d67._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_.jpg"
     },
     {
       "name": "The Umbrellas of Cherbourg",
@@ -6114,7 +6119,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70958291b450f957dea3eaf26bd1e5d54f728e75542b85815eaa232959cc812a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0886688a68bb858e054617741f7e94c55a9e0ee04055d0f14a0f6273cbfeea8c._SX342_.jpg"
     },
     {
       "name": "Persona",
@@ -6591,7 +6596,7 @@
       "originalTitle": "座頭市物語",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/18af93e4d793cf562740b99d57e2cf5852063749e034dbba936ffd74ec2bd65e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/37e40d3e38e6e6b28fceeadb257f80d7a5cd4654bad8642e808bcbaae43e1821._SX342_.jpg"
     },
     {
       "name": "La Notte",
@@ -6654,7 +6659,7 @@
       "originalTitle": "Stromboli (Terra di Dio)",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jovWokke2FwRIaMewLEUzEAvfng.jpg"
     },
     {
       "name": "La Cage aux Folles",
@@ -6775,7 +6780,7 @@
       "listPosition": 0,
       "year": "1967",
       "originalTitle": "Marketa Lazarová",
-      "rating": 4.1,
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/12/image/jpeg/dcaa9a659885131883baf397dc3228ee.jpg"
     },
@@ -6846,7 +6851,7 @@
       "originalTitle": "Le Grand Amour",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/qTpO8TLs3boFRXByLLAhwKAS4Cd.jpg"
     },
     {
       "name": "As Long as You've Got Your Health",
@@ -7565,7 +7570,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/282c558fef34affbda98c695bc6e4c5821926a8f03ba6799c91593d51b754d01._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e1b7faa1462c6138b53d4285f5e18c8011298f53103e696b0d6579f3711876ef._SX342_.jpg"
     },
     {
       "name": "This Happy Breed",
@@ -7624,7 +7629,7 @@
       "originalTitle": "Vanya on 42nd Street",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/sYkkHsqXyUcFoLbXt4WNwnRRpT1.jpg"
     },
     {
       "name": "World on a Wire",
@@ -7719,7 +7724,7 @@
       "originalTitle": "Trois couleurs : Rouge",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16357_v_v8_as.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16357_v_v8_as_2018-06-20T12_46_00.jpg&out=jpeg"
     },
     {
       "name": "Three Colors: White",
@@ -7739,7 +7744,7 @@
       "originalTitle": "Trois couleurs : Bleu",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15793_v_v8_as.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15793_v_v8_as_2018-06-20T11_45_00.jpg&out=jpeg"
     },
     {
       "name": "Island of Lost Souls",
@@ -8202,7 +8207,7 @@
       "originalTitle": "Easy Rider",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ffd25d521dd36e811940aac01c7c731da3689aa11d0c2e00ba4b72e0c3a98e0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b01832c4872c324508707729b0d029ec15218b0705742442642e981fd1cbc17._SX342_.jpg"
     },
     {
       "name": "Head",
@@ -8735,7 +8740,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels Wild West"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/803c36aee114987fd7080fda370051d7da6fcdfef867a50a6f2cdb04fea831b2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a6cf8d4b44383f63023fc6715f4be4c5a27185abc28cfc015f175a09759385de._SX342_.jpg"
     },
     {
       "name": "The Fugitive Kind",
@@ -8915,7 +8920,7 @@
       "originalTitle": "Che: Part Two",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/9/p191630_v_v8_ac.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/9/p191630_v_v8_ac_2015-10-30T11_02_00.jpg&out=jpeg"
     },
     {
       "name": "Che: Part One",
@@ -8925,7 +8930,7 @@
       "originalTitle": "Che: Part One",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/9/p191631_v_v8_ap.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/9/p191631_v_v8_ap_2016-01-12T14_00_00.jpg&out=jpeg"
     },
     {
       "name": "Days of Wine and Roses",
@@ -9163,7 +9168,7 @@
       "originalTitle": "人間の條件　完結篇",
       "rating": 4.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gkRDYYEStn8Lb0MTMxVyl5bNvTP.jpg"
     },
     {
       "name": "The Human Condition II: Road to Eternity",
@@ -9173,7 +9178,7 @@
       "originalTitle": "人間の條件　第３部望郷篇／第４部戦雲篇",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/t7knOLmL6r5bMifKMvgYJQ7MQel.jpg"
     },
     {
       "name": "The Human Condition I: No Greater Love",
@@ -9183,7 +9188,7 @@
       "originalTitle": "人間の條件　第１部純愛篇／第２部激怒篇",
       "rating": 4.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/qy8ziqjAqtZ1HWKvtKHeuLQBFvK.jpg"
     },
     {
       "name": "My Dinner with Andre",
@@ -9967,7 +9972,9 @@
       "originalTitle": "The Last Emperor",
       "rating": 3.8,
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
+        "Prime Video Channels ARTHAUS+",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ed96a4d05d06e55f9ff4ce26371a125835793fb158aa135bfe254403a43591f._SX342_.jpg"
     },
@@ -9994,7 +10001,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b27f1eaf92571f72f779d6afe25c93ccf7d9f529a2c359c03c05a2ae987dd89._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/135d5261692428c36787c702574ccafb8fa17ce5ebd82e0b3896f6825646aa34._SX342_.jpg"
     },
     {
       "name": "La Pointe-Courte",
@@ -10098,7 +10105,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2ed591372311eded806b04833350e5d4384fa67bf9361d43c6ead78c82434d9._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0ccbe4828d31371a076c68b55ac7883addb162e27ac389b28858e96b80544db6._SX342_.jpg"
     },
     {
       "name": "Breathless",
@@ -10435,8 +10442,7 @@
       "year": "1956",
       "originalTitle": "ビルマの竪琴",
       "rating": 4,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "streamProviders": []
     },
     {
       "name": "Fires on the Plain",
@@ -10456,7 +10462,7 @@
       "originalTitle": "女が階段を上る時",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/5s4YwelqkiMYBiTKduRpnU9fgbw.jpg"
     },
     {
       "name": "49th Parallel",
@@ -10869,17 +10875,17 @@
       "streamProviders": []
     },
     {
-      "name": "À Nos Amours",
+      "name": "A Nos Amours",
       "letterboxdUrl": "https://letterboxd.com/film/a-nos-amours/",
       "listPosition": 0,
       "year": "1983",
-      "originalTitle": "À Nos Amours",
+      "originalTitle": "À nos amours",
       "rating": 3.8,
       "streamProviders": [
         "Amazon Prime Video",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2fabbf1c0e374c997b53d29f8c85cb7d3f761e6e013da7ca30eb5163968533d5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3fa8b0a3ceba875c5d97d2864a9608eb8a582f516a5eb72079503b21a15b0223._SX342_.png"
     },
     {
       "name": "Dazed and Confused",
@@ -10887,7 +10893,7 @@
       "listPosition": 0,
       "year": "1993",
       "originalTitle": "Dazed and Confused",
-      "rating": 3.9,
+      "rating": 4,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3d0b3eaaf94abeda20bd30da80c5f1393ed730b8cb00e609db06a0de76fe47cb._SX342_.jpg"
     },
@@ -11815,7 +11821,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/04312d81ba22fbe6c372eff2ced79b138a91ffa1f9bcb6c340c658b95721d6bf._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b36d6524d8336803ebcd73ffe7f224da6ff9f82c2a809004d8bd5bdc6ff3c227._SX342_.jpg"
     },
     {
       "name": "The Golden Coach",
@@ -12556,7 +12562,8 @@
       "year": "1987",
       "originalTitle": "Kindering",
       "rating": 2.9,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/92889f32b7cbe8b572253ca3fec50bbd066555c8a768f0438c7d1056b048790c._SX342_.jpg"
     },
     {
       "name": "The Stars Are Beautiful",
@@ -13110,7 +13117,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/7TSD5lJTLJd74AsRZOunacED85y.jpg"
     },
     {
       "name": "That Obscure Object of Desire",
@@ -13407,7 +13414,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d022aa25867ab80968ecaa8085230fdc7a6d314400bb44c4867f93c5eb27c5db._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/06d3a498f2fa34903199542fb3208a15093911f4d3a8a4e556e28b59cadbd3f3._SX342_.jpg"
     },
     {
       "name": "My Man Godfrey",
@@ -13678,7 +13685,7 @@
       "listPosition": 0,
       "year": "1973",
       "originalTitle": "Sisters",
-      "rating": 3.6,
+      "rating": 3.5,
       "streamProviders": []
     },
     {
@@ -14061,7 +14068,7 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4a8cb005d416e9f61b589daf6417ae89547489cd41c1223b70f437ce32243655._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/32ce8fe0c9fbb2cff2d2f422b7c983b9fd96a887218b227a9d624786d0869673._SX342_.jpg"
     },
     {
       "name": "The 39 Steps",
@@ -14127,7 +14134,7 @@
       "originalTitle": "Brazil",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/0/p9041_v_v8_ag.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/0/p9041_v_v8_ag_2016-12-01T16_22_00.jpg&out=jpeg"
     },
     {
       "name": "And the Ship Sails On",
@@ -14337,7 +14344,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/edabc1a0fe451107ba0d74b2f3a36684a8f23ad3cf61e6610141d140d98102ce._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/65a754c3900d371b1ff96b99d5b36d5492b84bdb81ffc5ff45f1d6a10f17bc47._SX342_.jpg"
     },
     {
       "name": "Great Expectations",
@@ -14466,9 +14473,7 @@
       "originalTitle": "Sid & Nancy",
       "rating": 3.5,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
+        "Joyn"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c29444c4b0bafad334f6ebe181c61ff28f9b0efabe9986a135db3f77661a69ca._SX342_.jpg"
     },
@@ -14625,7 +14630,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_.jpg"
     },
     {
       "name": "Amarcord",
@@ -15236,9 +15241,7 @@
       "year": "1969",
       "originalTitle": "Lions Love",
       "rating": 3.3,
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
     },
     {
@@ -15386,7 +15389,7 @@
         "PantaRay",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6cca2c7c8805d59c2f40d7587c38c9475f51ea84ff47ed05f5d52c579a04ab8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/acb03f9983de49b6bad43d83d672c260b0ee43b8037ae7b81a523572005033a0._SX342_.jpg"
     },
     {
       "name": "Salut les Cubains",

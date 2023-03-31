@@ -11,9 +11,11 @@
       "originalTitle": "千と千尋の神隠し",
       "rating": 4.5,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/ebfafdbaaeaef468f0958140d64accfc.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/302517125/s166/Chihiros-Reise-ins-Zauberland"
     },
     {
       "name": "Grave of the Fireflies",
@@ -67,10 +69,9 @@
       "originalTitle": "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
       "rating": 4,
       "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels aniverse"
+        "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7f671c03b6ddeeefaf28b7c2b49d5fabe0159af5486ef5d374758130d29ce671._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/150673631/s166/Gintama-the-Movie-The-Final-Chapter-Be-Forever-Yorozuya"
     },
     {
       "name": "Magnetic Rose",
@@ -200,6 +201,7 @@
       "originalTitle": "劇場版 黒子のバスケ LAST GAME",
       "rating": 3.6,
       "streamProviders": [
+        "Amazon Prime Video",
         "Netflix",
         "Prime Video Channels aniverse"
       ],
@@ -244,7 +246,7 @@
       "originalTitle": "ベルセルク 黄金時代篇III 降臨",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/0/p10714536_v_v8_aa.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/0/p10714536_v_v8_aa_2015-08-31T16_01_00.jpg&out=jpeg"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part II: Eternal",
@@ -263,8 +265,7 @@
       "year": "2008",
       "originalTitle": "劇場版「空の境界」第五章 矛盾螺旋",
       "rating": 4,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "streamProviders": []
     },
     {
       "name": "Ghost in the Shell 2.0",
@@ -274,7 +275,7 @@
       "originalTitle": "GHOST IN THE SHELL／攻殻機動隊2.0",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15661816_v_v8_ab.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15661816_v_v8_ab_2022-02-07T05_37_05.jpg&out=jpeg"
     },
     {
       "name": "Evangelion: 2.0 You Can (Not) Advance",
@@ -408,7 +409,7 @@
       "originalTitle": "獣兵衛忍風帖",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -484,7 +485,7 @@
       "originalTitle": "ベルセルク 黄金時代篇II ドルドレイ攻略",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/5/p9529733_v_v8_aa.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/5/p9529733_v_v8_aa_2015-08-31T15_47_00.jpg&out=jpeg"
     },
     {
       "name": "Road to Ninja: Naruto the Movie",
@@ -555,7 +556,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/gKFGQBKI1TnZ6foqoFgQruM86Mq.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176216671/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -604,10 +605,7 @@
       "year": "2015",
       "originalTitle": "デジモンアドベンチャー tri. 第１章「再会」",
       "rating": 3.2,
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels aniverse"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/683f71eb7e7f2ff110422d3b20749a43e936a03950566f9d41970e72f480d842._SX342_.jpg"
     },
     {
@@ -662,7 +660,7 @@
       "originalTitle": "ベルセルク 黄金時代篇I 覇王の卵",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/5/p9526348_v_v8_aa.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/5/p9526348_v_v8_aa_2015-08-31T15_47_00.jpg&out=jpeg"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
@@ -750,7 +748,7 @@
         "Amazon Prime Video",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbe9c724ac280ac38bdff55b027fc3c517ba23bad353865934fe5fa4c69de090._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b0416851a4142a39117438f156b55fc82f00e29e4308a468f41ca197e0f37e6._SX342_.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -791,7 +789,7 @@
       "originalTitle": "夜は短し歩けよ乙女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
     },
     {
       "name": "No Game No Life: Zero",
@@ -803,7 +801,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f93e3620b31b11420ee7544913e1bf0767e2a654f6e62c286960ce38f88e172._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/30d86752872d55625ca73d847dea834320ebb5ce86eb5a33a8640bea76e7d405._SX342_.jpg"
     },
     {
       "name": "Kizumonogatari Part 1: Tekketsu",
@@ -875,7 +873,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/180ab54f6d1b9690095b37bd5223e91083b23995eec2610523e7001c44df19ec._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176220981/s166/Inuyasha-Movie-2-Das-Traumschloss-im-Inneren-der-Spiegel"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -895,7 +893,7 @@
       "originalTitle": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://www.justwatch.com/images/poster/428619/s166/Rurouni-Kenshin-The-Movie"
     },
     {
       "name": "Dragon Ball Z: Wrath of the Dragon",
@@ -904,8 +902,7 @@
       "year": "1995",
       "originalTitle": "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
       "rating": 3.3,
-      "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/a7cc4f1ccc9293e067463c1b4c901294.jpg"
+      "streamProviders": []
     },
     {
       "name": "Patlabor 2: The Movie",
@@ -965,7 +962,7 @@
       "originalTitle": "映画けいおん！",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2b9e48fba8ffc22ae563ecd5c84f1336f6da7ad7b689660d2c66609d4ee4aec._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/257936127/s166/K-ON-The-Movie"
     },
     {
       "name": "From Up on Poppy Hill",
@@ -1019,10 +1016,8 @@
       "year": "2010",
       "originalTitle": "銀魂 新訳紅桜篇",
       "rating": 3.8,
-      "streamProviders": [
-        "Prime Video Channels aniverse"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f037071f849566dfe74000b61b6e240a32be95f39cc4861179369a5a01515553._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/150679095/s166/Gintama-Benizakura-Arc-A-New-Retelling"
     },
     {
       "name": "Redline",
@@ -1072,6 +1067,14 @@
     },
     {
       "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Netflix Kids",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {

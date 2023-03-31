@@ -631,7 +631,7 @@
         "MagentaTV",
         "filmfriend"
       ],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11215679_b_v8_ab.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11215679_b_v8_ab_2015-03-16T13_42_00.jpg&out=jpeg"
     },
     {
       "name": "Pom Poko",
@@ -817,9 +817,11 @@
       "originalTitle": "千と千尋の神隠し",
       "rating": 4.5,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/ebfafdbaaeaef468f0958140d64accfc.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/302517125/s166/Chihiros-Reise-ins-Zauberland"
     },
     {
       "name": "Princess Arete",
@@ -1105,6 +1107,14 @@
     },
     {
       "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Netflix Kids",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {

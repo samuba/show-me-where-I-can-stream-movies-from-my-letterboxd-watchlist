@@ -216,7 +216,7 @@
         "Prime Video Channels Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ed8b4f91b034fb34f54c03c39142b20aabd7f177984a220db627403dfa2b50ed._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7e1bd889f95c42f2703c5572525c6ead25680af907275670b87ea94fa1e2c406._SX342_.jpg"
     },
     {
       "name": "Seven Samurai",
@@ -338,7 +338,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41ca5022ce1dec796391347b315f5e152e41088a111983e68d91d4a923e11ac3._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b76a95378ec02359137f096a6c3a5d8aac83da5af77083fb1600491b39a77043._SX342_.jpg"
     },
     {
       "name": "Mirror",
@@ -559,7 +559,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_.jpg"
     },
     {
       "name": "The Piano",
@@ -602,7 +602,7 @@
       "originalTitle": "The Apartment",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d3ef0a6118cd624166c1196524c78adf562d37b67cbf14227fcabb919e82f1b2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/83c1210a55cce11520e608f89f72e293bcb7135575098e783b6cfa1c3c2980c0._SX342_.jpg"
     },
     {
       "name": "Battleship Potemkin",
@@ -869,9 +869,11 @@
       "originalTitle": "千と千尋の神隠し",
       "rating": 4.5,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/ebfafdbaaeaef468f0958140d64accfc.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/302517125/s166/Chihiros-Reise-ins-Zauberland"
     },
     {
       "name": "A Brighter Summer Day",
@@ -990,7 +992,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_.jpg"
     },
     {
       "name": "Chungking Express",
@@ -1086,7 +1088,6 @@
       "originalTitle": "C'era una volta il West",
       "rating": 4.3,
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels FILMLEGENDEN",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
@@ -1457,12 +1458,13 @@
       "originalTitle": "Pulp Fiction",
       "rating": 4.3,
       "streamProviders": [
+        "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15fb6fa9ab4bed71f0f92218d56bec4c9f1e026a57500a5b392486c5409abd2d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c3de7ac0a768fde0ac247c61cd9174edda213565c5fb4a6fed5c33e45f0bd93._SX342_.jpg"
     },
     {
       "name": "Raging Bull",
@@ -1685,10 +1687,7 @@
       "originalTitle": "Chinatown",
       "rating": 4.2,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
-        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5457c5eb6d9ecc65c7318244bbbacd75fb3ffa12d9032abbca62be5336011101._SX342_.jpg"
@@ -1728,7 +1727,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2ed591372311eded806b04833350e5d4384fa67bf9361d43c6ead78c82434d9._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0ccbe4828d31371a076c68b55ac7883addb162e27ac389b28858e96b80544db6._SX342_.jpg"
     },
     {
       "name": "Le Bonheur",
@@ -1741,7 +1740,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b27f1eaf92571f72f779d6afe25c93ccf7d9f529a2c359c03c05a2ae987dd89._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/135d5261692428c36787c702574ccafb8fa17ce5ebd82e0b3896f6825646aa34._SX342_.jpg"
     },
     {
       "name": "West Indies",
@@ -1815,7 +1814,7 @@
       "originalTitle": "Once Upon a Time in America",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/8/4/p8405_v_v12_am.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/8/4/p8405_v_v12_am_2019-04-25T15_20_21.jpg&out=jpeg"
     },
     {
       "name": "Out of the Past",
@@ -2156,7 +2155,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f101ddccb7103a819591c04ac6ec486c6065212dbc44c6e687dccbc109421d67._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_.jpg"
     },
     {
       "name": "The River",
@@ -2421,7 +2420,7 @@
       "originalTitle": "Pink Flamingos",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/wFQHeg1sRui4jjFoAqYwM9GmDAc.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/71IwGRZmEds1yuD2xbaExAofoLS.jpg"
     },
     {
       "name": "The Deer Hunter",
@@ -2470,7 +2469,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5._SX342_.png"
     },
     {
       "name": "Twenty Years Later",
@@ -2944,6 +2943,14 @@
     },
     {
       "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Netflix Kids",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {

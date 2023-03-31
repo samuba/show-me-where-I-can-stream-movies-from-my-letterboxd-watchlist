@@ -78,7 +78,7 @@
       "originalTitle": "人間の條件　完結篇",
       "rating": 4.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/gkRDYYEStn8Lb0MTMxVyl5bNvTP.jpg"
     },
     {
       "name": "12 Angry Men",
@@ -120,9 +120,11 @@
       "originalTitle": "千と千尋の神隠し",
       "rating": 4.5,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/ebfafdbaaeaef468f0958140d64accfc.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/302517125/s166/Chihiros-Reise-ins-Zauberland"
     },
     {
       "name": "High and Low",
@@ -235,7 +237,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f5e589e9861e0218c124db7fe0eab5550bff21fd41123e36ddb645a134c4c801._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1004120461b68e98f69a9a93d8b9e5bcdfecd96f5462dcfd0c7217192d56db4f._SX342_.jpg"
     },
     {
       "name": "Neon Genesis Evangelion: The End of Evangelion",
@@ -257,7 +259,7 @@
       "originalTitle": "人間の條件　第１部純愛篇／第２部激怒篇",
       "rating": 4.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/qy8ziqjAqtZ1HWKvtKHeuLQBFvK.jpg"
     },
     {
       "name": "Portrait of a Lady on Fire",
@@ -270,7 +272,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41ca5022ce1dec796391347b315f5e152e41088a111983e68d91d4a923e11ac3._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b76a95378ec02359137f096a6c3a5d8aac83da5af77083fb1600491b39a77043._SX342_.jpg"
     },
     {
       "name": "Everything Everywhere All at Once",
@@ -472,7 +474,7 @@
         "Prime Video Channels Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ed8b4f91b034fb34f54c03c39142b20aabd7f177984a220db627403dfa2b50ed._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7e1bd889f95c42f2703c5572525c6ead25680af907275670b87ea94fa1e2c406._SX342_.jpg"
     },
     {
       "name": "The Passion of Joan of Arc",
@@ -516,7 +518,7 @@
       "originalTitle": "人間の條件　第３部望郷篇／第４部戦雲篇",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/t7knOLmL6r5bMifKMvgYJQ7MQel.jpg"
     },
     {
       "name": "Autumn Sonata",
@@ -604,7 +606,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e7b88e283e5a35c70c25c4166303e6874d82d03f6e35ea217d3f85df47317915._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ba39f8634e6feed3d03fc1966525185571655ab1b268c62b2325131c8d5ae0e7._SX342_.jpg"
     },
     {
       "name": "The Lord of the Rings: The Fellowship of the Ring",
@@ -616,7 +618,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fae6a463d68538439b41c66b56b31f206ecfb48162432cdaaf7b2adeae23f751._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b49aac7e51fde10868a86c12f42f203ea03fde7d43da100dbd375b4fd1a160b1._SX342_.jpg"
     },
     {
       "name": "Before Sunrise",
@@ -689,7 +691,7 @@
       "originalTitle": "The Apartment",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d3ef0a6118cd624166c1196524c78adf562d37b67cbf14227fcabb919e82f1b2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/83c1210a55cce11520e608f89f72e293bcb7135575098e783b6cfa1c3c2980c0._SX342_.jpg"
     },
     {
       "name": "Oldboy",
@@ -968,7 +970,6 @@
       "originalTitle": "C'era una volta il West",
       "rating": 4.3,
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels FILMLEGENDEN",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
@@ -995,12 +996,13 @@
       "originalTitle": "Pulp Fiction",
       "rating": 4.3,
       "streamProviders": [
+        "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15fb6fa9ab4bed71f0f92218d56bec4c9f1e026a57500a5b392486c5409abd2d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c3de7ac0a768fde0ac247c61cd9174edda213565c5fb4a6fed5c33e45f0bd93._SX342_.jpg"
     },
     {
       "name": "Love Exposure",
@@ -1212,7 +1214,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_.jpg"
     },
     {
       "name": "Singin' in the Rain",
@@ -1391,7 +1393,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_.jpg"
     },
     {
       "name": "A Man Escaped",
@@ -1445,7 +1447,7 @@
       "originalTitle": "Trois couleurs : Rouge",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16357_v_v8_as.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/6/p16357_v_v8_as_2018-06-20T12_46_00.jpg&out=jpeg"
     },
     {
       "name": "A Separation",
@@ -1567,7 +1569,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f101ddccb7103a819591c04ac6ec486c6065212dbc44c6e687dccbc109421d67._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_.jpg"
     },
     {
       "name": "Dead Poets Society",
@@ -1588,8 +1590,10 @@
       "year": "1997",
       "originalTitle": "Good Will Hunting",
       "rating": 4.2,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a469c65bba2828f147f5b262586c23b82f5f62dbf8d7a6c18650c70bfe3e1caf._SX342_.jpg"
+      "streamProviders": [
+        "Prime Video Channels ARTHAUS+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c0375cee917df967fc05dfa4237040b053c4266a8cf9bd7be66555901cffb355._SX342_.jpg"
     },
     {
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -1665,7 +1669,7 @@
       "streamProviders": [
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a40746fb45384b83c3f5506e09352e40a2ebadcfcafcc59d1a93ce07e8647a5c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85fc0d0a358f6ba9d0025d962314994d9490d5f51d30a4e977c01353ab9ef694._SX342_.jpg"
     },
     {
       "name": "Paper Moon",
@@ -1978,10 +1982,7 @@
       "originalTitle": "Chinatown",
       "rating": 4.2,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
-        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5457c5eb6d9ecc65c7318244bbbacd75fb3ffa12d9032abbca62be5336011101._SX342_.jpg"
@@ -2368,7 +2369,7 @@
       "originalTitle": "Once Upon a Time in America",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/8/4/p8405_v_v12_am.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/8/4/p8405_v_v12_am_2019-04-25T15_20_21.jpg&out=jpeg"
     },
     {
       "name": "The Big City",
@@ -2443,7 +2444,7 @@
         "Prime Video Channels Turk on Video",
         "filmingo"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d5e08760fbdd17c0dc87ea19b66c9a54f225806bc52301f548335305f219c393._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4b8d1483a520a864b7ebd0e4f7951b987bd2402fd5d51c6015b1503b6047e357._SX342_.jpg"
     },
     {
       "name": "Make Way for Tomorrow",
@@ -2546,7 +2547,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85606f6576c3d8ae0846b62603aa781bd30ecfc0c7acff908e8996d9fa37e026._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d99c190315ae7a7346159d08b9580faa8be10420998ac944030e7751728d6eca._SX342_.jpg"
     },
     {
       "name": "The Treasure of the Sierra Madre",
@@ -2576,7 +2577,7 @@
       "originalTitle": "The Iron Giant",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/55854cae92c8a52ae4cec11db4eaf1dc5de1915d69578181233560f894e67f1f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/19aec5ecad94bd8a8b55b1c8f4102131787113d949a0c7eda733c52ea9edeba1._SX342_.jpg"
     },
     {
       "name": "Sweet Smell of Success",
@@ -2754,7 +2755,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/629dac4190c5d857f93bed9bd3df183f6a31730e060f15ba8006d7acbfe3f491._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e0cb6e2bb66d231c88f0ecf43f3e354458ff7cafb8ca595e1de01afe4f0aee4._SX342_.jpg"
     },
     {
       "name": "Dersu Uzala",
@@ -2834,6 +2835,14 @@
     },
     {
       "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Netflix Kids",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {

@@ -71,7 +71,7 @@
         "Prime Video Channels ZDF select",
         "MagentaTV"
       ],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15911269_b_v12_ab.jpg&out=jpeg"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15911269_b_v12_ab_2019-12-09T09_20_47.jpg&out=jpeg"
     },
     {
       "name": "Marcel the Shell with Shoes On",
@@ -409,7 +409,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_.jpg"
     },
     {
       "name": "Man on the Moon",
@@ -619,7 +619,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6b86f9c6ece39b16882b85762ddc4644d0bce7e947cb91623e6d1fe994e76b61._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e3fb85ff3a534570706852166faac42deff7421d2d5271f4a6253f4c6b8f2aad._SX342_.jpg"
     },
     {
       "name": "Avengers: Infinity War",
@@ -747,9 +747,10 @@
       "rating": 3.1,
       "streamProviders": [
         "Joyn",
-        "Prime Video Channels ARTHAUS+"
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/26dbe2e219607bffdb82ea56a7067ef467ce43e3e3e21436999be6c1a1218ada._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dffc9e69ea10c51d6c848f9b723ef8a62a115769e4714330b58231f5228b198c._SX342_.png"
     },
     {
       "name": "Phantom Thread",
@@ -1097,7 +1098,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5746e6011ced1358d78785ae843c1c8903808a2e76188d00fe28925dbaab0e6e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_.jpg"
     },
     {
       "name": "The Favourite",
@@ -1176,7 +1177,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2993206e4bf6f98f7e8129f6563e540a0705147444931f7e004bb974029673dc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e374680fd3138b2220c4410ee9e26033e055941f6791304d9ecfe998ceff8ea._SX342_.jpg"
     },
     {
       "name": "Still Alice",
@@ -1324,7 +1325,7 @@
         "Disney+",
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1e4aeabba5a525b5015e69e3e4a1644347a5d7197aa0c85e6ae38ec4995d5fb9._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/732744bcbc541ab937ce5a7fbaab5553f0de37ab31e6cc6273278be05524b4e0._SX342_.jpg"
     },
     {
       "name": "The Hobbit: The Battle of the Five Armies",
@@ -1336,7 +1337,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ac7aba471e8104f976b2d6be2ed7db1b8f180265286ec02e4812f9f69140f89._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eafa9a7eb308d2f4e3a4320597a29cea7e22600d4f889786ee94e46be6b5ce72._SX342_.jpg"
     },
     {
       "name": "1917",
@@ -1383,7 +1384,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5._SX342_.png"
     }
   ],
   "streamProviders": [
