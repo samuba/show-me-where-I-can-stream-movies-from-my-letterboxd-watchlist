@@ -159,7 +159,8 @@
       "year": "1969",
       "originalTitle": "空飛ぶゆうれい船",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/138411319/s166/Flying-Phantom-Ship"
     },
     {
       "name": "Cleopatra: Queen of Sex",
@@ -817,11 +818,9 @@
       "originalTitle": "千と千尋の神隠し",
       "rating": 4.5,
       "streamProviders": [
-        "Netflix",
-        "Netflix Kids",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/302517125/s166/Chihiros-Reise-ins-Zauberland"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/ebfafdbaaeaef468f0958140d64accfc.jpg"
     },
     {
       "name": "Princess Arete",
@@ -1107,14 +1106,6 @@
     },
     {
       "name": "Netflix",
-      "enabled": false
-    },
-    {
-      "name": "Netflix Kids",
-      "enabled": false
-    },
-    {
-      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {
