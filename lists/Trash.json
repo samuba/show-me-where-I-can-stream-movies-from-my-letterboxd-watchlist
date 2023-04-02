@@ -202,7 +202,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e19f87fa3b7d2251e04fa2899d9518c3bfcae5149508fb023c8e0d925ea65d8e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6d8657d7beea495d6d12af408e8a8b3cc9922c2ffc63ca3e34c2e892d3e1535._SX342_.jpg"
     },
     {
       "name": "Hack-O-Lantern",
@@ -485,7 +485,7 @@
       "listPosition": 49,
       "year": "1986",
       "originalTitle": "Unmasking the Idol",
-      "rating": 3,
+      "rating": 2.9,
       "streamProviders": []
     },
     {
@@ -897,7 +897,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ee70d42b0eded09bdc17fcac6a5265db5f1a4145a4e1f27e60e2c59d5f69af4d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39969fbba4b53285cd2715619db855267b448cd3a8c3e51d31546b18a312315a._SX342_.jpg"
     },
     {
       "name": "13 Ghosts",
@@ -916,7 +916,10 @@
       "year": "1993",
       "originalTitle": "Ninja Vengeance",
       "rating": 1.9,
-      "streamProviders": []
+      "streamProviders": [
+        "Prime Video Channels MGM"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/91eacaeefe10cbeef29f84f336b2155a25829a14a6dab2e7c1a656bbcd0e78cb._SX342_.jpg"
     },
     {
       "name": "Never Too Young to Die",
@@ -1568,9 +1571,7 @@
       "year": "1988",
       "originalTitle": "Pin",
       "rating": 3.4,
-      "streamProviders": [
-        "Netzkino"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/ouUfJtdHPkRXFJ0zDLPvgbPHPjd.jpg"
     },
     {
@@ -1736,7 +1737,7 @@
       "originalTitle": "The Dorm That Dripped Blood",
       "rating": 2.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/18Q38AqT4PRoEyKAFWTUUnCeYJp.jpg"
     },
     {
       "name": "Silent Night, Deadly Night Part 2",
@@ -1786,7 +1787,7 @@
       "listPosition": 181,
       "year": "2007",
       "originalTitle": "Born Into Mafia",
-      "rating": 1.7,
+      "rating": 1.6,
       "streamProviders": []
     },
     {
@@ -2324,7 +2325,7 @@
       "streamProviders": [
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0296858828c683119021f55de9405140355c613d44ac4dd821b6c689d77aa14b._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/030e690e9be25b6a073f492551e73ec71c3d422bdad295b884f2c7c1b3669191._SX342_.jpg"
     },
     {
       "name": "Bloodsuckers from Outer Space",
@@ -2810,7 +2811,7 @@
       "listPosition": 284,
       "year": "1994",
       "originalTitle": "Aftermath",
-      "rating": 2.6,
+      "rating": 2.5,
       "streamProviders": []
     },
     {
@@ -3648,9 +3649,7 @@
       "year": "1992",
       "originalTitle": "Nemesis",
       "rating": 3.2,
-      "streamProviders": [
-        "Prime Video Channels Bloody Movies"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/efcbd1e46f9d9085492fd2f7f5a80e77c611e2d87ed83f12914ffcf9e78c4e58._SX342_.jpg"
     },
     {
@@ -4071,7 +4070,9 @@
       "year": "1988",
       "originalTitle": "Iced",
       "rating": 2.6,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels FRANATIC – dein Film-Channel"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4f488bffeebe3a7ca439ecf871fcfe93913613486f691a2b2a2c019306785b29._SX342_.jpg"
     },
     {
@@ -4315,9 +4316,7 @@
       "year": "1991",
       "originalTitle": "The Borrower",
       "rating": 3,
-      "streamProviders": [
-        "Netzkino"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
     },
     {
@@ -4551,10 +4550,6 @@
     },
     {
       "name": "Prime Video Channels ALLSTARS",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Bloody Movies",
       "enabled": false
     },
     {

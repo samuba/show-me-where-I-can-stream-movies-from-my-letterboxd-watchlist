@@ -58,7 +58,6 @@
       "originalTitle": "Action Jackson",
       "rating": 2.9,
       "streamProviders": [
-        "Sky WOW",
         "Sky Go\nSky"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6af97e3c48ea98f53cdeefcf6399fab9871d24c3c1a1b50cf993b816f5a51b50._SX342_.jpg"
@@ -185,7 +184,7 @@
       "originalTitle": "The Black Alley Cats",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/klVQ1ryl0BTvOWvKUDJcnWcXYAC.jpg"
     },
     {
       "name": "Black Belt Jones",
@@ -1448,7 +1447,6 @@
       "originalTitle": "Kampf um Rom – 1. Teil",
       "rating": 3,
       "streamProviders": [
-        "Sky WOW",
         "Sky Go\nSky"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b9b484229ed87bf718d3ad5ac2a1c1a4572d57fe9f48371417f93662c62b7289._SX342_.jpg"
@@ -2312,7 +2310,7 @@
       "originalTitle": "Uptown Saturday Night",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/tO9kTW2QmiJz3DWPDuYlKTjQpMJ.jpg"
     },
     {
       "name": "Vampire in Brooklyn",
@@ -2461,9 +2459,7 @@
       "year": "2018",
       "originalTitle": "SuperFly",
       "rating": 2.5,
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0e8a21d0ff15590fc762cb41f883ccfcfad3ac59542f017de457b14447eddc79._SX342_.jpg"
     }
   ],
@@ -2478,10 +2474,6 @@
     },
     {
       "name": "Mubi",
-      "enabled": false
-    },
-    {
-      "name": "Netflix",
       "enabled": false
     },
     {
@@ -2510,10 +2502,6 @@
     },
     {
       "name": "Sky Go\nSky",
-      "enabled": false
-    },
-    {
-      "name": "Sky WOW",
       "enabled": false
     },
     {

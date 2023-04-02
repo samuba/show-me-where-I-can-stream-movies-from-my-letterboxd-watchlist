@@ -102,7 +102,7 @@
       "originalTitle": "獨臂拳王",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/s4OHrXPjP7bJZzpm4fHfcFYKTEX.jpg"
     },
     {
       "name": "The Big Doll House",
@@ -671,7 +671,7 @@
       "originalTitle": "Zombi 2",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/l3BpFihx6S2Qp1wBuj663Oz3dW5.jpg"
     },
     {
       "name": "Trash",
@@ -703,7 +703,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e460d43abdc7b1424f5602dde3a0b5ce2a1da095504ec90fabbee338e500e729._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/900c390a13ce22c609feb9794634e44f11e7d001b04b36856389ce85019cbaf6._SX342_.jpg"
     },
     {
       "name": "House on the Edge of the Park",
@@ -753,7 +753,7 @@
       "streamProviders": [
         "Joyn"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cefb657202f76fce347064d5dfb99a14a7d24da11d32d76b77f8edfe72e0d916._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d992aa8b7097ea49908aacbfc6ebed3a92fb233f64b0317a4bbf2e57221b698._SX342_.jpg"
     },
     {
       "name": "Glen or Glenda",
@@ -837,7 +837,7 @@
         "Prime Video Channels superfresh",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec5d808c351b579d950af8856f0cec36fc55603f9ef97b261a5eb64307eb53c4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ecf4e5463094f2e088634b39ae9e3fb855feb5bb3ec63d5842334d96305f8ec._SX342_.jpg"
     },
     {
       "name": "Love Camp 7",
@@ -948,7 +948,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/86d14932b02597e3de6b7eaf5d00d3e28cfc5fe9fa5c550239e4372584723f23._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d91cf9380f0f5fc15ce1a7a7d7d8d8884dbb4f09512eacf1dddd019682ca3137._SX342_.jpg"
     },
     {
       "name": "Color Me Blood Red",
@@ -1304,7 +1304,7 @@
       "listPosition": 129,
       "year": "2008",
       "originalTitle": "Gutterballs",
-      "rating": 2.4,
+      "rating": 2.3,
       "streamProviders": []
     },
     {
@@ -1372,7 +1372,7 @@
       "listPosition": 136,
       "year": "2015",
       "originalTitle": "The Boy Next Door",
-      "rating": 1.8,
+      "rating": 1.9,
       "streamProviders": [
         "Netflix"
       ],
@@ -1651,7 +1651,9 @@
       "year": "1975",
       "originalTitle": "Shivers",
       "rating": 3.2,
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2009/09/image/jpeg/562d2981a57045c138c73f7f3ae79f38.jpg"
     },
     {
@@ -1720,7 +1722,7 @@
         "Prime Video Channels FRANATIC – dein Film-Channel",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e75afd0b7446394bb49bc4b3fb64825b485236577321b0b737e352f72a31c85f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc8d2212f8baf79424c814e0356bf5fd6ffc49991acdaac39190aec83e7630e5._SX342_.jpg"
     },
     {
       "name": "Bio-Cop",
@@ -1728,7 +1730,7 @@
       "listPosition": 170,
       "year": "2012",
       "originalTitle": "Bio-Cop",
-      "rating": 3.8,
+      "rating": 3.9,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/370e5d6de2202d35432df247b5fcb074f1991d6cc15138715380da931359351f._SX342_.jpg"
     },
@@ -1863,7 +1865,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4ff748e85ab8f730068800d83e597da43985608e8dda7bdcb18a7b53f2d265ee._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5735438a7f217751de4b4fb508110b7279da4af2d71f191abe5890c39b7e4fd6._SX342_.jpg"
     },
     {
       "name": "Just Before Dawn",
@@ -1954,7 +1956,7 @@
       "originalTitle": "Hard Ticket to Hawaii",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/yZBHqhCZYAAihDBgMvQziITtLUO.jpg"
     },
     {
       "name": "Picasso Trigger",
@@ -2133,7 +2135,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9fa610f1ee91e93c7cbe511c6d02e7f968625415170b121c8ff255156820f0fc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6d8ad2831b3a6e43ec89b7d62cc4f42f43758032f68a58517bd034043e0b1825._SX342_.jpg"
     },
     {
       "name": "Q",
@@ -2185,7 +2187,6 @@
       "originalTitle": "Road House",
       "rating": 3.4,
       "streamProviders": [
-        "Sky WOW",
         "Sky Go\nSky",
         "Prime Video Channels MGM",
         "MagentaTV"

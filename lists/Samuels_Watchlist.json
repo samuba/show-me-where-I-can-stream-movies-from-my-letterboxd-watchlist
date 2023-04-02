@@ -222,7 +222,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cc6afcb9c269810b1db721c67659f15b24008d6fcdc395c1cdebfd5d44fdc16b._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc484bd4154266a46f7f65bec5e1bbc3d03df9a46b77c739aafd85ee0fe668f7._SX342_.jpg"
     },
     {
       "name": "Labyrinth of Cinema",
@@ -296,7 +296,7 @@
       "originalTitle": "Violent Night",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8c1c061a9f8873a47609e4dcc1367be93d6213ecde5a59ca76dff16920c6a8a2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cb72c186e704ceca5da65ad96008abe0467217d668359ba4987e06ca05e36d4._SX342_.jpg"
     },
     {
       "name": "The Rocky Horror Picture Show",
@@ -450,7 +450,7 @@
       "streamProviders": [
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a40746fb45384b83c3f5506e09352e40a2ebadcfcafcc59d1a93ce07e8647a5c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85fc0d0a358f6ba9d0025d962314994d9490d5f51d30a4e977c01353ab9ef694._SX342_.jpg"
     },
     {
       "name": "Nightmare Alley",
@@ -673,7 +673,7 @@
       "originalTitle": "Orange",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/pElD520j1jgANaPUIm6qkR4ThEY.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47ef1fce3e17f353e457e32ecffb6b8d1cbaab272bcd3beea3c169858c0d783f._SX342_.jpg"
     },
     {
       "name": "Free Guy",
@@ -699,7 +699,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/807d482d87fc0cddd0be5e6c40f2433f5ad9bb1c41004b2f270e45eade983efc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_.jpg"
     },
     {
       "name": "Traffic",
@@ -759,6 +759,9 @@
       "rating": 3.7,
       "streamProviders": [
         "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/049deee9f693770105bf981bf3cb5e96678dc7600411dbac58b6cce4906346df._SX342_.jpg"
@@ -770,7 +773,9 @@
       "year": "2020",
       "originalTitle": "Minari",
       "rating": 4.1,
-      "streamProviders": [],
+      "streamProviders": [
+        "Netflix"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0607d612b8f0cd9fcd7fc96389d73f8130167ac5be7e5bf00c3047842b7d243d._SX342_.jpg"
     },
     {
@@ -1301,7 +1306,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eb03b741dbd14285a681ddb2e5cfe88f58ed3daa395cd7ae72115ea63204a533._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f5ed67f1912f93d19c6fea9bfad0a32776df5a4636db026ac6a9b9a46a7de26b._SX342_.jpg"
     },
     {
       "name": "The Night of the Hunter",
@@ -1445,7 +1450,7 @@
       "originalTitle": "蟲師 続章「鈴の雫」",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/dMtmsOEyPC4KgyRDM7ROl3MwvEo.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/fX9BnIKXM1ticTmIr9FnsI8yLNf.jpg"
     },
     {
       "name": "Adventure Time: Islands",
@@ -1771,7 +1776,6 @@
       "originalTitle": "Jaws",
       "rating": 4,
       "streamProviders": [
-        "Sky WOW",
         "Sky Go\nSky"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11a07ab3aba3db175ad3a93a37e9588da35f5a5622c5a83489eccbaeaeda4ef6._SX342_.jpg"
@@ -1828,7 +1832,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/16266adfc734a02b27049996a05f98233d5e2029c19d55da2aaa9a64c57f5d13._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/221072767f928236bc3e060624127bdc81ad73dbb3e5b4bf67409d49b277777f._SX342_.jpg"
     },
     {
       "name": "Force Majeure",
@@ -2109,9 +2113,7 @@
       "year": "2017",
       "originalTitle": "Die Vierhändige",
       "rating": 3.2,
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a480764ab329695389aaa1ada878d38fb920826ebf97d061fffb8abb4baf6827._SX342_.jpg"
     },
     {
@@ -2413,7 +2415,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a39bee35097a2efaf38d116759a6d6a824ab7d4a06a36f28379483343ee47b36._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b588fa418f098d25ea1225359434f0aace217a4c7ace1ad47f9eaf7bd8e1a1d4._SX342_.jpg"
     },
     {
       "name": "Blade of the Immortal",
@@ -2760,7 +2762,7 @@
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/552358fe23260046e2bab2db0d0244d894344ab4a8670182274062900b0a5728._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b8eaaffecfd4115c8636d2cc12d50ea82341a7a2a36b8c213b05905777cef67e._SX342_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -2907,7 +2909,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/892fefb0c91ce524d2d9aaeae1b0b8377e2be4ec960250f735d00b2cb98dca6a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7be757c238ec9cd1682a68e622f272ac2222117c530d136bf77f5020d412948d._SX342_.jpg"
     },
     {
       "name": "The Man Who Wasn't There",
@@ -2917,6 +2919,7 @@
       "originalTitle": "The Man Who Wasn't There",
       "rating": 3.8,
       "streamProviders": [
+        "Amazon Prime Video",
         "Prime Video Channels Silverline",
         "Prime Video Channels superfresh"
       ],
@@ -3216,7 +3219,7 @@
       "originalTitle": "Into Eternity: A Film for the Future",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/54ca4ff55cbabfee078622200e4f9ba1dcc64dfaf3ab17426471e590e88f9db3._SX342_.jpg"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2011/08/image/jpeg/dd66259dba3f7e4af92e02f9ccc3de03.jpg"
     },
     {
       "name": "Tour de Force",
@@ -3559,7 +3562,7 @@
         "ARD Plus",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/db21ea1c0e12952cdf367d2b60ae2ad7c04d47c6d79ffe317ffeb5d89a9bf546._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6250ee3b7b5f56f35dd748e64f49001df13d4619be0cfc3fbe278bcf8331cc56._SX342_.jpg"
     },
     {
       "name": "The Invention of Lying",
@@ -3776,9 +3779,7 @@
       "year": "2015",
       "originalTitle": "Jupiter Ascending",
       "rating": 2.1,
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d8cea3b169dbe16fe728f8f1851b4c1608a284fd8d033d3776724be5c57e7b15._SX342_.jpg"
     },
     {
@@ -3949,7 +3950,7 @@
       "streamProviders": [
         "Prime Video Channels Bloody Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1f63f7ddf1a1021b05f5a7e1ccfdd17a7b87af1162efa821c04476d8643f423a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/820abaee13316df28b7fe3b40f259e7f9e1b06d09ee25be00e8299069c990f4a._SX342_.jpg"
     },
     {
       "name": "Control",
@@ -3971,7 +3972,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/31d664fe006075b56137c6af0b8ed56ae3947024e6c2acbaec567fff021d34be._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/faadba0ff02f6e5b73f92be42f425be6d001b109c24b74437137a34790ff6d98._SX342_.jpg"
     },
     {
       "name": "Wayne's World",
@@ -3985,7 +3986,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84f94a67087529ce122be5011ede23c5fab3c07c4510a28f77ed3d2755ad994d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ead013f0f450e6785ba3ec4d0595ff97d22b5a426afa9fecbc1a229ee240cc7._SX342_.jpg"
     },
     {
       "name": "Igby Goes Down",
