@@ -274,7 +274,7 @@
       "originalTitle": "GHOST IN THE SHELL／攻殻機動隊2.0",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15661816_v_v8_ab_2022-02-07T05_37_05.jpg&out=jpeg"
+      "imageUrl": "https://www.justwatch.com/images/poster/151538121/s166/Ghost-in-the-Shell-2-0"
     },
     {
       "name": "Evangelion: 2.0 You Can (Not) Advance",
@@ -357,8 +357,11 @@
       "year": "2003",
       "originalTitle": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "streamProviders": [
+        "Prime Video Channels Qello Concerts by Stingray",
+        "Prime Video Channels Stingray All Good Vibes"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d71d385724a93a3e43595cd8ad113a3e3390b26955ae04620061743204a37cd6._SX342_.jpg"
     },
     {
       "name": "Cardcaptor Sakura: The Sealed Card",
@@ -408,7 +411,7 @@
       "originalTitle": "獣兵衛忍風帖",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -449,10 +452,9 @@
       "originalTitle": "君の膵臓をたべたい",
       "rating": 3.8,
       "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels aniverse"
+        "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/303435594/s166/I-Want-to-Eat-Your-Pancreas"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -462,7 +464,7 @@
       "originalTitle": "傷物語〈Ⅱ熱血篇〉",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/vdMx2VqjZE7IkbirNPTIj526MBi.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/106807724/s166/Kizumonogatari-II-Heisses-Blut"
     },
     {
       "name": "In This Corner of the World",
@@ -472,9 +474,9 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
     },
     {
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
@@ -564,8 +566,7 @@
       "year": "1995",
       "originalTitle": "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ",
       "rating": 3.5,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/8q9bjSa6QxBEtVqaZCAkVBHBTDO.jpg"
+      "streamProviders": []
     },
     {
       "name": "Sailor Moon S the Movie: Hearts in Ice",
@@ -659,7 +660,7 @@
       "originalTitle": "ベルセルク 黄金時代篇I 覇王の卵",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/mjhhCmMwGHsDIsRycpcd0bS2pOO.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/180095158/s166/Berserk-Das-goldene-Zeitalter-I"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
@@ -743,11 +744,7 @@
       "year": "2000",
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
       "rating": 3.9,
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels Netzkino Select"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbe9c724ac280ac38bdff55b027fc3c517ba23bad353865934fe5fa4c69de090._SX342_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Angel's Egg",
@@ -810,7 +807,7 @@
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/99164694/s166/Kizumonogatari-I-Blut-und-Eisen"
     },
     {
       "name": "The Garden of Words",
@@ -1068,6 +1065,10 @@
       "enabled": false
     },
     {
+      "name": "Arthouse CNMA Amazon Channel",
+      "enabled": false
+    },
+    {
       "name": "Netflix",
       "enabled": false
     },
@@ -1076,7 +1077,11 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Netzkino Select",
+      "name": "Prime Video Channels Qello Concerts by Stingray",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Stingray All Good Vibes",
       "enabled": false
     },
     {
