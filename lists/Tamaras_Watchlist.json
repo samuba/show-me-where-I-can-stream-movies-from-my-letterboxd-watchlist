@@ -411,7 +411,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_.jpg"
     },
     {
       "name": "Man on the Moon",
@@ -482,7 +482,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d43f6f63099709b20a5dd15b6d0ee3c535fc114d2d3ecc960b45ce75ad1b277f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c4af10b83071e3edd294a7a62a78327ad883a74a457d8fa4b9a3e5b295f6c303._SX342_.jpg"
     },
     {
       "name": "Love Steaks",
@@ -551,9 +551,7 @@
       "year": "2016",
       "originalTitle": "Arrival",
       "rating": 4.1,
-      "streamProviders": [
-        "LIONSGATE+"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/580a2b756e8dadec0d60b0e1a5fa0bf8756bb88269a5a6d66253cf1123f6a12a._SX342_.jpg"
     },
     {
@@ -738,7 +736,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15e628f33da47229fe0d5e6e5e68b6007c86fbf8a1a2a1e08d7c49cb946408f8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a807e590b47174f4a3f9991a58014ddcd0942e8880041044aeedffd4d72e2d51._SX342_.jpg"
     },
     {
       "name": "Wiener-Dog",
@@ -929,7 +927,7 @@
       "originalTitle": "Die Deutschen",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680531656"
     },
     {
       "name": "A Bigger Splash",
@@ -1020,7 +1018,7 @@
       "originalTitle": "Zelig",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680006428"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680531656"
     },
     {
       "name": "A Pigeon Sat on a Branch Reflecting on Existence",
@@ -1102,7 +1100,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5746e6011ced1358d78785ae843c1c8903808a2e76188d00fe28925dbaab0e6e._SX342_.jpg"
     },
     {
       "name": "The Favourite",
@@ -1270,7 +1268,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/50001c656cf0c1b54d24e8a4bdf0684092283c028abf5b89410bd3cc34e2fdfd._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2dcb86f19905aaa5e4d80c74f7026c5c833ad481c7c588f00dbf9b69734ed8d._SX342_.jpg"
     },
     {
       "name": "Les Misérables",
@@ -1328,7 +1326,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e975c93d0f601d4f43fa2881ce34f953c4b738f8c33c8d150b47c983c44fa233._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/732744bcbc541ab937ce5a7fbaab5553f0de37ab31e6cc6273278be05524b4e0._SX342_.jpg"
     },
     {
       "name": "The Hobbit: The Battle of the Five Armies",
@@ -1406,10 +1404,6 @@
     },
     {
       "name": "Joyn",
-      "enabled": false
-    },
-    {
-      "name": "LIONSGATE+",
       "enabled": false
     },
     {
