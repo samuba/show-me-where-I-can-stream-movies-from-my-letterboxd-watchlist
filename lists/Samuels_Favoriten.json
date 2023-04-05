@@ -37,7 +37,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39775226fd6ba0930bc3d090fbb0a5974db81237da2f71b3a4e833eba46ad817._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eba9c54b035b288bd32bfc3ee91dda2d64cd6232f14d5b7d49ac42860f901b7a._SX342_.jpg"
     },
     {
       "name": "Primer",
@@ -101,12 +101,13 @@
       "rating": 4.3,
       "streamProviders": [
         "Sky WOW",
+        "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3781723195415d12e8dd129b27d216d6ac5567c54f5074c44b651fed58013221._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c3de7ac0a768fde0ac247c61cd9174edda213565c5fb4a6fed5c33e45f0bd93._SX342_.jpg"
     },
     {
       "name": "Reservoir Dogs",
@@ -145,7 +146,7 @@
         "Prime Video Channels ARTHAUS+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c0c15201e3be4af33da29c1aa310f1063d4b31ac166d2d49c68ff4dbf69a1c8f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e0ab9735404ea4748c18ccf7d22267ebcb95ca00e1d315ee08480d3cce053a5f._SX342_.jpg"
     },
     {
       "name": "Planet Terror",
@@ -156,8 +157,7 @@
       "rating": 3.3,
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d91cf9380f0f5fc15ce1a7a7d7d8d8884dbb4f09512eacf1dddd019682ca3137._SX342_.jpg"
     },
@@ -183,7 +183,7 @@
       "streamProviders": [
         "Joyn"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cefb657202f76fce347064d5dfb99a14a7d24da11d32d76b77f8edfe72e0d916._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d992aa8b7097ea49908aacbfc6ebed3a92fb233f64b0317a4bbf2e57221b698._SX342_.jpg"
     },
     {
       "name": "Desperado",
@@ -299,7 +299,7 @@
         "MagentaTV",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5ce8904aaffb706bd2fb16ee210d210dc5b45b8042ab1c92a6f13b786da888b3._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ea0d3ad251f1a8dc5c963a3415f93d49b5e4598e5708a1f2b46de551d447195._SX342_.jpg"
     },
     {
       "name": "Brick",
@@ -434,7 +434,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a19ca2dcfed4be11ec3ad58c11dc952052acd4ee81f278b41ada8f9992907111._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dd64d19e0984e03cabdde283bafe18c896d441973509218c16b496614c46c074._SX342_.jpg"
     },
     {
       "name": "The Grand Budapest Hotel",
@@ -483,7 +483,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b7049f8532043cd8662bd3dac03b809638f49184c180b3467823121b6c18466._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb59b3d0729b05d8b7b33bfc6ed35884b6ee2b3fa4be5480e8b150f33e994371._SX342_.jpg"
     },
     {
       "name": "Edge of Tomorrow",
@@ -507,7 +507,7 @@
       "originalTitle": "Argo",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6c154de7aa6ffc8397947699b774f07999d4d835c702e04e5d532f219fd93821._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6dc51fe6e39d1b040c172942360baeeba6c586dbd1ebd0a85dd25b7e054cf318._SX342_.jpg"
     },
     {
       "name": "Life of Pi",
@@ -531,7 +531,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cff42f907a3cf87b8c38ecaecdb8f527e293baca1cbb6aa77f7b2e8ac72ec44._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/80ab6ea26c4043cb8486196f8ad94717ee6d7c88a251a1db83b428a9ca6e1a5e._SX342_.jpg"
     },
     {
       "name": "Super",
@@ -543,7 +543,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f3a8b5ca86a3ee2c842faef4bbf866957693ac7642cf3dbcdafadf43c5caa623._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dcd3bbaba4d4d7ebe4ddfcc133ee5fe8b5c9cc6d2ef4dbe1ef9346e079e1b304._SX342_.jpg"
     },
     {
       "name": "The Guard",
@@ -766,7 +766,7 @@
       "originalTitle": "Der Eisbär",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680531656"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
     },
     {
       "name": "Lock, Stock and Two Smoking Barrels",
@@ -801,7 +801,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0886688a68bb858e054617741f7e94c55a9e0ee04055d0f14a0f6273cbfeea8c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70958291b450f957dea3eaf26bd1e5d54f728e75542b85815eaa232959cc812a._SX342_.jpg"
     },
     {
       "name": "The Big Short",
@@ -812,11 +812,10 @@
       "rating": 3.8,
       "streamProviders": [
         "Joyn",
-        "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Sat.1 emotions",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cef33702ca7b1a26ed160bd3e5362a307189f43bee1406b241fcaedff81e2227._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c9b02a0d6716f7e448f87f053fa52a6b6dc43aeaf10b5c4585339623c7029c5a._SX342_.png"
     },
     {
       "name": "The Revenant",
@@ -850,7 +849,7 @@
       "originalTitle": "김씨 표류기",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680531656"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
     },
     {
       "name": "Adam's Apples",
@@ -1048,7 +1047,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5746e6011ced1358d78785ae843c1c8903808a2e76188d00fe28925dbaab0e6e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_.jpg"
     },
     {
       "name": "The Imposter",
@@ -1073,7 +1072,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e84de7b14ed0f8912ffd05508d6c2ee0d40966b824692239a161362802a63736._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9261cc999c9b007c9dd455871b69d161efc411bb890e6ceb1ce5fc472e663bed._SX342_.jpg"
     },
     {
       "name": "Psycho",
@@ -1118,7 +1117,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/22f00bb3f7c225868743192111cf48a3abcf0bcb2b687cfbd34a50cd13e64da4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1bb9e01957cef390671a9a0a6f33c07514f821584a83c7d94875f6279e32ecfa._SX342_.jpg"
     },
     {
       "name": "La La Land",
@@ -1282,7 +1281,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_.jpg"
     },
     {
       "name": "Oldboy",
@@ -1308,7 +1307,7 @@
         "Amazon Prime Video",
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0bf15f9d6a52f43fbf9b598c16583387b8c18d1ba2b466a26576bd4997b5c2b4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0b64d32faa41b537a341553380df06220e2438a86c11256ccb7e707c4aab54a._SX342_.jpg"
     },
     {
       "name": "Parasite",
@@ -1320,7 +1319,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/073863df40de7c1fae9fb109f14d81c7aea24018f444c46c080adeb08fac1a52._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/882af8e22fa078fc9ecb777fd5b5f3b0a2f3f2b105c560287ad0c90c4a59104b._SX342_.jpg"
     },
     {
       "name": "Enter the Void",
@@ -1486,7 +1485,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79deda28476122774c601a0e4eeb42456a2867e062a55bd436dda45253e1c3c0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eac5f5d5e790bf621c92617ca51cf6387c4b497d06d06f4b1a433e34fa52be53._SX342_.jpg"
     },
     {
       "name": "The Green Mile",
@@ -1683,10 +1682,6 @@
     },
     {
       "name": "Prime Video Channels Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels ProSieben FUN",
       "enabled": false
     },
     {
