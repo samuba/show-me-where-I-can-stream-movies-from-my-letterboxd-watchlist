@@ -35,7 +35,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc141a3ddb273f2b9a174edd893fa94bcbf33e0040fbc453b50ecb3d658aa01._SX342_.jpg"
     },
     {
       "name": "Thelma & Louise",
@@ -877,7 +877,7 @@
       "originalTitle": "Miller's Crossing",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4371db8f281beb5e31344e33d21d0718229546875555b3c981e3c12e29ecf92a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ea983218db2568ad6eb5138c9b712724b74f7774bb1390853afedb2cca5d14e._SX342_.jpg"
     },
     {
       "name": "Dick Johnson Is Dead",
@@ -1190,7 +1190,9 @@
       "year": "1992",
       "originalTitle": "Deep Cover",
       "rating": 3.9,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/50d66e2ada67d38766f5fe8132a495c09eef8c226fc511a8ff7543b461cddd26._SX342_.jpg"
     },
     {
@@ -1383,7 +1385,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/807d482d87fc0cddd0be5e6c40f2433f5ad9bb1c41004b2f270e45eade983efc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_.jpg"
     },
     {
       "name": "History Is Made at Night",
@@ -1476,7 +1478,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/56c2075767b4628eeb196b735f2c914d98737867181e98cca588eb400c2cc990._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70f7ced29c013eab9db80f4125c7813f96069f80594ca0e151f10847cda7423a._SX342_.jpg"
     },
     {
       "name": "The Ascent",
@@ -1706,13 +1708,13 @@
       "listPosition": 0,
       "year": "1990",
       "originalTitle": "The Comfort of Strangers",
-      "rating": 3.2,
+      "rating": 3.3,
       "streamProviders": [
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a8986db48abf8e60ad4aa32acae8ee585a1287f7282dc6064b12e6888948f6cd._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b9d9abb912dac32159e535b5a5e9f2a690bd6c2754767e0603c9bb2d7ab01d0._SX342_.jpg"
     },
     {
       "name": "Toni",
@@ -1864,7 +1866,7 @@
       "originalTitle": "An Unmarried Woman",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/oeU75GbC1bReHobAFulXynfZBSg.jpg"
     },
     {
       "name": "Wildlife",
@@ -3031,7 +3033,7 @@
         "Prime Video Channels realeyz",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bd16e2440bdc16ee7ec52b3e27fa2895c36862a3eabc4039405e4a29167517f4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/da6c0100878e9257c677ec2c5d0511c98757d965875aa9d32190442a709d4d75._SX342_.jpg"
     },
     {
       "name": "Bull Durham",
@@ -3093,7 +3095,7 @@
       "originalTitle": "Morocco",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/db4rQaxj8APxlSHrk4WCX6ikUUj.jpg"
     },
     {
       "name": "Female Trouble",
@@ -3911,7 +3913,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e6bbf5e20f6707b94d1187fb49f173a525d6c5457cae7649fe123499952859f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84488d6f097a655baa59d2c30d0ce68302b011f5b3bf85e816a0ccb12166c1b8._SX342_.jpg"
     },
     {
       "name": "Barry Lyndon",
@@ -4298,7 +4300,7 @@
       "listPosition": 0,
       "year": "2013",
       "originalTitle": "Before Midnight",
-      "rating": 4.1,
+      "rating": 4,
       "streamProviders": [
         "Joyn",
         "Prime Video Channels ARTHAUS+",
@@ -4468,7 +4470,7 @@
         "Prime Video Channels Seven Entertainment",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/09153c97ec4da6d81cbcc92489cac55dea97ca699ca21fa704fce38d2182e1d4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dad1310316d33dceb350435db6b9fd6410aca5ea1a911cc57465af27799c4d42._SX342_.png"
     },
     {
       "name": "Dreams",
@@ -5296,7 +5298,7 @@
       "originalTitle": "La Nuit américaine",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/5AL44K53Fs5clE33Z4rAb9RiIp4.jpg"
     },
     {
       "name": "The French Lieutenant's Woman",
@@ -6021,7 +6023,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d73f925b762b53245c4eed6c02c937c0a5282cebf1dd6dd0c0bc92afb0bd9b4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ed1ccc5c9a2f01b65c8a0b21830fec9b2e66d9e5f964e1a6c7690d1f4c8d2b2._SX342_.jpg"
     },
     {
       "name": "Judex",
@@ -6061,7 +6063,7 @@
       "originalTitle": "Il Sorpasso",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/iQVAAL1mR3cTF1LO3LrIpk1WPMa.jpg"
     },
     {
       "name": "Master of the House",
@@ -6115,7 +6117,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0886688a68bb858e054617741f7e94c55a9e0ee04055d0f14a0f6273cbfeea8c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70958291b450f957dea3eaf26bd1e5d54f728e75542b85815eaa232959cc812a._SX342_.jpg"
     },
     {
       "name": "Persona",
@@ -6139,7 +6141,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dd64d19e0984e03cabdde283bafe18c896d441973509218c16b496614c46c074._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a19ca2dcfed4be11ec3ad58c11dc952052acd4ee81f278b41ada8f9992907111._SX342_.jpg"
     },
     {
       "name": "A Brief History of Time",
@@ -6387,7 +6389,8 @@
       "year": "1972",
       "originalTitle": "座頭市御用旅",
       "rating": 3.1,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/1fde6d495ff585be2930ce781ce6162c.jpg"
     },
     {
       "name": "Zatoichi Meets the One-Armed Swordsman",
@@ -6724,7 +6727,7 @@
         "Sooner",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/99a15234228a1bfb793410fe064a7c6c88b6e95aae58d9c0b91e79b1c5965697._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/acda3a0bc4299c1135af86ed0ab10269296d2978c825f0ef84c001a38ae21307._SX342_.jpg"
     },
     {
       "name": "Babette's Feast",
@@ -7560,7 +7563,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e1b7faa1462c6138b53d4285f5e18c8011298f53103e696b0d6579f3711876ef._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/282c558fef34affbda98c695bc6e4c5821926a8f03ba6799c91593d51b754d01._SX342_.jpg"
     },
     {
       "name": "This Happy Breed",
@@ -7863,7 +7866,7 @@
       "originalTitle": "Cul-de-sac",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vaKgOkt1O5rxCDnBqzlyq6rakDl.jpg"
     },
     {
       "name": "Secret Sunshine",
@@ -7882,7 +7885,8 @@
       "year": "1956",
       "originalTitle": "The Killing",
       "rating": 3.9,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/310a1124bb7a12acdbcbbcad87a8fff8ca0460bdaa1f92af8299a518a2c8d65e._SX342_.jpg"
     },
     {
       "name": "Life During Wartime",
@@ -7978,7 +7982,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/60600d1201560a694c0cfcc75470b7ffc6f1fcf4777c3a513be9988655270ad7._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b0a784eef6eb730d3848977b869eacb2e5066c09b991a28ced2fb053a4833cb0._SX342_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -8257,7 +8261,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74e6f96793e6f14233a586e8bfd79f0f50d6d15f9dfca023f1c91c6a07f9176c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cfe416b80ab990e16aa83e563f0a8397ff2f21dff0b983f7f2ff7d3638a669e2._SX342_.jpg"
     },
     {
       "name": "House",
@@ -8590,7 +8594,8 @@
       "year": "1989",
       "originalTitle": "Visions in Meditation #1",
       "rating": 3.5,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/aZ2j0a5MbgWzroceupPR5sWFpt.jpg"
     },
     {
       "name": "Arabic Numeral Series 12",
@@ -8858,7 +8863,7 @@
       "originalTitle": "Revanche",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/98502f3510f59a03978e6ac4abc379a367193d6036b649fee50fec4a9fd2ac87._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/836515738236f2177b17adad9f765adae7709369f0ea97925aa3124f12f44ba9._SX342_.jpg"
     },
     {
       "name": "Paris, Texas",
@@ -8890,7 +8895,7 @@
       "originalTitle": "Paisà",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/k3tn6p5ElKVrciCUvk662NKiamN.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/r5IGAFASCXmp8m51vUbER3WwVcB.jpg"
     },
     {
       "name": "Rome, Open City",
@@ -9965,9 +9970,7 @@
       "rating": 3.8,
       "streamProviders": [
         "Joyn",
-        "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels ARTHAUS+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ed96a4d05d06e55f9ff4ce26371a125835793fb158aa135bfe254403a43591f._SX342_.jpg"
     },
@@ -10879,7 +10882,7 @@
         "Amazon Prime Video",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3fa8b0a3ceba875c5d97d2864a9608eb8a582f516a5eb72079503b21a15b0223._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2fabbf1c0e374c997b53d29f8c85cb7d3f761e6e013da7ca30eb5163968533d5._SX342_.jpg"
     },
     {
       "name": "Dazed and Confused",
@@ -11216,7 +11219,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/868f46b078546d50f99e06b6c115b55285ec0b6bb4946060192dc40f698bca3e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/10d7d38e7f375572ba653cba7ce17c5096f24299caa0c226aa694eacde43d740._SX342_.jpg"
     },
     {
       "name": "Bad Timing",
@@ -11421,7 +11424,7 @@
       "listPosition": 0,
       "year": "1957",
       "originalTitle": "Kanał",
-      "rating": 4,
+      "rating": 4.1,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/tH1v3V0EipgfZafvMo8MVP31wTK.jpg"
     },
@@ -14363,7 +14366,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dadc9d1b15d4704b1da11c77988fa7edc23b0ef9ccd61abd4e63c9b6a8983908._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa42db8a4c6939c622058b30fe51e33f59b5fbbde6447e7a61b7e64e6646d30a._SX342_.jpg"
     },
     {
       "name": "Picnic at Hanging Rock",
@@ -14624,7 +14627,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_.jpg"
     },
     {
       "name": "Amarcord",
