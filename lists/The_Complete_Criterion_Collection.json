@@ -35,7 +35,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc141a3ddb273f2b9a174edd893fa94bcbf33e0040fbc453b50ecb3d658aa01._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_.jpg"
     },
     {
       "name": "Thelma & Louise",
@@ -453,7 +453,9 @@
       "year": "1997",
       "originalTitle": "Eve's Bayou",
       "rating": 3.8,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels MGM"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f2493a49f60763967dd8fc38261a8a0430b5ce8d9457d2b269f52c8980fb8639._SX342_.jpg"
     },
     {
@@ -877,7 +879,7 @@
       "originalTitle": "Miller's Crossing",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ea983218db2568ad6eb5138c9b712724b74f7774bb1390853afedb2cca5d14e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4371db8f281beb5e31344e33d21d0718229546875555b3c981e3c12e29ecf92a._SX342_.jpg"
     },
     {
       "name": "Dick Johnson Is Dead",
@@ -959,7 +961,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d4c9b7a22f32e2df4d18e4926541ec4ff42e457d9e091a9c06466afc209d42d0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/566f84583e7ebf0d78342bf1e11d00a63d4a62b1138e202ed809d4e2ee1f6a5a._SX342_.jpg"
     },
     {
       "name": "Citizen Kane",
@@ -1158,7 +1160,7 @@
       "originalTitle": "ワンダフルライフ",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/pvL6LqlC8UM79EG0Dh1yyPqzLfP.jpg"
     },
     {
       "name": "The Swimming Pool",
@@ -1478,7 +1480,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70f7ced29c013eab9db80f4125c7813f96069f80594ca0e151f10847cda7423a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/56c2075767b4628eeb196b735f2c914d98737867181e98cca588eb400c2cc990._SX342_.jpg"
     },
     {
       "name": "The Ascent",
@@ -1585,7 +1587,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/073863df40de7c1fae9fb109f14d81c7aea24018f444c46c080adeb08fac1a52._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/882af8e22fa078fc9ecb777fd5b5f3b0a2f3f2b105c560287ad0c90c4a59104b._SX342_.jpg"
     },
     {
       "name": "The Gunfighter",
@@ -1708,7 +1710,7 @@
       "listPosition": 0,
       "year": "1990",
       "originalTitle": "The Comfort of Strangers",
-      "rating": 3.3,
+      "rating": 3.2,
       "streamProviders": [
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM",
@@ -1847,7 +1849,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41ca5022ce1dec796391347b315f5e152e41088a111983e68d91d4a923e11ac3._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b76a95378ec02359137f096a6c3a5d8aac83da5af77083fb1600491b39a77043._SX342_.jpg"
     },
     {
       "name": "The Cameraman",
@@ -2177,7 +2179,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/796d6c8aa35c908ae7b0d1a74e1ce983e256dbe7aeb6c9deaa1316707345dbc5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fdbf6c16eb81cf75590751290e9182fd7126d4cd361bd69de11c31a10a549bad._SX342_.jpg"
     },
     {
       "name": "Now, Voyager",
@@ -2637,7 +2639,7 @@
         "Netzkino",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84a54ca33ef6391faa28e2f9dc8a083a4e541d899036778a0807c540892aab4c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b42aad8d76128b57104d103c525b1ac57e085a84f8f2c9e9315c3d5312fdeb9b._SX342_.jpg"
     },
     {
       "name": "The Heiress",
@@ -2882,7 +2884,7 @@
       "listPosition": 0,
       "year": "1986",
       "originalTitle": "True Stories",
-      "rating": 4.1,
+      "rating": 4,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
     },
@@ -2979,9 +2981,11 @@
       "originalTitle": "The Tree of Life",
       "rating": 3.8,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Prime Video Channels Arthouse CNMA",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8333063cd2fcaf154a41572076c591383a65d88279e725a09052e707fff8414a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6b67843f50a5d1b089ad6b81a3913c7ab701132deaa64b6c8b8d794581d7f62a._SX342_.png"
     },
     {
       "name": "Smithereens",
@@ -3276,7 +3280,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e0540212edf4a10871538b90b88206bf2faed1dd39540bcd3fa6b506464b8fbe._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/378b10388cefa7e4cccdb865bd167f976ae7d28f0e526cc69a64996450ae4b22._SX342_.jpg"
     },
     {
       "name": "An Actor's Revenge",
@@ -4399,7 +4403,7 @@
       "originalTitle": "His Girl Friday",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/685166e7e510d835287df64fd4d2138f29c071a923a99a36a98a591e8a06b828._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7943e23a734cfb5b528c2af62f7fb6837ed61bcc51751f76f0b6de073f8ee4a0._SX342_.jpg"
     },
     {
       "name": "Roma",
@@ -4734,7 +4738,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e374680fd3138b2220c4410ee9e26033e055941f6791304d9ecfe998ceff8ea._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2993206e4bf6f98f7e8129f6563e540a0705147444931f7e004bb974029673dc._SX342_.jpg"
     },
     {
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -5964,7 +5968,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ff7feb05b7d1de52dbabe793159ab82f932dc298919546162d70b93bcb9e1653._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f101ddccb7103a819591c04ac6ec486c6065212dbc44c6e687dccbc109421d67._SX342_.jpg"
     },
     {
       "name": "The Umbrellas of Cherbourg",
@@ -5977,7 +5981,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11e967090d4a8e5da8af4d0db7e843ef2332aa3e137832caf41701195a555264._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/34da2dbbbc2ab77cce7e977daee3df8198f081da121b1161ab6da9f6d3ab0571._SX342_.jpg"
     },
     {
       "name": "Bay of Angels",
@@ -6141,7 +6145,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a19ca2dcfed4be11ec3ad58c11dc952052acd4ee81f278b41ada8f9992907111._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dd64d19e0984e03cabdde283bafe18c896d441973509218c16b496614c46c074._SX342_.jpg"
     },
     {
       "name": "A Brief History of Time",
@@ -6570,8 +6574,7 @@
       "year": "1963",
       "originalTitle": "新・座頭市物語",
       "rating": 3.6,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "streamProviders": []
     },
     {
       "name": "The Tale of Zatoichi Continues",
@@ -6581,7 +6584,7 @@
       "originalTitle": "続・座頭市物語",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/18af93e4d793cf562740b99d57e2cf5852063749e034dbba936ffd74ec2bd65e._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/302403555/s166/Zatoichi-2-The-Tale-of-Zatoichi-Continues"
     },
     {
       "name": "The Tale of Zatoichi",
@@ -6727,7 +6730,7 @@
         "Sooner",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/acda3a0bc4299c1135af86ed0ab10269296d2978c825f0ef84c001a38ae21307._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/99a15234228a1bfb793410fe064a7c6c88b6e95aae58d9c0b91e79b1c5965697._SX342_.jpg"
     },
     {
       "name": "Babette's Feast",
@@ -6845,8 +6848,7 @@
       "year": "1969",
       "originalTitle": "Le Grand Amour",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/qTpO8TLs3boFRXByLLAhwKAS4Cd.jpg"
+      "streamProviders": []
     },
     {
       "name": "As Long as You've Got Your Health",
@@ -6855,8 +6857,7 @@
       "year": "1966",
       "originalTitle": "Tant qu'on a la santé",
       "rating": 3.5,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "streamProviders": []
     },
     {
       "name": "Yoyo",
@@ -6988,7 +6989,7 @@
       "originalTitle": "Pina",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0983dedc070018fc47e9216c1658e6685bb35b4d8fe9e01ef453ae1a1ffeb84b._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/100304513/s166/Pina"
     },
     {
       "name": "The Man Who Knew Too Much",
@@ -7563,7 +7564,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/282c558fef34affbda98c695bc6e4c5821926a8f03ba6799c91593d51b754d01._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e1b7faa1462c6138b53d4285f5e18c8011298f53103e696b0d6579f3711876ef._SX342_.jpg"
     },
     {
       "name": "This Happy Breed",
@@ -7885,8 +7886,7 @@
       "year": "1956",
       "originalTitle": "The Killing",
       "rating": 3.9,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/310a1124bb7a12acdbcbbcad87a8fff8ca0460bdaa1f92af8299a518a2c8d65e._SX342_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Life During Wartime",
@@ -7982,7 +7982,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b0a784eef6eb730d3848977b869eacb2e5066c09b991a28ced2fb053a4833cb0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/60600d1201560a694c0cfcc75470b7ffc6f1fcf4777c3a513be9988655270ad7._SX342_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -8566,7 +8566,7 @@
       "listPosition": 0,
       "year": "1990",
       "originalTitle": "Visions in Meditation #4: D.H. Lawrence",
-      "rating": 3.4,
+      "rating": 3.5,
       "streamProviders": []
     },
     {
@@ -8594,8 +8594,7 @@
       "year": "1989",
       "originalTitle": "Visions in Meditation #1",
       "rating": 3.5,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/aZ2j0a5MbgWzroceupPR5sWFpt.jpg"
+      "streamProviders": []
     },
     {
       "name": "Arabic Numeral Series 12",
@@ -8735,7 +8734,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels Wild West"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/803c36aee114987fd7080fda370051d7da6fcdfef867a50a6f2cdb04fea831b2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f8572a0a18d6f5063438d742ebc4fea767621de37a8bc2bc987ea1a1f28f04e1._SX342_.jpg"
     },
     {
       "name": "The Fugitive Kind",
@@ -8970,7 +8969,7 @@
       "listPosition": 0,
       "year": "1955",
       "originalTitle": "A Wind from the South",
-      "rating": 3.2,
+      "rating": 3.1,
       "streamProviders": []
     },
     {
@@ -9182,8 +9181,7 @@
       "year": "1959",
       "originalTitle": "人間の條件　第１部純愛篇／第２部激怒篇",
       "rating": 4.4,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/qy8ziqjAqtZ1HWKvtKHeuLQBFvK.jpg"
+      "streamProviders": []
     },
     {
       "name": "My Dinner with Andre",
@@ -9919,7 +9917,7 @@
       "originalTitle": "Muerte de un ciclista",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/otJYYj4si0Kwabbw651RtzLEPUj.jpg"
     },
     {
       "name": "The Ice Storm",
@@ -9969,7 +9967,6 @@
       "originalTitle": "The Last Emperor",
       "rating": 3.8,
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels ARTHAUS+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ed96a4d05d06e55f9ff4ce26371a125835793fb158aa135bfe254403a43591f._SX342_.jpg"
@@ -9997,7 +9994,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/135d5261692428c36787c702574ccafb8fa17ce5ebd82e0b3896f6825646aa34._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b27f1eaf92571f72f779d6afe25c93ccf7d9f529a2c359c03c05a2ae987dd89._SX342_.jpg"
     },
     {
       "name": "La Pointe-Courte",
@@ -10101,7 +10098,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0ccbe4828d31371a076c68b55ac7883addb162e27ac389b28858e96b80544db6._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2ed591372311eded806b04833350e5d4384fa67bf9361d43c6ead78c82434d9._SX342_.jpg"
     },
     {
       "name": "Breathless",
@@ -10314,7 +10311,7 @@
       "originalTitle": "Sweet Movie",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vMdeO3ebJGyfkK0PKtwNQiSaS8G.jpg"
     },
     {
       "name": "WR: Mysteries of the Organism",
@@ -10357,8 +10354,7 @@
       "originalTitle": "La Jetée",
       "rating": 4.3,
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9f1f31da79ddd3fd42896ecb7a4c11d9ac53fa6b332ea6a73bf1d35aaa3a04de._SX342_.jpg"
     },
@@ -10882,7 +10878,7 @@
         "Amazon Prime Video",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2fabbf1c0e374c997b53d29f8c85cb7d3f761e6e013da7ca30eb5163968533d5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3fa8b0a3ceba875c5d97d2864a9608eb8a582f516a5eb72079503b21a15b0223._SX342_.png"
     },
     {
       "name": "Dazed and Confused",
@@ -10979,7 +10975,7 @@
       "originalTitle": "Le souffle au cœur",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/2FgXV15bfygS9Qr1V5hNrd8EtOM.jpg"
     },
     {
       "name": "Metropolitan",
@@ -11219,7 +11215,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/10d7d38e7f375572ba653cba7ce17c5096f24299caa0c226aa694eacde43d740._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/477cb6a4ae19c8ef2f9c4e747d783050fead679307d5575137c7cadb97081b39._SX342_.jpg"
     },
     {
       "name": "Bad Timing",
@@ -11818,7 +11814,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/04312d81ba22fbe6c372eff2ced79b138a91ffa1f9bcb6c340c658b95721d6bf._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b36d6524d8336803ebcd73ffe7f224da6ff9f82c2a809004d8bd5bdc6ff3c227._SX342_.jpg"
     },
     {
       "name": "The Golden Coach",
@@ -12143,7 +12139,7 @@
       "listPosition": 0,
       "year": "1941",
       "originalTitle": "All That Money Can Buy",
-      "rating": 3.6,
+      "rating": 3.7,
       "streamProviders": []
     },
     {
@@ -12249,7 +12245,7 @@
       "originalTitle": "Stazione Termini",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ih34N6b8UjOenNQ8rk8YVYNNLn6.jpg"
     },
     {
       "name": "Umberto D.",
@@ -13701,7 +13697,7 @@
       "listPosition": 0,
       "year": "1944",
       "originalTitle": "Иван Грозный",
-      "rating": 3.8,
+      "rating": 3.9,
       "streamProviders": [],
       "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/03/image/jpeg/da4a627618d9a5d3da03f4a9d895f39d.jpg"
     },
@@ -14274,7 +14270,7 @@
         "Prime Video Channels realeyz",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec703d5abef0cb09da9156675ff67d4526e2474ca618cbf7199111484d4b25bc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/13119b24070db8841d157f5e7079eb28faec2fbe2397624b966e3b9db0480459._SX342_.jpg"
     },
     {
       "name": "Time Bandits",
@@ -14287,7 +14283,7 @@
         "Prime Video Channels Moviedome PLUS",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7ff37e3a5cf79fd097c4b3f80f25d9c20b895663c97eec38afe9864358eac682._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc6db6fa5ed546d3c5908209ed9d88646d965261945fa5573a57e15aa492426._SX342_.jpg"
     },
     {
       "name": "The Wages of Fear",
@@ -14627,7 +14623,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_.jpg"
     },
     {
       "name": "Amarcord",
@@ -15041,7 +15037,7 @@
       "listPosition": 0,
       "year": "1977",
       "originalTitle": "The Serpent's Egg",
-      "rating": 3.3,
+      "rating": 3.2,
       "streamProviders": [
         "MagentaTV"
       ],
@@ -15096,7 +15092,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/51546dfb85dec143457d0b3884a3c0ccb5ef7d1e9df0b3f23500903856981c3b._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d5b07622a5ea8240d8bf6c2ba2472d792800d5952ebbbd40d34e6f97800c8934._SX342_.jpg"
     },
     {
       "name": "Les 3 Boutons",
