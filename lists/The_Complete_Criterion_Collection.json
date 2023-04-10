@@ -35,7 +35,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc141a3ddb273f2b9a174edd893fa94bcbf33e0040fbc453b50ecb3d658aa01._SX342_.jpg"
     },
     {
       "name": "Thelma & Louise",
@@ -342,7 +342,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bc52b04c1d97babbd07842b64378fb586bb640666d1be354ad82a1016c78994e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d1b80243ec33ea56bee74ea4356dc5f84bb9e315397b7a44f575c56eced3e955._SX342_.jpg"
     },
     {
       "name": "Malcolm X",
@@ -961,7 +961,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/566f84583e7ebf0d78342bf1e11d00a63d4a62b1138e202ed809d4e2ee1f6a5a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d4c9b7a22f32e2df4d18e4926541ec4ff42e457d9e091a9c06466afc209d42d0._SX342_.jpg"
     },
     {
       "name": "Citizen Kane",
@@ -1387,7 +1387,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/807d482d87fc0cddd0be5e6c40f2433f5ad9bb1c41004b2f270e45eade983efc._SX342_.jpg"
     },
     {
       "name": "History Is Made at Night",
@@ -1480,7 +1480,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/56c2075767b4628eeb196b735f2c914d98737867181e98cca588eb400c2cc990._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70f7ced29c013eab9db80f4125c7813f96069f80594ca0e151f10847cda7423a._SX342_.jpg"
     },
     {
       "name": "The Ascent",
@@ -2884,7 +2884,7 @@
       "listPosition": 0,
       "year": "1986",
       "originalTitle": "True Stories",
-      "rating": 4,
+      "rating": 4.1,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
     },
@@ -3654,7 +3654,7 @@
       "listPosition": 0,
       "year": "1968",
       "originalTitle": "13 jours en France",
-      "rating": 3.7,
+      "rating": 3.6,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/nr9rFCy5vsEUjxf6ygdfktiltY7.jpg"
     },
@@ -4131,8 +4131,7 @@
       "originalTitle": "Месть",
       "rating": 3.6,
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f8d66f8beffb95b85533325d4af6555b5a1a5cff9a283e0c2fb9d82159ca7e7._SX342_.jpg"
     },
@@ -4403,7 +4402,7 @@
       "originalTitle": "His Girl Friday",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7943e23a734cfb5b528c2af62f7fb6837ed61bcc51751f76f0b6de073f8ee4a0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/685166e7e510d835287df64fd4d2138f29c071a923a99a36a98a591e8a06b828._SX342_.jpg"
     },
     {
       "name": "Roma",
@@ -4435,7 +4434,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f27d9055172da16533eeb0524231485791bef2474b1996559917dba6052dab85._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c32e231bb549a4ac866b493f58e5c88ca497941236268a8d696b802e15739f88._SX342_.jpg"
     },
     {
       "name": "The Squid and the Whale",
@@ -5968,7 +5967,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f101ddccb7103a819591c04ac6ec486c6065212dbc44c6e687dccbc109421d67._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ff7feb05b7d1de52dbabe793159ab82f932dc298919546162d70b93bcb9e1653._SX342_.jpg"
     },
     {
       "name": "The Umbrellas of Cherbourg",
@@ -6574,7 +6573,8 @@
       "year": "1963",
       "originalTitle": "新・座頭市物語",
       "rating": 3.6,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
     },
     {
       "name": "The Tale of Zatoichi Continues",
@@ -6584,7 +6584,7 @@
       "originalTitle": "続・座頭市物語",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/302403555/s166/Zatoichi-2-The-Tale-of-Zatoichi-Continues"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/18af93e4d793cf562740b99d57e2cf5852063749e034dbba936ffd74ec2bd65e._SX342_.jpg"
     },
     {
       "name": "The Tale of Zatoichi",
@@ -6848,7 +6848,8 @@
       "year": "1969",
       "originalTitle": "Le Grand Amour",
       "rating": 3.8,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/qTpO8TLs3boFRXByLLAhwKAS4Cd.jpg"
     },
     {
       "name": "As Long as You've Got Your Health",
@@ -6857,7 +6858,8 @@
       "year": "1966",
       "originalTitle": "Tant qu'on a la santé",
       "rating": 3.5,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
     },
     {
       "name": "Yoyo",
@@ -6989,7 +6991,7 @@
       "originalTitle": "Pina",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/100304513/s166/Pina"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0983dedc070018fc47e9216c1658e6685bb35b4d8fe9e01ef453ae1a1ffeb84b._SX342_.jpg"
     },
     {
       "name": "The Man Who Knew Too Much",
@@ -7564,7 +7566,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e1b7faa1462c6138b53d4285f5e18c8011298f53103e696b0d6579f3711876ef._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/282c558fef34affbda98c695bc6e4c5821926a8f03ba6799c91593d51b754d01._SX342_.jpg"
     },
     {
       "name": "This Happy Breed",
@@ -9107,7 +9109,7 @@
       "originalTitle": "The Last Days of Disco",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/baa9c8dc2275da425ba88cca907a923f8a76195cff709fb98a54c930f1336416._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/20b9f061330cd6a85025b8310ffd93315f14b31bb82893aba343a672f2d8c799._SX342_.jpg"
     },
     {
       "name": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
@@ -9181,7 +9183,8 @@
       "year": "1959",
       "originalTitle": "人間の條件　第１部純愛篇／第２部激怒篇",
       "rating": 4.4,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/qy8ziqjAqtZ1HWKvtKHeuLQBFvK.jpg"
     },
     {
       "name": "My Dinner with Andre",
@@ -10110,7 +10113,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9a7b6ad4ba25ec5d92e5ba37885aec30cd30ad65198fae5470393278baa81bd8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6c8a37746634cd55e8be15c925ff2fc4ca3e5e7e36d954668898ecb7d8c6c5a._SX342_.jpg"
     },
     {
       "name": "Mala Noche",
@@ -10354,7 +10357,8 @@
       "originalTitle": "La Jetée",
       "rating": 4.3,
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9f1f31da79ddd3fd42896ecb7a4c11d9ac53fa6b332ea6a73bf1d35aaa3a04de._SX342_.jpg"
     },
@@ -10878,7 +10882,7 @@
         "Amazon Prime Video",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3fa8b0a3ceba875c5d97d2864a9608eb8a582f516a5eb72079503b21a15b0223._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2fabbf1c0e374c997b53d29f8c85cb7d3f761e6e013da7ca30eb5163968533d5._SX342_.jpg"
     },
     {
       "name": "Dazed and Confused",
@@ -13407,7 +13411,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/06d3a498f2fa34903199542fb3208a15093911f4d3a8a4e556e28b59cadbd3f3._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d022aa25867ab80968ecaa8085230fdc7a6d314400bb44c4867f93c5eb27c5db._SX342_.jpg"
     },
     {
       "name": "My Man Godfrey",
@@ -15037,7 +15041,7 @@
       "listPosition": 0,
       "year": "1977",
       "originalTitle": "The Serpent's Egg",
-      "rating": 3.2,
+      "rating": 3.3,
       "streamProviders": [
         "MagentaTV"
       ],
