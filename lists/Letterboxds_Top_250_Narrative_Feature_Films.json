@@ -42,7 +42,7 @@
       "originalTitle": "切腹",
       "rating": 4.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
       "name": "The Godfather: Part II",
@@ -181,7 +181,7 @@
         "Amazon Prime Video",
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0bf15f9d6a52f43fbf9b598c16583387b8c18d1ba2b466a26576bd4997b5c2b4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0b64d32faa41b537a341553380df06220e2438a86c11256ccb7e707c4aab54a._SX342_.jpg"
     },
     {
       "name": "Yi Yi",
@@ -310,7 +310,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/22f00bb3f7c225868743192111cf48a3abcf0bcb2b687cfbd34a50cd13e64da4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1bb9e01957cef390671a9a0a6f33c07514f821584a83c7d94875f6279e32ecfa._SX342_.jpg"
     },
     {
       "name": "The Good, the Bad and the Ugly",
@@ -332,7 +332,7 @@
       "originalTitle": "La Haine",
       "rating": 4.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
       "name": "The Empire Strikes Back",
@@ -344,7 +344,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9e1e74de1e5df4677714e2be1e1cb9c3ad7eba3aff1389cb3319f322191bac1d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47dce1e6d650c33cee892ab89eb9356ff9274a34039d07f7537bbf8418d521b8._SX342_.jpg"
     },
     {
       "name": "Perfect Blue",
@@ -463,7 +463,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/494d431912c90a2789538e0538ce1c0003a071d2c0fc6fc92abc15c968442780._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/143f2a711e3b623e785912f984b1e70cec2309554baccd385620801959c7855c._SX342_.jpg"
     },
     {
       "name": "Sunset Boulevard",
@@ -693,7 +693,7 @@
       "originalTitle": "The Apartment",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d3ef0a6118cd624166c1196524c78adf562d37b67cbf14227fcabb919e82f1b2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/83c1210a55cce11520e608f89f72e293bcb7135575098e783b6cfa1c3c2980c0._SX342_.jpg"
     },
     {
       "name": "Oldboy",
@@ -762,7 +762,7 @@
       "originalTitle": "O Pagador de Promessas",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
       "name": "Fanny and Alexander",
@@ -887,6 +887,7 @@
       "originalTitle": "It's a Wonderful Life",
       "rating": 4.3,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
@@ -1020,7 +1021,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15fb6fa9ab4bed71f0f92218d56bec4c9f1e026a57500a5b392486c5409abd2d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c3de7ac0a768fde0ac247c61cd9174edda213565c5fb4a6fed5c33e45f0bd93._SX342_.jpg"
     },
     {
       "name": "Love Exposure",
@@ -1163,7 +1164,7 @@
       "originalTitle": "পথের পাঁচালী",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
       "name": "Chungking Express",
@@ -1182,7 +1183,10 @@
       "year": "1979",
       "originalTitle": "Alien",
       "rating": 4.3,
-      "streamProviders": []
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b725b61279a59c75ec69c1a9e71ac9157f75263d1b79cc32d6650fd6f48436be._SX342_.jpg"
     },
     {
       "name": "Puss in Boots: The Last Wish",
@@ -1271,8 +1275,10 @@
       "year": "2018",
       "originalTitle": "大象席地而坐",
       "rating": 4.3,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/9WMqts663W2yxJ6B16uKX47k7vl.jpg"
+      "streamProviders": [
+        "Arte"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/97898684/s166/An-Elephant-Sitting-Still"
     },
     {
       "name": "Late Spring",
@@ -1408,7 +1414,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_.jpg"
     },
     {
       "name": "Fantastic Mr. Fox",
@@ -1420,7 +1426,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dd64d19e0984e03cabdde283bafe18c896d441973509218c16b496614c46c074._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a19ca2dcfed4be11ec3ad58c11dc952052acd4ee81f278b41ada8f9992907111._SX342_.jpg"
     },
     {
       "name": "A Man Escaped",
@@ -1476,7 +1482,7 @@
       "originalTitle": "All That Jazz",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
       "name": "Red Beard",
@@ -1521,7 +1527,7 @@
       "originalTitle": "Lawrence of Arabia",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fed84b59bf74f8603269ec69288bd7e6ed09ad0092be1d6f736a28293367f2d0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ede1ad61d6451f25498a20071aa39040ca0b49824b24cc451c6b32cf7c54be4._SX342_.jpg"
     },
     {
       "name": "Dead Poets Society",
@@ -1571,7 +1577,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ff7feb05b7d1de52dbabe793159ab82f932dc298919546162d70b93bcb9e1653._SX342_.jpg"
     },
     {
       "name": "Marcel the Shell with Shoes On",
@@ -1685,7 +1691,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e22009abbf8c9fa9ef8d863218229469323396754d23c760b6767253ec48759a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74dcaabb9c58fc79ae0f370a53834cd71af6317457c7a157e8f4722349e88936._SX342_.jpg"
     },
     {
       "name": "Wings of Desire",
@@ -1709,7 +1715,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
       "name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
@@ -1767,7 +1773,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
       "name": "Akira",
@@ -1919,7 +1925,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0555a7165fd4da62885708479df87e7e69372d658162cb71fe5c801eba5c8e3._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4e0e25d8a2b4107ff7b70a8a0eeae67baa27a8495cfee651f999c8ccfcb1656c._SX342_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -2220,7 +2226,7 @@
         "Amazon Prime Video",
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d0cac03b51367623899f658ecbc8c08bf83fe7dfaa6deebbcce36f4f86b4dca9._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3de4d3c9add229ba6876dd36f1425fa131d3e8d61fe8c962c0fb85a03a2d6735._SX342_.jpg"
     },
     {
       "name": "Manila in the Claws of Light",
@@ -2305,7 +2311,7 @@
       "originalTitle": "The Life and Death of Colonel Blimp",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/kgyd5uyndsXiLYKlVgH0sm7Jfkv.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vaVzhBWa3R1eRaqOlxa0i9Aouh1.jpg"
     },
     {
       "name": "The Cremator",
@@ -2485,7 +2491,7 @@
       "originalTitle": "Make Way for Tomorrow",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
       "name": "Metropolis",
@@ -2544,7 +2550,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_.jpg"
     },
     {
       "name": "Inception",
@@ -2556,7 +2562,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85606f6576c3d8ae0846b62603aa781bd30ecfc0c7acff908e8996d9fa37e026._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d99c190315ae7a7346159d08b9580faa8be10420998ac944030e7751728d6eca._SX342_.jpg"
     },
     {
       "name": "The Treasure of the Sierra Madre",
@@ -2576,7 +2582,7 @@
       "originalTitle": "The Iron Giant",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/55854cae92c8a52ae4cec11db4eaf1dc5de1915d69578181233560f894e67f1f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/19aec5ecad94bd8a8b55b1c8f4102131787113d949a0c7eda733c52ea9edeba1._SX342_.jpg"
     },
     {
       "name": "Sweet Smell of Success",
@@ -2667,7 +2673,7 @@
       "originalTitle": "甜蜜蜜",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
       "name": "Little Women",
@@ -2776,7 +2782,7 @@
       "originalTitle": "Umberto D.",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1680612628"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
       "name": "Solaris",
@@ -2824,6 +2830,10 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Arte",
       "enabled": false
     },
     {
