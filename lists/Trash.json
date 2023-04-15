@@ -202,7 +202,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e19f87fa3b7d2251e04fa2899d9518c3bfcae5149508fb023c8e0d925ea65d8e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6d8657d7beea495d6d12af408e8a8b3cc9922c2ffc63ca3e34c2e892d3e1535._SX342_.jpg"
     },
     {
       "name": "Hack-O-Lantern",
@@ -786,7 +786,7 @@
       "listPosition": 80,
       "year": "1978",
       "originalTitle": "The Alien Factor",
-      "rating": 2.7,
+      "rating": 2.8,
       "streamProviders": []
     },
     {
@@ -898,7 +898,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ee70d42b0eded09bdc17fcac6a5265db5f1a4145a4e1f27e60e2c59d5f69af4d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39969fbba4b53285cd2715619db855267b448cd3a8c3e51d31546b18a312315a._SX342_.jpg"
     },
     {
       "name": "13 Ghosts",
@@ -1976,8 +1976,10 @@
       "year": "1977",
       "originalTitle": "Yeti: Il Gigante del 20° Secolo",
       "rating": 2.6,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
+      "streamProviders": [
+        "Prime Video Channels Silverline"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc83f99c96b19acdf48eaaf33bb57995495951b4a2abf30a7bead46993a22dfe._SX342_.jpg"
     },
     {
       "name": "Project: Shadowchaser",
@@ -2219,7 +2221,7 @@
       "listPosition": 225,
       "year": "1995",
       "originalTitle": "Red Line",
-      "rating": 2.9,
+      "rating": 2.8,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6258a67dabc7531e257c3539fdb030adbdd54bdae975fcecbee761bbb988a631._SX342_.jpg"
     },
@@ -2323,7 +2325,7 @@
       "streamProviders": [
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/030e690e9be25b6a073f492551e73ec71c3d422bdad295b884f2c7c1b3669191._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0296858828c683119021f55de9405140355c613d44ac4dd821b6c689d77aa14b._SX342_.jpg"
     },
     {
       "name": "Bloodsuckers from Outer Space",
@@ -4021,7 +4023,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/146b040f2d24a930d021a24fc6615196931d0871898320842c8bc9281173e293._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/148c971ef33c95ac0cb548c5167c00bd7787b6f7706dad3378226f6a3e83e2c5._SX342_.jpg"
     },
     {
       "name": ".com for Murder",
@@ -4105,7 +4107,7 @@
         "Prime Video Channels FILMLEGENDEN",
         "Prime Video Channels MOVIECULT"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3b24ca01420ac284ed3eb75278b3eb36cc96fa87c075c5857e48fb6517d6840f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1eb293bd4530355a920b5ee8e2ab7c0021d3b0b3454fe1e2a2b08c9e184b7276._SX342_.jpg"
     },
     {
       "name": "Abby",
