@@ -35,7 +35,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc141a3ddb273f2b9a174edd893fa94bcbf33e0040fbc453b50ecb3d658aa01._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_.jpg"
     },
     {
       "name": "Thelma & Louise",
@@ -308,9 +308,7 @@
       "year": "1968",
       "originalTitle": "Flickorna",
       "rating": 3.7,
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
@@ -342,7 +340,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d1b80243ec33ea56bee74ea4356dc5f84bb9e315397b7a44f575c56eced3e955._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bc52b04c1d97babbd07842b64378fb586bb640666d1be354ad82a1016c78994e._SX342_.jpg"
     },
     {
       "name": "Malcolm X",
@@ -475,8 +473,10 @@
       "year": "1997",
       "originalTitle": "Lost Highway",
       "rating": 4,
-      "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2009/01/image/jpeg/69ea2f8e5aaa06de88c78fe9cbf3197a.jpg"
+      "streamProviders": [
+        "Prime Video Channels ARTHAUS+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d342515954e3f4f61c5a2b70f393f05e2049ad6373790d621140a8cafea4dbc1._SX342_.jpg"
     },
     {
       "name": "Sound of Metal",
@@ -876,7 +876,7 @@
       "originalTitle": "Miller's Crossing",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ea983218db2568ad6eb5138c9b712724b74f7774bb1390853afedb2cca5d14e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4371db8f281beb5e31344e33d21d0718229546875555b3c981e3c12e29ecf92a._SX342_.jpg"
     },
     {
       "name": "Dick Johnson Is Dead",
@@ -1126,7 +1126,7 @@
       "listPosition": 0,
       "year": "2004",
       "originalTitle": "柔道龍虎榜",
-      "rating": 3.8,
+      "rating": 3.9,
       "streamProviders": []
     },
     {
@@ -1333,7 +1333,7 @@
       "listPosition": 0,
       "year": "1998",
       "originalTitle": "海上花",
-      "rating": 3.8,
+      "rating": 3.9,
       "streamProviders": []
     },
     {
@@ -1476,7 +1476,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/56c2075767b4628eeb196b735f2c914d98737867181e98cca588eb400c2cc990._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70f7ced29c013eab9db80f4125c7813f96069f80594ca0e151f10847cda7423a._SX342_.jpg"
     },
     {
       "name": "The Ascent",
@@ -1540,7 +1540,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/oMtfcOtJp43rePvtMiHnI9PVHF6.jpg"
     },
     {
       "name": "Ghost Dog: The Way of the Samurai",
@@ -1706,7 +1706,7 @@
       "listPosition": 0,
       "year": "1990",
       "originalTitle": "The Comfort of Strangers",
-      "rating": 3.3,
+      "rating": 3.2,
       "streamProviders": [
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM",
@@ -2977,11 +2977,12 @@
       "originalTitle": "The Tree of Life",
       "rating": 3.8,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6b67843f50a5d1b089ad6b81a3913c7ab701132deaa64b6c8b8d794581d7f62a._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8333063cd2fcaf154a41572076c591383a65d88279e725a09052e707fff8414a._SX342_.jpg"
     },
     {
       "name": "Smithereens",
@@ -2991,7 +2992,7 @@
       "originalTitle": "Smithereens",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jp29gfdiP7AxtjqzlzyaztFORMF.jpg"
     },
     {
       "name": "The Ballad of Gregorio Cortez",
@@ -3698,7 +3699,7 @@
       "listPosition": 0,
       "year": "1956",
       "originalTitle": "Hästen i centrum",
-      "rating": 2.9,
+      "rating": 2.8,
       "streamProviders": []
     },
     {
@@ -3913,7 +3914,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e6bbf5e20f6707b94d1187fb49f173a525d6c5457cae7649fe123499952859f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84488d6f097a655baa59d2c30d0ce68302b011f5b3bf85e816a0ccb12166c1b8._SX342_.jpg"
     },
     {
       "name": "Barry Lyndon",
@@ -4121,7 +4122,7 @@
     },
     {
       "name": "Revenge",
-      "letterboxdUrl": "https://letterboxd.com/film/revenge-1989/",
+      "letterboxdUrl": "https://letterboxd.com/film/revenge-1990/",
       "listPosition": 0,
       "year": "1990",
       "originalTitle": "Месть",
@@ -4278,7 +4279,7 @@
         "Amazon Prime Video",
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b6b6eeaeedcc286a096c2f68c7768aac47a51ceb95a8b35471a6f3ea47eddcb1._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/decd1332ab25271d0b1dba8541a17583645a457f07a91a68eda95bf6320594b0._SX342_.jpg"
     },
     {
       "name": "Mildred Pierce",
@@ -4395,7 +4396,7 @@
       "originalTitle": "His Girl Friday",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7943e23a734cfb5b528c2af62f7fb6837ed61bcc51751f76f0b6de073f8ee4a0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/685166e7e510d835287df64fd4d2138f29c071a923a99a36a98a591e8a06b828._SX342_.jpg"
     },
     {
       "name": "Roma",
@@ -4451,7 +4452,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels MOCONOMY"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e9c5d04613c35c2d82982920db4aec0d23da9b4266e06bcaabfff3e281c55b74._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cbf9816a87c6ecd456cb959b5ec92e975d24acb426daca63856c3fe5b9fdf59d._SX342_.jpg"
     },
     {
       "name": "Punch-Drunk Love",
@@ -4730,7 +4731,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2993206e4bf6f98f7e8129f6563e540a0705147444931f7e004bb974029673dc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e374680fd3138b2220c4410ee9e26033e055941f6791304d9ecfe998ceff8ea._SX342_.jpg"
     },
     {
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -5002,7 +5003,7 @@
       "originalTitle": "絞死刑",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vxNuD8CAiUQvgly3klhY5s0zJKq.jpg"
     },
     {
       "name": "The New Land",
@@ -5917,7 +5918,7 @@
       "originalTitle": "Love Streams",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ik9iQolv2LaGOBU3GNAfmd3MrP8.jpg"
     },
     {
       "name": "The Big Chill",
@@ -5973,7 +5974,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/34da2dbbbc2ab77cce7e977daee3df8198f081da121b1161ab6da9f6d3ab0571._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11e967090d4a8e5da8af4d0db7e843ef2332aa3e137832caf41701195a555264._SX342_.jpg"
     },
     {
       "name": "Bay of Angels",
@@ -6019,7 +6020,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d73f925b762b53245c4eed6c02c937c0a5282cebf1dd6dd0c0bc92afb0bd9b4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ed1ccc5c9a2f01b65c8a0b21830fec9b2e66d9e5f964e1a6c7690d1f4c8d2b2._SX342_.jpg"
     },
     {
       "name": "Judex",
@@ -6113,7 +6114,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0886688a68bb858e054617741f7e94c55a9e0ee04055d0f14a0f6273cbfeea8c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70958291b450f957dea3eaf26bd1e5d54f728e75542b85815eaa232959cc812a._SX342_.jpg"
     },
     {
       "name": "Persona",
@@ -6137,7 +6138,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dd64d19e0984e03cabdde283bafe18c896d441973509218c16b496614c46c074._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a19ca2dcfed4be11ec3ad58c11dc952052acd4ee81f278b41ada8f9992907111._SX342_.jpg"
     },
     {
       "name": "A Brief History of Time",
@@ -6394,7 +6395,7 @@
       "listPosition": 0,
       "year": "1971",
       "originalTitle": "新座頭市　破れ！唐人剣",
-      "rating": 3.5,
+      "rating": 3.6,
       "streamProviders": []
     },
     {
@@ -6723,7 +6724,7 @@
         "Sooner",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/99a15234228a1bfb793410fe064a7c6c88b6e95aae58d9c0b91e79b1c5965697._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/acda3a0bc4299c1135af86ed0ab10269296d2978c825f0ef84c001a38ae21307._SX342_.jpg"
     },
     {
       "name": "Babette's Feast",
@@ -7881,8 +7882,7 @@
       "year": "1956",
       "originalTitle": "The Killing",
       "rating": 3.9,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/310a1124bb7a12acdbcbbcad87a8fff8ca0460bdaa1f92af8299a518a2c8d65e._SX342_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Life During Wartime",
@@ -7978,7 +7978,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/60600d1201560a694c0cfcc75470b7ffc6f1fcf4777c3a513be9988655270ad7._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b0a784eef6eb730d3848977b869eacb2e5066c09b991a28ced2fb053a4833cb0._SX342_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -8199,7 +8199,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bc7e796a3d155efbed6a58172eaa9a4713bdad203bae9fc28dfe7692498706d0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ffd25d521dd36e811940aac01c7c731da3689aa11d0c2e00ba4b72e0c3a98e0._SX342_.jpg"
     },
     {
       "name": "Head",
@@ -8257,7 +8257,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cfe416b80ab990e16aa83e563f0a8397ff2f21dff0b983f7f2ff7d3638a669e2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74e6f96793e6f14233a586e8bfd79f0f50d6d15f9dfca023f1c91c6a07f9176c._SX342_.jpg"
     },
     {
       "name": "House",
@@ -8308,8 +8308,10 @@
       "year": "1983",
       "originalTitle": "戦場のメリークリスマス",
       "rating": 3.9,
-      "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2019/05/image/jpeg/c48b4f64814db332bde0b53cdb48072b.jpg"
+      "streamProviders": [
+        "Prime Video Channels ARTHAUS+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d4333c23b7f4963c7a897cb56da48dda9ab17ca044545bce4d0864232b028a01._SX342_.jpg"
     },
     {
       "name": "Naked Childhood",
@@ -8517,7 +8519,7 @@
       "listPosition": 0,
       "year": "1995",
       "originalTitle": "I Take These Truths",
-      "rating": 3.4,
+      "rating": 3.5,
       "streamProviders": []
     },
     {
@@ -8731,7 +8733,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels Wild West"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/803c36aee114987fd7080fda370051d7da6fcdfef867a50a6f2cdb04fea831b2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f8572a0a18d6f5063438d742ebc4fea767621de37a8bc2bc987ea1a1f28f04e1._SX342_.jpg"
     },
     {
       "name": "The Fugitive Kind",
@@ -10903,7 +10905,7 @@
         "Prime Video Channels realeyz",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/35201b1f090c59b5077c4436fd0e543899ef2dcb4a6d86dbf8ab5c3924c5b662._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f7055e5162416fe2e68543d5958571b511e59e1c4e57fb1fcb9f92adbcd5a9a._SX342_.jpg"
     },
     {
       "name": "Harlan County U.S.A.",
@@ -12456,7 +12458,7 @@
       "listPosition": 0,
       "year": "1992",
       "originalTitle": "Crack Glass Eulogy",
-      "rating": 2.9,
+      "rating": 3,
       "streamProviders": []
     },
     {
@@ -13408,7 +13410,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d022aa25867ab80968ecaa8085230fdc7a6d314400bb44c4867f93c5eb27c5db._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/06d3a498f2fa34903199542fb3208a15093911f4d3a8a4e556e28b59cadbd3f3._SX342_.jpg"
     },
     {
       "name": "My Man Godfrey",
@@ -14067,7 +14069,7 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/32ce8fe0c9fbb2cff2d2f422b7c983b9fd96a887218b227a9d624786d0869673._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4a8cb005d416e9f61b589daf6417ae89547489cd41c1223b70f437ce32243655._SX342_.jpg"
     },
     {
       "name": "The 39 Steps",
@@ -14365,7 +14367,8 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels FlimmerkisteTV",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa42db8a4c6939c622058b30fe51e33f59b5fbbde6447e7a61b7e64e6646d30a._SX342_.jpg"
     },
@@ -15389,7 +15392,7 @@
         "PantaRay",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6cca2c7c8805d59c2f40d7587c38c9475f51ea84ff47ed05f5d52c579a04ab8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/acb03f9983de49b6bad43d83d672c260b0ee43b8037ae7b81a523572005033a0._SX342_.jpg"
     },
     {
       "name": "Salut les Cubains",

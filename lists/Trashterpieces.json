@@ -470,7 +470,7 @@
       "originalTitle": "Death Game",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ibbplS0HnTtGkQoi6DyOuaZaiCW.jpg"
     },
     {
       "name": "Knock Knock",
@@ -839,7 +839,7 @@
         "Prime Video Channels superfresh",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec5d808c351b579d950af8856f0cec36fc55603f9ef97b261a5eb64307eb53c4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ecf4e5463094f2e088634b39ae9e3fb855feb5bb3ec63d5842334d96305f8ec._SX342_.jpg"
     },
     {
       "name": "Love Camp 7",
@@ -950,7 +950,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/86d14932b02597e3de6b7eaf5d00d3e28cfc5fe9fa5c550239e4372584723f23._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d91cf9380f0f5fc15ce1a7a7d7d8d8884dbb4f09512eacf1dddd019682ca3137._SX342_.jpg"
     },
     {
       "name": "Color Me Blood Red",
@@ -1286,7 +1286,8 @@
       "originalTitle": "Castle Freak",
       "rating": 3.1,
       "streamProviders": [
-        "Prime Video Channels Full Action"
+        "Prime Video Channels Full Action",
+        "Prime Video Channels Silverline"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e341fc6438c04623bc537d05758bf1fdbaf24ca27fb55893a716e7e9e915885d._SX342_.jpg"
     },
@@ -1725,7 +1726,7 @@
         "Prime Video Channels FRANATIC – dein Film-Channel",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc8d2212f8baf79424c814e0356bf5fd6ffc49991acdaac39190aec83e7630e5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e75afd0b7446394bb49bc4b3fb64825b485236577321b0b737e352f72a31c85f._SX342_.jpg"
     },
     {
       "name": "Bio-Cop",
@@ -1866,7 +1867,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5735438a7f217751de4b4fb508110b7279da4af2d71f191abe5890c39b7e4fd6._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4ff748e85ab8f730068800d83e597da43985608e8dda7bdcb18a7b53f2d265ee._SX342_.jpg"
     },
     {
       "name": "Just Before Dawn",
@@ -2133,7 +2134,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9fa610f1ee91e93c7cbe511c6d02e7f968625415170b121c8ff255156820f0fc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6d8ad2831b3a6e43ec89b7d62cc4f42f43758032f68a58517bd034043e0b1825._SX342_.jpg"
     },
     {
       "name": "Q",
@@ -2416,6 +2417,10 @@
     },
     {
       "name": "Prime Video Channels Paramount+",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {
