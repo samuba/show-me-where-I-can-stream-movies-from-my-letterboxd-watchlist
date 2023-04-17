@@ -35,7 +35,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94240a6567ec9081747d3678051dc5574e40a4eea29cbbcc12487c63572615f2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc141a3ddb273f2b9a174edd893fa94bcbf33e0040fbc453b50ecb3d658aa01._SX342_.jpg"
     },
     {
       "name": "Thelma & Louise",
@@ -308,7 +308,9 @@
       "year": "1968",
       "originalTitle": "Flickorna",
       "rating": 3.7,
-      "streamProviders": [],
+      "streamProviders": [
+        "Netflix"
+      ],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
     },
     {
@@ -340,7 +342,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bc52b04c1d97babbd07842b64378fb586bb640666d1be354ad82a1016c78994e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d1b80243ec33ea56bee74ea4356dc5f84bb9e315397b7a44f575c56eced3e955._SX342_.jpg"
     },
     {
       "name": "Malcolm X",
@@ -1126,7 +1128,7 @@
       "listPosition": 0,
       "year": "2004",
       "originalTitle": "柔道龍虎榜",
-      "rating": 3.9,
+      "rating": 3.8,
       "streamProviders": []
     },
     {
@@ -1333,7 +1335,7 @@
       "listPosition": 0,
       "year": "1998",
       "originalTitle": "海上花",
-      "rating": 3.9,
+      "rating": 3.8,
       "streamProviders": []
     },
     {
@@ -3277,7 +3279,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e0540212edf4a10871538b90b88206bf2faed1dd39540bcd3fa6b506464b8fbe._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4a8ad5eca7b2ac6b93906622ec10b7e14d6fab31d5bc5530300c227c18fbe2fa._SX342_.jpg"
     },
     {
       "name": "An Actor's Revenge",
@@ -3914,7 +3916,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84488d6f097a655baa59d2c30d0ce68302b011f5b3bf85e816a0ccb12166c1b8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e6bbf5e20f6707b94d1187fb49f173a525d6c5457cae7649fe123499952859f._SX342_.jpg"
     },
     {
       "name": "Barry Lyndon",
@@ -4428,7 +4430,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c32e231bb549a4ac866b493f58e5c88ca497941236268a8d696b802e15739f88._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f27d9055172da16533eeb0524231485791bef2474b1996559917dba6052dab85._SX342_.jpg"
     },
     {
       "name": "The Squid and the Whale",
@@ -6020,7 +6022,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ed1ccc5c9a2f01b65c8a0b21830fec9b2e66d9e5f964e1a6c7690d1f4c8d2b2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d73f925b762b53245c4eed6c02c937c0a5282cebf1dd6dd0c0bc92afb0bd9b4._SX342_.jpg"
     },
     {
       "name": "Judex",
@@ -8619,7 +8621,7 @@
       "listPosition": 0,
       "year": "1977",
       "originalTitle": "The Domain of the Moment",
-      "rating": 3.3,
+      "rating": 3.2,
       "streamProviders": []
     },
     {
@@ -8733,7 +8735,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels Wild West"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f8572a0a18d6f5063438d742ebc4fea767621de37a8bc2bc987ea1a1f28f04e1._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a6cf8d4b44383f63023fc6715f4be4c5a27185abc28cfc015f175a09759385de._SX342_.jpg"
     },
     {
       "name": "The Fugitive Kind",
@@ -10100,7 +10102,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2ed591372311eded806b04833350e5d4384fa67bf9361d43c6ead78c82434d9._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0ccbe4828d31371a076c68b55ac7883addb162e27ac389b28858e96b80544db6._SX342_.jpg"
     },
     {
       "name": "Breathless",
@@ -10112,7 +10114,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9a7b6ad4ba25ec5d92e5ba37885aec30cd30ad65198fae5470393278baa81bd8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6c8a37746634cd55e8be15c925ff2fc4ca3e5e7e36d954668898ecb7d8c6c5a._SX342_.jpg"
     },
     {
       "name": "Mala Noche",
@@ -10228,7 +10230,7 @@
       "listPosition": 0,
       "year": "1987",
       "originalTitle": "House of Games",
-      "rating": 3.6,
+      "rating": 3.7,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6bc899cc25fcf777cc306bf6f0713f859d67ece454dfc631e661b3dcd26e176a._SX342_.jpg"
     },
@@ -10733,7 +10735,7 @@
       "originalTitle": "地獄",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/3nzPOvK6DEEzmW04ZN7lY73UI5I.jpg"
     },
     {
       "name": "The Spirit of the Beehive",
@@ -10881,7 +10883,7 @@
         "Amazon Prime Video",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3fa8b0a3ceba875c5d97d2864a9608eb8a582f516a5eb72079503b21a15b0223._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2fabbf1c0e374c997b53d29f8c85cb7d3f761e6e013da7ca30eb5163968533d5._SX342_.jpg"
     },
     {
       "name": "Dazed and Confused",
@@ -11175,7 +11177,7 @@
       "streamProviders": [
         "Mubi"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681395497"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/qsWypOI6Y08WfDpGriKLBdxMviR.jpg"
     },
     {
       "name": "Naked",
@@ -12558,8 +12560,7 @@
       "year": "1987",
       "originalTitle": "Kindering",
       "rating": 2.9,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/92889f32b7cbe8b572253ca3fec50bbd066555c8a768f0438c7d1056b048790c._SX342_.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Stars Are Beautiful",
@@ -14370,7 +14371,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa42db8a4c6939c622058b30fe51e33f59b5fbbde6447e7a61b7e64e6646d30a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dadc9d1b15d4704b1da11c77988fa7edc23b0ef9ccd61abd4e63c9b6a8983908._SX342_.jpg"
     },
     {
       "name": "Picnic at Hanging Rock",
@@ -15045,7 +15046,7 @@
       "listPosition": 0,
       "year": "1977",
       "originalTitle": "The Serpent's Egg",
-      "rating": 3.3,
+      "rating": 3.2,
       "streamProviders": [
         "MagentaTV"
       ],
@@ -15100,7 +15101,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d5b07622a5ea8240d8bf6c2ba2472d792800d5952ebbbd40d34e6f97800c8934._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/51546dfb85dec143457d0b3884a3c0ccb5ef7d1e9df0b3f23500903856981c3b._SX342_.jpg"
     },
     {
       "name": "Les 3 Boutons",
