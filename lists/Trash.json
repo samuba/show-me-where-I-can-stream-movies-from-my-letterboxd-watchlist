@@ -202,7 +202,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e19f87fa3b7d2251e04fa2899d9518c3bfcae5149508fb023c8e0d925ea65d8e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6d8657d7beea495d6d12af408e8a8b3cc9922c2ffc63ca3e34c2e892d3e1535._SX342_.jpg"
     },
     {
       "name": "Hack-O-Lantern",
@@ -268,7 +268,7 @@
       "originalTitle": "Night of the Blood Beast",
       "rating": 2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681819267"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jZqa247QxhDc3qRO6uX3maom380.jpg"
     },
     {
       "name": "Hollywood Cop",
@@ -899,7 +899,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39969fbba4b53285cd2715619db855267b448cd3a8c3e51d31546b18a312315a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ee70d42b0eded09bdc17fcac6a5265db5f1a4145a4e1f27e60e2c59d5f69af4d._SX342_.jpg"
     },
     {
       "name": "13 Ghosts",
@@ -2623,7 +2623,7 @@
       "originalTitle": "Angkor",
       "rating": 0,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681819267"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/6W3ChA6ChgpkZnhISLsv8nHGSvz.jpg"
     },
     {
       "name": "Love Camp 7",
@@ -2671,7 +2671,9 @@
       "originalTitle": "Sorceress",
       "rating": 2.4,
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Prime Video Channels Paramount+",
+        "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8065537314608ea0c6ad8f28d4c05bf3db3c9e8894dc1e2fd6e9f1de6e43e6dc._SX342_.jpg"
     },
@@ -2925,7 +2927,7 @@
       "originalTitle": "Alien Private Eye",
       "rating": 2.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1681819267"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vk0ugwdS5oO4YPJeurPRkEnxCci.jpg"
     },
     {
       "name": "The Astrologer",
@@ -4023,7 +4025,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/148c971ef33c95ac0cb548c5167c00bd7787b6f7706dad3378226f6a3e83e2c5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/146b040f2d24a930d021a24fc6615196931d0871898320842c8bc9281173e293._SX342_.jpg"
     },
     {
       "name": ".com for Murder",
@@ -4417,7 +4419,6 @@
       "originalTitle": "Johnny Handsome",
       "rating": 3,
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels FILMLEGENDEN"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/89f89a30644abaa068d7786d6153b87b6488d85286ea65040cad594af1e7881e._SX342_.png"
@@ -4546,6 +4547,10 @@
       "enabled": false
     },
     {
+      "name": "Paramount+",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels ALLSTARS",
       "enabled": false
     },
@@ -4583,6 +4588,10 @@
     },
     {
       "name": "Prime Video Channels Netzkino Select",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Paramount+",
       "enabled": false
     },
     {
