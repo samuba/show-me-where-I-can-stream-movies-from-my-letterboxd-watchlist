@@ -202,7 +202,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6d8657d7beea495d6d12af408e8a8b3cc9922c2ffc63ca3e34c2e892d3e1535._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e19f87fa3b7d2251e04fa2899d9518c3bfcae5149508fb023c8e0d925ea65d8e._SX342_.jpg"
     },
     {
       "name": "Hack-O-Lantern",
@@ -899,7 +899,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39969fbba4b53285cd2715619db855267b448cd3a8c3e51d31546b18a312315a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ee70d42b0eded09bdc17fcac6a5265db5f1a4145a4e1f27e60e2c59d5f69af4d._SX342_.jpg"
     },
     {
       "name": "13 Ghosts",
@@ -1277,7 +1277,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d785df809bc04232406e56572639d5a4a0bafcda48a66f361351ac38fbf059d2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0861fae923b3e1ec28b1b4082ebcb8c93d13e1106cc0283dc90f982c019adf0a._SX342_.jpg"
     },
     {
       "name": "She Gods of Shark Reef",
@@ -1385,7 +1385,7 @@
       "streamProviders": [
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c076671d84e03d762dc1ded2e272a519d2efffb8fc25e1cf5bf81e1bbf7e3439._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c7d488e7e5e90376f5553b7e042e8383a99eb144abdeb7a88529d8681e66a569._SX342_.jpg"
     },
     {
       "name": "Bad Black",
@@ -2763,6 +2763,7 @@
       "originalTitle": "Werewolf",
       "rating": 1.5,
       "streamProviders": [
+        "Prime Video Channels Moviedome PLUS",
         "Prime Video Channels superfresh"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7d0c012193072443c31fbc55eb8e87f74403642ea9f95ab3f280421de6e4d6ce._SX342_.jpg"
@@ -3706,7 +3707,7 @@
       "listPosition": 373,
       "year": "1930",
       "originalTitle": "Ingagi",
-      "rating": 2.2,
+      "rating": 2.3,
       "streamProviders": []
     },
     {
@@ -4369,7 +4370,7 @@
       "listPosition": 441,
       "year": "1986",
       "originalTitle": "Alone in the T-Shirt Zone",
-      "rating": 3.1,
+      "rating": 3,
       "streamProviders": []
     },
     {
@@ -4584,6 +4585,10 @@
     },
     {
       "name": "Prime Video Channels MUBI",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Moviedome PLUS",
       "enabled": false
     },
     {

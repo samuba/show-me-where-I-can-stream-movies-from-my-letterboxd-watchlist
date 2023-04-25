@@ -4,6 +4,26 @@
   "description": "",
   "entries": [
     {
+      "name": "The Super Mario Bros. Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/the-super-mario-bros-movie/",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "The Super Mario Bros. Movie",
+      "rating": 3.5,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/2VhvUgsFKIjBm9NHXeeVqkPtUqe.jpg"
+    },
+    {
+      "name": "High Life",
+      "letterboxdUrl": "https://letterboxd.com/film/high-life-2018/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "High Life",
+      "rating": 3.2,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7242541bdd3e6bcaf98771af02d9d8193da72d21df4f59fd930abf406d9b93ee._SX342_.jpg"
+    },
+    {
       "name": "Shiva Baby",
       "letterboxdUrl": "https://letterboxd.com/film/shiva-baby-2020/",
       "listPosition": 0,
@@ -101,7 +121,7 @@
       "originalTitle": "Puss in Boots: The Last Wish",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/77c0934a78f63b02256924831ed4f34c6d224b4c37b179f9fa5264dfe28e4811._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cdf603f8fff28a02456b7a0aa3e13704ce240a1a02459f115f69df709ab4f526._SX342_.jpg"
     },
     {
       "name": "What You Can See from Here",
@@ -666,7 +686,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b9961a04931d9981c8f27f41d2da9c1e16615a52852189b979da3ee82b725da._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/90be6986121eb62b142e7e4defe83382d06956a06ed7211c175b1d21c11345da._SX342_.jpg"
     },
     {
       "name": "Punch-Drunk Love",
@@ -724,7 +744,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15e628f33da47229fe0d5e6e5e68b6007c86fbf8a1a2a1e08d7c49cb946408f8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a807e590b47174f4a3f9991a58014ddcd0942e8880041044aeedffd4d72e2d51._SX342_.jpg"
     },
     {
       "name": "Wiener-Dog",
@@ -856,7 +876,7 @@
         "Amazon Prime Video",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/32186df8a2ce4400655ea968204bfba293a0af8e10e414ee27a27b33ecca61c4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_.jpg"
     },
     {
       "name": "Nerve",
@@ -1085,7 +1105,7 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5746e6011ced1358d78785ae843c1c8903808a2e76188d00fe28925dbaab0e6e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_.jpg"
     },
     {
       "name": "The Favourite",
@@ -1327,7 +1347,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f5947ddbb0f8e660b23781165d30996fe6b992134bea15466c936cb0c9acbc91._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ac7aba471e8104f976b2d6be2ed7db1b8f180265286ec02e4812f9f69140f89._SX342_.jpg"
     },
     {
       "name": "1917",

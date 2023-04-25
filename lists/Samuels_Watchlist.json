@@ -240,7 +240,7 @@
       "originalTitle": "Puss in Boots: The Last Wish",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/77c0934a78f63b02256924831ed4f34c6d224b4c37b179f9fa5264dfe28e4811._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cdf603f8fff28a02456b7a0aa3e13704ce240a1a02459f115f69df709ab4f526._SX342_.jpg"
     },
     {
       "name": "Flee",
@@ -532,7 +532,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dfe1fd3f1723835cf1b180d9e226d2ef24fc46fb5e360126254c5cce84425271._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d010c4975a2a47c0b02c4b3cd1171eddc7791b5ead0df43cf0b6b16a909038ad._SX342_.jpg"
     },
     {
       "name": "The Tragedy of Macbeth",
@@ -743,7 +743,7 @@
       "originalTitle": "Orange",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47ef1fce3e17f353e457e32ecffb6b8d1cbaab272bcd3beea3c169858c0d783f._SX342_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/pElD520j1jgANaPUIm6qkR4ThEY.jpg"
     },
     {
       "name": "Free Guy",
@@ -769,7 +769,7 @@
         "filmingo",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/807d482d87fc0cddd0be5e6c40f2433f5ad9bb1c41004b2f270e45eade983efc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70d8d12e3cef35079ffd335be3f9ce177bf16f3f733b3bc18d737a6f1bebbe73._SX342_.jpg"
     },
     {
       "name": "Traffic",
@@ -995,7 +995,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15e628f33da47229fe0d5e6e5e68b6007c86fbf8a1a2a1e08d7c49cb946408f8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a807e590b47174f4a3f9991a58014ddcd0942e8880041044aeedffd4d72e2d51._SX342_.jpg"
     },
     {
       "name": "Undone",
@@ -1026,7 +1026,9 @@
       "year": "2018",
       "originalTitle": "La casa lobo",
       "rating": 4.1,
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682065002"
     },
     {
@@ -1404,7 +1406,7 @@
         "Netzkino",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b42aad8d76128b57104d103c525b1ac57e085a84f8f2c9e9315c3d5312fdeb9b._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84a54ca33ef6391faa28e2f9dc8a083a4e541d899036778a0807c540892aab4c._SX342_.jpg"
     },
     {
       "name": "Rocky",
@@ -1483,8 +1485,8 @@
       "streamProviders": []
     },
     {
-      "name": "蟲師 特別編「日蝕む翳」",
-      "letterboxdUrl": "https://letterboxd.com/film/995665/",
+      "name": "Mushi-Shi: The Shadow That Devours the Sun",
+      "letterboxdUrl": "https://letterboxd.com/film/mushi-shi-the-shadow-that-devours-the-sun/",
       "listPosition": 0,
       "year": "2014",
       "originalTitle": "蟲師 特別編「日蝕む翳」",
@@ -1887,7 +1889,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/16266adfc734a02b27049996a05f98233d5e2029c19d55da2aaa9a64c57f5d13._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/221072767f928236bc3e060624127bdc81ad73dbb3e5b4bf67409d49b277777f._SX342_.jpg"
     },
     {
       "name": "Force Majeure",
@@ -1978,7 +1980,7 @@
         "alleskino",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3e092a7308b47001da69bc52cd2cfeac92209fab57184371bcc32d79f69680d7._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2f21e1d3ee60ad6c4a5806104cc16f9cdd5e4b4de371d2d7a157f1ab1f43463c._SX342_.jpg"
     },
     {
       "name": "Dirty Harry",
@@ -2536,7 +2538,7 @@
       "listPosition": 0,
       "year": "2016",
       "originalTitle": "Trespass Against Us",
-      "rating": 2.9,
+      "rating": 2.8,
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
@@ -2976,7 +2978,7 @@
         "Amazon Prime Video",
         "Prime Video Channels Silverline"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b764da5a91ecf36ca6254e7e94eb06ce78d0a9d7265a768fa83ccbcc88b8adee._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b97dc75cac24b70955631e6af47a236e35e6ad4d0343144b8d7a5561697da64e._SX342_.jpg"
     },
     {
       "name": "A Serious Man",
@@ -3117,10 +3119,8 @@
       "year": "2015",
       "originalTitle": "Tomorrowland",
       "rating": 2.7,
-      "streamProviders": [
-        "Disney+"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c8c04bf325ed17775b6dbf6337dd9d63d8807f86ad5ce3b9843cfddd5dddbcc._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6162600ff28ae1f30c3cdfc2daf96e0e4dc4e8956289f51a26b3d5ce3e191478._SX342_.jpg"
     },
     {
       "name": "Hardcore Henry",
@@ -3224,7 +3224,7 @@
         "Amazon Prime Video",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/32186df8a2ce4400655ea968204bfba293a0af8e10e414ee27a27b33ecca61c4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_.jpg"
     },
     {
       "name": "The Hacker Wars",
@@ -3428,7 +3428,7 @@
       "streamProviders": [
         "Crunchyroll"
       ],
-      "imageUrl": "https://img1.ak.crunchyroll.com/i/spire1/3cc2a02548c242c19f668d88aa72a1ac1341524886_full.jpg"
+      "imageUrl": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1560x2340/catalog/crunchyroll/3cc2a02548c242c19f668d88aa72a1ac.jpe"
     },
     {
       "name": "The Revenants",

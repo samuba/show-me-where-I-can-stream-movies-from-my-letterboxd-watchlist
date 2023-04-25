@@ -215,10 +215,9 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
-        "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7e1bd889f95c42f2703c5572525c6ead25680af907275670b87ea94fa1e2c406._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/494d431912c90a2789538e0538ce1c0003a071d2c0fc6fc92abc15c968442780._SX342_.jpg"
     },
     {
       "name": "Seven Samurai",
@@ -478,10 +477,9 @@
       "originalTitle": "羅生門",
       "rating": 4.2,
       "streamProviders": [
-        "Plex",
         "filmingo"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/63285549/s166/Rashomon-Das-Lustwaeldchen"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/725707e2885860e0123065155a215a06.jpg"
     },
     {
       "name": "Stalker",
@@ -931,7 +929,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0076edf7ef3076191e6b22ee63c66b5d9e4195e75976646a5c27b2914c685bec._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d8a2a590d71cf9b9cc51c5ac320d412e79902211c450c45596b0eb2787c79ad9._SX342_.jpg"
     },
     {
       "name": "A Matter of Life and Death",
@@ -1524,7 +1522,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b9961a04931d9981c8f27f41d2da9c1e16615a52852189b979da3ee82b725da._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/90be6986121eb62b142e7e4defe83382d06956a06ed7211c175b1d21c11345da._SX342_.jpg"
     },
     {
       "name": "A Day in the Country",
@@ -1563,8 +1561,7 @@
       "originalTitle": "The Wild Bunch",
       "rating": 4,
       "streamProviders": [
-        "Amazon Prime Video",
-        "Sky Go\nSky"
+        "Amazon Prime Video"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5d671119d9d5b176b4dbe233d856d2220e719e51abbfa802a5dd9c7e7e8e24cb._SX342_.jpg"
     },
@@ -1745,7 +1742,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b27f1eaf92571f72f779d6afe25c93ccf7d9f529a2c359c03c05a2ae987dd89._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/135d5261692428c36787c702574ccafb8fa17ce5ebd82e0b3896f6825646aa34._SX342_.jpg"
     },
     {
       "name": "West Indies",
@@ -1975,7 +1972,7 @@
         "Prime Video Channels MGM",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5204a4b0edf3bc5fedfd6aba2d881fd4697b10a20d2faeb9a05dce3cd48bbf8f._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c69739d448fc32242339725bf4de295c997ed9e782343976b8be0ee7748386b5._SX342_.jpg"
     },
     {
       "name": "Hiroshima Mon Amour",
@@ -2898,8 +2895,7 @@
       "originalTitle": "طعم گيلاس",
       "rating": 4.2,
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bd521da103eb5abb7700d5ef5a509f77d4870af8423637901bd6a45b9301b13a._SX342_.jpg"
     },
@@ -2955,10 +2951,6 @@
     },
     {
       "name": "Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Plex",
       "enabled": false
     },
     {
