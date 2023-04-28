@@ -38,7 +38,7 @@
       "originalTitle": "少年猿飛佐助",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.justwatch.com/images/poster/239007265/s166/Der-Zauberer-und-die-Banditen"
     },
     {
       "name": "Alakazam the Great!",
@@ -48,7 +48,7 @@
       "originalTitle": "西遊記",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/mRNsfxDGS0AblBOl6a1Nq7SqHeu.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/303991715/s166/Alakazam-Koenig-der-Tiere"
     },
     {
       "name": "The Orphan Brother",
@@ -149,7 +149,7 @@
       "originalTitle": "千夜一夜物語",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.justwatch.com/images/poster/49604801/s166/A-Thousand-and-One-Nights-1969"
     },
     {
       "name": "Flying Phantom Ship",
@@ -158,7 +158,8 @@
       "year": "1969",
       "originalTitle": "空飛ぶゆうれい船",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/138411319/s166/Flying-Phantom-Ship"
     },
     {
       "name": "Cleopatra: Queen of Sex",
@@ -234,7 +235,7 @@
       "originalTitle": "龍の子太郎",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.justwatch.com/images/poster/99774585/s166/Taro-Der-Drachenjunge"
     },
     {
       "name": "Galaxy Express 999: The Movie",
@@ -280,8 +281,11 @@
       "year": "1981",
       "originalTitle": "機動戦士ガンダム",
       "rating": 3.5,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/pcGzSdRwhnpZM9Sun972WObK9ZJ.jpg"
+      "streamProviders": [
+        "Netflix",
+        "Netflix basic with Ads"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/28849712/s166/Mobile-Suit-Gundam-Movie-II"
     },
     {
       "name": "Chie the Brat",
@@ -433,7 +437,7 @@
       "originalTitle": "SF新世紀 レンズマン",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
     },
     {
       "name": "Night on the Galactic Railroad",
@@ -442,8 +446,10 @@
       "year": "1985",
       "originalTitle": "銀河鉄道の夜",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/mk7dpiFAgI3fyloMCbdaDDQBDjO.jpg"
+      "streamProviders": [
+        "CONtv"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/257937797/s166/Night-On-The-Galactic-Railroad"
     },
     {
       "name": "Angel's Egg",
@@ -550,7 +556,7 @@
       "originalTitle": "機動警察パトレイバー 劇場版",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -626,14 +632,7 @@
       "year": "1992",
       "originalTitle": "Tokyo Babylon",
       "rating": 3.3,
-      "streamProviders": [
-        "Prime Video Channels ARD Plus",
-        "Prime Video Channels FlimmerkisteTV",
-        "ARD Plus",
-        "MagentaTV",
-        "filmfriend"
-      ],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11215679_b_v8_ab_2015-03-16T13_42_00.jpg&out=jpeg"
+      "streamProviders": []
     },
     {
       "name": "Pom Poko",
@@ -1075,9 +1074,9 @@
       "originalTitle": "君の名は。",
       "rating": 4.2,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/132903290/s166/Kimi-no-Na-wa"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/350c14b3e657bc8f6633f5d8ccb89c671523a6224ec60a0f8d859a5f9871ffe9._SX342_.jpg"
     },
     {
       "name": "In This Corner of the World",
@@ -1094,15 +1093,11 @@
   ],
   "streamProviders": [
     {
-      "name": "ARD Plus",
-      "enabled": false
-    },
-    {
       "name": "Amazon Prime Video",
       "enabled": false
     },
     {
-      "name": "Arthouse CNMA Amazon Channel",
+      "name": "CONtv",
       "enabled": false
     },
     {
@@ -1118,7 +1113,7 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels ARD Plus",
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {
@@ -1126,15 +1121,7 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels FlimmerkisteTV",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels aniverse",
-      "enabled": false
-    },
-    {
-      "name": "filmfriend",
       "enabled": false
     }
   ]

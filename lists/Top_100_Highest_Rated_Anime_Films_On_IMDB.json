@@ -33,9 +33,9 @@
       "originalTitle": "君の名は。",
       "rating": 4.2,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/132903290/s166/Kimi-no-Na-wa"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/350c14b3e657bc8f6633f5d8ccb89c671523a6224ec60a0f8d859a5f9871ffe9._SX342_.jpg"
     },
     {
       "name": "Princess Mononoke",
@@ -244,7 +244,7 @@
       "originalTitle": "ベルセルク 黄金時代篇III 降臨",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part II: Eternal",
@@ -254,7 +254,7 @@
       "originalTitle": "劇場版 魔法少女まどか☆マギカ[後編] 永遠の物語",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
     },
     {
       "name": "The Garden of Sinners: Paradox Spiral",
@@ -317,7 +317,7 @@
       "originalTitle": "劇場版 STEINS;GATE 負荷領域のデジャヴ",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
     },
     {
       "name": "Hotarubi no Mori e",
@@ -486,7 +486,7 @@
       "originalTitle": "ベルセルク 黄金時代篇II ドルドレイ攻略",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
     },
     {
       "name": "Road to Ninja: Naruto the Movie",
@@ -566,7 +566,10 @@
       "year": "1995",
       "originalTitle": "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ",
       "rating": 3.5,
-      "streamProviders": []
+      "streamProviders": [
+        "Joyn"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/8q9bjSa6QxBEtVqaZCAkVBHBTDO.jpg"
     },
     {
       "name": "Sailor Moon S the Movie: Hearts in Ice",
@@ -670,7 +673,7 @@
       "originalTitle": "劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
     },
     {
       "name": "One Piece: Strong World",
@@ -804,7 +807,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/30d86752872d55625ca73d847dea834320ebb5ce86eb5a33a8640bea76e7d405._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f93e3620b31b11420ee7544913e1bf0767e2a654f6e62c286960ce38f88e172._SX342_.jpg"
     },
     {
       "name": "Kizumonogatari Part 1: Tekketsu",
@@ -814,7 +817,7 @@
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/99164694/s166/Kizumonogatari-I-Blut-und-Eisen"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
     },
     {
       "name": "The Garden of Words",
@@ -876,7 +879,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/304879048/s166/Inuyasha-Movie-2-Das-Traumschloss-im-Inneren-der-Spiegel"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/iIHC94gkBt0Uha8TUTgHcAt6IoD.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -896,7 +899,7 @@
       "originalTitle": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
     },
     {
       "name": "Dragon Ball Z: Wrath of the Dragon",
@@ -968,7 +971,7 @@
       "originalTitle": "映画けいおん！",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/257936127/s166/K-ON-The-Movie"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2b9e48fba8ffc22ae563ecd5c84f1336f6da7ad7b689660d2c66609d4ee4aec._SX342_.jpg"
     },
     {
       "name": "From Up on Poppy Hill",
@@ -990,7 +993,7 @@
       "originalTitle": "劇場版 BLEACH 地獄篇",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682525068"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
     },
     {
       "name": "Trigun: Badlands Rumble",
@@ -1033,7 +1036,7 @@
       "originalTitle": "レッドライン",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/yUkH0y9OsY7J08Dvfzi1P0di559.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/AhMd2Sw5yxeV1MnhjRdsolPeirL.jpg"
     },
     {
       "name": "Summer Wars",
@@ -1069,10 +1072,6 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {
