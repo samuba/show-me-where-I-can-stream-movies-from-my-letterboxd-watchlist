@@ -38,7 +38,7 @@
       "originalTitle": "少年猿飛佐助",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/239007265/s166/Der-Zauberer-und-die-Banditen"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
     },
     {
       "name": "Alakazam the Great!",
@@ -48,7 +48,7 @@
       "originalTitle": "西遊記",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/303991715/s166/Alakazam-Koenig-der-Tiere"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/mRNsfxDGS0AblBOl6a1Nq7SqHeu.jpg"
     },
     {
       "name": "The Orphan Brother",
@@ -149,7 +149,7 @@
       "originalTitle": "千夜一夜物語",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/49604801/s166/A-Thousand-and-One-Nights-1969"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
     },
     {
       "name": "Flying Phantom Ship",
@@ -178,7 +178,7 @@
       "originalTitle": "どうぶつ宝島",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/85670795/s166/Die-Schatzinsel-1971"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/1klkcqvcZ1dn073ID4DbRSb3hTR.jpg"
     },
     {
       "name": "Belladonna of Sadness",
@@ -235,7 +235,7 @@
       "originalTitle": "龍の子太郎",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/99774585/s166/Taro-Der-Drachenjunge"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
     },
     {
       "name": "Galaxy Express 999: The Movie",
@@ -281,11 +281,8 @@
       "year": "1981",
       "originalTitle": "機動戦士ガンダム",
       "rating": 3.5,
-      "streamProviders": [
-        "Netflix",
-        "Netflix basic with Ads"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/28849712/s166/Mobile-Suit-Gundam-Movie-II"
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/pcGzSdRwhnpZM9Sun972WObK9ZJ.jpg"
     },
     {
       "name": "Chie the Brat",
@@ -437,7 +434,7 @@
       "originalTitle": "SF新世紀 レンズマン",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
     },
     {
       "name": "Night on the Galactic Railroad",
@@ -446,10 +443,8 @@
       "year": "1985",
       "originalTitle": "銀河鉄道の夜",
       "rating": 3.8,
-      "streamProviders": [
-        "CONtv"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/257937797/s166/Night-On-The-Galactic-Railroad"
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/mk7dpiFAgI3fyloMCbdaDDQBDjO.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -556,7 +551,7 @@
       "originalTitle": "機動警察パトレイバー 劇場版",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682593622"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -632,7 +627,14 @@
       "year": "1992",
       "originalTitle": "Tokyo Babylon",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [
+        "Prime Video Channels ARD Plus",
+        "Prime Video Channels FlimmerkisteTV",
+        "ARD Plus",
+        "MagentaTV",
+        "filmfriend"
+      ],
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/1/p11215679_b_v8_ab_2015-03-16T13_42_00.jpg&out=jpeg"
     },
     {
       "name": "Pom Poko",
@@ -1093,11 +1095,11 @@
   ],
   "streamProviders": [
     {
-      "name": "Amazon Prime Video",
+      "name": "ARD Plus",
       "enabled": false
     },
     {
-      "name": "CONtv",
+      "name": "Amazon Prime Video",
       "enabled": false
     },
     {
@@ -1113,7 +1115,7 @@
       "enabled": false
     },
     {
-      "name": "Netflix basic with Ads",
+      "name": "Prime Video Channels ARD Plus",
       "enabled": false
     },
     {
@@ -1121,7 +1123,15 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels FlimmerkisteTV",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels aniverse",
+      "enabled": false
+    },
+    {
+      "name": "filmfriend",
       "enabled": false
     }
   ]
