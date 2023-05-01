@@ -949,7 +949,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/86d14932b02597e3de6b7eaf5d00d3e28cfc5fe9fa5c550239e4372584723f23._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c66b089269ec6d44d2e6edd38623b7b34f7e5385a357188ee5e555f41fc8001f._SX342_.jpg"
     },
     {
       "name": "Color Me Blood Red",
@@ -1149,7 +1149,10 @@
       "year": "1982",
       "originalTitle": "Forbidden World",
       "rating": 2.8,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels Paramount+",
+        "Paramount+"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/75937dbede96ffdcf425b5e61e1e80aba968a8192ba7b2a96f3f4cb4aa8ac2fc._SX342_.jpg"
     },
     {
@@ -1571,7 +1574,7 @@
       "listPosition": 154,
       "year": "1989",
       "originalTitle": "Cipher",
-      "rating": 2.8,
+      "rating": 2.7,
       "streamProviders": []
     },
     {
@@ -1812,7 +1815,7 @@
       "listPosition": 178,
       "year": "1983",
       "originalTitle": "Conquest",
-      "rating": 3.1,
+      "rating": 3.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/cBNdxJDA3Y9U8Vu271brf9aVfiQ.jpg"
     },
@@ -1870,7 +1873,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4ff748e85ab8f730068800d83e597da43985608e8dda7bdcb18a7b53f2d265ee._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5735438a7f217751de4b4fb508110b7279da4af2d71f191abe5890c39b7e4fd6._SX342_.jpg"
     },
     {
       "name": "Just Before Dawn",
@@ -1908,7 +1911,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a9a9b51975d6a6845ea854c432894d54704865f9df9aa97f539b9a17ff1a3fd0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/21d215ce31cb0c7968ef36be9a02a8cdd1adb67f469584835dd3d66413fe90cb._SX342_.jpg"
     },
     {
       "name": "The Naked Kiss",
@@ -2137,7 +2140,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9fa610f1ee91e93c7cbe511c6d02e7f968625415170b121c8ff255156820f0fc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6d8ad2831b3a6e43ec89b7d62cc4f42f43758032f68a58517bd034043e0b1825._SX342_.jpg"
     },
     {
       "name": "Q",
@@ -2145,7 +2148,7 @@
       "listPosition": 210,
       "year": "1982",
       "originalTitle": "Q",
-      "rating": 3.1,
+      "rating": 3.2,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
     },

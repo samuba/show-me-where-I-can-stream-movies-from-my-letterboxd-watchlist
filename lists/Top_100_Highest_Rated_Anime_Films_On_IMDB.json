@@ -67,7 +67,7 @@
       "originalTitle": "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/150673631/s166/Gintama-the-Movie-The-Final-Chapter-Be-Forever-Yorozuya"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/3/p13654441_v_v8_aq_2017-01-05T14_01_00.jpg&out=jpeg"
     },
     {
       "name": "Magnetic Rose",
@@ -379,7 +379,9 @@
       "year": "2001",
       "originalTitle": "千年女優",
       "rating": 4.1,
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b47540cfc7ac73f0cfd8c334e78204931060802dc827d8634cbc46410d57c27d._SX342_.jpg"
     },
     {
@@ -451,7 +453,6 @@
       "originalTitle": "君の膵臓をたべたい",
       "rating": 3.8,
       "streamProviders": [
-        "Amazon Prime Video",
         "Prime Video Channels aniverse"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_.jpg"
@@ -474,9 +475,9 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_.jpg"
     },
     {
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
@@ -537,7 +538,7 @@
       "originalTitle": "名探偵コナン ベイカー街（ストリート）の亡霊",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/133155160/s166/Detektiv-Conan-Das-Phantom-der-Baker-Street"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d46460cdc25a5fa2e29cdc69095b84286eaa5754b0094c50ab102a537f434812._SX342_.jpg"
     },
     {
       "name": "The Girl Who Leapt Through Time",
@@ -557,7 +558,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/304878988/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/efefb42f2d259de3604f415595ffa63b52a46c01c97113af53f88d4a098c4e6a._SX342_.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -663,7 +664,7 @@
       "originalTitle": "ベルセルク 黄金時代篇I 覇王の卵",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/180095158/s166/Berserk-Das-goldene-Zeitalter-I"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/mjhhCmMwGHsDIsRycpcd0bS2pOO.jpg"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
@@ -751,10 +752,9 @@
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
       "rating": 3.9,
       "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn"
+        "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/215305381/s166/Vampire-Hunter-D-Bloodlust"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b0416851a4142a39117438f156b55fc82f00e29e4308a468f41ca197e0f37e6._SX342_.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -795,7 +795,7 @@
       "originalTitle": "夜は短し歩けよ乙女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/nxiXjfpVWyIYbC0KjbN7tKtVzUG.jpg"
     },
     {
       "name": "No Game No Life: Zero",
@@ -817,7 +817,7 @@
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/99164694/s166/Kizumonogatari-I-Blut-und-Eisen"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
     },
     {
       "name": "The Garden of Words",
@@ -849,7 +849,7 @@
       "originalTitle": "名探偵コナン 天国へのカウントダウン",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/133165090/s166/Detektiv-Conan-Countdown-zum-Himmel"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41e1830217a1f66ba59acb5a24b2ca1513e17a1b3988a16741f0a55fb291e8f0._SX342_.jpg"
     },
     {
       "name": "Detective Conan: Captured in Her Eyes",
@@ -879,7 +879,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/304879048/s166/Inuyasha-Movie-2-Das-Traumschloss-im-Inneren-der-Spiegel"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15b5a1074100ae1bdc04c9390bf6dd65cdffa638bd5f901d5eb18e69bd20e9fa._SX342_.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -899,7 +899,7 @@
       "originalTitle": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/428619/s166/Rurouni-Kenshin-The-Movie"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
     },
     {
       "name": "Dragon Ball Z: Wrath of the Dragon",
@@ -911,7 +911,7 @@
       "streamProviders": [
         "Joyn"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/245598747/s166/dragonball-z-drachenfaust"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/a7cc4f1ccc9293e067463c1b4c901294.jpg"
     },
     {
       "name": "Patlabor 2: The Movie",
@@ -1013,9 +1013,10 @@
       "originalTitle": "カラフル",
       "rating": 3.5,
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Prime Video Channels aniverse"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/11806990/s166/Colorful"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1d06b39856d9d013635290d9b49f5fe4eade050c86fd89c355eba54e608a3683._SX342_.jpg"
     },
     {
       "name": "Gintama: The Movie",
@@ -1025,7 +1026,7 @@
       "originalTitle": "銀魂 新訳紅桜篇",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/150679095/s166/Gintama-Benizakura-Arc-A-New-Retelling"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/2/p9232458_v_v8_aq_2016-10-06T14_41_00.jpg&out=jpeg"
     },
     {
       "name": "Redline",
@@ -1074,10 +1075,6 @@
       "enabled": false
     },
     {
-      "name": "Arthouse CNMA Amazon Channel",
-      "enabled": false
-    },
-    {
       "name": "Joyn",
       "enabled": false
     },
@@ -1087,6 +1084,10 @@
     },
     {
       "name": "Prime Video Channels Arthouse CNMA",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Netzkino Select",
       "enabled": false
     },
     {

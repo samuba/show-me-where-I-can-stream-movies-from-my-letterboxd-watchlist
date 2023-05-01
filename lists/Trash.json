@@ -49,7 +49,7 @@
       "listPosition": 5,
       "year": "1982",
       "originalTitle": "Q",
-      "rating": 3.1,
+      "rating": 3.2,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
     },
@@ -899,7 +899,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39969fbba4b53285cd2715619db855267b448cd3a8c3e51d31546b18a312315a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ee70d42b0eded09bdc17fcac6a5265db5f1a4145a4e1f27e60e2c59d5f69af4d._SX342_.jpg"
     },
     {
       "name": "13 Ghosts",
@@ -1385,7 +1385,7 @@
       "streamProviders": [
         "Prime Video Channels Full Action"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c7d488e7e5e90376f5553b7e042e8383a99eb144abdeb7a88529d8681e66a569._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c076671d84e03d762dc1ded2e272a519d2efffb8fc25e1cf5bf81e1bbf7e3439._SX342_.jpg"
     },
     {
       "name": "Bad Black",
@@ -2486,6 +2486,8 @@
       "originalTitle": "Hellboy",
       "rating": 2,
       "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky",
         "Prime Video Channels Filmtastic",
         "MagentaTV"
       ],
@@ -2926,7 +2928,7 @@
       "listPosition": 296,
       "year": "1989",
       "originalTitle": "Alien Private Eye",
-      "rating": 2.7,
+      "rating": 2.8,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/vk0ugwdS5oO4YPJeurPRkEnxCci.jpg"
     },
@@ -3059,7 +3061,10 @@
       "year": "1976",
       "originalTitle": "油鬼子",
       "rating": 3,
-      "streamProviders": []
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/453393785dc953a4c976942ba654e9fb765c7240fc7e827703a63b353db8b39d._SX342_.jpg"
     },
     {
       "name": "Daimajin",
@@ -3209,7 +3214,7 @@
       "listPosition": 323,
       "year": "1983",
       "originalTitle": "Conquest",
-      "rating": 3.1,
+      "rating": 3.2,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/cBNdxJDA3Y9U8Vu271brf9aVfiQ.jpg"
     },
@@ -3598,7 +3603,8 @@
       "rating": 2.6,
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\nSky"
+        "Sky Go\nSky",
+        "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bebdb3ea87bcc8af7990344ced02db7bc2d93e77bbfbd25c034d22053e2a3be9._SX342_.jpg"
     },
@@ -3772,7 +3778,7 @@
       "originalTitle": "Breaking Point",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/7nY2AltbcoRMFku1kmPVQRS8CFM.jpg"
     },
     {
       "name": "Johnny Firecloud",
@@ -3903,7 +3909,9 @@
       "year": "1985",
       "originalTitle": "King Solomon's Mines",
       "rating": 2.4,
-      "streamProviders": [],
+      "streamProviders": [
+        "RTL+"
+      ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/mLQyOo8na1JK2At8GCQURPpoXI6.jpg"
     },
     {
@@ -4608,6 +4616,10 @@
     },
     {
       "name": "Prime Video Channels superfresh",
+      "enabled": false
+    },
+    {
+      "name": "RTL+",
       "enabled": false
     },
     {

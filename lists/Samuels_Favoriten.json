@@ -114,7 +114,6 @@
       "originalTitle": "Reservoir Dogs",
       "rating": 4.1,
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM",
         "Prime Video Channels Seven Entertainment"
@@ -144,7 +143,7 @@
         "Prime Video Channels ARTHAUS+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c0c15201e3be4af33da29c1aa310f1063d4b31ac166d2d49c68ff4dbf69a1c8f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e0ab9735404ea4748c18ccf7d22267ebcb95ca00e1d315ee08480d3cce053a5f._SX342_.jpg"
     },
     {
       "name": "Planet Terror",
@@ -158,7 +157,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/86d14932b02597e3de6b7eaf5d00d3e28cfc5fe9fa5c550239e4372584723f23._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c66b089269ec6d44d2e6edd38623b7b34f7e5385a357188ee5e555f41fc8001f._SX342_.jpg"
     },
     {
       "name": "Inglourious Basterds",
@@ -170,7 +169,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_.jpg"
     },
     {
       "name": "Machete",
@@ -298,7 +297,7 @@
         "MagentaTV",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5ce8904aaffb706bd2fb16ee210d210dc5b45b8042ab1c92a6f13b786da888b3._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ea0d3ad251f1a8dc5c963a3415f93d49b5e4598e5708a1f2b46de551d447195._SX342_.jpg"
     },
     {
       "name": "Brick",
@@ -482,7 +481,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb59b3d0729b05d8b7b33bfc6ed35884b6ee2b3fa4be5480e8b150f33e994371._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d407f5ac188f923edf803a552c4bd3d906d2e5375e423f3f09990699d35bf6d7._SX342_.jpg"
     },
     {
       "name": "Edge of Tomorrow",
@@ -542,7 +541,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f3a8b5ca86a3ee2c842faef4bbf866957693ac7642cf3dbcdafadf43c5caa623._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dcd3bbaba4d4d7ebe4ddfcc133ee5fe8b5c9cc6d2ef4dbe1ef9346e079e1b304._SX342_.jpg"
     },
     {
       "name": "The Guard",
@@ -775,7 +774,9 @@
       "year": "1998",
       "originalTitle": "Lock, Stock and Two Smoking Barrels",
       "rating": 3.9,
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c8ff30ecb0b5b971abe34f9e9f738fa21b76b4f03eda8c776b7492b9b01887e._SX342_.jpg"
     },
     {
@@ -1036,7 +1037,6 @@
       "originalTitle": "Captain Fantastic",
       "rating": 3.9,
       "streamProviders": [
-        "Amazon Prime Video",
         "freenet Video",
         "Prime Video Channels Arthouse CNMA"
       ],
@@ -1288,7 +1288,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b0ab93bb52cec0dce4b0db10e3a0bfbec5d549bd872904d869cb1f3095624de4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/822488f8c80ecdceb69fab51bab887ddd21124e1870ec1cac15f96fec049122d._SX342_.jpg"
     },
     {
       "name": "Spider-Man: Into the Spider-Verse",
@@ -1301,7 +1301,7 @@
         "Amazon Prime Video",
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0bf15f9d6a52f43fbf9b598c16583387b8c18d1ba2b466a26576bd4997b5c2b4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0b64d32faa41b537a341553380df06220e2438a86c11256ccb7e707c4aab54a._SX342_.jpg"
     },
     {
       "name": "Parasite",
@@ -1482,7 +1482,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79deda28476122774c601a0e4eeb42456a2867e062a55bd436dda45253e1c3c0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eac5f5d5e790bf621c92617ca51cf6387c4b497d06d06f4b1a433e34fa52be53._SX342_.jpg"
     },
     {
       "name": "The Green Mile",
@@ -1515,7 +1515,7 @@
       "originalTitle": "Watchmen",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/611330cf4f7fb1286f3fdeb4a943bc5f6b07df5186cc09cdb3341aceecfc83c4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0fe8b89b042914777edeacd50d6663619abb89a45038a9a7bfa60f9897992756._SX342_.jpg"
     },
     {
       "name": "Romeo + Juliet",
