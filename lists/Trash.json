@@ -631,7 +631,9 @@
       "year": "1988",
       "originalTitle": "Deathstalker and the Warriors from Hell",
       "rating": 1.7,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels FRANATIC – dein Film-Channel"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ebd77e7a0d17913caa790b499254bba85fb6a1a40f9fc85e95b445c92c46de5a._SX342_.jpg"
     },
     {
@@ -899,7 +901,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ee70d42b0eded09bdc17fcac6a5265db5f1a4145a4e1f27e60e2c59d5f69af4d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39969fbba4b53285cd2715619db855267b448cd3a8c3e51d31546b18a312315a._SX342_.jpg"
     },
     {
       "name": "13 Ghosts",
@@ -2928,7 +2930,7 @@
       "listPosition": 296,
       "year": "1989",
       "originalTitle": "Alien Private Eye",
-      "rating": 2.8,
+      "rating": 2.7,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/vk0ugwdS5oO4YPJeurPRkEnxCci.jpg"
     },
@@ -4114,7 +4116,6 @@
       "originalTitle": "Timecop",
       "rating": 2.8,
       "streamProviders": [
-        "Prime Video Channels FILMLEGENDEN",
         "Prime Video Channels MOVIECULT"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3b24ca01420ac284ed3eb75278b3eb36cc96fa87c075c5857e48fb6517d6840f._SX342_.jpg"
@@ -4336,9 +4337,7 @@
       "year": "1993",
       "originalTitle": "Deadfall",
       "rating": 2,
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1a6c3de6598ae8442086fbafbf353115dcacf37142c4d3e10c69048dac48839e._SX342_.jpg"
     },
     {

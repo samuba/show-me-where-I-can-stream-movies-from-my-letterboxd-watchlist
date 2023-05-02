@@ -19,8 +19,7 @@
       "year": "1958",
       "originalTitle": "白蛇伝",
       "rating": 3.1,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/jDNpVVAqdMcFfG8X6BX3azM71yo.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Sparrow in the Pumpkin",
@@ -39,7 +38,7 @@
       "originalTitle": "少年猿飛佐助",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/239007265/s166/Der-Zauberer-und-die-Banditen"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
     },
     {
       "name": "Alakazam the Great!",
@@ -584,7 +583,10 @@
       "year": "1991",
       "originalTitle": "老人Z",
       "rating": 3.5,
-      "streamProviders": []
+      "streamProviders": [
+        "Joyn"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/2A2uERisu1ZDeNQZEAdUyswq1Md.jpg"
     },
     {
       "name": "The Heroic Legend of Arslan",
@@ -664,7 +666,9 @@
       "year": "1995",
       "originalTitle": "Ghost in the Shell",
       "rating": 4,
-      "streamProviders": [],
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_.jpg"
     },
     {

@@ -124,6 +124,7 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
+        "Paramount+",
         "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0dc5af0a04a37209fcfa536564475d26a52710f89e053a2be3d6f767d63bf324._SX342_.jpg"
@@ -280,7 +281,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_.jpg"
     },
     {
       "name": "City Lights",
@@ -406,7 +407,9 @@
       "year": "1942",
       "originalTitle": "Casablanca",
       "rating": 4.2,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4e13260bf72e3d271a29fec4e128d37766a978bb3a8e547827f54b8fe456fbcf._SX342_.jpg"
     },
     {
@@ -455,7 +458,7 @@
       "streamProviders": [
         "Prime Video Channels GRJNGO – Westernfilme"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b7874cca98117a53164aa4f08f45137654031e3bbde641b803077091740368c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/aa163a45e782b2c6dc7540ff5d52585150359a55cb54731108969c4d53d0039d._SX342_.jpg"
     },
     {
       "name": "Contempt",
@@ -684,7 +687,7 @@
       "originalTitle": "The Apartment",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/83c1210a55cce11520e608f89f72e293bcb7135575098e783b6cfa1c3c2980c0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d3ef0a6118cd624166c1196524c78adf562d37b67cbf14227fcabb919e82f1b2._SX342_.jpg"
     },
     {
       "name": "Wild Strawberries",
@@ -715,10 +718,7 @@
       "originalTitle": "C'era una volta il West",
       "rating": 4.3,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels FILMLEGENDEN"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cc8718e4ec627fc26c54b0d7604ad567a3106d7c2ad66fb112b40a977ee9967a._SX342_.jpg"
     },
@@ -914,7 +914,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_.jpg"
     },
     {
       "name": "The Magnificent Ambersons",
@@ -1537,7 +1537,7 @@
       "originalTitle": "Notorious",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/bHymOtR55daLAUFt7LLjzTxWKG3.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/x2SlZqkvyZtxdBIifxi4ozPJAxm.jpg"
     },
     {
       "name": "His Girl Friday",
@@ -1547,7 +1547,7 @@
       "originalTitle": "His Girl Friday",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/685166e7e510d835287df64fd4d2138f29c071a923a99a36a98a591e8a06b828._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7943e23a734cfb5b528c2af62f7fb6837ed61bcc51751f76f0b6de073f8ee4a0._SX342_.jpg"
     },
     {
       "name": "Do the Right Thing",
@@ -1581,7 +1581,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels Wild West"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a6cf8d4b44383f63023fc6715f4be4c5a27185abc28cfc015f175a09759385de._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f8572a0a18d6f5063438d742ebc4fea767621de37a8bc2bc987ea1a1f28f04e1._SX342_.jpg"
     },
     {
       "name": "The Lady Eve",
@@ -1703,7 +1703,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2ed591372311eded806b04833350e5d4384fa67bf9361d43c6ead78c82434d9._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0ccbe4828d31371a076c68b55ac7883addb162e27ac389b28858e96b80544db6._SX342_.jpg"
     },
     {
       "name": "Spirited Away",
@@ -1765,7 +1765,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/34da2dbbbc2ab77cce7e977daee3df8198f081da121b1161ab6da9f6d3ab0571._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11e967090d4a8e5da8af4d0db7e843ef2332aa3e137832caf41701195a555264._SX342_.jpg"
     },
     {
       "name": "The Red Shoes",
@@ -1930,7 +1930,7 @@
       "originalTitle": "L'Argent",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/7KPq52V27rCukeQUjCflX8DSsZ9.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vW7eHnx1cDqIZM1PkpqqoxxMTSI.jpg"
     },
     {
       "name": "Black Narcissus",
@@ -2131,7 +2131,9 @@
       "year": "1981",
       "originalTitle": "Raiders of the Lost Ark",
       "rating": 4.2,
-      "streamProviders": [],
+      "streamProviders": [
+        "Paramount+"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cfc4e907355c4b464a6d2d6957227a10ec0de519da57168a30dd80c5c5cb929c._SX342_.jpg"
     },
     {
@@ -2236,7 +2238,7 @@
       "originalTitle": "The Exorcist",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79d1062e27676e2e00a5d33706e66ade25a4b4a7060a4a0a579207d1b8117516._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/07d2e8fd3dfa1b33b7716ab706ddb7244b9c5d51b38616a21c148885efa367bf._SX342_.jpg"
     },
     {
       "name": "My Neighbor Totoro",
@@ -2443,7 +2445,7 @@
       "listPosition": 221,
       "year": "2005",
       "originalTitle": "Caché",
-      "rating": 4,
+      "rating": 3.9,
       "streamProviders": [],
       "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p159813_v_v8_aa_2015-09-03T19_45_00.jpg&out=jpeg"
     },
@@ -2511,7 +2513,7 @@
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels FILMLEGENDEN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a0293da8185d1c22938642104b38ef2e252a5308f1f0dfac36c1365c17b1f49e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ded42b91a1ca8eb7b7c878f5792ae4ea7091c31aadc88a38b97dd58d368e83f4._SX342_.jpg"
     },
     {
       "name": "Kind Hearts and Coronets",
@@ -3114,7 +3116,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47dce1e6d650c33cee892ab89eb9356ff9274a34039d07f7537bbf8418d521b8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9e1e74de1e5df4677714e2be1e1cb9c3ad7eba3aff1389cb3319f322191bac1d._SX342_.jpg"
     },
     {
       "name": "Back to the Future",
@@ -3521,7 +3523,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5._SX342_.png"
     },
     {
       "name": "The Puppetmaster",
@@ -3609,8 +3611,7 @@
       "originalTitle": "The Silence of the Lambs",
       "rating": 4.3,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels MGM"
+        "Joyn"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1f608cd015975c03bb9b1736f01970df72bef5dbac69db8766018a97d7781b14._SX342_.jpg"
     },
@@ -3695,7 +3696,10 @@
       "year": "1976",
       "originalTitle": "愛のコリーダ",
       "rating": 3.6,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://images.videociety.de/FrontCover/0BDD056E6B5364C9ED64EFD4129C160AC9D3FF9A_342.jpg"
     },
     {
@@ -3834,11 +3838,13 @@
       "name": "A Touch of Zen",
       "letterboxdUrl": "https://letterboxd.com/film/a-touch-of-zen/",
       "listPosition": 350,
-      "year": "1970",
+      "year": "1971",
       "originalTitle": "俠女",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/bjUUmuCX6hRjlJ8S6NL0mtXcF2N.jpg"
+      "streamProviders": [
+        "filmingo"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5d06b79ebc9c84b8fa4bd7afb07abbd4a3754e80ecb75015958db5988ed09ff5._SX342_.jpg"
     },
     {
       "name": "The House Is Black",
@@ -3869,9 +3875,7 @@
       "year": "1969",
       "originalTitle": "Midnight Cowboy",
       "rating": 4,
-      "streamProviders": [
-        "Prime Video Channels MGM"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a16a8d25d7e18938ba533b2e38e9b63bd3fac4d0aef209a9582597ecfaefb627._SX342_.jpg"
     },
     {
@@ -4676,7 +4680,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2fabbf1c0e374c997b53d29f8c85cb7d3f761e6e013da7ca30eb5163968533d5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3fa8b0a3ceba875c5d97d2864a9608eb8a582f516a5eb72079503b21a15b0223._SX342_.png"
     },
     {
       "name": "The Flowers of St. Francis",
@@ -5490,7 +5494,7 @@
       "listPosition": 502,
       "year": "1928",
       "originalTitle": "Steamboat Bill, Jr.",
-      "rating": 4,
+      "rating": 3.9,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/12dd3c1fbdf405d2d9290213bacaaf165603cbfbd5b46127869fa70ee51d2504._SX342_.jpg"
     },
@@ -5555,9 +5559,7 @@
       "year": "2005",
       "originalTitle": "Grizzly Man",
       "rating": 4,
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70444c14719037d4082747d59669e58bd1d133d0c4f8c755ce8257c8f95bcee5._SX342_.jpg"
     },
     {
@@ -5850,7 +5852,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/aca33b338143636576f5adccb23dc9df72bf53055e526a611ce0f05ffb7ef2c2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d343a52887d7225336a47659151a776c70f9deb7837fd4e48ceaec6ab064e517._SX342_.jpg"
     },
     {
       "name": "Once Upon a Time in Anatolia",
@@ -5864,7 +5866,7 @@
         "Prime Video Channels Turk on Video",
         "filmingo"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4b8d1483a520a864b7ebd0e4f7951b987bd2402fd5d51c6015b1503b6047e357._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d5e08760fbdd17c0dc87ea19b66c9a54f225806bc52301f548335305f219c393._SX342_.jpg"
     },
     {
       "name": "Point Blank",
@@ -7564,7 +7566,7 @@
         "Netzkino",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84a54ca33ef6391faa28e2f9dc8a083a4e541d899036778a0807c540892aab4c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b42aad8d76128b57104d103c525b1ac57e085a84f8f2c9e9315c3d5312fdeb9b._SX342_.jpg"
     },
     {
       "name": "The Great Escape",
@@ -7573,7 +7575,9 @@
       "year": "1963",
       "originalTitle": "The Great Escape",
       "rating": 4,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels MGM"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47a63568ba7ffac943836d61de3bdcec2440705ab6dce511365e56a652b34e3a._SX342_.jpg"
     },
     {
@@ -7627,7 +7631,9 @@
       "year": "1998",
       "originalTitle": "Saving Private Ryan",
       "rating": 4.2,
-      "streamProviders": [],
+      "streamProviders": [
+        "MagentaTV"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ee8fd78df3012f8190ff0d15d4b1ad64a060eeb7c9b39861460b7b0723edf9b._SX342_.jpg"
     },
     {
@@ -7642,7 +7648,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/678b8328aa680109a4e26bb587a90b64feb604f4beafd35d03c2cb29e7bfd66b._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c0c5a2cb3f2ea0de750f3ec43f86ce051e1d44dabb607218cf924cce7defd8f._SX342_.jpg"
     },
     {
       "name": "Miller's Crossing",
@@ -7652,7 +7658,7 @@
       "originalTitle": "Miller's Crossing",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4371db8f281beb5e31344e33d21d0718229546875555b3c981e3c12e29ecf92a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ea983218db2568ad6eb5138c9b712724b74f7774bb1390853afedb2cca5d14e._SX342_.jpg"
     },
     {
       "name": "Lolita",
@@ -7721,7 +7727,7 @@
         "Amazon Prime Video",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/002016e56ec8c2fadd345fdaf06ded6163a3206092f29dd003e196ea225c73ac._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47ec5cb12fb7bde105ecb97812192e35907c5562441d2507554f24eeadc4c95f._SX342_.jpg"
     },
     {
       "name": "Requiem for a Dream",
@@ -7949,10 +7955,8 @@
       "year": "1981",
       "originalTitle": "Blow Out",
       "rating": 4,
-      "streamProviders": [
-        "Prime Video Channels MGM"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c67cdae08110d34466c7f6d49ae84c2b6301b202a0bffc3753fd212ca8d1e7c1._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/af0d10b83f7e769ed4cdc8836047f36a.jpg"
     },
     {
       "name": "My Life as a Dog",
@@ -8144,7 +8148,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/06d3a498f2fa34903199542fb3208a15093911f4d3a8a4e556e28b59cadbd3f3._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d022aa25867ab80968ecaa8085230fdc7a6d314400bb44c4867f93c5eb27c5db._SX342_.jpg"
     },
     {
       "name": "The Bad and the Beautiful",
@@ -8830,7 +8834,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/721498a23c6c630773f88dff0a21f8216963212f3b9493e5fd186c0a7ce9dd72._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f83a084a0ac1fc165c487a2b806843cb2655f7022f7baeb04743bddf7a5efacc._SX342_.jpg"
     },
     {
       "name": "Donnie Darko",
@@ -8983,7 +8987,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_.jpg"
     },
     {
       "name": "The Blues Brothers",
@@ -9788,7 +9792,9 @@
       "year": "1958",
       "originalTitle": "Man of the West",
       "rating": 3.7,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels MGM"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4f670aa246bb36e23d52241d05a80058dbd5aceaef3cbfe388311689438407d8._SX342_.jpg"
     },
     {
@@ -10094,7 +10100,7 @@
         "Prime Video Channels realeyz",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/35201b1f090c59b5077c4436fd0e543899ef2dcb4a6d86dbf8ab5c3924c5b662._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f7055e5162416fe2e68543d5958571b511e59e1c4e57fb1fcb9f92adbcd5a9a._SX342_.jpg"
     },
     {
       "name": "Burnt by the Sun",
@@ -10620,7 +10626,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9a529fdee2a50e08a4aa84acf3c2b4a97b8204e5a19ce6f9f578b4374d9098ed._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ac5578fb52443a2f7104f5e8619cf25f84f0ad20efcd255bbe8574f25b096c07._SX342_.jpg"
     },
     {
       "name": "Bad Timing",
@@ -10793,7 +10799,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b6d2f29e52754ca0e9f63d15bddee7b900f2920d4d9a1fc0e8f01b7837cf0e05._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4efe34fd038a71b8bfe195ec46b3157b5403b705dc247946acbc04b83d371c80._SX342_.jpg"
     },
     {
       "name": "Anatahan",

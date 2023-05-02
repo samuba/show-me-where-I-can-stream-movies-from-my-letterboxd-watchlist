@@ -272,8 +272,10 @@
       "year": "2008",
       "originalTitle": "GHOST IN THE SHELL／攻殻機動隊2.0",
       "rating": 3.6,
-      "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15661816_v_v8_ab_2022-02-07T05_37_05.jpg&out=jpeg"
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9f1de1354f1a474cffafcd6dbaad8628f9cf6a1a37af6edc9e8de7ce66f74f9b._SX342_.jpg"
     },
     {
       "name": "Evangelion: 2.0 You Can (Not) Advance",
@@ -306,7 +308,9 @@
       "year": "1995",
       "originalTitle": "Ghost in the Shell",
       "rating": 4,
-      "streamProviders": [],
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_.jpg"
     },
     {
@@ -558,7 +562,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/efefb42f2d259de3604f415595ffa63b52a46c01c97113af53f88d4a098c4e6a._SX342_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -817,7 +821,7 @@
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/fF2cR4orlLK6zeQGz6n2p0e22rU.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/99164694/s166/Kizumonogatari-I-Blut-und-Eisen"
     },
     {
       "name": "The Garden of Words",
@@ -879,7 +883,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15b5a1074100ae1bdc04c9390bf6dd65cdffa638bd5f901d5eb18e69bd20e9fa._SX342_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/iIHC94gkBt0Uha8TUTgHcAt6IoD.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -959,9 +963,11 @@
       "originalTitle": "La tortue rouge",
       "rating": 3.8,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Prime Video Channels Arthouse CNMA",
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc520e571f45dbea1cf05649d767c8c7206b5b85d231d2b3ade52582ad9e273a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc3980da33dbe29a021874389acf6f2559eba723273fb1b9519214577102df3c._SX342_.jpg"
     },
     {
       "name": "K-ON! The Movie",
@@ -1079,11 +1085,19 @@
       "enabled": false
     },
     {
+      "name": "Mubi",
+      "enabled": false
+    },
+    {
       "name": "Netflix",
       "enabled": false
     },
     {
       "name": "Prime Video Channels Arthouse CNMA",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels MUBI",
       "enabled": false
     },
     {
