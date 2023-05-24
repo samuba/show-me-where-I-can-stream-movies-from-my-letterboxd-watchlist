@@ -43,7 +43,10 @@
       "year": "1971",
       "originalTitle": "Vampyros Lesbos",
       "rating": 3.2,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://image.tmdb.org/t/p/w342/6tBQjrUYyEn8EAqvfuRGj0L1bTx.jpg"
     },
     {
@@ -121,7 +124,7 @@
       "originalTitle": "Sweet Sweetback's Baadasssss Song",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/b8WohfEVW6nCnHBlQGXmXmSJJhW.jpg"
     },
     {
       "name": "The Last House on the Left",
@@ -404,7 +407,7 @@
       "originalTitle": "The Taint",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "The Funhouse",
@@ -480,7 +483,6 @@
       "originalTitle": "Knock Knock",
       "rating": 2.1,
       "streamProviders": [
-        "Prime Video Channels Home of Horror",
         "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bcffe2f2bda92e9a19c5ebeb055fff4ee9affe3d8cb7a8b903971fe9440b8bf8._SX342_.jpg"
@@ -592,7 +594,7 @@
       "originalTitle": "Dværgen",
       "rating": 2.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "The Toxic Avenger",
@@ -775,7 +777,7 @@
       "originalTitle": "Faster, Pussycat! Kill! Kill!",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/pRJTlXzxUBVUACKcIab3Rq7FgdV.jpg"
     },
     {
       "name": "Foxy Brown",
@@ -835,10 +837,11 @@
       "originalTitle": "Death Proof",
       "rating": 3.5,
       "streamProviders": [
+        "Prime Video Channels Moviedome PLUS",
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1ecf4e5463094f2e088634b39ae9e3fb855feb5bb3ec63d5842334d96305f8ec._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a02d3999706d2dc87029d6f5bdcacef48fa7398c3384339d5731825596f23099._SX342_.jpg"
     },
     {
       "name": "Love Camp 7",
@@ -876,7 +879,7 @@
       "originalTitle": "Suor Omicidi",
       "rating": 2.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Women in Cages",
@@ -996,7 +999,7 @@
       "originalTitle": "The Born Losers",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/xrvmhJbWHTwqLuJizE619TRjJ5.jpg"
     },
     {
       "name": "The Transgressor",
@@ -1029,7 +1032,7 @@
       "originalTitle": "Don't Go in the House",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/usem2nEbiNbzOMgS0DV6oaTh1WQ.jpg"
     },
     {
       "name": "Africa Addio",
@@ -1051,11 +1054,11 @@
       "streamProviders": []
     },
     {
-      "name": "Ilsa, Harem Keeper of the Oil Sheiks",
+      "name": "Ilsa: Harem Keeper of the Oil Sheiks",
       "letterboxdUrl": "https://letterboxd.com/film/ilsa-harem-keeper-of-the-oil-sheiks/",
       "listPosition": 105,
       "year": "1976",
-      "originalTitle": "Ilsa, Harem Keeper of the Oil Sheiks",
+      "originalTitle": "Ilsa: Harem Keeper of the Oil Sheiks",
       "rating": 2.6,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/uu4gfIOADH9C5KjbFBlO00DUIjI.jpg"
@@ -1153,7 +1156,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/75937dbede96ffdcf425b5e61e1e80aba968a8192ba7b2a96f3f4cb4aa8ac2fc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8154fb30a075fefe9f7e7aa9aebc7a951b6bb4235585610fb0a74d9ba88dc259._SX342_.jpg"
     },
     {
       "name": "Almost Human",
@@ -1194,7 +1197,7 @@
       "originalTitle": "Savage Streets",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "2019: After the Fall of New York",
@@ -1226,7 +1229,7 @@
       "originalTitle": "Sonny Boy",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/efgAR8kX2YL3zgVf4C90RC6hJAK.jpg"
     },
     {
       "name": "To Be Twenty",
@@ -1236,7 +1239,7 @@
       "originalTitle": "Avere vent'anni",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "The New York Ripper",
@@ -1329,7 +1332,7 @@
       "originalTitle": "Nekromantik",
       "rating": 2.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Schramm",
@@ -1339,7 +1342,7 @@
       "originalTitle": "Schramm",
       "rating": 3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "The Giant Claw",
@@ -1369,7 +1372,7 @@
       "originalTitle": "Rock 'n' Roll Nightmare",
       "rating": 2.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "The Boy Next Door",
@@ -1390,10 +1393,7 @@
       "year": "2016",
       "originalTitle": "Gods of Egypt",
       "rating": 2,
-      "streamProviders": [
-        "Prime Video Channels Filmtastic",
-        "MagentaTV"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f22b302169872e5d4406701c428472ad3f68170aa2e323f2df75f6150463b6f5._SX342_.jpg"
     },
     {
@@ -1404,7 +1404,7 @@
       "originalTitle": "The Nail Gun Massacre",
       "rating": 2.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Barbarella",
@@ -1517,9 +1517,9 @@
       "listPosition": 149,
       "year": "1973",
       "originalTitle": "Invasion of the Bee Girls",
-      "rating": 2.6,
+      "rating": 2.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "The Manson Family",
@@ -1544,7 +1544,7 @@
         "Prime Video Channels Bloody Movies",
         "Prime Video Channels Silverline"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c42f3681e8d4f41b0a7e993e3e2d35d1a1296d27eef830b13b80961e74b47c01._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f887a707e92b32ff731c0fd8b11aa9a85ed4722f0ded28f093ae1e0873f93f94._SX342_.jpg"
     },
     {
       "name": "Samurai Cop",
@@ -1572,7 +1572,7 @@
       "listPosition": 154,
       "year": "1989",
       "originalTitle": "Cipher",
-      "rating": 2.8,
+      "rating": 2.7,
       "streamProviders": []
     },
     {
@@ -1648,7 +1648,7 @@
       "originalTitle": "Spider Baby",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Shivers",
@@ -1696,8 +1696,9 @@
       "listPosition": 166,
       "year": "1996",
       "originalTitle": "伊波拉病毒",
-      "rating": 3.5,
-      "streamProviders": []
+      "rating": 3.4,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/v7mJHngRoqb88p59SqH3DoXlqjf.jpg"
     },
     {
       "name": "ThanksKilling",
@@ -1736,7 +1737,7 @@
       "listPosition": 170,
       "year": "2012",
       "originalTitle": "Bio-Cop",
-      "rating": 3.9,
+      "rating": 3.8,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/370e5d6de2202d35432df247b5fcb074f1991d6cc15138715380da931359351f._SX342_.jpg"
     },
@@ -1748,7 +1749,7 @@
       "originalTitle": "Father's Day",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Pervert!",
@@ -1758,7 +1759,7 @@
       "originalTitle": "Pervert!",
       "rating": 2.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Home Sick",
@@ -1795,7 +1796,7 @@
       "originalTitle": "Robot Jox",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Closer",
@@ -1903,13 +1904,16 @@
       "originalTitle": "Feuchtgebiete",
       "rating": 3.1,
       "streamProviders": [
+        "Joyn",
         "Netflix",
         "Prime Video Channels ARTHAUS+",
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/21d215ce31cb0c7968ef36be9a02a8cdd1adb67f469584835dd3d66413fe90cb._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a9a9b51975d6a6845ea854c432894d54704865f9df9aa97f539b9a17ff1a3fd0._SX342_.jpg"
     },
     {
       "name": "The Naked Kiss",
@@ -1939,7 +1943,7 @@
       "originalTitle": "Disco Godfather",
       "rating": 3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Dolemite",
@@ -1949,7 +1953,7 @@
       "originalTitle": "Dolemite",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Hard Ticket to Hawaii",
@@ -1979,7 +1983,7 @@
       "originalTitle": "Wild in the Streets",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/fJHCvd5wQszKZdVZ43U5Wu0k03Z.jpg"
     },
     {
       "name": "The Legend of Boggy Creek",
@@ -2019,7 +2023,7 @@
       "originalTitle": "The Babysitter",
       "rating": 3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Burial Ground",
@@ -2123,7 +2127,7 @@
       "listPosition": 208,
       "year": "1982",
       "originalTitle": "Desperate Lives",
-      "rating": 3.2,
+      "rating": 3.3,
       "streamProviders": []
     },
     {
@@ -2138,7 +2142,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6d8ad2831b3a6e43ec89b7d62cc4f42f43758032f68a58517bd034043e0b1825._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9fa610f1ee91e93c7cbe511c6d02e7f968625415170b121c8ff255156820f0fc._SX342_.jpg"
     },
     {
       "name": "Q",
@@ -2146,9 +2150,9 @@
       "listPosition": 210,
       "year": "1982",
       "originalTitle": "Q",
-      "rating": 3.2,
+      "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Anaconda",
@@ -2190,7 +2194,7 @@
       "originalTitle": "Road House",
       "rating": 3.4,
       "streamProviders": [
-        "Prime Video Channels MGM",
+        "Prime Video Channels MGM+",
         "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d5a6b2a0d5079aac6f6243e5e6768acdc0a745a84d366436338a5235fc27390._SX342_.jpg"
@@ -2215,7 +2219,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3985838cdbca122cc5bb93161bd2d68cb12065ec2a8746b6b6c12b0b653d8801._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d0ea5dba4008fc053f5bb8db95a709cc224e48b0424ce779ff2b1a013c6f63f4._SX342_.jpg"
     },
     {
       "name": "Gia",
@@ -2250,7 +2254,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2015/04/image/jpeg/ac2013d38f7450f1683c653ec0f0c36e.jpg"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/6e0fc731c970dfb7ac446d030e01eea7.jpg"
     },
     {
       "name": "The Oscar",
@@ -2300,7 +2304,7 @@
       "originalTitle": "Butterfly",
       "rating": 2.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Myra Breckinridge",
@@ -2394,10 +2398,6 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Filmtastic",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels Full Action",
       "enabled": false
     },
@@ -2406,7 +2406,11 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels MGM",
+      "name": "Prime Video Channels Kabel Eins CLASSICS",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels MGM+",
       "enabled": false
     },
     {
@@ -2418,11 +2422,19 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels Moviedome PLUS",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Netzkino Select",
       "enabled": false
     },
     {
       "name": "Prime Video Channels Paramount+",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Seven Entertainment",
       "enabled": false
     },
     {

@@ -11,7 +11,7 @@
       "originalTitle": "The Super Mario Bros. Movie",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/f0NjWxVj3VvoYW6yVPW5Wc7BR3d.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/2VhvUgsFKIjBm9NHXeeVqkPtUqe.jpg"
     },
     {
       "name": "High Life",
@@ -20,7 +20,9 @@
       "year": "2018",
       "originalTitle": "High Life",
       "rating": 3.2,
-      "streamProviders": [],
+      "streamProviders": [
+        "filmfriend"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7242541bdd3e6bcaf98771af02d9d8193da72d21df4f59fd930abf406d9b93ee._SX342_.jpg"
     },
     {
@@ -56,7 +58,7 @@
       "originalTitle": "헤어질 결심",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/yGWYS4A3jrygbAOgTXQNVXCUAA7.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b3f45fcec489319d9b79edc8e9d4015b5afcf162233035f41e59cbcac5e5066c._SX342_.jpg"
     },
     {
       "name": "Midsommar",
@@ -78,7 +80,7 @@
       "originalTitle": "Hereditary",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ef58a4428170002915c7b8497f2e2763cdf3dc0e6d1c0b7fd8a55eacc02404ac._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/741f1fc3d9fcf9201f3faaa91c6317086804174e9aec36524d218ffabc182975._SX342_.jpg"
     },
     {
       "name": "Generation War",
@@ -153,7 +155,7 @@
       "originalTitle": "The Whale",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/4XfHj6W61y8RdH6R6c8AeOtEkAJ.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/4UGVlTRT4rbyfdAzXTXh8YM81MZ.jpg"
     },
     {
       "name": "One Last Evening",
@@ -162,7 +164,8 @@
       "year": "2023",
       "originalTitle": "Letzter Abend",
       "rating": 0,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/q6qxfFnIUEfmqhixv3otSHWijen.jpg"
     },
     {
       "name": "Climax",
@@ -171,9 +174,7 @@
       "year": "2018",
       "originalTitle": "Climax",
       "rating": 3.8,
-      "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7cc2ae23a77cdec47b7623843f741eb82052d07cdaeadaee24f2bec03b4310c9._SX342_.jpg"
     },
     {
@@ -194,7 +195,10 @@
       "originalTitle": "The Talented Mr. Ripley",
       "rating": 3.8,
       "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a878b6f53d704f9979b913de1d2170fd15b5ebd5f6f2bece989059d96a4db698._SX342_.jpg"
@@ -242,7 +246,7 @@
       "originalTitle": "Babylon",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f35c2ddc370d8b87bf08ff83e3f828f1b6b44a5bb6dafa7c35e7608d259995ba._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec51a731c83306596b363f1d620e240a4d7b7f2eb43c1dd1199625ebbb888aec._SX342_.jpg"
     },
     {
       "name": "Se7en",
@@ -278,7 +282,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_.jpg"
     },
     {
       "name": "Cosmopolis",
@@ -313,7 +317,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_.jpg"
     },
     {
       "name": "Primer",
@@ -405,7 +409,7 @@
       "originalTitle": "The Fabelmans",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/A7rxp6pZERBRAzCFbXREAzzYFsd.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f53cfc87136e030c9a39ae8ec765271283ad5e7f022c176e62550bbf390ba07f._SX342_.jpg"
     },
     {
       "name": "Triangle of Sadness",
@@ -414,7 +418,9 @@
       "year": "2022",
       "originalTitle": "Triangle of Sadness",
       "rating": 3.7,
-      "streamProviders": [],
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53c717ae8e2f904ef11d5f317ee668a4515a1bbc4519ebfe079fd5df910cbcfa._SX342_.jpg"
     },
     {
@@ -428,7 +434,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_.jpg"
     },
     {
       "name": "Man on the Moon",
@@ -472,8 +478,10 @@
       "year": "2022",
       "originalTitle": "Bones and All",
       "rating": 3.7,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d6a6ffd10c85c048d3bfc4b2b3dfd3e6f1b8d094344857244611263aec108620._SX342_.jpg"
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fac9f773ac6eac32922040e120a2ca3ff1b6d340d4a8ae1615a5f162a20a8915._SX342_.jpg"
     },
     {
       "name": "Maps to the Stars",
@@ -498,6 +506,7 @@
       "rating": 3,
       "streamProviders": [
         "Amazon Prime Video",
+        "Prime Video Channels Paramount+",
         "Paramount+",
         "PantaRay",
         "Sooner",
@@ -624,7 +633,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6b86f9c6ece39b16882b85762ddc4644d0bce7e947cb91623e6d1fe994e76b61._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e3fb85ff3a534570706852166faac42deff7421d2d5271f4a6253f4c6b8f2aad._SX342_.jpg"
     },
     {
       "name": "Avengers: Infinity War",
@@ -646,7 +655,8 @@
       "originalTitle": "Only Lovers Left Alive",
       "rating": 3.8,
       "streamProviders": [
-        "Sooner"
+        "Sooner",
+        "filmfriend"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4f8948b93dd7eb7462ba55e8d9ab9fdd7ea44f086fcd9173cd486719a99d6fce._SX342_.jpg"
     },
@@ -742,7 +752,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a807e590b47174f4a3f9991a58014ddcd0942e8880041044aeedffd4d72e2d51._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15e628f33da47229fe0d5e6e5e68b6007c86fbf8a1a2a1e08d7c49cb946408f8._SX342_.jpg"
     },
     {
       "name": "Wiener-Dog",
@@ -789,10 +799,13 @@
       "originalTitle": "Radio Heimat",
       "rating": 3.2,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Filmtastic",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6043ae99d81f24e98fe6ef1258e4f364b0c90d6a9295ea1545392159ddccba53._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9fd19674d640a7b221d36d3dd4277ad5d5ff0c0935867007abc067081a8b933e._SX342_.png"
     },
     {
       "name": "Shirley",
@@ -898,7 +911,8 @@
       "originalTitle": "The Big Lebowski",
       "rating": 4.1,
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Joyn"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4294ca675d35b0cd1f976edc27d3ab65753e6542daeff67fc2c19662c4d3b182._SX342_.jpg"
     },
@@ -929,8 +943,10 @@
       "year": "2008",
       "originalTitle": "Die Deutschen",
       "rating": 3.6,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "streamProviders": [
+        "Sky Go\nSky"
+      ],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "A Bigger Splash",
@@ -1021,7 +1037,7 @@
       "originalTitle": "Zelig",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "A Pigeon Sat on a Branch Reflecting on Existence",
@@ -1220,7 +1236,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e209b2541a73dbd350a920371860244df514afc6a5471de5c7bc4470d44df086._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1f71f3d6ee90c85e082c437d3367dc0611dbcf563e06ee6188d42b3453f51986._SX342_.jpg"
     },
     {
       "name": "La Dolce Vita",
@@ -1253,6 +1269,8 @@
       "rating": 3.8,
       "streamProviders": [
         "Netflix",
+        "Sky WOW",
+        "Sky Go\nSky",
         "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1d42999409fd6d37a6636f160cd513a6ddbc1437e01d78d43880e9f6d0354ffa._SX342_.jpg"
@@ -1265,12 +1283,9 @@
       "originalTitle": "The Aviator",
       "rating": 3.7,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels FILMLEGENDEN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/50001c656cf0c1b54d24e8a4bdf0684092283c028abf5b89410bd3cc34e2fdfd._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2dcb86f19905aaa5e4d80c74f7026c5c833ad481c7c588f00dbf9b69734ed8d._SX342_.jpg"
     },
     {
       "name": "Les Misérables",
@@ -1304,7 +1319,7 @@
       "originalTitle": "Annie Hall",
       "rating": 4,
       "streamProviders": [
-        "Prime Video Channels MGM"
+        "Prime Video Channels MGM+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c8e9a53f85c16a042f948aadedfce6642b202d2d1191cad167e72844b28cd61._SX342_.jpg"
     },
@@ -1338,12 +1353,9 @@
       "originalTitle": "The Hobbit: The Battle of the Five Armies",
       "rating": 3.1,
       "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
+        "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f5947ddbb0f8e660b23781165d30996fe6b992134bea15466c936cb0c9acbc91._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec41f6f333aa35d01e1a418e4ee8e2a40adac31aece32607a9b5cae401260991._SX342_.jpg"
     },
     {
       "name": "1917",
@@ -1391,7 +1403,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_.jpg"
     }
   ],
   "streamProviders": [
@@ -1468,7 +1480,7 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels MGM",
+      "name": "Prime Video Channels MGM+",
       "enabled": false
     },
     {

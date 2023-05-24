@@ -9,7 +9,7 @@
       "listPosition": 0,
       "year": "1945",
       "originalTitle": "桃太郎 海の神兵",
-      "rating": 2.6,
+      "rating": 2.5,
       "streamProviders": []
     },
     {
@@ -19,7 +19,8 @@
       "year": "1958",
       "originalTitle": "白蛇伝",
       "rating": 3.1,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/jDNpVVAqdMcFfG8X6BX3azM71yo.jpg"
     },
     {
       "name": "The Sparrow in the Pumpkin",
@@ -38,7 +39,7 @@
       "originalTitle": "少年猿飛佐助",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Alakazam the Great!",
@@ -149,7 +150,7 @@
       "originalTitle": "千夜一夜物語",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Flying Phantom Ship",
@@ -177,7 +178,7 @@
       "originalTitle": "どうぶつ宝島",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/85670795/s166/Die-Schatzinsel-1971"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/1klkcqvcZ1dn073ID4DbRSb3hTR.jpg"
     },
     {
       "name": "Belladonna of Sadness",
@@ -234,7 +235,7 @@
       "originalTitle": "龍の子太郎",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Galaxy Express 999: The Movie",
@@ -262,7 +263,7 @@
       "originalTitle": "ルパン三世 カリオストロの城",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d46392d85d7b7bb31090b25919f6d17d443d106c967f866829bcd05148419949._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7041cab4017f9ebe6bd2831fdcdc9f8f218080a2083dd2a7a99389431df4d8e1._SX342_.jpg"
     },
     {
       "name": "Phoenix 2772",
@@ -382,7 +383,7 @@
       "listPosition": 0,
       "year": "1983",
       "originalTitle": "クラッシャージョウ",
-      "rating": 3.4,
+      "rating": 3.5,
       "streamProviders": []
     },
     {
@@ -433,7 +434,7 @@
       "originalTitle": "SF新世紀 レンズマン",
       "rating": 3.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Night on the Galactic Railroad",
@@ -496,7 +497,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/2B391Lz90FFpH7TLyhi6i0Zq3o8.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/iGJPM89cS0Gi1Em5kFFXB57p0bp.jpg"
     },
     {
       "name": "Grave of the Fireflies",
@@ -550,7 +551,7 @@
       "originalTitle": "機動警察パトレイバー 劇場版",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/r7y7XdO9KCLEfsS8AZGOSKKJEbk.jpg"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -583,9 +584,7 @@
       "year": "1991",
       "originalTitle": "老人Z",
       "rating": 3.5,
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/2A2uERisu1ZDeNQZEAdUyswq1Md.jpg"
     },
     {
@@ -625,7 +624,7 @@
       "listPosition": 0,
       "year": "1992",
       "originalTitle": "Tokyo Babylon",
-      "rating": 3.3,
+      "rating": 3.2,
       "streamProviders": [
         "Prime Video Channels ARD Plus",
         "Prime Video Channels FlimmerkisteTV",
@@ -643,9 +642,10 @@
       "originalTitle": "平成狸合戦ぽんぽこ",
       "rating": 3.6,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/09/image/jpeg/e50c094cf2f05c7744532d11e5a94f30.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/80232354/s166/Pom-Poko"
     },
     {
       "name": "Whisper of the Heart",
@@ -669,7 +669,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/634ee9d3584c789b5d5a013c46ee53a960239c1642af33fc892c65df525d6eba._SX342_.jpg"
     },
     {
       "name": "Memories",
@@ -842,9 +842,7 @@
       "year": "2001",
       "originalTitle": "千年女優",
       "rating": 4.1,
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b47540cfc7ac73f0cfd8c334e78204931060802dc827d8634cbc46410d57c27d._SX342_.jpg"
     },
     {
@@ -865,9 +863,11 @@
       "originalTitle": "猫の恩返し",
       "rating": 3.6,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/04/image/jpeg/67576053d2b379652ff4ef0e42cfadd6.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/261308135/s166/Das-Koenigreich-der-Katzen"
     },
     {
       "name": "Nasu: Summer in Andalusia",
@@ -1106,15 +1106,19 @@
       "enabled": false
     },
     {
-      "name": "Joyn",
-      "enabled": false
-    },
-    {
       "name": "MagentaTV",
       "enabled": false
     },
     {
       "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Netflix Kids",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {

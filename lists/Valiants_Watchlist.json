@@ -9,7 +9,7 @@
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "The Menu",
-      "rating": 3.7,
+      "rating": 3.6,
       "streamProviders": [
         "Disney+"
       ],
@@ -41,7 +41,7 @@
       "originalTitle": "Babylon",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f35c2ddc370d8b87bf08ff83e3f828f1b6b44a5bb6dafa7c35e7608d259995ba._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec51a731c83306596b363f1d620e240a4d7b7f2eb43c1dd1199625ebbb888aec._SX342_.jpg"
     },
     {
       "name": "Ambulance",
@@ -107,7 +107,7 @@
       "originalTitle": "Nobody",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1682666728"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1684847971"
     },
     {
       "name": "Don't Worry Darling",
@@ -148,8 +148,10 @@
       "year": "2022",
       "originalTitle": "Bones and All",
       "rating": 3.7,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d6a6ffd10c85c048d3bfc4b2b3dfd3e6f1b8d094344857244611263aec108620._SX342_.jpg"
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fac9f773ac6eac32922040e120a2ca3ff1b6d340d4a8ae1615a5f162a20a8915._SX342_.jpg"
     }
   ],
   "streamProviders": [
