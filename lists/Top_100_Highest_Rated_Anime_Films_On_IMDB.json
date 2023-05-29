@@ -67,7 +67,7 @@
       "originalTitle": "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/150673631/s166/Gintama-the-Movie-The-Final-Chapter-Be-Forever-Yorozuya"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/3/p13654441_v_v8_aq_2017-01-05T14_01_00.jpg&out=jpeg"
     },
     {
       "name": "Magnetic Rose",
@@ -309,7 +309,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/634ee9d3584c789b5d5a013c46ee53a960239c1642af33fc892c65df525d6eba._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_.jpg"
     },
     {
       "name": "Steins;Gate: The Movie - Load Region of Déjà Vu",
@@ -452,8 +452,10 @@
       "year": "2018",
       "originalTitle": "君の膵臓をたべたい",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/304708954/s166/I-Want-to-Eat-Your-Pancreas"
+      "streamProviders": [
+        "Prime Video Channels aniverse"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_.jpg"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -463,7 +465,7 @@
       "originalTitle": "傷物語〈Ⅱ熱血篇〉",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/106807724/s166/Kizumonogatari-II-Heisses-Blut"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/vdMx2VqjZE7IkbirNPTIj526MBi.jpg"
     },
     {
       "name": "In This Corner of the World",
@@ -473,9 +475,9 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_.jpg"
     },
     {
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
@@ -556,7 +558,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/304878988/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -801,7 +803,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f93e3620b31b11420ee7544913e1bf0767e2a654f6e62c286960ce38f88e172._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/30d86752872d55625ca73d847dea834320ebb5ce86eb5a33a8640bea76e7d405._SX342_.jpg"
     },
     {
       "name": "Kizumonogatari Part 1: Tekketsu",
@@ -873,7 +875,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/304879048/s166/Inuyasha-Movie-2-Das-Traumschloss-im-Inneren-der-Spiegel"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/iIHC94gkBt0Uha8TUTgHcAt6IoD.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -893,7 +895,7 @@
       "originalTitle": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/428619/s166/Rurouni-Kenshin-The-Movie"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685102214"
     },
     {
       "name": "Dragon Ball Z: Wrath of the Dragon",
@@ -955,7 +957,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc520e571f45dbea1cf05649d767c8c7206b5b85d231d2b3ade52582ad9e273a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc3980da33dbe29a021874389acf6f2559eba723273fb1b9519214577102df3c._SX342_.jpg"
     },
     {
       "name": "K-ON! : The Movie",
@@ -965,7 +967,7 @@
       "originalTitle": "映画けいおん！",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/257936127/s166/K-ON-The-Movie"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2b9e48fba8ffc22ae563ecd5c84f1336f6da7ad7b689660d2c66609d4ee4aec._SX342_.jpg"
     },
     {
       "name": "From Up on Poppy Hill",
@@ -1020,7 +1022,7 @@
       "originalTitle": "銀魂 新訳紅桜篇",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/150679095/s166/Gintama-Benizakura-Arc-A-New-Retelling"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/2/p9232458_v_v8_aq_2016-10-06T14_41_00.jpg&out=jpeg"
     },
     {
       "name": "Redline",
@@ -1066,10 +1068,6 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {
