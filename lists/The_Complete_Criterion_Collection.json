@@ -1,7 +1,7 @@
 {
   "name": "The Complete Criterion Collection",
   "url": "https://letterboxd.com/jbutts15/list/the-complete-criterion-collection/",
-  "description": "<div class=\"body-text -prose -hero clear collapsible-text\" data-full-text-url=\"#list-notes\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p><b>Updated:</b>&nbsp;May 18, 2023<br><b>Created:</b> January 13, 2013<br><a href=\"https://letterboxd.com/jbutts15/list/featured-lists/\" rel=\"nofollow\"> View More Lists</a><br><a href=\"https://letterboxd.com/jbutts15/\" rel=\"nofollow\">Follow Me</a></p><p>———————————————————————<br><b><a href=\"https://letterboxd.com/benvsthemovies/list/the-criterion-challenge-2023/\" rel=\"nofollow\">CRITERION CHALLENGE 2023</a></b> ➔<br>———————————————————————</p><p>The <a href=\"https://letterboxd.com/criterion/\" rel=\"nofollow\">Criterion Collection</a> is a video distribution company that sells \"important classic and contemporary films\" in \"editions that offer the highest technical quality and award-winning, original supplements.\"</p><p><b>This list contains only the featured films released on DVD, BluRay and 4K Criterion releases — no supplements are included.</b> It is organized by spine number with the newest releases first and is best viewed in <a href=\"http://letterboxd.com/jbutts15/list/the-complete-criterion-collection/detail/\" rel=\"nofollow\">List View</a>. Collections containing multiple films (whether feature length or shorts) under a single spine number have been separated out and noted as such, hence in the disparity in spine number versus actual list count.</p><p><strong>Omitted:</strong><br><i><a href=\"https://letterboxd.com/michaelhutchins/list/the-criterion-collection-laserdisc-titles/\" rel=\"nofollow\">Laserdisc Releases</a></i><br><i><a href=\"https://letterboxd.com/mattheuswc/list/the-merchant-ivory-collection/\" rel=\"nofollow\">The Merchant Ivory Collection</a></i><br><i><a href=\"https://letterboxd.com/yaanu/list/the-criterion-collection-eclipse/\" rel=\"nofollow\">The Eclipse Collection</a></i><br><i><a href=\"https://letterboxd.com/jbutts15/list/janus-contemporaries/\" rel=\"nofollow\">Janus Contemporaries</a></i></p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>",
+  "description": "<div class=\"body-text -prose -hero clear collapsible-text\" data-full-text-url=\"#list-notes\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<p><b>Updated:</b>&nbsp;May 29, 2023<br><b>Created:</b> January 13, 2013<br><a href=\"https://letterboxd.com/jbutts15/list/featured-lists/\" rel=\"nofollow\"> View More Lists</a><br><a href=\"https://letterboxd.com/jbutts15/\" rel=\"nofollow\">Follow Me</a></p><p>———————————————————————<br><b><a href=\"https://letterboxd.com/benvsthemovies/list/the-criterion-challenge-2023/\" rel=\"nofollow\">CRITERION CHALLENGE 2023</a></b> ➔<br>———————————————————————</p><p>The <a href=\"https://letterboxd.com/criterion/\" rel=\"nofollow\">Criterion Collection</a> is a video distribution company that sells \"important classic and contemporary films\" in \"editions that offer the highest technical quality and award-winning, original supplements.\"</p><p><b>This list contains only the featured films released on DVD, BluRay and 4K Criterion releases — no supplements are included.</b> It is organized by spine number with the newest releases first and is best viewed in <a href=\"http://letterboxd.com/jbutts15/list/the-complete-criterion-collection/detail/\" rel=\"nofollow\">List View</a>. Collections containing multiple films (whether feature length or shorts) under a single spine number have been separated out and noted as such, hence in the disparity in spine number versus actual list count.</p><p><strong>Omitted:</strong><br><i><a href=\"https://letterboxd.com/michaelhutchins/list/the-criterion-collection-laserdisc-titles/\" rel=\"nofollow\">Laserdisc Releases</a></i><br><i><a href=\"https://letterboxd.com/mattheuswc/list/the-merchant-ivory-collection/\" rel=\"nofollow\">The Merchant Ivory Collection</a></i><br><i><a href=\"https://letterboxd.com/yaanu/list/the-criterion-collection-eclipse/\" rel=\"nofollow\">The Eclipse Collection</a></i><br><i><a href=\"https://letterboxd.com/jbutts15/list/janus-contemporaries/\" rel=\"nofollow\">Janus Contemporaries</a></i></p>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>",
   "entries": [
     {
       "name": "Drylongso",
@@ -367,7 +367,7 @@
       "listPosition": 0,
       "year": "1987",
       "originalTitle": "Epidemic",
-      "rating": 3,
+      "rating": 2.9,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/5MvCaYCS3BLvSYdWpRDHahKbQZv.jpg"
     },
@@ -450,9 +450,7 @@
       "year": "1968",
       "originalTitle": "Flickorna",
       "rating": 3.7,
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685102214"
     },
     {
@@ -495,9 +493,10 @@
       "rating": 4.1,
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e61205fa238172c9a888d1f2776de80bc98d85de56b5dc058f4b1e00a6bb53ee._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7255d0f763ede9283023de75db671c3e778c7ae43341658c0ba200c9e8a677ab._SX342_.jpg"
     },
     {
       "name": "Infernal Affairs III",
@@ -828,7 +827,7 @@
       "originalTitle": "Pink Flamingos",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/71IwGRZmEds1yuD2xbaExAofoLS.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/1qD7fwL53IXaRhqKAmuX8XdsqGw.jpg"
     },
     {
       "name": "Shaft",
@@ -1507,7 +1506,8 @@
       "originalTitle": "Irma Vep",
       "rating": 3.9,
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bfd0366058a72227e5416723a42f0f763d8956cb05d8494bc9cf34af9a95c3f4._SX342_.jpg"
     },
@@ -1620,7 +1620,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70f7ced29c013eab9db80f4125c7813f96069f80594ca0e151f10847cda7423a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/56c2075767b4628eeb196b735f2c914d98737867181e98cca588eb400c2cc990._SX342_.jpg"
     },
     {
       "name": "The Ascent",
@@ -1727,7 +1727,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/073863df40de7c1fae9fb109f14d81c7aea24018f444c46c080adeb08fac1a52._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/882af8e22fa078fc9ecb777fd5b5f3b0a2f3f2b105c560287ad0c90c4a59104b._SX342_.jpg"
     },
     {
       "name": "The Gunfighter",
@@ -2119,7 +2119,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c301cdfb1a18fb7430dcd50498072bc730377bafca5e2463d93bb9a57eda31de._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/22ade964196a40f0951f6c2c1c1e3b3b32603ad17240f5df20decd54d9039510._SX342_.jpg"
     },
     {
       "name": "Destry Rides Again",
@@ -2781,7 +2781,8 @@
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
         "Prime Video Channels Netzkino Select",
-        "Netzkino"
+        "Netzkino",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b42aad8d76128b57104d103c525b1ac57e085a84f8f2c9e9315c3d5312fdeb9b._SX342_.jpg"
     },
@@ -3865,7 +3866,8 @@
       "year": "1957",
       "originalTitle": "Rendez-vous à Melbourne",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ayQ6Unan7irLiCG31NmagmG20L2.jpg"
     },
     {
       "name": "Olympic Games 1956",
@@ -4060,7 +4062,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e6bbf5e20f6707b94d1187fb49f173a525d6c5457cae7649fe123499952859f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84488d6f097a655baa59d2c30d0ce68302b011f5b3bf85e816a0ccb12166c1b8._SX342_.jpg"
     },
     {
       "name": "Barry Lyndon",
@@ -4569,7 +4571,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f27d9055172da16533eeb0524231485791bef2474b1996559917dba6052dab85._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c32e231bb549a4ac866b493f58e5c88ca497941236268a8d696b802e15739f88._SX342_.jpg"
     },
     {
       "name": "The Squid and the Whale",
@@ -4593,7 +4595,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels MOCONOMY"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e9c5d04613c35c2d82982920db4aec0d23da9b4266e06bcaabfff3e281c55b74._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9356dee21df8dd2c71e17fad4e1963b0f52d8918ba68dac59ca176b495cec3b3._SX342_.jpg"
     },
     {
       "name": "Punch-Drunk Love",
@@ -4871,7 +4873,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2993206e4bf6f98f7e8129f6563e540a0705147444931f7e004bb974029673dc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e374680fd3138b2220c4410ee9e26033e055941f6791304d9ecfe998ceff8ea._SX342_.jpg"
     },
     {
       "name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
@@ -6099,10 +6101,10 @@
       "originalTitle": "Les demoiselles de Rochefort",
       "rating": 4.2,
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "MUBI",
+        "MUBI Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa50c8efb8e3bcd3fbdd4e826a65fd4e8dd7b99c784ae2c78d458c76c116b734._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176171865/s166/Die-Maedchen-von-Rochefort"
     },
     {
       "name": "The Umbrellas of Cherbourg",
@@ -6161,7 +6163,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d73f925b762b53245c4eed6c02c937c0a5282cebf1dd6dd0c0bc92afb0bd9b4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ed1ccc5c9a2f01b65c8a0b21830fec9b2e66d9e5f964e1a6c7690d1f4c8d2b2._SX342_.jpg"
     },
     {
       "name": "Judex",
@@ -6278,7 +6280,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dd64d19e0984e03cabdde283bafe18c896d441973509218c16b496614c46c074._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a19ca2dcfed4be11ec3ad58c11dc952052acd4ee81f278b41ada8f9992907111._SX342_.jpg"
     },
     {
       "name": "A Brief History of Time",
@@ -6513,7 +6515,7 @@
       "listPosition": 0,
       "year": "1972",
       "originalTitle": "新座頭市物語・折れた杖",
-      "rating": 3.4,
+      "rating": 3.5,
       "streamProviders": []
     },
     {
@@ -6532,7 +6534,7 @@
       "listPosition": 0,
       "year": "1971",
       "originalTitle": "新座頭市　破れ！唐人剣",
-      "rating": 3.6,
+      "rating": 3.5,
       "streamProviders": []
     },
     {
@@ -6704,7 +6706,8 @@
       "year": "1963",
       "originalTitle": "新・座頭市物語",
       "rating": 3.6,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685102214"
     },
     {
       "name": "The Tale of Zatoichi Continues",
@@ -7080,7 +7083,8 @@
       "originalTitle": "Chronique d'un été (Paris 1960)",
       "rating": 3.9,
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a545e340209102d8a27aa512243073b37b9d96e94487c6f856477a633ddee13e._SX342_.jpg"
     },
@@ -7690,7 +7694,7 @@
       "listPosition": 0,
       "year": "1966",
       "originalTitle": "Manual of Arms",
-      "rating": 2.9,
+      "rating": 3,
       "streamProviders": []
     },
     {
@@ -7703,7 +7707,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e1b7faa1462c6138b53d4285f5e18c8011298f53103e696b0d6579f3711876ef._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/282c558fef34affbda98c695bc6e4c5821926a8f03ba6799c91593d51b754d01._SX342_.jpg"
     },
     {
       "name": "This Happy Breed",
@@ -8121,7 +8125,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/60600d1201560a694c0cfcc75470b7ffc6f1fcf4777c3a513be9988655270ad7._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b0a784eef6eb730d3848977b869eacb2e5066c09b991a28ced2fb053a4833cb0._SX342_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -8398,7 +8402,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cfe416b80ab990e16aa83e563f0a8397ff2f21dff0b983f7f2ff7d3638a669e2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74e6f96793e6f14233a586e8bfd79f0f50d6d15f9dfca023f1c91c6a07f9176c._SX342_.jpg"
     },
     {
       "name": "House",
@@ -8876,7 +8880,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels Wild West"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/803c36aee114987fd7080fda370051d7da6fcdfef867a50a6f2cdb04fea831b2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ecc4ba8644452e42801ff8d20380b2324701f4764d84b24bec22d99b5fd1269._SX342_.jpg"
     },
     {
       "name": "The Fugitive Kind",
@@ -9006,7 +9010,7 @@
       "originalTitle": "Revanche",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/98502f3510f59a03978e6ac4abc379a367193d6036b649fee50fec4a9fd2ac87._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/836515738236f2177b17adad9f765adae7709369f0ea97925aa3124f12f44ba9._SX342_.jpg"
     },
     {
       "name": "Paris, Texas",
@@ -9129,13 +9133,12 @@
     },
     {
       "name": "Patterns",
-      "letterboxdUrl": "https://letterboxd.com/film/patterns-1956/",
+      "letterboxdUrl": "https://letterboxd.com/film/patterns-1955/",
       "listPosition": 0,
-      "year": "1956",
+      "year": "1955",
       "originalTitle": "Patterns",
-      "rating": 3.7,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685102214"
+      "rating": 3.5,
+      "streamProviders": []
     },
     {
       "name": "Marty",
@@ -9204,7 +9207,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4bd2e4060cb45e54a447f7beb9cb0546ef191b71dd9218c2a2b0fafebe9e61d1._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/44d23f469119bcb921136dcc8ea0f30685d2d8d7f513df16e57cf4c0d486a6bb._SX342_.jpg"
     },
     {
       "name": "Monsoon Wedding",
@@ -9804,7 +9807,7 @@
       "originalTitle": "重慶森林",
       "rating": 4.3,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c62448022a05cc38246e00883d296fd764d0e3babfeecee43510af0cb51a94b8._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/285696253/s166/Chungking-Express"
     },
     {
       "name": "The Spy Who Came in from the Cold",
@@ -10266,7 +10269,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6c8a37746634cd55e8be15c925ff2fc4ca3e5e7e36d954668898ecb7d8c6c5a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/10de18c77cf6f5c5d04e14604349cd1689720b7394c74f4254ecfff1571b282f._SX342_.jpg"
     },
     {
       "name": "Mala Noche",
@@ -10302,7 +10305,7 @@
       "listPosition": 0,
       "year": "1958",
       "originalTitle": "Appalachian Spring",
-      "rating": 3.5,
+      "rating": 3.4,
       "streamProviders": []
     },
     {
@@ -11065,7 +11068,7 @@
         "Sooner",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f7055e5162416fe2e68543d5958571b511e59e1c4e57fb1fcb9f92adbcd5a9a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fd315b5b6e6d32a001dfbd7ff14a3b3211eedb80a47e3929e09593394b9b270b._SX342_.jpg"
     },
     {
       "name": "Harlan County U.S.A.",
@@ -11378,7 +11381,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/868f46b078546d50f99e06b6c115b55285ec0b6bb4946060192dc40f698bca3e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/10d7d38e7f375572ba653cba7ce17c5096f24299caa0c226aa694eacde43d740._SX342_.jpg"
     },
     {
       "name": "Bad Timing",
@@ -11583,7 +11586,7 @@
       "listPosition": 0,
       "year": "1957",
       "originalTitle": "Kanał",
-      "rating": 4,
+      "rating": 4.1,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/tH1v3V0EipgfZafvMo8MVP31wTK.jpg"
     },
@@ -11979,7 +11982,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/04312d81ba22fbe6c372eff2ced79b138a91ffa1f9bcb6c340c658b95721d6bf._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b36d6524d8336803ebcd73ffe7f224da6ff9f82c2a809004d8bd5bdc6ff3c227._SX342_.jpg"
     },
     {
       "name": "The Golden Coach",
@@ -12306,7 +12309,7 @@
       "listPosition": 0,
       "year": "1941",
       "originalTitle": "All That Money Can Buy",
-      "rating": 3.6,
+      "rating": 3.7,
       "streamProviders": []
     },
     {
@@ -14450,7 +14453,7 @@
         "Prime Video Channels realeyz",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec703d5abef0cb09da9156675ff67d4526e2474ca618cbf7199111484d4b25bc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/13119b24070db8841d157f5e7079eb28faec2fbe2397624b966e3b9db0480459._SX342_.jpg"
     },
     {
       "name": "Time Bandits",
@@ -14801,7 +14804,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_.jpg"
     },
     {
       "name": "Amarcord",
@@ -15268,7 +15271,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/51546dfb85dec143457d0b3884a3c0ccb5ef7d1e9df0b3f23500903856981c3b._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d5b07622a5ea8240d8bf6c2ba2472d792800d5952ebbbd40d34e6f97800c8934._SX342_.jpg"
     },
     {
       "name": "Les 3 Boutons",
@@ -15560,7 +15563,7 @@
         "PantaRay",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6cca2c7c8805d59c2f40d7587c38c9475f51ea84ff47ed05f5d52c579a04ab8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/acb03f9983de49b6bad43d83d672c260b0ee43b8037ae7b81a523572005033a0._SX342_.jpg"
     },
     {
       "name": "Salut les Cubains",
@@ -15785,6 +15788,14 @@
     },
     {
       "name": "Joyn",
+      "enabled": false
+    },
+    {
+      "name": "MUBI",
+      "enabled": false
+    },
+    {
+      "name": "MUBI Amazon Channel",
       "enabled": false
     },
     {
