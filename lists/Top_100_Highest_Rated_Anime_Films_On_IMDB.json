@@ -261,7 +261,8 @@
       "year": "2008",
       "originalTitle": "劇場版「空の境界」第五章 矛盾螺旋",
       "rating": 4,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/yKmxwtC34IaqSfk21dvQYIKcU5V.jpg"
     },
     {
       "name": "Ghost in the Shell 2.0",
@@ -338,7 +339,8 @@
       "year": "2004",
       "originalTitle": "Mind Game",
       "rating": 4.1,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2009/06/image/jpeg/6bf6e2cb594db8836b5d10f6a47d0f57.jpg"
     },
     {
       "name": "Tokyo Godfathers",
@@ -451,10 +453,8 @@
       "year": "2018",
       "originalTitle": "君の膵臓をたべたい",
       "rating": 3.8,
-      "streamProviders": [
-        "Prime Video Channels aniverse"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7988e96d6ec089ad5fa1b6458e68e360ab37ba5b3c519dfbfeb39680e96d39b6._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/304708954/s166/I-Want-to-Eat-Your-Pancreas"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -557,7 +557,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/304878988/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -749,7 +749,7 @@
       "streamProviders": [
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b0416851a4142a39117438f156b55fc82f00e29e4308a468f41ca197e0f37e6._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbe9c724ac280ac38bdff55b027fc3c517ba23bad353865934fe5fa4c69de090._SX342_.jpg"
     },
     {
       "name": "Angel's Egg",
@@ -874,7 +874,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15b5a1074100ae1bdc04c9390bf6dd65cdffa638bd5f901d5eb18e69bd20e9fa._SX342_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/iIHC94gkBt0Uha8TUTgHcAt6IoD.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -1021,7 +1021,7 @@
       "originalTitle": "銀魂 新訳紅桜篇",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/150679095/s166/Gintama-Benizakura-Arc-A-New-Retelling"
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/2/p9232458_v_v8_aq_2016-10-06T14_41_00.jpg&out=jpeg"
     },
     {
       "name": "Redline",
