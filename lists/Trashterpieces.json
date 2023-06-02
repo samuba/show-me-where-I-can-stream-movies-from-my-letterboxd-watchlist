@@ -953,7 +953,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c66b089269ec6d44d2e6edd38623b7b34f7e5385a357188ee5e555f41fc8001f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d91cf9380f0f5fc15ce1a7a7d7d8d8884dbb4f09512eacf1dddd019682ca3137._SX342_.jpg"
     },
     {
       "name": "Color Me Blood Red",
@@ -1313,7 +1313,7 @@
       "listPosition": 129,
       "year": "2008",
       "originalTitle": "Gutterballs",
-      "rating": 2.3,
+      "rating": 2.4,
       "streamProviders": []
     },
     {
@@ -1414,10 +1414,7 @@
       "year": "1968",
       "originalTitle": "Barbarella",
       "rating": 3.2,
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53a29c803e11554948d7daf4dbc709ae699f19d8837a8f05092efcf4ffa3e96f._SX342_.jpg"
     },
     {
@@ -1479,7 +1476,7 @@
       "listPosition": 145,
       "year": "1980",
       "originalTitle": "The Apple",
-      "rating": 2.6,
+      "rating": 2.7,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/e6Ly5hSHcVOBrhIgj8SMsu50smy.jpg"
     },
@@ -1611,7 +1608,7 @@
       "rating": 3.5,
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\nSky",
+        "Sky Go\n Sky",
         "Prime Video Channels FILMLEGENDEN",
         "MagentaTV",
         "Mubi"
@@ -1658,9 +1655,10 @@
       "originalTitle": "Shivers",
       "rating": 3.2,
       "streamProviders": [
+        "Amazon Prime Video",
         "Joyn"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2009/09/image/jpeg/562d2981a57045c138c73f7f3ae79f38.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e8e216bd8f9e82b913b699a30cd902f34936c1d14c84e974b5e53a3e3cc70466._SX342_.jpg"
     },
     {
       "name": "Trash Humpers",
@@ -1729,7 +1727,7 @@
         "Prime Video Channels FRANATIC – dein Film-Channel",
         "Prime Video Channels Netzkino Select"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc8d2212f8baf79424c814e0356bf5fd6ffc49991acdaac39190aec83e7630e5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e75afd0b7446394bb49bc4b3fb64825b485236577321b0b737e352f72a31c85f._SX342_.jpg"
     },
     {
       "name": "Bio-Cop",
@@ -2141,7 +2139,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9fa610f1ee91e93c7cbe511c6d02e7f968625415170b121c8ff255156820f0fc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6d8ad2831b3a6e43ec89b7d62cc4f42f43758032f68a58517bd034043e0b1825._SX342_.jpg"
     },
     {
       "name": "Q",
@@ -2438,6 +2436,10 @@
     },
     {
       "name": "Prime Video Channels Silverline",
+      "enabled": false
+    },
+    {
+      "name": "Sky Go\n Sky",
       "enabled": false
     },
     {
