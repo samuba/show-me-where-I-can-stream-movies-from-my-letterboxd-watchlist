@@ -32,7 +32,7 @@
       "imageUrl": "https://image.tmdb.org/t/p/w342/dPcaEabTbU4f42hbC3tKqkTD11i.jpg"
     },
     {
-      "name": "Raven's End",
+      "name": "Raven’s End",
       "letterboxdUrl": "https://letterboxd.com/film/ravens-end/",
       "listPosition": 0,
       "year": "1963",
@@ -494,8 +494,6 @@
       "originalTitle": "Malcolm X",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
         "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e61205fa238172c9a888d1f2776de80bc98d85de56b5dc058f4b1e00a6bb53ee._SX342_.jpg"
@@ -770,7 +768,7 @@
       "originalTitle": "ドライブ・マイ・カー",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels MUBI",
+        "Prime Video Channels ARD Plus",
         "MagentaTV",
         "Mubi"
       ],
@@ -1023,7 +1021,7 @@
       "originalTitle": "Miller's Crossing",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4371db8f281beb5e31344e33d21d0718229546875555b3c981e3c12e29ecf92a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3ea983218db2568ad6eb5138c9b712724b74f7774bb1390853afedb2cca5d14e._SX342_.jpg"
     },
     {
       "name": "Dick Johnson Is Dead",
@@ -1730,7 +1728,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/073863df40de7c1fae9fb109f14d81c7aea24018f444c46c080adeb08fac1a52._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/882af8e22fa078fc9ecb777fd5b5f3b0a2f3f2b105c560287ad0c90c4a59104b._SX342_.jpg"
     },
     {
       "name": "The Gunfighter",
@@ -2324,7 +2322,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fdbf6c16eb81cf75590751290e9182fd7126d4cd361bd69de11c31a10a549bad._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/796d6c8aa35c908ae7b0d1a74e1ce983e256dbe7aeb6c9deaa1316707345dbc5._SX342_.jpg"
     },
     {
       "name": "Now, Voyager",
@@ -4063,7 +4061,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e6bbf5e20f6707b94d1187fb49f173a525d6c5457cae7649fe123499952859f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/84488d6f097a655baa59d2c30d0ce68302b011f5b3bf85e816a0ccb12166c1b8._SX342_.jpg"
     },
     {
       "name": "Barry Lyndon",
@@ -4540,7 +4538,7 @@
       "originalTitle": "His Girl Friday",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7943e23a734cfb5b528c2af62f7fb6837ed61bcc51751f76f0b6de073f8ee4a0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/685166e7e510d835287df64fd4d2138f29c071a923a99a36a98a591e8a06b828._SX342_.jpg"
     },
     {
       "name": "Roma",
@@ -4572,7 +4570,7 @@
       "streamProviders": [
         "Prime Video Channels Good!Movies"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c32e231bb549a4ac866b493f58e5c88ca497941236268a8d696b802e15739f88._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f27d9055172da16533eeb0524231485791bef2474b1996559917dba6052dab85._SX342_.jpg"
     },
     {
       "name": "The Squid and the Whale",
@@ -4596,7 +4594,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels MOCONOMY"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e9c5d04613c35c2d82982920db4aec0d23da9b4266e06bcaabfff3e281c55b74._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cbf9816a87c6ecd456cb959b5ec92e975d24acb426daca63856c3fe5b9fdf59d._SX342_.jpg"
     },
     {
       "name": "Punch-Drunk Love",
@@ -4870,7 +4868,6 @@
       "originalTitle": "Clouds of Sils Maria",
       "rating": 3.6,
       "streamProviders": [
-        "Prime Video Channels MUBI",
         "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e374680fd3138b2220c4410ee9e26033e055941f6791304d9ecfe998ceff8ea._SX342_.jpg"
@@ -6117,7 +6114,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/34da2dbbbc2ab77cce7e977daee3df8198f081da121b1161ab6da9f6d3ab0571._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11e967090d4a8e5da8af4d0db7e843ef2332aa3e137832caf41701195a555264._SX342_.jpg"
     },
     {
       "name": "Bay of Angels",
@@ -6163,7 +6160,7 @@
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6ed1ccc5c9a2f01b65c8a0b21830fec9b2e66d9e5f964e1a6c7690d1f4c8d2b2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d73f925b762b53245c4eed6c02c937c0a5282cebf1dd6dd0c0bc92afb0bd9b4._SX342_.jpg"
     },
     {
       "name": "Judex",
@@ -6310,9 +6307,9 @@
       "originalTitle": "Tess",
       "rating": 3.7,
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
+        "Amazon Arthaus Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f5d342d2b53c224a755e50bf102c253d43bc58d2149370bf6d494c86fdf3a8b._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/151001139/s166/Tess"
     },
     {
       "name": "Foreign Correspondent",
@@ -6359,7 +6356,7 @@
       "originalTitle": "La Vie de Bohème",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/237443012/s166/Das-Leben-der-Boheme"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2015/11/image/jpeg/a5306153d3df14dc1de4d30236266bf7.jpg"
     },
     {
       "name": "It's a Mad, Mad, Mad, Mad World",
@@ -6392,7 +6389,7 @@
       "originalTitle": "하녀",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/105015007/s166/Hanyo-Das-Hausmaedchen"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/8oAxjlSmkljjHXGgoSxoA2Lx6eU.jpg"
     },
     {
       "name": "Trances",
@@ -6401,7 +6398,11 @@
       "year": "1981",
       "originalTitle": "الحال",
       "rating": 3.6,
-      "streamProviders": []
+      "streamProviders": [
+        "Prime Video Channels MUBI",
+        "Mubi"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/132792757f858d5d940ce82bb11026002186bef66f93701fe764513ae1d09d7e._SX342_.jpg"
     },
     {
       "name": "Dry Summer",
@@ -6411,10 +6412,10 @@
       "originalTitle": "Susuz Yaz",
       "rating": 3.9,
       "streamProviders": [
-        "MUBI",
-        "MUBI Amazon Channel"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/244779945/s166/Trockener-Sommer"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3e1f84ca83e4de25055d32d450a6504c42a3befddf3e7bc01a41603832bcebab._SX342_.jpg"
     },
     {
       "name": "A River Called Titas",
@@ -6521,7 +6522,8 @@
       "year": "1972",
       "originalTitle": "座頭市御用旅",
       "rating": 3.2,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/1fde6d495ff585be2930ce781ce6162c.jpg"
     },
     {
       "name": "Zatoichi Meets the One-Armed Swordsman",
@@ -6701,7 +6703,8 @@
       "year": "1963",
       "originalTitle": "新・座頭市物語",
       "rating": 3.6,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
     },
     {
       "name": "The Tale of Zatoichi Continues",
@@ -6711,7 +6714,7 @@
       "originalTitle": "続・座頭市物語",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/302403555/s166/Zatoichi-2-The-Tale-of-Zatoichi-Continues"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/18af93e4d793cf562740b99d57e2cf5852063749e034dbba936ffd74ec2bd65e._SX342_.jpg"
     },
     {
       "name": "The Tale of Zatoichi",
@@ -6720,7 +6723,8 @@
       "year": "1962",
       "originalTitle": "座頭市物語",
       "rating": 3.8,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/37e40d3e38e6e6b28fceeadb257f80d7a5cd4654bad8642e808bcbaae43e1821._SX342_.jpg"
     },
     {
       "name": "La Notte",
@@ -6740,7 +6744,7 @@
       "originalTitle": "The Uninvited",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/21672797/s166/Der-unheimliche-Gast"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2015/02/image/jpeg/9f6d665cb950905335b0bd2173b468aa.jpg"
     },
     {
       "name": "I Married a Witch",
@@ -6793,9 +6797,9 @@
       "originalTitle": "La Cage aux Folles",
       "rating": 3.5,
       "streamProviders": [
-        "MGM Amazon Channel"
+        "Prime Video Channels MGM+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/10995151/s166/Ein-Kaefig-voller-Narren"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f58582508f8c325188d73dd80fff27c1e5e0cc753f14ad287e00d328e05da627._SX342_.jpg"
     },
     {
       "name": "To Be or Not to Be",
@@ -6857,7 +6861,7 @@
         "Sooner",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c597e791ef8adf861948e156c6e3cc47023c5451d172d46e867c1755ef106c15._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/99a15234228a1bfb793410fe064a7c6c88b6e95aae58d9c0b91e79b1c5965697._SX342_.jpg"
     },
     {
       "name": "Babette's Feast",
@@ -6956,7 +6960,7 @@
       "originalTitle": "Jubal",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/11239097/s166/Der-Mann-ohne-Furcht"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/756da4eda9cd5449d8dbb130d0e3798a842ac57e7a39eb07ea5050101774e125._SX342_.jpg"
     },
     {
       "name": "Land of Milk and Honey",
@@ -7023,7 +7027,8 @@
       "year": "1953",
       "originalTitle": "地獄門",
       "rating": 3.6,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/q0Vf3B5et9yZ1r6xaPjsnmmpBUT.jpg"
     },
     {
       "name": "Monsieur Verdoux",
@@ -7096,7 +7101,8 @@
       "year": "2011",
       "originalTitle": "Le Gamin au vélo",
       "rating": 3.8,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2012/08/image/jpeg/5fcd0ff547d1c831765b10bc7b209507.jpg"
     },
     {
       "name": "The Ballad of Narayama",
@@ -7115,7 +7121,7 @@
       "originalTitle": "Pina",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0983dedc070018fc47e9216c1658e6685bb35b4d8fe9e01ef453ae1a1ffeb84b._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/100304513/s166/Pina"
     },
     {
       "name": "The Man Who Knew Too Much",
@@ -7125,12 +7131,9 @@
       "originalTitle": "The Man Who Knew Too Much",
       "rating": 3.3,
       "streamProviders": [
-        "Amazon Prime Video",
-        "Popcorntimes",
-        "Plex",
-        "FilmBox+"
+        "Amazon Prime Video"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/8673555/s166/Der-Mann-der-zuviel-wusste"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a56510363e8ad529e57c02a0cc3f6780a00b9ccf177deb502b777c8ff82c77f9._SX342_.jpg"
     },
     {
       "name": "Naqoyqatsi",
@@ -7140,7 +7143,7 @@
       "originalTitle": "Naqoyqatsi",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4995d53cb6ea0271ae333f820e6ed7f1bfe039e415d4052207478a66f6f4ccb4._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/245233914/s166/Naqoyqatsi"
     },
     {
       "name": "Powaqqatsi",
@@ -7150,7 +7153,7 @@
       "originalTitle": "Powaqqatsi",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/11141288/s166/Powaqqatsi"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/dce9b207b4dd60ee0c459523efd61ac6.jpg"
     },
     {
       "name": "Koyaanisqatsi",
@@ -7179,9 +7182,9 @@
       "originalTitle": "Plein soleil",
       "rating": 3.9,
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
+        "Amazon Arthaus Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f63a813071507de3fa6c334abf529ddf41d6411f39e02ad8dcc6d5ee8e4fab47._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/236925942/s166/Nur-die-Sonne-war-Zeuge"
     },
     {
       "name": "Heaven's Gate",
@@ -7250,8 +7253,7 @@
       "year": "1971",
       "originalTitle": "Sunday Bloody Sunday",
       "rating": 3.5,
-      "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2010/11/image/jpeg/a6446c9b2dfb487150319df0ebbd1256.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Forgiveness of Blood",
@@ -7271,9 +7273,9 @@
       "originalTitle": "The Game",
       "rating": 3.7,
       "streamProviders": [
-        "Joyn"
+        "Joyn Plus"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/12086f586e08cf78322ef0b29645f7dfcd31cb0fecf7b10a42c4c3ea1d0edd2e._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/178686095/s166/The-Game-Das-Geschenk-seines-Lebens"
     },
     {
       "name": "The Devil's Envoys",
@@ -7471,7 +7473,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/147421a5a778bb3473036e1b17dd74d60fa1a19dfce614ffda95a2320b801009._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/343e92b41617ef1501b403562949920f4072e22b7d532069404ce6b4444aeaf4._SX342_.jpg"
     },
     {
       "name": "Gloria!",
@@ -7560,7 +7562,7 @@
       "listPosition": 0,
       "year": "1974",
       "originalTitle": "Pan 3",
-      "rating": 2.6,
+      "rating": 2.5,
       "streamProviders": []
     },
     {
@@ -8117,7 +8119,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b0a784eef6eb730d3848977b869eacb2e5066c09b991a28ced2fb053a4833cb0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/60600d1201560a694c0cfcc75470b7ffc6f1fcf4777c3a513be9988655270ad7._SX342_.jpg"
     },
     {
       "name": "The Great Dictator",
@@ -8255,7 +8257,7 @@
         "Prime Video Channels Good!Movies",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e79642345a1ba1fc016057f4cf4f8bb9f8f89207e281720b382f92e55e962fba._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ae0b3c6f3cce959f9223f237380473a2c63c4982e448af6941f579c307080ae1._SX342_.jpg"
     },
     {
       "name": "Broadcast News",
@@ -8283,7 +8285,7 @@
       "listPosition": 0,
       "year": "1972",
       "originalTitle": "The King of Marvin Gardens",
-      "rating": 3.4,
+      "rating": 3.5,
       "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/5JpKFEp9niY90Qgz7xhcIGAOifK.jpg"
     },
@@ -8336,7 +8338,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ffd25d521dd36e811940aac01c7c731da3689aa11d0c2e00ba4b72e0c3a98e0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b01832c4872c324508707729b0d029ec15218b0705742442642e981fd1cbc17._SX342_.jpg"
     },
     {
       "name": "Head",
@@ -8872,7 +8874,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Prime Video Channels Wild West"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/803c36aee114987fd7080fda370051d7da6fcdfef867a50a6f2cdb04fea831b2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a6cf8d4b44383f63023fc6715f4be4c5a27185abc28cfc015f175a09759385de._SX342_.jpg"
     },
     {
       "name": "The Fugitive Kind",
@@ -9002,7 +9004,7 @@
       "originalTitle": "Revanche",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/98502f3510f59a03978e6ac4abc379a367193d6036b649fee50fec4a9fd2ac87._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/836515738236f2177b17adad9f765adae7709369f0ea97925aa3124f12f44ba9._SX342_.jpg"
     },
     {
       "name": "Paris, Texas",
@@ -10143,7 +10145,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/135d5261692428c36787c702574ccafb8fa17ce5ebd82e0b3896f6825646aa34._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b27f1eaf92571f72f779d6afe25c93ccf7d9f529a2c359c03c05a2ae987dd89._SX342_.jpg"
     },
     {
       "name": "La Pointe-Courte",
@@ -10261,7 +10263,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6c8a37746634cd55e8be15c925ff2fc4ca3e5e7e36d954668898ecb7d8c6c5a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9a7b6ad4ba25ec5d92e5ba37885aec30cd30ad65198fae5470393278baa81bd8._SX342_.jpg"
     },
     {
       "name": "Mala Noche",
@@ -10645,7 +10647,7 @@
         "Sooner",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/461dcf84d4e949a4ee7842291dca8814c66926c99c440aed5d15ef23a77bea2b._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ed0abaaaa793054fe0d192fa4754e71a7db84554edce87b80f99c69e48e97882._SX342_.jpg"
     },
     {
       "name": "The Proud Valley",
@@ -11034,7 +11036,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2fabbf1c0e374c997b53d29f8c85cb7d3f761e6e013da7ca30eb5163968533d5._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3fa8b0a3ceba875c5d97d2864a9608eb8a582f516a5eb72079503b21a15b0223._SX342_.png"
     },
     {
       "name": "Dazed and Confused",
@@ -11060,7 +11062,7 @@
         "Sooner",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fd315b5b6e6d32a001dfbd7ff14a3b3211eedb80a47e3929e09593394b9b270b._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f7055e5162416fe2e68543d5958571b511e59e1c4e57fb1fcb9f92adbcd5a9a._SX342_.jpg"
     },
     {
       "name": "Harlan County U.S.A.",
@@ -12983,9 +12985,7 @@
       "year": "1963",
       "originalTitle": "Le Mépris",
       "rating": 3.8,
-      "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/baff93fc618e9ae1789643f1d0e05934296c2e55786c4f14f0cbca410c394421._SX342_.jpg"
     },
     {
@@ -14156,8 +14156,10 @@
       "year": "1962",
       "originalTitle": "Carnival of Souls",
       "rating": 3.7,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/3nUTQhlIbdVN6Sz5c4qzCLLuEeY.jpg"
+      "streamProviders": [
+        "Prime Video Channels FRANATIC – dein Film-Channel"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d020403a23149cd13ffac41a33c8b6458e5a649072ca6f9e42f7097793bc6e7d._SX342_.jpg"
     },
     {
       "name": "The Passion of Joan of Arc",
@@ -14230,7 +14232,7 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4a8cb005d416e9f61b589daf6417ae89547489cd41c1223b70f437ce32243655._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/32ce8fe0c9fbb2cff2d2f422b7c983b9fd96a887218b227a9d624786d0869673._SX342_.jpg"
     },
     {
       "name": "The 39 Steps",
@@ -14442,7 +14444,7 @@
         "Prime Video Channels realeyz",
         "Sooner"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec703d5abef0cb09da9156675ff67d4526e2474ca618cbf7199111484d4b25bc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/13119b24070db8841d157f5e7079eb28faec2fbe2397624b966e3b9db0480459._SX342_.jpg"
     },
     {
       "name": "Time Bandits",
@@ -14455,7 +14457,7 @@
         "Prime Video Channels Moviedome PLUS",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7ff37e3a5cf79fd097c4b3f80f25d9c20b895663c97eec38afe9864358eac682._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ffc6db6fa5ed546d3c5908209ed9d88646d965261945fa5573a57e15aa492426._SX342_.jpg"
     },
     {
       "name": "The Wages of Fear",
@@ -14509,7 +14511,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/65a754c3900d371b1ff96b99d5b36d5492b84bdb81ffc5ff45f1d6a10f17bc47._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/edabc1a0fe451107ba0d74b2f3a36684a8f23ad3cf61e6610141d140d98102ce._SX342_.jpg"
     },
     {
       "name": "Great Expectations",
@@ -14607,9 +14609,7 @@
       "year": "1987",
       "originalTitle": "RoboCop",
       "rating": 3.9,
-      "streamProviders": [
-        "Prime Video Channels MGM+"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ee08f2eb79df1d42e51d6bc152dee2f599479b7397a44e7c04b62dc65c240b7b._SX342_.jpg"
     },
     {
@@ -14793,7 +14793,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/808a2cf9ce86754384243fd8fd6ddff49442d4835fb2fa1f1e068886e1f0550e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9ab12994944edc7d477460bffc79b0d87315b9f63ed45cb3e36cf29ae131ada0._SX342_.jpg"
     },
     {
       "name": "Amarcord",
@@ -14949,7 +14949,7 @@
       "listPosition": 0,
       "year": "1944",
       "originalTitle": "一番美しく",
-      "rating": 2.6,
+      "rating": 2.5,
       "streamProviders": []
     },
     {
@@ -15760,6 +15760,10 @@
   ],
   "streamProviders": [
     {
+      "name": "Amazon Arthaus Channel",
+      "enabled": false
+    },
+    {
       "name": "Amazon Prime Video",
       "enabled": false
     },
@@ -15772,10 +15776,6 @@
       "enabled": false
     },
     {
-      "name": "FilmBox+",
-      "enabled": false
-    },
-    {
       "name": "Flimmit",
       "enabled": false
     },
@@ -15784,15 +15784,7 @@
       "enabled": false
     },
     {
-      "name": "MGM Amazon Channel",
-      "enabled": false
-    },
-    {
-      "name": "MUBI",
-      "enabled": false
-    },
-    {
-      "name": "MUBI Amazon Channel",
+      "name": "Joyn Plus",
       "enabled": false
     },
     {
@@ -15820,11 +15812,7 @@
       "enabled": false
     },
     {
-      "name": "Plex",
-      "enabled": false
-    },
-    {
-      "name": "Popcorntimes",
+      "name": "Prime Video Channels ARD Plus",
       "enabled": false
     },
     {

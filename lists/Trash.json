@@ -49,7 +49,7 @@
       "listPosition": 5,
       "year": "1982",
       "originalTitle": "Q",
-      "rating": 3.2,
+      "rating": 3.1,
       "streamProviders": [],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
     },
@@ -202,7 +202,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6d8657d7beea495d6d12af408e8a8b3cc9922c2ffc63ca3e34c2e892d3e1535._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e19f87fa3b7d2251e04fa2899d9518c3bfcae5149508fb023c8e0d925ea65d8e._SX342_.jpg"
     },
     {
       "name": "Hack-O-Lantern",
@@ -901,7 +901,7 @@
         "Prime Video Channels GRJNGO – Westernfilme",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ee70d42b0eded09bdc17fcac6a5265db5f1a4145a4e1f27e60e2c59d5f69af4d._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39969fbba4b53285cd2715619db855267b448cd3a8c3e51d31546b18a312315a._SX342_.jpg"
     },
     {
       "name": "13 Ghosts",
@@ -1079,7 +1079,7 @@
       "streamProviders": [
         "Joyn"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/08c707e034e4325ef6009f7be7d8428c0d4580c49b38f30edc206844a9c9e988._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c644791ff4df2cf267515505f92a77f24d814dfa88dac0662557d6dc7acdcb23._SX342_.jpg"
     },
     {
       "name": "Bigfoot",
@@ -1279,7 +1279,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0861fae923b3e1ec28b1b4082ebcb8c93d13e1106cc0283dc90f982c019adf0a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d785df809bc04232406e56572639d5a4a0bafcda48a66f361351ac38fbf059d2._SX342_.jpg"
     },
     {
       "name": "She Gods of Shark Reef",
@@ -3062,7 +3062,10 @@
       "year": "1976",
       "originalTitle": "油鬼子",
       "rating": 3,
-      "streamProviders": []
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/453393785dc953a4c976942ba654e9fb765c7240fc7e827703a63b353db8b39d._SX342_.jpg"
     },
     {
       "name": "Daimajin",

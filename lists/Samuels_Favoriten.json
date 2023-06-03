@@ -23,10 +23,11 @@
       "streamProviders": [
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f8954aa6e2484a356c7a231fdd6e964dcb3be96428a04256bf9aaf0aa7f2ea0f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47d4cf19ff91d89d174895c87e171faf06f25429328d763c94b3ee96f99c572b._SX342_.jpg"
     },
     {
       "name": "American Beauty",
@@ -41,7 +42,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/39775226fd6ba0930bc3d090fbb0a5974db81237da2f71b3a4e833eba46ad817._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eba9c54b035b288bd32bfc3ee91dda2d64cd6232f14d5b7d49ac42860f901b7a._SX342_.jpg"
     },
     {
       "name": "Primer",
@@ -173,7 +174,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_.jpg"
     },
     {
       "name": "Machete",
@@ -207,7 +208,7 @@
       "originalTitle": "The Prestige",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5c1a089bbbd98a45bb2c1260b461c42466992ae544c77f4cbd05403d30424079._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9bdb7a12d16889d935f1542462b0c4398f729cb66496e55d136fbac77a82a556._SX342_.jpg"
     },
     {
       "name": "Scott Pilgrim vs. the World",
@@ -299,7 +300,6 @@
         "freenet Video",
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
-        "Prime Video Channels MUBI",
         "MagentaTV",
         "Mubi"
       ],
@@ -350,7 +350,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/00f64f0f0c0174dd429d1ae9e557d6be2b37902a0721331d903db4ca3bd26fdf._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/af9dd79fdbebfabbb7618b3c51acbfbef5e09d151793d80a8e81074c9ef80433._SX342_.jpg"
     },
     {
       "name": "V for Vendetta",
@@ -486,10 +486,9 @@
       "rating": 3.8,
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d407f5ac188f923edf803a552c4bd3d906d2e5375e423f3f09990699d35bf6d7._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb59b3d0729b05d8b7b33bfc6ed35884b6ee2b3fa4be5480e8b150f33e994371._SX342_.jpg"
     },
     {
       "name": "Edge of Tomorrow",
@@ -538,7 +537,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/80ab6ea26c4043cb8486196f8ad94717ee6d7c88a251a1db83b428a9ca6e1a5e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cff42f907a3cf87b8c38ecaecdb8f527e293baca1cbb6aa77f7b2e8ac72ec44._SX342_.jpg"
     },
     {
       "name": "Super",
@@ -550,7 +549,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f3a8b5ca86a3ee2c842faef4bbf866957693ac7642cf3dbcdafadf43c5caa623._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dcd3bbaba4d4d7ebe4ddfcc133ee5fe8b5c9cc6d2ef4dbe1ef9346e079e1b304._SX342_.jpg"
     },
     {
       "name": "The Guard",
@@ -562,7 +561,7 @@
       "streamProviders": [
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7b830df8c0cab429e89c41e24cdae59ce5a596a358155f449ae4ce72e73a58d4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8d559fc1457dd8a21d59c75ebbaa59701a1d72b77c3bd5bcc748e09c70e2a405._SX342_.jpg"
     },
     {
       "name": "The Cabin in the Woods",
@@ -584,7 +583,7 @@
       "streamProviders": [
         "Prime Video Channels SONY AXN"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/acbefffa8652961ea8670cb6e109c30a243e1f011dcef37b4b59b479b9e0a0db._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41e542b3a533a8c51037faafcc6e01dea66a41e34f15167e94a1f433b62cc764._SX342_.jpg"
     },
     {
       "name": "Kick-Ass",
@@ -654,7 +653,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/be11c91c2dea6244fae229216053363471932148b99458c4633f04bf5de1e552._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bfea3bfc97841bb8a1eabcaeae1abba23cebf281289f3dc425967f616aada11c._SX342_.jpg"
     },
     {
       "name": "Fear and Loathing in Las Vegas",
@@ -734,7 +733,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/89e75f1225c5d482c6017b06fbd4dd891d07368bb5ee5589434d1fe9ff19f8bc._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0b51daf8453921e379970781f26dd4b923c90684e600a69bbf43bae3aeb81670._SX342_.jpg"
     },
     {
       "name": "Falling Down",
@@ -815,7 +814,9 @@
       "year": "2015",
       "originalTitle": "The Big Short",
       "rating": 3.8,
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels Arthouse CNMA"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cef33702ca7b1a26ed160bd3e5362a307189f43bee1406b241fcaedff81e2227._SX342_.jpg"
     },
     {
@@ -927,7 +928,7 @@
         "MagentaTV",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3cead3133f939245cf7de042676916b47f4bf64ea6e8e8c183c21ad116a7af8c._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b35b7284adc580067831005f2916f42a0f366d076422738ef0a3058070c6e190._SX342_.jpg"
     },
     {
       "name": "2001: A Space Odyssey",
@@ -946,7 +947,9 @@
       "year": "2000",
       "originalTitle": "Requiem for a Dream",
       "rating": 4.1,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/11/image/jpeg/5f7be44cfbfaceb350544d2e1c2428fc.jpg"
     },
     {
@@ -1069,7 +1072,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9261cc999c9b007c9dd455871b69d161efc411bb890e6ceb1ce5fc472e663bed._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e84de7b14ed0f8912ffd05508d6c2ee0d40966b824692239a161362802a63736._SX342_.jpg"
     },
     {
       "name": "Psycho",
@@ -1157,7 +1160,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6442abf6b1ccce90023edad4dc60149fd0a7ec700bf52da058415d2110f257c2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/78a886481cd0d1b596f5d6e525409521f9e77936980a3ea0e2fb34568200f788._SX342_.jpg"
     },
     {
       "name": "The Act of Killing",
@@ -1277,7 +1280,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/72dd9f3d6f720b966cc400c8286529d4fd2d370356350057828f837d1f59a81d._SX342_.jpg"
     },
     {
       "name": "Oldboy",
@@ -1304,7 +1307,7 @@
         "Joyn",
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f0b64d32faa41b537a341553380df06220e2438a86c11256ccb7e707c4aab54a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0bf15f9d6a52f43fbf9b598c16583387b8c18d1ba2b466a26576bd4997b5c2b4._SX342_.jpg"
     },
     {
       "name": "Parasite",
@@ -1316,7 +1319,7 @@
       "streamProviders": [
         "Prime Video Channels superfresh"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/073863df40de7c1fae9fb109f14d81c7aea24018f444c46c080adeb08fac1a52._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/882af8e22fa078fc9ecb777fd5b5f3b0a2f3f2b105c560287ad0c90c4a59104b._SX342_.jpg"
     },
     {
       "name": "Enter the Void",
@@ -1360,7 +1363,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/167cceb037e4d03bc9cd8f4c614bcc46a359925e5b16806b645626a669876936._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eac672ffb51f41707d5872e98262d13933f2969edb6392affd179f423b2da39d._SX342_.jpg"
     },
     {
       "name": "The Boondock Saints",
@@ -1486,7 +1489,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79deda28476122774c601a0e4eeb42456a2867e062a55bd436dda45253e1c3c0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eac5f5d5e790bf621c92617ca51cf6387c4b497d06d06f4b1a433e34fa52be53._SX342_.jpg"
     },
     {
       "name": "The Green Mile",
