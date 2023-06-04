@@ -642,9 +642,10 @@
       "originalTitle": "平成狸合戦ぽんぽこ",
       "rating": 3.6,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/09/image/jpeg/e50c094cf2f05c7744532d11e5a94f30.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/80232354/s166/Pom-Poko"
     },
     {
       "name": "Whisper of the Heart",
@@ -668,7 +669,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/634ee9d3584c789b5d5a013c46ee53a960239c1642af33fc892c65df525d6eba._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_.jpg"
     },
     {
       "name": "Memories",
@@ -1108,6 +1109,10 @@
     },
     {
       "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {
