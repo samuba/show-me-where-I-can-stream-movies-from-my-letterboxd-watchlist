@@ -290,7 +290,7 @@
       "originalTitle": "La Haine",
       "rating": 4.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "The Good, the Bad and the Ugly",
@@ -446,6 +446,7 @@
         "Sky Go\nSky",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
+        "Paramount+",
         "MagentaTV"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7e1bd889f95c42f2703c5572525c6ead25680af907275670b87ea94fa1e2c406._SX342_.jpg"
@@ -845,7 +846,6 @@
       "originalTitle": "C'era una volta il West",
       "rating": 4.3,
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
@@ -1008,7 +1008,8 @@
       "year": "2008",
       "originalTitle": "Dear Zachary: A Letter to a Son About His Father",
       "rating": 4.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/298328832/s166/Dear-Zachary-A-Letter-to-a-Son-About-His-Father"
     },
     {
       "name": "Chungking Express",
@@ -1151,11 +1152,7 @@
       "year": "1963",
       "originalTitle": "8½",
       "rating": 4.3,
-      "streamProviders": [
-        "LaCinetek",
-        "Amazon Arthaus Channel"
-      ],
-      "imageUrl": "https://www.justwatch.com/images/poster/59171392/s166/Achteinhalb"
+      "streamProviders": []
     },
     {
       "name": "City Lights",
@@ -1293,7 +1290,7 @@
       "originalTitle": "All That Jazz",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Prisoners",
@@ -1354,9 +1351,9 @@
       "originalTitle": "The Grand Budapest Hotel",
       "rating": 4.2,
       "streamProviders": [
-        "Disney Plus"
+        "Disney+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/8892884/s166/Grand-Budapest-Hotel"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c301cdfb1a18fb7430dcd50498072bc730377bafca5e2463d93bb9a57eda31de._SX342_.jpg"
     },
     {
       "name": "Eternal Sunshine of the Spotless Mind",
@@ -1401,7 +1398,8 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels FlimmerkisteTV",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fa42db8a4c6939c622058b30fe51e33f59b5fbbde6447e7a61b7e64e6646d30a._SX342_.jpg"
     },
@@ -1413,7 +1411,7 @@
       "originalTitle": "World of Tomorrow",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/5s7DSOek7Bk2CvcG1zX01bJzJ0x.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/9895276/s166/World-of-Tomorrow"
     },
     {
       "name": "Marcel the Shell with Shoes On",
@@ -1494,7 +1492,7 @@
       "streamProviders": [
         "filmingo"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Akira",
@@ -1504,10 +1502,9 @@
       "originalTitle": "アキラ",
       "rating": 4.2,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel",
-        "ArthouseCNMA"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/239819774/s166/Akira"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/069b84ccfd43d3dc603857255be2e4ce018637c3d56d8b5240af9f19ab7d2c05._SX342_.jpg"
     },
     {
       "name": "Yojimbo",
@@ -1539,7 +1536,7 @@
       "originalTitle": "Brief Encounter",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/282704792/s166/Brief-Encounter"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2018/08/image/jpeg/0ee39e12121953ab2c3fc56e5bf42c06.jpg"
     },
     {
       "name": "The Departed",
@@ -1580,7 +1577,7 @@
       "originalTitle": "Children of Men",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/173456924/s166/Kinder-der-Menschheit"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/00bbb502aaca6b98e6321b3a4907c6953ddf1a04e89146be91848359ed67ada2._SX342_.jpg"
     },
     {
       "name": "Django Unchained",
@@ -1616,7 +1613,7 @@
       "originalTitle": "The Night of the Hunter",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/57144480/s166/Die-Nacht-des-Jaegers"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f1fde3dd2fdac3c48e3c64ee6e07dd63263f6f1a6bf329504921a22eae980539._SX342_.jpg"
     },
     {
       "name": "Man with a Movie Camera",
@@ -1626,7 +1623,7 @@
       "originalTitle": "Человек с киноаппаратом",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2014/10/image/jpeg/029a42b30a2e0f1abc0eb6f778cce555.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8673638/s166/Der-Mann-mit-der-Kamera"
     },
     {
       "name": "Koyaanisqatsi",
@@ -1636,7 +1633,7 @@
       "originalTitle": "Koyaanisqatsi",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/6a7748cf5d00032712fec5d5d19d0bc1.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/238750476/s166/Koyaanisqatsi-Prophezeiung"
     },
     {
       "name": "The Great Dictator",
@@ -1694,7 +1691,10 @@
       "originalTitle": "Chinatown",
       "rating": 4.2,
       "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e9cdce9126167f87703004a777f1a8f21158b238572152990eb18cfcfb9ba51d._SX342_.jpg"
@@ -1768,9 +1768,9 @@
       "originalTitle": "Star Wars",
       "rating": 4.2,
       "streamProviders": [
-        "Disney Plus"
+        "Disney+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/174634929/s166/Krieg-der-Sterne"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/75392e10e998b66e4881cc46e1f3d132d7c70ea812614a7a7094c65c0f180306._SX342_.jpg"
     },
     {
       "name": "Fargo",
@@ -1796,9 +1796,9 @@
       "originalTitle": "君の名は。",
       "rating": 4.2,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/132903290/s166/Kimi-no-Na-wa"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/350c14b3e657bc8f6633f5d8ccb89c671523a6224ec60a0f8d859a5f9871ffe9._SX342_.jpg"
     },
     {
       "name": "La Notte",
@@ -1807,7 +1807,8 @@
       "year": "1961",
       "originalTitle": "La Notte",
       "rating": 4.2,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/asvSffW6fULU9miMdgeL3phReRF.jpg"
     },
     {
       "name": "The Lion King",
@@ -1817,9 +1818,9 @@
       "originalTitle": "The Lion King",
       "rating": 4.2,
       "streamProviders": [
-        "Disney Plus"
+        "Disney+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/71872948/s166/Der-Koenig-der-Loewen"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e4609f9a68efb8ebaa327005ea579bac29a4a95dc23eb4fbe6078e7bef22bd87._SX342_.jpg"
     },
     {
       "name": "Back to the Future",
@@ -1842,7 +1843,7 @@
       "originalTitle": "Meshes of the Afternoon",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/yHjEjRU81RcxKFNU5hhiPYMzlsu.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176177440/s166/Meshes-of-the-Afternoon"
     },
     {
       "name": "Mulholland Drive",
@@ -1974,8 +1975,7 @@
       "year": "1975",
       "originalTitle": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
       "rating": 4.2,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/t8MP8OqeYta0FOpBCb9QJIWEeEY.jpg"
+      "streamProviders": []
     },
     {
       "name": "Vertigo",
@@ -1995,7 +1995,7 @@
       "originalTitle": "The Wrong Trousers",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4cb6d11e4827fdbabd5c05e6cf24664e60e028118c502e655d3827fda135dc77._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/244629118/s166/Wallace-und-Gromit-Die-Techno-Hose"
     },
     {
       "name": "Metropolis",
@@ -2186,9 +2186,9 @@
       "originalTitle": "A Charlie Brown Christmas",
       "rating": 4.2,
       "streamProviders": [
-        "Apple TV"
+        "Apple TV Plus"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/11/image/jpeg/b5ffee461b9f1d5b533854563d2d1432.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176776575/s166/Die-Peanuts-Froehliche-Weihnachten"
     },
     {
       "name": "Some Like It Hot",
@@ -2222,7 +2222,7 @@
       "originalTitle": "Network",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b8302cc9a671881d3819986b0bbd97362d3c8d237b775216f6aa1e13fdc8bde4._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/304254041/s166/Network"
     },
     {
       "name": "Kill Bill: Vol. 1",
@@ -2242,9 +2242,9 @@
       "originalTitle": "Coco",
       "rating": 4.2,
       "streamProviders": [
-        "Disney+"
+        "Disney Plus"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/629dac4190c5d857f93bed9bd3df183f6a31730e060f15ba8006d7acbfe3f491._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/64900633/s166/Coco-2017"
     },
     {
       "name": "Solaris",
@@ -2264,7 +2264,7 @@
       "originalTitle": "Who's Afraid of Virginia Woolf?",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/265307d5c3de64a1c53c34a4d49c3e2d143e59ed93af9eb5da5b68159eba6aa7._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/9050620/s166/Wer-hat-Angst-vor-Virginia-Woolf"
     },
     {
       "name": "Won't You Be My Neighbor?",
@@ -2274,7 +2274,7 @@
       "originalTitle": "Won't You Be My Neighbor?",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/8qE8NZjiP2M884baH0VoLF828Vp.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/57860923/s166/Wont-You-Be-My-Neighbor"
     },
     {
       "name": "The Secret in Their Eyes",
@@ -2284,7 +2284,7 @@
       "originalTitle": "El secreto de sus ojos",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2011/03/image/jpeg/84b0faa8c876eda86d5c669863df4025.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/192862740/s166/In-ihren-Augen"
     },
     {
       "name": "Pride & Prejudice",
@@ -2294,9 +2294,9 @@
       "originalTitle": "Pride & Prejudice",
       "rating": 4.2,
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
+        "Amazon Arthaus Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ce5c7b1d640ff45995336b1e63be548129c7193bdec414cd7644dd85c4343c10._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8680827/s166/Stolz-und-Vorurteil"
     },
     {
       "name": "Raiders of the Lost Ark",
@@ -2306,11 +2306,13 @@
       "originalTitle": "Raiders of the Lost Ark",
       "rating": 4.2,
       "streamProviders": [
-        "Disney+",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Disney Plus",
+        "MagentaTV",
+        "Paramount Plus",
+        "Paramount+ Amazon Channel",
+        "Paramount Plus Apple TV Channel "
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cfc4e907355c4b464a6d2d6957227a10ec0de519da57168a30dd80c5c5cb929c._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8663403/s166/Jaeger-des-verlorenen-Schatzes"
     },
     {
       "name": "Guardians of the Galaxy Vol. 3",
@@ -2319,7 +2321,8 @@
       "year": "2023",
       "originalTitle": "Guardians of the Galaxy Vol. 3",
       "rating": 4.2,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/305194328/s166/Guardians-of-the-Galaxy-Vol-3"
     },
     {
       "name": "WALL·E",
@@ -2329,9 +2332,9 @@
       "originalTitle": "WALL·E",
       "rating": 4.2,
       "streamProviders": [
-        "Disney+"
+        "Disney Plus"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bc52b04c1d97babbd07842b64378fb586bb640666d1be354ad82a1016c78994e._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176265731/s166/WALL-E-Der-Letzte-raeumt-die-Erde-auf"
     },
     {
       "name": "Boogie Nights",
@@ -2341,7 +2344,7 @@
       "originalTitle": "Boogie Nights",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8c9e730c458a0325a26c9bcddb9a8c3127da797b634f1557a7cb5d3b0a36333d._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/619841/s166/Boogie-Nights"
     },
     {
       "name": "Trainspotting",
@@ -2373,10 +2376,10 @@
       "originalTitle": "Ace in the Hole",
       "rating": 4.2,
       "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
+        "WOW",
+        "Sky Go"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e7b1515a596657fd19d5c1332da83e36c63bcfb160ccff1e14648106e59af9ca._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8672055/s166/Reporter-des-Satans"
     },
     {
       "name": "The Man Who Shot Liberty Valance",
@@ -2386,7 +2389,7 @@
       "originalTitle": "The Man Who Shot Liberty Valance",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b4d3ed4d14cf1e0adfb2d50dfc2a4e2af99bce6c6aa4040466c12859991c587f._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/206281090/s166/Der-Mann-der-Liberty-Valance-erschoss"
     },
     {
       "name": "Das Boot",
@@ -2416,9 +2419,9 @@
       "originalTitle": "Little Miss Sunshine",
       "rating": 4.2,
       "streamProviders": [
-        "Disney+"
+        "Disney Plus"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3d72674fb083873ba91587c13afedd2abb5ca9c2b52c9dad1e0b87899c1351ab._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176849339/s166/Little-Miss-Sunshine"
     },
     {
       "name": "Winter Light",
@@ -2428,9 +2431,9 @@
       "originalTitle": "Nattvardsgästerna",
       "rating": 4.2,
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
+        "Amazon Arthaus Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79be9356965a42c1c44cd5c66fa65d6e3fe1bea84dcccb1cf0d1db27adaad94e._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/300480018/s166/Licht-im-Winter"
     },
     {
       "name": "Rosemary's Baby",
@@ -2440,7 +2443,7 @@
       "originalTitle": "Rosemary's Baby",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15c838f242edd8a7fb7c58a0f4113f2c0cacad58f13872fe30ecff204d5e77e8._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8668696/s166/Rosemaries-Baby"
     },
     {
       "name": "The Prestige",
@@ -2460,7 +2463,7 @@
       "originalTitle": "The King of Comedy",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://images.videociety.de/FrontCover/A7AC636B309F27A00A4FB971CA80742E7F4B4DE5_342.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/17925969/s166/The-King-of-Comedy"
     },
     {
       "name": "Rashomon",
@@ -2470,9 +2473,10 @@
       "originalTitle": "羅生門",
       "rating": 4.2,
       "streamProviders": [
+        "Plex",
         "filmingo"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/725707e2885860e0123065155a215a06.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/63285549/s166/Rashomon-Das-Lustwaeldchen"
     },
     {
       "name": "The Matrix",
@@ -2482,9 +2486,10 @@
       "originalTitle": "The Matrix",
       "rating": 4.2,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/34c0a9f90e92b4e6a71b443fd2dc7636501efa4489146d24ca0e089784b1d761._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8668220/s166/Matrix"
     },
     {
       "name": "The Green Mile",
@@ -2504,10 +2509,11 @@
       "originalTitle": "Festen",
       "rating": 4.2,
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+",
-        "Paramount+"
+        "Amazon Arthaus Channel",
+        "Paramount Plus",
+        "Paramount Plus Apple TV Channel "
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ba007641c206dc7681ea11a86e23309700ad33c8db8624564b50340ef673e65._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/244629513/s166/Das-Fest"
     },
     {
       "name": "A Silent Voice",
@@ -2527,7 +2533,7 @@
       "originalTitle": "Le Samouraï",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/scMGiXauC3KB56LY3CbWc3yIXGJ.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/9062066/s166/Der-eiskalte-Engel"
     },
     {
       "name": "Sorcerer",
@@ -2537,7 +2543,7 @@
       "originalTitle": "Sorcerer",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/4EWkatjOTFMWfYJjhLfm4wUJRwy.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/257571814/s166/Atemlos-vor-Angst"
     },
     {
       "name": "Whisper of the Heart",
@@ -2562,7 +2568,7 @@
         "Amazon Prime Video",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9a76f6d0c298a6ff01cd479cff79538c22dc29ca88f755ca528248e73c7f5c0a._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/9334418/s166/Mary-und-Max-oder-Schrumpfen-Schafe-wenn-es-regnet"
     },
     {
       "name": "Sound of Metal",
@@ -2581,7 +2587,7 @@
       "originalTitle": "キュア",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2023/05/image/jpeg/7b37026cfd730735bb19b083a2b6b65f.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/58610254/s166/Cure"
     },
     {
       "name": "Wolfwalkers",
@@ -2591,9 +2597,9 @@
       "originalTitle": "Wolfwalkers",
       "rating": 4.1,
       "streamProviders": [
-        "Apple TV"
+        "Apple TV Plus"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/ehAKuE48okTuonq6TpsNQj8vFTC.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/210177609/s166/Wolfwalkers"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -2603,9 +2609,11 @@
       "originalTitle": "魔女の宅急便",
       "rating": 4.1,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/7bad0b7a8d9150662031bfd15f964382.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/249393502/s166/Kikis-kleiner-Lieferservice-1989"
     },
     {
       "name": "Magnolia",
@@ -2625,7 +2633,7 @@
       "originalTitle": "El laberinto del fauno",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2021/08/image/jpeg/c64e337db30b4c8e5e161479b985a845.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/214696015/s166/Pans-Labyrinth"
     },
     {
       "name": "Sunrise: A Song of Two Humans",
@@ -2634,8 +2642,11 @@
       "year": "1927",
       "originalTitle": "Sunrise: A Song of Two Humans",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/6XYqjeiHSbt8WR7Ua22epnGvVND.jpg"
+      "streamProviders": [
+        "FilmBox+",
+        "Classix"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/258719717/s166/Sunrise-Sonnenaufgang-Lied-von-zwei-Menschen"
     },
     {
       "name": "Toy Story",
@@ -2645,9 +2656,9 @@
       "originalTitle": "Toy Story",
       "rating": 4.1,
       "streamProviders": [
-        "Disney+"
+        "Disney Plus"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d343a52887d7225336a47659151a776c70f9deb7837fd4e48ceaec6ab064e517._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/235718643/s166/Toy-Story"
     },
     {
       "name": "Drive My Car",
@@ -2670,10 +2681,10 @@
       "originalTitle": "Cléo de cinq à sept",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "MUBI",
+        "MUBI Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/eeb05967feb521ac51deee1477d512a86fc037faef1943a5c9b2ce38b5bdd655._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/205986211/s166/Cleo-Mittwoch-zwischen-5-und-7"
     },
     {
       "name": "In a Lonely Place",
@@ -2683,7 +2694,7 @@
       "originalTitle": "In a Lonely Place",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/mR72XsO7EQu3uH8TeqPxMd9V8mW.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/9237380/s166/Ein-einsamer-Ort"
     },
     {
       "name": "Forrest Gump",
@@ -2693,11 +2704,12 @@
       "originalTitle": "Forrest Gump",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Filmlegenden Amazon Channel",
+        "Paramount Plus",
+        "Paramount+ Amazon Channel",
+        "Paramount Plus Apple TV Channel "
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9eef2c1514c4c3bf4857869dd3f022c278f860df3bedcf90a7e8d5ad51fd69e9._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/242039011/s166/Forrest-Gump"
     },
     {
       "name": "Mad Max: Fury Road",
@@ -2707,10 +2719,11 @@
       "originalTitle": "Mad Max: Fury Road",
       "rating": 4.1,
       "streamProviders": [
+        "Netflix",
         "Amazon Prime Video",
-        "Netflix"
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8ed610429800b7d47bd7f9b3af328f1e8fabf5a66b2dbee8b5b190076f17f5ad._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/751444/s166/Mad-Max-Fury-Road"
     },
     {
       "name": "Stand by Me",
@@ -2721,11 +2734,12 @@
       "rating": 4.1,
       "streamProviders": [
         "Netflix",
-        "Sky WOW",
-        "Sky Go\nSky",
-        "Prime Video Channels ARTHAUS+"
+        "WOW",
+        "Sky Go",
+        "Amazon Arthaus Channel",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f9c36bec7c4320e9dca6d09fc518820c2ad112499c009b0eed8d2daeeea29c71._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8544313/s166/Das-Geheimnis-eines-Sommers"
     },
     {
       "name": "Summer of Soul (...or, When the Revolution Could Not Be Televised)",
@@ -2735,9 +2749,9 @@
       "originalTitle": "Summer of Soul (...or, When the Revolution Could Not Be Televised)",
       "rating": 4.1,
       "streamProviders": [
-        "Disney+"
+        "Disney Plus"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/52b6a30c900119aaee7bfd753eb5f8972c03737c0010c695a1d3338423913986._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/249153157/s166/Summer-of-Soul-Or-When-the-Revolution-Could-Not-Be-Televised"
     },
     {
       "name": "Flee",
@@ -2757,7 +2771,7 @@
       "originalTitle": "Full Metal Jacket",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/34878f22f8c1cee233ea081ffb98ee674e843a2fc87ff8eaa01569f76b40590e._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8727294/s166/Full-Metal-Jacket"
     },
     {
       "name": "The Elephant Man",
@@ -2767,11 +2781,12 @@
       "originalTitle": "The Elephant Man",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Amazon Arthaus Channel",
+        "Paramount Plus",
+        "Paramount+ Amazon Channel",
+        "Paramount Plus Apple TV Channel "
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/20eb64d1d19c860a01eb884581abf4e3c36b2990640480cc7ad02703f8e1f013._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8715171/s166/Der-Elefantenmensch-1980"
     },
     {
       "name": "The Lives of Others",
@@ -2793,9 +2808,9 @@
       "originalTitle": "Aliens",
       "rating": 4.1,
       "streamProviders": [
-        "Disney+"
+        "Disney Plus"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/42706a5cfcfe4635360065bc24fd92d064e4a7d8dc0570192921507e3d7d43c2._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/141187752/s166/Aliens-Die-Rueckkehr"
     },
     {
       "name": "Senna",
@@ -2805,9 +2820,9 @@
       "originalTitle": "Senna",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
+        "Amazon Arthaus Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/78e21dad4035e2dc6dc1b6cd859142acfdd3a08595410ce8a4b7b59132e19bd8._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/249999345/s166/Senna"
     },
     {
       "name": "Millennium Actress",
@@ -2827,7 +2842,7 @@
       "originalTitle": "Malcolm X",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e61205fa238172c9a888d1f2776de80bc98d85de56b5dc058f4b1e00a6bb53ee._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/256437147/s166/Malcolm-X"
     },
     {
       "name": "Wild Tales",
@@ -2850,7 +2865,7 @@
       "originalTitle": "What Ever Happened to Baby Jane?",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1073783591d56841a38a1f0e61e6372a465c41f751ac616c618ec64460f517e3._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/238965262/s166/Was-geschah-wirklich-mit-Baby-Jane"
     },
     {
       "name": "Argentina, 1985",
@@ -2862,7 +2877,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c7cd8c6a0cbdf10bc9eafc8e1b37832e77e9e24a2c9800eba94231ae00f47b87._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/304500503/s166/Argentina-1985"
     },
     {
       "name": "Y Tu Mamá También",
@@ -2872,7 +2887,7 @@
       "originalTitle": "Y Tu Mamá También",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2009/01/image/jpeg/178e416ca424520ec1bad76f9ee7e723.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/70440161/s166/Y-Tu-Mama-Tambien-Lust-for-Life"
     },
     {
       "name": "PlayTime",
@@ -2881,8 +2896,10 @@
       "year": "1967",
       "originalTitle": "PlayTime",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "streamProviders": [
+        "Amazon Arthaus Channel"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/200741665/s166/Tatis-herrliche-Zeiten"
     },
     {
       "name": "A Clockwork Orange",
@@ -2892,7 +2909,7 @@
       "originalTitle": "A Clockwork Orange",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bddfeed59b81430e4a9f809dc1a96c93650c14e599b09078749329c6b7c7bd95._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8542534/s166/Uhrwerk-Orange"
     },
     {
       "name": "Amélie",
@@ -2927,10 +2944,11 @@
       "originalTitle": "Nashville",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Paramount Plus",
+        "Paramount+ Amazon Channel",
+        "Paramount Plus Apple TV Channel "
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/25bd2b1851088e16d0e486dc6459a8650261412cb29a20d4adcffa0028a6a648._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8714191/s166/Nashville"
     },
     {
       "name": "The Long Goodbye",
@@ -2940,7 +2958,7 @@
       "originalTitle": "The Long Goodbye",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6e25fada08b2a91a73a604671611b063babbdb6fcd778e994174473bea6a8170._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/300494402/s166/Der-Tod-kennt-keine-Wiederkehr"
     },
     {
       "name": "Song of the Sea",
@@ -2949,10 +2967,8 @@
       "year": "2014",
       "originalTitle": "Song of the Sea",
       "rating": 4.1,
-      "streamProviders": [
-        "Prime Video Channels Moviedome PLUS"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/345f60cc07a4fefd9f6b9039cc75322e80a8a4701178d1b4ba185a9bcb7062d4._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/176810375/s166/Song-of-the-Sea"
     },
     {
       "name": "Cries and Whispers",
@@ -2984,7 +3000,7 @@
       "originalTitle": "Possession",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/yAVfhwRyFm7i0zuMe1lxvXwwwvU.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/241779744/s166/Possession-1981"
     },
     {
       "name": "I Am Not Your Negro",
@@ -2993,8 +3009,11 @@
       "year": "2016",
       "originalTitle": "I Am Not Your Negro",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/63a712d42c976f8bd3a07c5a8ddd4ba45f6f2330839bf67a47613faea65119f5._SX342_.jpg"
+      "streamProviders": [
+        "Joyn",
+        "Rakuten TV"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/194384317/s166/I-Am-Not-a-Serial-Killer"
     },
     {
       "name": "Reservoir Dogs",
@@ -3018,11 +3037,11 @@
       "originalTitle": "The Florida Project",
       "rating": 4.1,
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels ARTHAUS+",
-        "MagentaTV"
+        "MagentaTV",
+        "Joyn Plus",
+        "Amazon Arthaus Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a526e9ff9ddc078f0e483ec6649141f7092c84679da42e115035f8fcc1e93c8f._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/91097371/s166/The-Florida-Project"
     },
     {
       "name": "The Kid",
@@ -3031,8 +3050,12 @@
       "year": "1921",
       "originalTitle": "The Kid",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "streamProviders": [
+        "wedotv",
+        "Amazon Arthaus Channel",
+        "FilmBox+"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/179247517/s166/Der-Vagabund-und-das-Kind"
     },
     {
       "name": "North by Northwest",
@@ -3042,7 +3065,7 @@
       "originalTitle": "North by Northwest",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e66aa19f595b008567a62f0d5673ba92830e2757dbb7307e340da2937e207971._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8678741/s166/Der-unsichtbare-Dritte"
     },
     {
       "name": "The Bridge on the River Kwai",
@@ -3052,7 +3075,7 @@
       "originalTitle": "The Bridge on the River Kwai",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e6bd55fc5e0d2e0638f7fcd8cd427735ee3a95b002dfc711f2c7124c7fd754a7._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8569997/s166/Die-Bruecke-am-Kwai"
     },
     {
       "name": "Casino",
@@ -3062,7 +3085,7 @@
       "originalTitle": "Casino",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2019/06/image/jpeg/b336941af8471b1746a0da6878f8f5f9.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8653808/s166/Casino"
     },
     {
       "name": "All About My Mother",
@@ -3072,7 +3095,7 @@
       "originalTitle": "Todo sobre mi madre",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2016/12/image/jpeg/9324b0a671ede07027807e6ea71b43ad.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/179999792/s166/Alles-ueber-meine-Mutter"
     },
     {
       "name": "The Last Picture Show",
@@ -3082,7 +3105,7 @@
       "originalTitle": "The Last Picture Show",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2015/02/image/jpeg/3bf66a4cb5d8c797fef9a12c42ea1177.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/265546144/s166/Die-letzte-Vorstellung"
     },
     {
       "name": "Dancer in the Dark",
@@ -3092,7 +3115,7 @@
       "originalTitle": "Dancer in the Dark",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2015/04/image/jpeg/b303e13d71dc12a46efd943c37e84530.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/300912563/s166/Dancer-in-the-Dark"
     },
     {
       "name": "Synecdoche, New York",
@@ -3102,7 +3125,7 @@
       "originalTitle": "Synecdoche, New York",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2009/10/image/jpeg/0736052f8daf5fe6a1e33044a343b9d6.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/10998677/s166/Synecdoche-New-York"
     },
     {
       "name": "The Exterminating Angel",
@@ -3112,9 +3135,10 @@
       "originalTitle": "El ángel exterminador",
       "rating": 4.1,
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "FilmBox+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d3e29a4fdee7440c99ef2d1713d53ba802cac70097f325bb4a682a1429995a45._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/10391474/s166/Der-Wuergeengel"
     },
     {
       "name": "My Life as a Zucchini",
@@ -3124,10 +3148,9 @@
       "originalTitle": "Ma vie de courgette",
       "rating": 4.1,
       "streamProviders": [
-        "Amazon Prime Video",
-        "PantaRay"
+        "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7342018987fc70287833530df27689b816cd929b8bd3eeec1839318eb65383c8._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/247914806/s166/Ma-vie-de-courgette"
     },
     {
       "name": "Tokyo Godfathers",
@@ -3169,7 +3192,7 @@
       "originalTitle": "La montaña sagrada",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/iTABdqBoJsgIe3AnxFICAmRD6iO.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/29691558/s166/Der-heilige-Berg-1973"
     },
     {
       "name": "4 Months, 3 Weeks and 2 Days",
@@ -3179,9 +3202,10 @@
       "originalTitle": "4 luni, 3 săptămîni și 2 zile",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel",
+        "ArthouseCNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ad69469399b523a61f50011e04d995a27876c24373106e7c0b9668b840aa5048._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/253782681/s166/4-Monate-3-Wochen-und-2-Tage"
     },
     {
       "name": "What We Do in the Shadows",
@@ -3203,9 +3227,10 @@
       "originalTitle": "Pride",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel",
+        "ArthouseCNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5fba36161b75ca3429cc97e3d73c13e348f19805741738be408c9e6c0da29776._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102615436/s166/Pride"
     },
     {
       "name": "Persepolis",
@@ -3215,9 +3240,9 @@
       "originalTitle": "Persepolis",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
+        "Amazon Arthaus Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7194efccc9a95317eab29417e82840a61757037e649e5c74e6b9abfeeba0ed12._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/255487130/s166/Persepolis"
     },
     {
       "name": "The General",
@@ -3227,9 +3252,13 @@
       "originalTitle": "The General",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels GRJNGO – Westernfilme"
+        "Plex",
+        "Filmzie",
+        "FilmBox+",
+        "GRJNGO Amazon Channel",
+        "Classix"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b7874cca98117a53164aa4f08f45137654031e3bbde641b803077091740368c._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/176321138/s166/Der-General"
     },
     {
       "name": "Jurassic Park",
@@ -3239,10 +3268,11 @@
       "originalTitle": "Jurassic Park",
       "rating": 4.1,
       "streamProviders": [
+        "Netflix",
         "Amazon Prime Video",
-        "Netflix"
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9534ed1691eae16b19b40b4f1668405c1f22d54702e3ffb4e7b857442233efe6._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8722712/s166/Jurassic-Park"
     },
     {
       "name": "Short Term 12",
@@ -3253,12 +3283,13 @@
       "rating": 4.1,
       "streamProviders": [
         "Joyn",
-        "Prime Video Channels Moviedome PLUS",
+        "Rakuten TV",
         "Sooner",
         "Netzkino",
-        "filmfriend"
+        "filmfriend",
+        "Pluto TV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bdd18e28acf1a61f1fe0e53438e73cf912a98299a7069b393b8d4b867ced0d90._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/10658104/s166/Short-Term-12-Stille-Helden"
     },
     {
       "name": "Hiroshima Mon Amour",
@@ -3268,11 +3299,11 @@
       "originalTitle": "Hiroshima Mon Amour",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "MUBI",
+        "MUBI Amazon Channel",
+        "Filmlegenden Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bb3a630e4d4d8e2f93c2a38e7472bdcbb4692bcf87c1ffdeeadf8c921b96b636._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/168428250/s166/Hiroshima-mon-amour"
     },
     {
       "name": "Blade Runner 2049",
@@ -3282,11 +3313,12 @@
       "originalTitle": "Blade Runner 2049",
       "rating": 4.1,
       "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky",
-        "Prime Video Channels Filmtastic"
+        "WOW",
+        "Sky Go",
+        "Filmtastic Amazon Channel",
+        "Filmtastic"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e25540912b6a6986efc6299691f719a6fa6a66115e787be360fdfa33a5959976._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8160492/s166/Blade-Runner-2049"
     },
     {
       "name": "The Princess Bride",
@@ -3296,7 +3328,7 @@
       "originalTitle": "The Princess Bride",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/11ba6f748c64612fd40e65915b885bf196cb2f98bfa99abf2037228196a16fbd._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/189445396/s166/Die-Braut-des-Prinzen"
     },
     {
       "name": "Ali: Fear Eats the Soul",
@@ -3318,7 +3350,7 @@
       "originalTitle": "夢",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f3b7aed51fbf07fa932e90c4fe2d68f9af3fe275f9260e67033aec56d3d8b1af._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/250283027/s166/Akira-Kurosawas-Traeume"
     },
     {
       "name": "Rome, Open City",
@@ -3327,8 +3359,10 @@
       "year": "1945",
       "originalTitle": "Roma città aperta",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2009/01/image/jpeg/97d8d536b750ebccae45f0ed4c247841.jpg"
+      "streamProviders": [
+        "FilmBox+"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/192724944/s166/Rom-offene-Stadt"
     },
     {
       "name": "The Conformist",
@@ -3337,8 +3371,7 @@
       "year": "1970",
       "originalTitle": "Il conformista",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/54hGVTv4cjovsXbSlF0uQrFObAM.jpg"
+      "streamProviders": []
     },
     {
       "name": "Anatomy of a Murder",
@@ -3348,7 +3381,7 @@
       "originalTitle": "Anatomy of a Murder",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f47e7e4e114332d9b4a6eff971449897be1d8b8ac280b9badf6979f01f055f69._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/180261513/s166/Anatomie-eines-Mordes"
     },
     {
       "name": "Harry Potter and the Prisoner of Azkaban",
@@ -3358,7 +3391,7 @@
       "originalTitle": "Harry Potter and the Prisoner of Azkaban",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c9095c5932540a903b30864f5851f6e2a6203dd6d19b0910aab7eb9f058c1e46._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/94622763/s166/Harry-Potter-und-der-Gefangene-von-Askaban"
     },
     {
       "name": "F for Fake",
@@ -3368,7 +3401,7 @@
       "originalTitle": "Vérités et Mensonges",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/xySZgpUVcxmXHFzuUCFmrwa1oEb.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/150999279/s166/F-wie-Faelschung"
     },
     {
       "name": "Capernaum",
@@ -3378,9 +3411,10 @@
       "originalTitle": "کفرناحوم",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel",
+        "ArthouseCNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d65bf41c8425936ee14e9d9d260ed66fba1d792d7f886247fe592c3c72ffe302._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/130753381/s166/Capernaum"
     },
     {
       "name": "The Banshees of Inisherin",
@@ -3390,9 +3424,9 @@
       "originalTitle": "The Banshees of Inisherin",
       "rating": 4.1,
       "streamProviders": [
-        "Disney+"
+        "Disney Plus"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a05ad61dc6b92ef545788b72324d7167dfcc3c2703a8c4d3664aa4e488d44bee._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/302129550/s166/The-Banshees-of-Inisherin"
     },
     {
       "name": "Shutter Island",
@@ -3402,13 +3436,13 @@
       "originalTitle": "Shutter Island",
       "rating": 4.1,
       "streamProviders": [
-        "Joyn",
         "Netflix",
-        "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
+        "Joyn Plus",
+        "Arthouse CNMA Amazon Channel",
+        "Netflix basic with Ads",
+        "ArthouseCNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e71f9a3a8762194e7316c5f9b3ab641124cdbd8618309f95e6be166116a70227._SX342_.png"
+      "imageUrl": "https://www.justwatch.com/images/poster/8716700/s166/Shutter-Island"
     },
     {
       "name": "C'mon C'mon",
@@ -3418,7 +3452,7 @@
       "originalTitle": "C'mon C'mon",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/38e38974e3f9e0662069f5821de21cca5d7ebe78f9251530b98bcc98a32b4248._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/298923317/s166/Cmon-Cmon"
     },
     {
       "name": "Unforgiven",
@@ -3428,10 +3462,10 @@
       "originalTitle": "Unforgiven",
       "rating": 4.1,
       "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
+        "WOW",
+        "Sky Go"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6a8aa395d54ff0c820ed6b9e14af4e2b91067e70f225ba21d3b15524e8d077d._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/8544636/s166/Erbarmungslos"
     },
     {
       "name": "The Conversation",
@@ -3441,10 +3475,11 @@
       "originalTitle": "The Conversation",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Paramount Plus",
+        "Paramount+ Amazon Channel",
+        "Paramount Plus Apple TV Channel "
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ac74991ab765bc167307a16d238dcef0d5c8179dce65b54e1bbc724455b213f5._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102655457/s166/Der-Dialog"
     },
     {
       "name": "For a Few Dollars More",
@@ -3454,10 +3489,10 @@
       "originalTitle": "Per qualche dollaro in più",
       "rating": 4.1,
       "streamProviders": [
-        "Prime Video Channels FILMLEGENDEN",
-        "MagentaTV"
+        "MagentaTV",
+        "Filmlegenden Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/49c017526100ec917ad18cad47eed50cd0bce6c95f742a7f24f0123c7ebd7992._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/182794771/s166/Fuer-ein-paar-Dollar-mehr"
     },
     {
       "name": "Scream",
@@ -4354,7 +4389,7 @@
       "originalTitle": "The Batman",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "In a Heartbeat",
@@ -4364,7 +4399,7 @@
       "originalTitle": "In a Heartbeat",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Phantom of the Paradise",
@@ -5150,7 +5185,7 @@
       "originalTitle": "Piper",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Barbie as The Princess & the Pauper",
@@ -6241,7 +6276,7 @@
       "originalTitle": "Night of the Living Dead",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Broadcast News",
@@ -9002,7 +9037,7 @@
       "originalTitle": "Thor: Ragnarok",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Raising Arizona",
@@ -9394,9 +9429,9 @@
       "originalTitle": "Titanic",
       "rating": 3.8,
       "streamProviders": [
-        "Disney Plus"
+        "Disney+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/8707293/s166/Titanic-1997"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8274b9858331123ff7869d4939dac4c90aff6eae08aeda0499d31ba036e35aca._SX342_.jpg"
     },
     {
       "name": "Battle Royale",
@@ -9453,11 +9488,10 @@
       "originalTitle": "Philadelphia",
       "rating": 3.8,
       "streamProviders": [
-        "blutv",
-        "Amazon Arthaus Channel",
-        "Filmlegenden Amazon Channel"
+        "Prime Video Channels ARTHAUS+",
+        "Prime Video Channels FILMLEGENDEN"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/91481815/s166/Philadelphia"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2be015e0dc169d6a82645e5c1df39aa7a521f0a8a97e6f826accf33f45c019e6._SX342_.jpg"
     },
     {
       "name": "Serpico",
@@ -9502,9 +9536,9 @@
       "originalTitle": "The Help",
       "rating": 3.8,
       "streamProviders": [
-        "Disney Plus"
+        "Disney+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/300647953/s166/The-Help"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/665f080734d01da8be515fa7565eca85999005b0bb1232dfb005ef0f5732b999._SX342_.jpg"
     },
     {
       "name": "Willy Wonka & the Chocolate Factory",
@@ -9514,7 +9548,7 @@
       "originalTitle": "Willy Wonka & the Chocolate Factory",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/271463974/s166/Charlie-und-die-Schokoladenfabrik-1971"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/76f6c926ce5f2481265a90032657bf6b8c6bf8c05e8c8d9b7fdd9f7894b7f172._SX342_.jpg"
     },
     {
       "name": "Guardians of the Galaxy",
@@ -9536,9 +9570,10 @@
       "originalTitle": "Sense and Sensibility",
       "rating": 3.8,
       "streamProviders": [
+        "Prime Video Channels Sony Channel",
         "MagentaTV"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/106820135/s166/Sinn-und-Sinnlichkeit"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c9ec1cdaee6c643b8b6531e7f76b2172efd67f91206a73a7b0e69dcb22213a07._SX342_.jpg"
     },
     {
       "name": "V for Vendetta",
@@ -9547,7 +9582,8 @@
       "year": "2005",
       "originalTitle": "V for Vendetta",
       "rating": 3.8,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/464a57f23264e416724c483b14b0dc0d90bdb75986cacd4fd1dd1c941ff6b56b._SX342_.jpg"
     },
     {
       "name": "In the Loop",
@@ -9577,10 +9613,10 @@
       "originalTitle": "The Northman",
       "rating": 3.8,
       "streamProviders": [
-        "WOW",
-        "Sky Go"
+        "Sky WOW",
+        "Sky Go\nSky"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/277336167/s166/The-Northman"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9dbb12b27f51e204bbc6341baedcace30d3e809ba031fc32a12c9d52385d95d7._SX342_.jpg"
     },
     {
       "name": "Airplane!",
@@ -9674,9 +9710,9 @@
       "originalTitle": "The Princess and the Frog",
       "rating": 3.8,
       "streamProviders": [
-        "Disney Plus"
+        "Disney+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/48081235/s166/Kuess-den-Frosch"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41fadbc525d50a4cfdd216f5091f84e2d7e22811c14fc34c044e9d1f3d29e9b8._SX342_.jpg"
     },
     {
       "name": "Doubt",
@@ -9686,7 +9722,7 @@
       "originalTitle": "Doubt",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Primal Fear",
@@ -9744,9 +9780,9 @@
       "originalTitle": "Manhunter",
       "rating": 3.8,
       "streamProviders": [
-        "Amazon Arthaus Channel"
+        "Prime Video Channels ARTHAUS+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/181400994/s166/Blutmond"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a86eebb71a0de9b3b56950099f7e3c18dd598663f010d3ff3269f566428bf28f._SX342_.jpg"
     },
     {
       "name": "Harry Potter and the Goblet of Fire",
@@ -9863,10 +9899,9 @@
       "originalTitle": "十三人の刺客",
       "rating": 3.8,
       "streamProviders": [
-        "Filmtastic Amazon Channel",
-        "Filmtastic"
+        "Prime Video Channels Filmtastic"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/244762099/s166/13-Assassins"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b8e2bbf3ab13c3c1cbf7697cdba07d88e4232902dc68864968a35831fc2a2990._SX342_.jpg"
     },
     {
       "name": "A League of Their Own",
@@ -10125,8 +10160,10 @@
       "year": "1964",
       "originalTitle": "A Hard Day's Night",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/301319936/s166/A-Hard-Days-Night"
+      "streamProviders": [
+        "Prime Video Channels Moviedome PLUS"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d73f925b762b53245c4eed6c02c937c0a5282cebf1dd6dd0c0bc92afb0bd9b4._SX342_.jpg"
     },
     {
       "name": "Drop Dead Gorgeous",
@@ -10241,9 +10278,9 @@
       "originalTitle": "Re-Animator",
       "rating": 3.8,
       "streamProviders": [
-        "Bloody Movies Amazon Channel"
+        "Prime Video Channels Bloody Movies"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/102156156/s166/Re-Animator"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b94fd022ddc33b531cfb886c2dd61bbc414506247772ffea90649e17a0ebc59._SX342_.jpg"
     },
     {
       "name": "Picnic at Hanging Rock",
@@ -10286,11 +10323,11 @@
       "originalTitle": "Slumdog Millionaire",
       "rating": 3.8,
       "streamProviders": [
-        "MagentaTV",
-        "Joyn Plus",
-        "Amazon Arthaus Channel"
+        "Joyn",
+        "Prime Video Channels ARTHAUS+",
+        "MagentaTV"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/192634971/s166/Slumdog-Millionaer"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/24bb35a804223a1aab684e2fcbf103e5ccef0ffa62d64b914268c2601c5846db._SX342_.jpg"
     },
     {
       "name": "What's Eating Gilbert Grape",
@@ -10336,9 +10373,9 @@
       "originalTitle": "The Secret of NIMH",
       "rating": 3.8,
       "streamProviders": [
-        "MGM Amazon Channel"
+        "Prime Video Channels MGM+"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/284835847/s166/Mrs-Brisby-und-das-Geheimnis-von-Nimh"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e8a479330fb1c501dfcbfbd0c3b7c983a53c9b82222954bab1d25e92affc6529._SX342_.jpg"
     },
     {
       "name": "Days of Being Wild",
@@ -10369,15 +10406,16 @@
       "rating": 3.8,
       "streamProviders": [
         "Amazon Prime Video",
+        "Joyn",
+        "Prime Video Channels ARD Plus",
+        "Prime Video Channels Kinderwelt",
+        "Prime Video Channels MUBI",
+        "ARD Plus",
         "MagentaTV",
-        "MUBI",
-        "MUBI Amazon Channel",
-        "Joyn Plus",
         "filmfriend",
-        "Pluto TV",
-        "ARD Plus"
+        "Mubi"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/190424982/s166/Brendan-und-das-Geheimnis-von-Kells"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/837094f48e09be5214b67816b341479f578d7c303bea0090063a9c84188435ad._SX342_.jpg"
     },
     {
       "name": "Melancholia",
@@ -10387,12 +10425,11 @@
       "originalTitle": "Melancholia",
       "rating": 3.8,
       "streamProviders": [
-        "MUBI",
-        "MUBI Amazon Channel",
-        "Arthouse CNMA Amazon Channel",
-        "ArthouseCNMA"
+        "Prime Video Channels Arthouse CNMA",
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/301391785/s166/Melancholia"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5._SX342_.png"
     },
     {
       "name": "The Tree of Life",
@@ -10417,10 +10454,10 @@
       "originalTitle": "Palm Springs",
       "rating": 3.8,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel",
-        "ArthouseCNMA"
+        "Prime Video Channels Arthouse CNMA",
+        "Prime Video Channels OUTtv"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/305245983/s166/Palm-Springs"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2127af10cac1b7c3f149b8cbc6e371e9a732ceb6dc5ccae770351e2e0b22c513._SX342_.jpg"
     },
     {
       "name": "The Hand of God",
@@ -11643,6 +11680,10 @@
       "enabled": false
     },
     {
+      "name": "Apple TV Plus",
+      "enabled": false
+    },
+    {
       "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
@@ -11651,7 +11692,7 @@
       "enabled": false
     },
     {
-      "name": "Bloody Movies Amazon Channel",
+      "name": "Classix",
       "enabled": false
     },
     {
@@ -11660,6 +11701,10 @@
     },
     {
       "name": "Disney+",
+      "enabled": false
+    },
+    {
+      "name": "FilmBox+",
       "enabled": false
     },
     {
@@ -11675,7 +11720,15 @@
       "enabled": false
     },
     {
+      "name": "Filmzie",
+      "enabled": false
+    },
+    {
       "name": "Flimmit",
+      "enabled": false
+    },
+    {
+      "name": "GRJNGO Amazon Channel",
       "enabled": false
     },
     {
@@ -11684,14 +11737,6 @@
     },
     {
       "name": "Joyn Plus",
-      "enabled": false
-    },
-    {
-      "name": "LaCinetek",
-      "enabled": false
-    },
-    {
-      "name": "MGM Amazon Channel",
       "enabled": false
     },
     {
@@ -11715,6 +11760,14 @@
       "enabled": false
     },
     {
+      "name": "Netflix Kids",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
+      "enabled": false
+    },
+    {
       "name": "Netzkino",
       "enabled": false
     },
@@ -11723,7 +11776,23 @@
       "enabled": false
     },
     {
+      "name": "Paramount Plus",
+      "enabled": false
+    },
+    {
+      "name": "Paramount Plus Apple TV Channel ",
+      "enabled": false
+    },
+    {
       "name": "Paramount+",
+      "enabled": false
+    },
+    {
+      "name": "Paramount+ Amazon Channel",
+      "enabled": false
+    },
+    {
+      "name": "Plex",
       "enabled": false
     },
     {
@@ -11744,6 +11813,10 @@
     },
     {
       "name": "Prime Video Channels Arthouse CNMA",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Bloody Movies",
       "enabled": false
     },
     {
@@ -11787,6 +11860,10 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels Kinderwelt",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Love & Passion",
       "enabled": false
     },
@@ -11808,6 +11885,10 @@
     },
     {
       "name": "Prime Video Channels Netzkino Select",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels OUTtv",
       "enabled": false
     },
     {
@@ -11863,6 +11944,10 @@
       "enabled": false
     },
     {
+      "name": "Rakuten TV",
+      "enabled": false
+    },
+    {
       "name": "Sky Go",
       "enabled": false
     },
@@ -11883,10 +11968,6 @@
       "enabled": false
     },
     {
-      "name": "blutv",
-      "enabled": false
-    },
-    {
       "name": "filmfriend",
       "enabled": false
     },
@@ -11896,6 +11977,10 @@
     },
     {
       "name": "freenet Video",
+      "enabled": false
+    },
+    {
+      "name": "wedotv",
       "enabled": false
     }
   ]

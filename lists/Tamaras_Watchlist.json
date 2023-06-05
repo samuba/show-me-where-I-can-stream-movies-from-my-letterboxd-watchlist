@@ -2,6 +2,1548 @@
   "name": "Tamaras Watchlist",
   "url": "https://letterboxd.com/frautumnus/watchlist/",
   "description": "",
-  "entries": [],
-  "streamProviders": []
+  "entries": [
+    {
+      "name": "Coherence",
+      "letterboxdUrl": "https://letterboxd.com/film/coherence/",
+      "listPosition": 0,
+      "year": "2013",
+      "originalTitle": "Coherence",
+      "rating": 3.7,
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2015/03/image/jpeg/9a0309e1ca235ef57f85720e3b595e1c.jpg"
+    },
+    {
+      "name": "The Super Mario Bros. Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/the-super-mario-bros-movie/",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "The Super Mario Bros. Movie",
+      "rating": 3.5,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/2VhvUgsFKIjBm9NHXeeVqkPtUqe.jpg"
+    },
+    {
+      "name": "High Life",
+      "letterboxdUrl": "https://letterboxd.com/film/high-life-2018/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "High Life",
+      "rating": 3.2,
+      "streamProviders": [
+        "filmfriend"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7242541bdd3e6bcaf98771af02d9d8193da72d21df4f59fd930abf406d9b93ee._SX342_.jpg"
+    },
+    {
+      "name": "Shiva Baby",
+      "letterboxdUrl": "https://letterboxd.com/film/shiva-baby-2020/",
+      "listPosition": 0,
+      "year": "2020",
+      "originalTitle": "Shiva Baby",
+      "rating": 3.9,
+      "streamProviders": [
+        "Prime Video Channels MUBI",
+        "Mubi"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e533993baac6318d6c4717fab225e4acca78bebf674ac970ce3db5e269d6be32._SX342_.jpg"
+    },
+    {
+      "name": "Plus One",
+      "letterboxdUrl": "https://letterboxd.com/film/plus-one-2019/",
+      "listPosition": 0,
+      "year": "2019",
+      "originalTitle": "Plus One",
+      "rating": 3.5,
+      "streamProviders": [
+        "Joyn"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8052da9a21e63cd63ceb3a8aeb6cc97aed98fddb35e55aba658644ced9249373._SX342_.jpg"
+    },
+    {
+      "name": "Decision to Leave",
+      "letterboxdUrl": "https://letterboxd.com/film/decision-to-leave/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "헤어질 결심",
+      "rating": 3.9,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b3f45fcec489319d9b79edc8e9d4015b5afcf162233035f41e59cbcac5e5066c._SX342_.jpg"
+    },
+    {
+      "name": "Midsommar",
+      "letterboxdUrl": "https://letterboxd.com/film/midsommar/",
+      "listPosition": 0,
+      "year": "2019",
+      "originalTitle": "Midsommar",
+      "rating": 3.9,
+      "streamProviders": [
+        "Prime Video Channels Home of Horror"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/12767bb6aedaf3d44994f34a5a04fa91a319831890fe964e2045a09146ef0a0a._SX342_.jpg"
+    },
+    {
+      "name": "Hereditary",
+      "letterboxdUrl": "https://letterboxd.com/film/hereditary/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "Hereditary",
+      "rating": 4,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/741f1fc3d9fcf9201f3faaa91c6317086804174e9aec36524d218ffabc182975._SX342_.jpg"
+    },
+    {
+      "name": "Generation War",
+      "letterboxdUrl": "https://letterboxd.com/film/generation-war/",
+      "listPosition": 0,
+      "year": "2013",
+      "originalTitle": "Unsere Mütter, unsere Väter",
+      "rating": 4.1,
+      "streamProviders": [
+        "Prime Video Channels ZDF select",
+        "MagentaTV"
+      ],
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15911269_b_v12_ab_2019-12-09T09_20_47.jpg&out=jpeg"
+    },
+    {
+      "name": "Marcel the Shell with Shoes On",
+      "letterboxdUrl": "https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/",
+      "listPosition": 0,
+      "year": "2021",
+      "originalTitle": "Marcel the Shell with Shoes On",
+      "rating": 4.2,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c40272d8927bfa721e25cf91e67ce50daa7be6c1863a802f5db4cded4f7eef55._SX342_.jpg"
+    },
+    {
+      "name": "The Master",
+      "letterboxdUrl": "https://letterboxd.com/film/the-master-2012/",
+      "listPosition": 0,
+      "year": "2012",
+      "originalTitle": "The Master",
+      "rating": 4,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/61effaf42f09dc154644b4c807730eca877b7055d9242e43ca5936d619c469b8._SX342_.jpg"
+    },
+    {
+      "name": "Puss in Boots: The Last Wish",
+      "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Puss in Boots: The Last Wish",
+      "rating": 4.3,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cdf603f8fff28a02456b7a0aa3e13704ce240a1a02459f115f69df709ab4f526._SX342_.jpg"
+    },
+    {
+      "name": "What You Can See from Here",
+      "letterboxdUrl": "https://letterboxd.com/film/what-you-can-see-from-here/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Was man von hier aus sehen kann",
+      "rating": 3.5,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4c40b63ebd55b841bcab26452dea6d70004d487b40ab89dccedf12c5a0c95aef._SX342_.jpg"
+    },
+    {
+      "name": "All Quiet on the Western Front",
+      "letterboxdUrl": "https://letterboxd.com/film/all-quiet-on-the-western-front-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Im Westen nichts Neues",
+      "rating": 3.9,
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/sNsmI4vQ1A6VG52dquTFx8oNTWk.jpg"
+    },
+    {
+      "name": "The Whale",
+      "letterboxdUrl": "https://letterboxd.com/film/the-whale-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "The Whale",
+      "rating": 3.7,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/4UGVlTRT4rbyfdAzXTXh8YM81MZ.jpg"
+    },
+    {
+      "name": "One Last Evening",
+      "letterboxdUrl": "https://letterboxd.com/film/one-last-evening/",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "Letzter Abend",
+      "rating": 0,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/q6qxfFnIUEfmqhixv3otSHWijen.jpg"
+    },
+    {
+      "name": "Climax",
+      "letterboxdUrl": "https://letterboxd.com/film/climax-2018/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "Climax",
+      "rating": 3.8,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7cc2ae23a77cdec47b7623843f741eb82052d07cdaeadaee24f2bec03b4310c9._SX342_.jpg"
+    },
+    {
+      "name": "TÁR",
+      "letterboxdUrl": "https://letterboxd.com/film/tar-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "TÁR",
+      "rating": 4,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg"
+    },
+    {
+      "name": "The Talented Mr. Ripley",
+      "letterboxdUrl": "https://letterboxd.com/film/the-talented-mr-ripley/",
+      "listPosition": 0,
+      "year": "1999",
+      "originalTitle": "The Talented Mr. Ripley",
+      "rating": 3.8,
+      "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
+        "Paramount+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a878b6f53d704f9979b913de1d2170fd15b5ebd5f6f2bece989059d96a4db698._SX342_.jpg"
+    },
+    {
+      "name": "Aftersun",
+      "letterboxdUrl": "https://letterboxd.com/film/aftersun/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Aftersun",
+      "rating": 4.3,
+      "streamProviders": [
+        "Prime Video Channels MUBI",
+        "Mubi"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b376a58197d599f20e341cf2a497e74e044af927e0b2aca74c1ae4cc13820ccf._SX342_.jpg"
+    },
+    {
+      "name": "Magnolia",
+      "letterboxdUrl": "https://letterboxd.com/film/magnolia/",
+      "listPosition": 0,
+      "year": "1999",
+      "originalTitle": "Magnolia",
+      "rating": 4.1,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/962f21218e493e3daff8a877bb61b1be7887947d41d08d1cfcdac61574d02465._SX342_.jpg"
+    },
+    {
+      "name": "The Innocents",
+      "letterboxdUrl": "https://letterboxd.com/film/the-innocents-2021/",
+      "listPosition": 0,
+      "year": "2021",
+      "originalTitle": "De uskyldige",
+      "rating": 3.6,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/10efd724ff97a820c7a563278aa3b5e860ac465d1ef2262a6c7a67fce1818880._SX342_.jpg"
+    },
+    {
+      "name": "Babylon",
+      "letterboxdUrl": "https://letterboxd.com/film/babylon-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Babylon",
+      "rating": 3.9,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec51a731c83306596b363f1d620e240a4d7b7f2eb43c1dd1199625ebbb888aec._SX342_.jpg"
+    },
+    {
+      "name": "Se7en",
+      "letterboxdUrl": "https://letterboxd.com/film/se7en/",
+      "listPosition": 0,
+      "year": "1995",
+      "originalTitle": "Se7en",
+      "rating": 4.3,
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d723bd9c30bfc7c82c11ff7e9d6ae90ee2bf4a624c206ec10baedbbf2382e77b._SX342_.jpg"
+    },
+    {
+      "name": "GoodFellas",
+      "letterboxdUrl": "https://letterboxd.com/film/goodfellas/",
+      "listPosition": 0,
+      "year": "1990",
+      "originalTitle": "GoodFellas",
+      "rating": 4.4,
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ac0719f77dff904933be5aafc1e7d383d50e2435fda83b019eb89dd0459c64cb._SX342_.jpg"
+    },
+    {
+      "name": "Taxi Driver",
+      "letterboxdUrl": "https://letterboxd.com/film/taxi-driver/",
+      "listPosition": 0,
+      "year": "1976",
+      "originalTitle": "Taxi Driver",
+      "rating": 4.2,
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/959b0483626c63e018b9e9690e88a34bfc71b988e7410edac2cded82b7f151f7._SX342_.jpg"
+    },
+    {
+      "name": "Cosmopolis",
+      "letterboxdUrl": "https://letterboxd.com/film/cosmopolis/",
+      "listPosition": 0,
+      "year": "2012",
+      "originalTitle": "Cosmopolis",
+      "rating": 3,
+      "streamProviders": [
+        "Joyn"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8371f761a35cc3e70444d50a5df7d93b9b444ca4b276cbbb8674495311b5b6ec._SX342_.jpg"
+    },
+    {
+      "name": "Loving Vincent",
+      "letterboxdUrl": "https://letterboxd.com/film/loving-vincent/",
+      "listPosition": 0,
+      "year": "2017",
+      "originalTitle": "Loving Vincent",
+      "rating": 4,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bc4f133b6207eee28d42508cb10aa643a5ba580562915512892257226ac911ec._SX342_.jpg"
+    },
+    {
+      "name": "No Country for Old Men",
+      "letterboxdUrl": "https://letterboxd.com/film/no-country-for-old-men/",
+      "listPosition": 0,
+      "year": "2007",
+      "originalTitle": "No Country for Old Men",
+      "rating": 4.3,
+      "streamProviders": [
+        "Prime Video Channels Paramount+",
+        "Paramount+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_.jpg"
+    },
+    {
+      "name": "Primer",
+      "letterboxdUrl": "https://letterboxd.com/film/primer/",
+      "listPosition": 0,
+      "year": "2004",
+      "originalTitle": "Primer",
+      "rating": 3.6,
+      "streamProviders": [
+        "Prime Video Channels MUBI",
+        "Prime Video Channels realeyz",
+        "Sooner",
+        "Mubi"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/70821ce444d64fd2333f6486c409bea0f95023d63fec9fe3fcb0187f1515818f._SX342_.jpg"
+    },
+    {
+      "name": "Darkest Hour",
+      "letterboxdUrl": "https://letterboxd.com/film/darkest-hour/",
+      "listPosition": 0,
+      "year": "2017",
+      "originalTitle": "Darkest Hour",
+      "rating": 3.4,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ac4a711a938c653060968b9a86fe570cd4427f142c932886b3c6a94924fb05a7._SX342_.jpg"
+    },
+    {
+      "name": "Good Time",
+      "letterboxdUrl": "https://letterboxd.com/film/good-time/",
+      "listPosition": 0,
+      "year": "2017",
+      "originalTitle": "Good Time",
+      "rating": 4,
+      "streamProviders": [
+        "Prime Video Channels Moviedome PLUS",
+        "filmfriend"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0282778d02409159f2de88ab3535f227afb1b4ff40a4c83e3164d42f10be47d7._SX342_.jpg"
+    },
+    {
+      "name": "Roma",
+      "letterboxdUrl": "https://letterboxd.com/film/roma-2018/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "Roma",
+      "rating": 4,
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2022/05/image/jpeg/5fadd60a87e4ab09ff91f29bb8074d7a.jpg"
+    },
+    {
+      "name": "Eyes Wide Shut",
+      "letterboxdUrl": "https://letterboxd.com/film/eyes-wide-shut/",
+      "listPosition": 0,
+      "year": "1999",
+      "originalTitle": "Eyes Wide Shut",
+      "rating": 4,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/629fcb5a5c73087e4c85f22687f62e91ca804bfe6b6bc09882de3e031133c4f1._SX342_.jpg"
+    },
+    {
+      "name": "One Flew Over the Cuckoo's Nest",
+      "letterboxdUrl": "https://letterboxd.com/film/one-flew-over-the-cuckoos-nest/",
+      "listPosition": 0,
+      "year": "1975",
+      "originalTitle": "One Flew Over the Cuckoo's Nest",
+      "rating": 4.3,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ab3f271a9b55eba612dfe34faad4587fc3a9e75e8a301d0d9634c7dda9a4e9c5._SX342_.jpg"
+    },
+    {
+      "name": "Mute",
+      "letterboxdUrl": "https://letterboxd.com/film/mute-2018/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "Mute",
+      "rating": 2.2,
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/ihGg1xndLl3MW34Km332pNkyLH7.jpg"
+    },
+    {
+      "name": "The Fabelmans",
+      "letterboxdUrl": "https://letterboxd.com/film/the-fabelmans/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "The Fabelmans",
+      "rating": 4,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f53cfc87136e030c9a39ae8ec765271283ad5e7f022c176e62550bbf390ba07f._SX342_.jpg"
+    },
+    {
+      "name": "Triangle of Sadness",
+      "letterboxdUrl": "https://letterboxd.com/film/triangle-of-sadness/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Triangle of Sadness",
+      "rating": 3.7,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53c717ae8e2f904ef11d5f317ee668a4515a1bbc4519ebfe079fd5df910cbcfa._SX342_.jpg"
+    },
+    {
+      "name": "The Shining",
+      "letterboxdUrl": "https://letterboxd.com/film/the-shining/",
+      "listPosition": 0,
+      "year": "1980",
+      "originalTitle": "The Shining",
+      "rating": 4.3,
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_.jpg"
+    },
+    {
+      "name": "Man on the Moon",
+      "letterboxdUrl": "https://letterboxd.com/film/man-on-the-moon/",
+      "listPosition": 0,
+      "year": "1999",
+      "originalTitle": "Man on the Moon",
+      "rating": 3.7,
+      "streamProviders": [
+        "Prime Video Channels FILMLEGENDEN"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5bc0b1c9dfd62987f84f62e4610673122b2174ece69f3f8b9fc90c3a04a708b7._SX342_.jpg"
+    },
+    {
+      "name": "Everything Everywhere All at Once",
+      "letterboxdUrl": "https://letterboxd.com/film/everything-everywhere-all-at-once/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Everything Everywhere All at Once",
+      "rating": 4.4,
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0c69a960f7962daac1bfe7e1564911a0033506ed877b029592c0093de10a4400._SX342_.jpg"
+    },
+    {
+      "name": "Memento",
+      "letterboxdUrl": "https://letterboxd.com/film/memento/",
+      "listPosition": 0,
+      "year": "2000",
+      "originalTitle": "Memento",
+      "rating": 4.1,
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2021/01/image/jpeg/68eed3a6ba8eded4a4cba7c94ff2fedb.jpg"
+    },
+    {
+      "name": "Bones and All",
+      "letterboxdUrl": "https://letterboxd.com/film/bones-and-all/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Bones and All",
+      "rating": 3.7,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fac9f773ac6eac32922040e120a2ca3ff1b6d340d4a8ae1615a5f162a20a8915._SX342_.jpg"
+    },
+    {
+      "name": "Maps to the Stars",
+      "letterboxdUrl": "https://letterboxd.com/film/maps-to-the-stars/",
+      "listPosition": 0,
+      "year": "2014",
+      "originalTitle": "Maps to the Stars",
+      "rating": 3.2,
+      "streamProviders": [
+        "Prime Video Channels MUBI",
+        "filmfriend",
+        "Mubi"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d43f6f63099709b20a5dd15b6d0ee3c535fc114d2d3ecc960b45ce75ad1b277f._SX342_.jpg"
+    },
+    {
+      "name": "Love Steaks",
+      "letterboxdUrl": "https://letterboxd.com/film/love-steaks/",
+      "listPosition": 0,
+      "year": "2013",
+      "originalTitle": "Love Steaks",
+      "rating": 3,
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels Paramount+",
+        "Paramount+",
+        "PantaRay",
+        "Sooner",
+        "alleskino",
+        "filmfriend"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b415340b0e80648262bff47c70464729eab2bc8783581d265cb17c34ecdb6c38._SX342_.jpg"
+    },
+    {
+      "name": "The Worst Person in the World",
+      "letterboxdUrl": "https://letterboxd.com/film/the-worst-person-in-the-world/",
+      "listPosition": 0,
+      "year": "2021",
+      "originalTitle": "Verdens verste menneske",
+      "rating": 4.1,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cee8361af3b4c095d642143ffe4129832b476f18faab0df69acf928fb105d22e._SX342_.jpg"
+    },
+    {
+      "name": "Silence",
+      "letterboxdUrl": "https://letterboxd.com/film/silence/",
+      "listPosition": 0,
+      "year": "2016",
+      "originalTitle": "Silence",
+      "rating": 3.9,
+      "streamProviders": [
+        "Prime Video Channels Arthouse CNMA",
+        "Prime Video Channels MUBI",
+        "Mubi"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b588fa418f098d25ea1225359434f0aace217a4c7ace1ad47f9eaf7bd8e1a1d4._SX342_.jpg"
+    },
+    {
+      "name": "Out of Nature",
+      "letterboxdUrl": "https://letterboxd.com/film/out-of-nature/",
+      "listPosition": 0,
+      "year": "2014",
+      "originalTitle": "Mot Naturen",
+      "rating": 3.2,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/sd26KCv3S9Fmy8jgE6dUnWleheI.jpg"
+    },
+    {
+      "name": "Brick",
+      "letterboxdUrl": "https://letterboxd.com/film/brick/",
+      "listPosition": 0,
+      "year": "2005",
+      "originalTitle": "Brick",
+      "rating": 3.7,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b6771a86bd813f464919f8fd666dc11d6ae15953a57b313898a7f4cd843a18a5._SX342_.jpg"
+    },
+    {
+      "name": "Arrival",
+      "letterboxdUrl": "https://letterboxd.com/film/arrival-2016/",
+      "listPosition": 0,
+      "year": "2016",
+      "originalTitle": "Arrival",
+      "rating": 4.1,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/580a2b756e8dadec0d60b0e1a5fa0bf8756bb88269a5a6d66253cf1123f6a12a._SX342_.jpg"
+    },
+    {
+      "name": "Hanna's Journey",
+      "letterboxdUrl": "https://letterboxd.com/film/hannas-journey/",
+      "listPosition": 0,
+      "year": "2013",
+      "originalTitle": "Hannas Reise",
+      "rating": 3.1,
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2014/07/image/jpeg/5b587a9717922a5ab7d7905e2c47ebdb.jpg"
+    },
+    {
+      "name": "Promising Young Woman",
+      "letterboxdUrl": "https://letterboxd.com/film/promising-young-woman/",
+      "listPosition": 0,
+      "year": "2020",
+      "originalTitle": "Promising Young Woman",
+      "rating": 3.7,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8c6a5731ed81f765663ef049c4db2fc4323fb45e122ade63d02633cc4c6e6c60._SX342_.jpg"
+    },
+    {
+      "name": "Annette",
+      "letterboxdUrl": "https://letterboxd.com/film/annette/",
+      "listPosition": 0,
+      "year": "2021",
+      "originalTitle": "Annette",
+      "rating": 3.4,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0387b76b42f7fdce27ddb5bbcfc94de9f947774c486177d9e16430a54dbc848c._SX342_.jpg"
+    },
+    {
+      "name": "3 Idiots",
+      "letterboxdUrl": "https://letterboxd.com/film/3-idiots/",
+      "listPosition": 0,
+      "year": "2009",
+      "originalTitle": "3 Idiots",
+      "rating": 4,
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2011/12/image/jpeg/bacfbc68f3c41f944b16788abbfc667d.jpg"
+    },
+    {
+      "name": "Fear and Loathing in Las Vegas",
+      "letterboxdUrl": "https://letterboxd.com/film/fear-and-loathing-in-las-vegas/",
+      "listPosition": 0,
+      "year": "1998",
+      "originalTitle": "Fear and Loathing in Las Vegas",
+      "rating": 3.7,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3fe1420b7966f6e6886f1ba526eeddced2bcf9175d8fe147363e27b44b8b5087._SX342_.jpg"
+    },
+    {
+      "name": "Avengers: Endgame",
+      "letterboxdUrl": "https://letterboxd.com/film/avengers-endgame/",
+      "listPosition": 0,
+      "year": "2019",
+      "originalTitle": "Avengers: Endgame",
+      "rating": 3.9,
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e3fb85ff3a534570706852166faac42deff7421d2d5271f4a6253f4c6b8f2aad._SX342_.jpg"
+    },
+    {
+      "name": "Avengers: Infinity War",
+      "letterboxdUrl": "https://letterboxd.com/film/avengers-infinity-war/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "Avengers: Infinity War",
+      "rating": 4,
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/138a0a0a7f723093a0965cf5a2d1795f7bdcda6a111a6abf6244baab5afe5009._SX342_.jpg"
+    },
+    {
+      "name": "Only Lovers Left Alive",
+      "letterboxdUrl": "https://letterboxd.com/film/only-lovers-left-alive/",
+      "listPosition": 0,
+      "year": "2013",
+      "originalTitle": "Only Lovers Left Alive",
+      "rating": 3.8,
+      "streamProviders": [
+        "Sooner",
+        "filmfriend"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4f8948b93dd7eb7462ba55e8d9ab9fdd7ea44f086fcd9173cd486719a99d6fce._SX342_.jpg"
+    },
+    {
+      "name": "Awakenings",
+      "letterboxdUrl": "https://letterboxd.com/film/awakenings/",
+      "listPosition": 0,
+      "year": "1990",
+      "originalTitle": "Awakenings",
+      "rating": 3.8,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3c369150aed8c3a5ef4408e64f8c43a1fe0cf4e6215c0baff7eb47e316a9940f._SX342_.jpg"
+    },
+    {
+      "name": "L.A. Story",
+      "letterboxdUrl": "https://letterboxd.com/film/la-story/",
+      "listPosition": 0,
+      "year": "1991",
+      "originalTitle": "L.A. Story",
+      "rating": 3.4,
+      "streamProviders": [
+        "Prime Video Channels FILMLEGENDEN"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bdeb6302da7c579032b8cc4935555f19871ccec0e39acc850402466b9f416131._SX342_.jpg"
+    },
+    {
+      "name": "It's a Wonderful Life",
+      "letterboxdUrl": "https://letterboxd.com/film/its-a-wonderful-life/",
+      "listPosition": 0,
+      "year": "1946",
+      "originalTitle": "It's a Wonderful Life",
+      "rating": 4.3,
+      "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b9961a04931d9981c8f27f41d2da9c1e16615a52852189b979da3ee82b725da._SX342_.png"
+    },
+    {
+      "name": "Punch-Drunk Love",
+      "letterboxdUrl": "https://letterboxd.com/film/punch-drunk-love/",
+      "listPosition": 0,
+      "year": "2002",
+      "originalTitle": "Punch-Drunk Love",
+      "rating": 4,
+      "streamProviders": [
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dad1310316d33dceb350435db6b9fd6410aca5ea1a911cc57465af27799c4d42._SX342_.png"
+    },
+    {
+      "name": "Uncut Gems",
+      "letterboxdUrl": "https://letterboxd.com/film/uncut-gems/",
+      "listPosition": 0,
+      "year": "2019",
+      "originalTitle": "Uncut Gems",
+      "rating": 3.9,
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/pavCWa3mvcu7iIsEkRgRcmfYj9c.jpg"
+    },
+    {
+      "name": "Berlin Alexanderplatz",
+      "letterboxdUrl": "https://letterboxd.com/film/berlin-alexanderplatz-2020/",
+      "listPosition": 0,
+      "year": "2020",
+      "originalTitle": "Berlin Alexanderplatz",
+      "rating": 3.6,
+      "streamProviders": []
+    },
+    {
+      "name": "Never Rarely Sometimes Always",
+      "letterboxdUrl": "https://letterboxd.com/film/never-rarely-sometimes-always/",
+      "listPosition": 0,
+      "year": "2020",
+      "originalTitle": "Never Rarely Sometimes Always",
+      "rating": 3.9,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e72012776b32bb7c7edc3e548e5fbb18b4cfaeac0bb2e7c0e045683711fe9eff._SX342_.jpg"
+    },
+    {
+      "name": "Burning",
+      "letterboxdUrl": "https://letterboxd.com/film/burning-2018/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "버닝",
+      "rating": 4,
+      "streamProviders": [
+        "Prime Video Channels MUBI",
+        "Mubi"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15e628f33da47229fe0d5e6e5e68b6007c86fbf8a1a2a1e08d7c49cb946408f8._SX342_.jpg"
+    },
+    {
+      "name": "Wiener-Dog",
+      "letterboxdUrl": "https://letterboxd.com/film/wiener-dog/",
+      "listPosition": 0,
+      "year": "2016",
+      "originalTitle": "Wiener-Dog",
+      "rating": 3.1,
+      "streamProviders": [
+        "Joyn",
+        "Prime Video Channels ARTHAUS+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dffc9e69ea10c51d6c848f9b723ef8a62a115769e4714330b58231f5228b198c._SX342_.png"
+    },
+    {
+      "name": "Phantom Thread",
+      "letterboxdUrl": "https://letterboxd.com/film/phantom-thread/",
+      "listPosition": 0,
+      "year": "2017",
+      "originalTitle": "Phantom Thread",
+      "rating": 4.1,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/753d355d529bc5a92852bc94068175e1bdbadbb2079159fd1140266f81768b4a._SX342_.jpg"
+    },
+    {
+      "name": "Frances Ha",
+      "letterboxdUrl": "https://letterboxd.com/film/frances-ha/",
+      "listPosition": 0,
+      "year": "2012",
+      "originalTitle": "Frances Ha",
+      "rating": 4,
+      "streamProviders": [
+        "Amazon Prime Video",
+        "filmfriend",
+        "filmingo"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/61cdd82e9fd4c544bcdb9793d9075f4b103846eb475b32d68203cf4c82907a47._SX342_.jpg"
+    },
+    {
+      "name": "Radio Home",
+      "letterboxdUrl": "https://letterboxd.com/film/radio-home/",
+      "listPosition": 0,
+      "year": "2016",
+      "originalTitle": "Radio Heimat",
+      "rating": 3.2,
+      "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Filmtastic",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment",
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6043ae99d81f24e98fe6ef1258e4f364b0c90d6a9295ea1545392159ddccba53._SX342_.jpg"
+    },
+    {
+      "name": "Shirley",
+      "letterboxdUrl": "https://letterboxd.com/film/shirley-2020/",
+      "listPosition": 0,
+      "year": "2020",
+      "originalTitle": "Shirley",
+      "rating": 3.4,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/iSwTnNS7TKAS79Sz9LvyqlBxxrU.jpg"
+    },
+    {
+      "name": "SLC Punk",
+      "letterboxdUrl": "https://letterboxd.com/film/slc-punk/",
+      "listPosition": 0,
+      "year": "1998",
+      "originalTitle": "SLC Punk",
+      "rating": 3.8,
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/01/image/jpeg/63145a7f9da40403edd715c51b503ffa.jpg"
+    },
+    {
+      "name": "The Passion of the Christ",
+      "letterboxdUrl": "https://letterboxd.com/film/the-passion-of-the-christ/",
+      "listPosition": 0,
+      "year": "2004",
+      "originalTitle": "The Passion of the Christ",
+      "rating": 3.3,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/543c16d40570bff767d2fb142db66975c0761303e279df4be5a017653a0fd27e._SX342_.jpg"
+    },
+    {
+      "name": "Biutiful",
+      "letterboxdUrl": "https://letterboxd.com/film/biutiful/",
+      "listPosition": 0,
+      "year": "2010",
+      "originalTitle": "Biutiful",
+      "rating": 3.7,
+      "streamProviders": [
+        "Joyn",
+        "Prime Video Channels ARTHAUS+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/36d7da4be2e895d69cc4f14191e6a3c76aebc59ff9035fb46101aa822cec5084._SX342_.jpg"
+    },
+    {
+      "name": "Run Lola Run",
+      "letterboxdUrl": "https://letterboxd.com/film/run-lola-run/",
+      "listPosition": 0,
+      "year": "1998",
+      "originalTitle": "Lola rennt",
+      "rating": 3.8,
+      "streamProviders": [
+        "Prime Video Channels ARD Plus",
+        "ARD Plus",
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6250ee3b7b5f56f35dd748e64f49001df13d4619be0cfc3fbe278bcf8331cc56._SX342_.jpg"
+    },
+    {
+      "name": "Inglourious Basterds",
+      "letterboxdUrl": "https://letterboxd.com/film/inglourious-basterds/",
+      "listPosition": 0,
+      "year": "2009",
+      "originalTitle": "Inglourious Basterds",
+      "rating": 4.3,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_.jpg"
+    },
+    {
+      "name": "The Hunt",
+      "letterboxdUrl": "https://letterboxd.com/film/the-hunt-2012/",
+      "listPosition": 0,
+      "year": "2012",
+      "originalTitle": "Jagten",
+      "rating": 4.2,
+      "streamProviders": [
+        "Amazon Prime Video",
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_.jpg"
+    },
+    {
+      "name": "Nerve",
+      "letterboxdUrl": "https://letterboxd.com/film/nerve-2016/",
+      "listPosition": 0,
+      "year": "2016",
+      "originalTitle": "Nerve",
+      "rating": 3,
+      "streamProviders": [
+        "Joyn",
+        "Prime Video Channels ALLSTARS",
+        "Prime Video Channels Filmtastic"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ab3ebf608256c9af761907e48f1f7e14f86b5ec335e111bc2025e1b34ef01bbd._SX342_.jpg"
+    },
+    {
+      "name": "The Big Lebowski",
+      "letterboxdUrl": "https://letterboxd.com/film/the-big-lebowski/",
+      "listPosition": 0,
+      "year": "1998",
+      "originalTitle": "The Big Lebowski",
+      "rating": 4.1,
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Joyn"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4294ca675d35b0cd1f976edc27d3ab65753e6542daeff67fc2c19662c4d3b182._SX342_.jpg"
+    },
+    {
+      "name": "Room",
+      "letterboxdUrl": "https://letterboxd.com/film/room-2015/",
+      "listPosition": 0,
+      "year": "2015",
+      "originalTitle": "Room",
+      "rating": 4,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0a02051c192a989f597f9cea0ab8ca5cd93903e69a5c382b72f714d67f44d13b._SX342_.jpg"
+    },
+    {
+      "name": "The Goonies",
+      "letterboxdUrl": "https://letterboxd.com/film/the-goonies/",
+      "listPosition": 0,
+      "year": "1985",
+      "originalTitle": "The Goonies",
+      "rating": 3.8,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/993a01a63ebe971750b377497c39bacda47b275db422e42d16d722807e489b2c._SX342_.jpg"
+    },
+    {
+      "name": "The Germans",
+      "letterboxdUrl": "https://letterboxd.com/film/the-germans/",
+      "listPosition": 0,
+      "year": "2008",
+      "originalTitle": "Die Deutschen",
+      "rating": 3.6,
+      "streamProviders": [
+        "Sky Go\nSky"
+      ],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
+    },
+    {
+      "name": "A Bigger Splash",
+      "letterboxdUrl": "https://letterboxd.com/film/a-bigger-splash-2015/",
+      "listPosition": 0,
+      "year": "2015",
+      "originalTitle": "A Bigger Splash",
+      "rating": 3.4,
+      "streamProviders": [
+        "Prime Video Channels ARTHAUS+",
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9178b84e5684957c2856dda4f996ed3651c64516ec6fe2f5c69d518361f5cdf8._SX342_.jpg"
+    },
+    {
+      "name": "The Tale of the Princess Kaguya",
+      "letterboxdUrl": "https://letterboxd.com/film/the-tale-of-the-princess-kaguya/",
+      "listPosition": 0,
+      "year": "2013",
+      "originalTitle": "かぐや姫の物語",
+      "rating": 4.2,
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2015/04/image/jpeg/d5461bca4d53a904d225197fc7fca660.jpg"
+    },
+    {
+      "name": "The Burden",
+      "letterboxdUrl": "https://letterboxd.com/film/the-burden-2017/",
+      "listPosition": 0,
+      "year": "2017",
+      "originalTitle": "Min börda",
+      "rating": 4,
+      "streamProviders": []
+    },
+    {
+      "name": "Raw",
+      "letterboxdUrl": "https://letterboxd.com/film/raw-2016/",
+      "listPosition": 0,
+      "year": "2016",
+      "originalTitle": "Grave",
+      "rating": 3.7,
+      "streamProviders": [
+        "Prime Video Channels FRANATIC – dein Film-Channel"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/42f11dfcf10a90b2f974e4a8e8f5909ed37ed0cfd595021a6cf40c5a0ce36796._SX342_.jpg"
+    },
+    {
+      "name": "One & Two",
+      "letterboxdUrl": "https://letterboxd.com/film/one-two/",
+      "listPosition": 0,
+      "year": "2015",
+      "originalTitle": "One & Two",
+      "rating": 2.5,
+      "streamProviders": [
+        "filmfriend"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/bKQu89n66TWw18fg147mMgTmBl3.jpg"
+    },
+    {
+      "name": "Fried Green Tomatoes",
+      "letterboxdUrl": "https://letterboxd.com/film/fried-green-tomatoes/",
+      "listPosition": 0,
+      "year": "1991",
+      "originalTitle": "Fried Green Tomatoes",
+      "rating": 3.8,
+      "streamProviders": [
+        "Prime Video Channels ARTHAUS+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbb21b23be60001d78dc805d5f1417c8b110c7bb2360b7b3f25f1071453a5ff8._SX342_.jpg"
+    },
+    {
+      "name": "To Rome with Love",
+      "letterboxdUrl": "https://letterboxd.com/film/to-rome-with-love/",
+      "listPosition": 0,
+      "year": "2012",
+      "originalTitle": "To Rome with Love",
+      "rating": 2.8,
+      "streamProviders": [
+        "Netflix",
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7bbe3ea86c633f8d731e5531ee6094209ad74dc59c0baa4648a61bf1c3f9a398._SX342_.jpg"
+    },
+    {
+      "name": "Zelig",
+      "letterboxdUrl": "https://letterboxd.com/film/zelig/",
+      "listPosition": 0,
+      "year": "1983",
+      "originalTitle": "Zelig",
+      "rating": 3.8,
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/dJr936I9prVv6OoX9qaFPgmWB5t.jpg"
+    },
+    {
+      "name": "A Pigeon Sat on a Branch Reflecting on Existence",
+      "letterboxdUrl": "https://letterboxd.com/film/a-pigeon-sat-on-a-branch-reflecting-on-existence/",
+      "listPosition": 0,
+      "year": "2014",
+      "originalTitle": "En duva satt på en gren och funderade på tillvaron",
+      "rating": 3.7,
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2015/08/image/jpeg/89077ba83a5242be6f06e1761b8b9efc.jpg"
+    },
+    {
+      "name": "A Rainy Day in New York",
+      "letterboxdUrl": "https://letterboxd.com/film/a-rainy-day-in-new-york/",
+      "listPosition": 0,
+      "year": "2019",
+      "originalTitle": "A Rainy Day in New York",
+      "rating": 2.8,
+      "streamProviders": [
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e20bb8472c82ecc2d1332e358c4daa71b26db51aed6862efaf568dd0ac35f3ec._SX342_.jpg"
+    },
+    {
+      "name": "Tampopo",
+      "letterboxdUrl": "https://letterboxd.com/film/tampopo/",
+      "listPosition": 0,
+      "year": "1985",
+      "originalTitle": "タンポポ",
+      "rating": 4.2,
+      "streamProviders": [
+        "Prime Video Channels FRANATIC – dein Film-Channel"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/afaa29d3b3e89f6823a9793395e59dda8a772c321ab2ace4704b3c623db25209._SX342_.jpg"
+    },
+    {
+      "name": "The Meaning of Life",
+      "letterboxdUrl": "https://letterboxd.com/film/the-meaning-of-life-1983/",
+      "listPosition": 0,
+      "year": "1983",
+      "originalTitle": "The Meaning of Life",
+      "rating": 3.7,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/710fd7fcb51f4f5551169b2ac445768c7bbd0111f76114da9a8a5f61158cb55b._SX342_.jpg"
+    },
+    {
+      "name": "The Great Dictator",
+      "letterboxdUrl": "https://letterboxd.com/film/the-great-dictator/",
+      "listPosition": 0,
+      "year": "1940",
+      "originalTitle": "The Great Dictator",
+      "rating": 4.2,
+      "streamProviders": [
+        "Prime Video Channels ARTHAUS+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5d0f7dcf87d483275753bfb317cfff78fb417011cb64731d8dadf2692bd502ab._SX342_.jpg"
+    },
+    {
+      "name": "Life of Brian",
+      "letterboxdUrl": "https://letterboxd.com/film/life-of-brian/",
+      "listPosition": 0,
+      "year": "1979",
+      "originalTitle": "Life of Brian",
+      "rating": 3.9,
+      "streamProviders": [
+        "Netflix"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74f44fceeebed12e96bf037c2757e6166bf33dda086a3a3f0630d95af55a13bb._SX342_.jpg"
+    },
+    {
+      "name": "Captain Fantastic",
+      "letterboxdUrl": "https://letterboxd.com/film/captain-fantastic/",
+      "listPosition": 0,
+      "year": "2016",
+      "originalTitle": "Captain Fantastic",
+      "rating": 3.9,
+      "streamProviders": [
+        "freenet Video",
+        "Prime Video Channels Arthouse CNMA"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d212b8019affc8b467153889d251545db56ce93af49ccaaee8c913bcafa75c50._SX342_.jpg"
+    },
+    {
+      "name": "The Favourite",
+      "letterboxdUrl": "https://letterboxd.com/film/the-favourite/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "The Favourite",
+      "rating": 4,
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f15780d8ba356d540652bdc0206825f714ddf6d186589452a8dce4ee79502897._SX342_.jpg"
+    },
+    {
+      "name": "Dear Basketball",
+      "letterboxdUrl": "https://letterboxd.com/film/dear-basketball/",
+      "listPosition": 0,
+      "year": "2017",
+      "originalTitle": "Dear Basketball",
+      "rating": 3.5,
+      "streamProviders": []
+    },
+    {
+      "name": "Feast",
+      "letterboxdUrl": "https://letterboxd.com/film/feast-2014/",
+      "listPosition": 0,
+      "year": "2014",
+      "originalTitle": "Feast",
+      "rating": 4,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7ff6b948c0b77c74eea3dfcafd3e16b8f68fbb4faa046400c57ef1680d50a1fc._SX342_.jpg"
+    },
+    {
+      "name": "Watership Down",
+      "letterboxdUrl": "https://letterboxd.com/film/watership-down/",
+      "listPosition": 0,
+      "year": "1978",
+      "originalTitle": "Watership Down",
+      "rating": 3.8,
+      "streamProviders": [
+        "Prime Video Channels FILMLEGENDEN"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/45f9ba59fc21f0af8c68da219382b4bf9f1e9c5b80f9098e379ad8e5779bef7f._SX342_.jpg"
+    },
+    {
+      "name": "The Garden of Words",
+      "letterboxdUrl": "https://letterboxd.com/film/the-garden-of-words/",
+      "listPosition": 0,
+      "year": "2013",
+      "originalTitle": "言の葉の庭",
+      "rating": 3.4,
+      "streamProviders": [],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2022/06/image/jpeg/6bebd412551c04b9fa58bbc97b50d918.jpg"
+    },
+    {
+      "name": "Anna Karenina",
+      "letterboxdUrl": "https://letterboxd.com/film/anna-karenina-2012/",
+      "listPosition": 0,
+      "year": "2012",
+      "originalTitle": "Anna Karenina",
+      "rating": 3.5,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9d23ce47f397b88ce754fca2f8883cdd28a0f9c687ebec4dc4c72883fb68b6e4._SX342_.jpg"
+    },
+    {
+      "name": "Clouds of Sils Maria",
+      "letterboxdUrl": "https://letterboxd.com/film/clouds-of-sils-maria/",
+      "listPosition": 0,
+      "year": "2014",
+      "originalTitle": "Clouds of Sils Maria",
+      "rating": 3.6,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e374680fd3138b2220c4410ee9e26033e055941f6791304d9ecfe998ceff8ea._SX342_.jpg"
+    },
+    {
+      "name": "Still Alice",
+      "letterboxdUrl": "https://letterboxd.com/film/still-alice/",
+      "listPosition": 0,
+      "year": "2014",
+      "originalTitle": "Still Alice",
+      "rating": 3.7,
+      "streamProviders": [
+        "freenet Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6962d5f483c78e203bb43f423b31de4eaad316d547a2f76140b2f41b586a595d._SX342_.jpg"
+    },
+    {
+      "name": "At Eternity's Gate",
+      "letterboxdUrl": "https://letterboxd.com/film/at-eternitys-gate/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "At Eternity's Gate",
+      "rating": 3.7,
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky",
+        "freenet Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/848ccc414b704f1d52a2402356a11549020e9d154e8ac23c52063f162f3d036b._SX342_.jpg"
+    },
+    {
+      "name": "What's Eating Gilbert Grape",
+      "letterboxdUrl": "https://letterboxd.com/film/whats-eating-gilbert-grape/",
+      "listPosition": 0,
+      "year": "1993",
+      "originalTitle": "What's Eating Gilbert Grape",
+      "rating": 3.8,
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels Paramount+",
+        "Paramount+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e209b2541a73dbd350a920371860244df514afc6a5471de5c7bc4470d44df086._SX342_.jpg"
+    },
+    {
+      "name": "La Dolce Vita",
+      "letterboxdUrl": "https://letterboxd.com/film/la-dolce-vita/",
+      "listPosition": 0,
+      "year": "1960",
+      "originalTitle": "La Dolce Vita",
+      "rating": 4.2,
+      "streamProviders": [
+        "Prime Video Channels ARTHAUS+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/95f3df1cfe05ee9e1e777b606d351c324d02a974896355bc5c32440f410dfdce._SX342_.jpg"
+    },
+    {
+      "name": "Emma.",
+      "letterboxdUrl": "https://letterboxd.com/film/emma-2020/",
+      "listPosition": 0,
+      "year": "2020",
+      "originalTitle": "Emma.",
+      "rating": 3.7,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/16eb6ab97f4fb64c80bec361a88a07ab7f3ebb3118e93b2f888337e9b913c869._SX342_.jpg"
+    },
+    {
+      "name": "The Peanut Butter Falcon",
+      "letterboxdUrl": "https://letterboxd.com/film/the-peanut-butter-falcon/",
+      "listPosition": 0,
+      "year": "2019",
+      "originalTitle": "The Peanut Butter Falcon",
+      "rating": 3.8,
+      "streamProviders": [
+        "Netflix",
+        "Sky WOW",
+        "Sky Go\nSky",
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1d42999409fd6d37a6636f160cd513a6ddbc1437e01d78d43880e9f6d0354ffa._SX342_.jpg"
+    },
+    {
+      "name": "The Aviator",
+      "letterboxdUrl": "https://letterboxd.com/film/the-aviator/",
+      "listPosition": 0,
+      "year": "2004",
+      "originalTitle": "The Aviator",
+      "rating": 3.7,
+      "streamProviders": [
+        "Prime Video Channels FILMLEGENDEN"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d2dcb86f19905aaa5e4d80c74f7026c5c833ad481c7c588f00dbf9b69734ed8d._SX342_.jpg"
+    },
+    {
+      "name": "Les Misérables",
+      "letterboxdUrl": "https://letterboxd.com/film/les-miserables-2012/",
+      "listPosition": 0,
+      "year": "2012",
+      "originalTitle": "Les Misérables",
+      "rating": 3.5,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5f1e79514a63eea2a7d0b963b73e329f46c792953d26701d22e90117b27cc30c._SX342_.jpg"
+    },
+    {
+      "name": "Blue Is the Warmest Color",
+      "letterboxdUrl": "https://letterboxd.com/film/blue-is-the-warmest-color/",
+      "listPosition": 0,
+      "year": "2013",
+      "originalTitle": "La Vie d'Adèle - Chapitres 1 et 2",
+      "rating": 3.3,
+      "streamProviders": [
+        "Prime Video Channels Arthouse CNMA",
+        "MagentaTV",
+        "filmfriend"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8fba433fbb3647e52fb482987e61b036a2fa4fa9f913d86bc6d6c6680405e07b._SX342_.jpg"
+    },
+    {
+      "name": "Annie Hall",
+      "letterboxdUrl": "https://letterboxd.com/film/annie-hall/",
+      "listPosition": 0,
+      "year": "1977",
+      "originalTitle": "Annie Hall",
+      "rating": 4,
+      "streamProviders": [
+        "Prime Video Channels MGM+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7c8e9a53f85c16a042f948aadedfce6642b202d2d1191cad167e72844b28cd61._SX342_.jpg"
+    },
+    {
+      "name": "Boyhood",
+      "letterboxdUrl": "https://letterboxd.com/film/boyhood/",
+      "listPosition": 0,
+      "year": "2014",
+      "originalTitle": "Boyhood",
+      "rating": 3.8,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e4d1e920282648c0f0b9a29cfc5d5e0802212366f48c75efa6659804ffc86876._SX342_.jpg"
+    },
+    {
+      "name": "Bohemian Rhapsody",
+      "letterboxdUrl": "https://letterboxd.com/film/bohemian-rhapsody/",
+      "listPosition": 0,
+      "year": "2018",
+      "originalTitle": "Bohemian Rhapsody",
+      "rating": 3.5,
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e975c93d0f601d4f43fa2881ce34f953c4b738f8c33c8d150b47c983c44fa233._SX342_.jpg"
+    },
+    {
+      "name": "The Hobbit: The Battle of the Five Armies",
+      "letterboxdUrl": "https://letterboxd.com/film/the-hobbit-the-battle-of-the-five-armies/",
+      "listPosition": 0,
+      "year": "2014",
+      "originalTitle": "The Hobbit: The Battle of the Five Armies",
+      "rating": 3.1,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ac23097763f145bb322f244f0870c41fa5b4fbd4d8e613dac5b3a61e326c89a8._SX342_.jpg"
+    },
+    {
+      "name": "1917",
+      "letterboxdUrl": "https://letterboxd.com/film/1917/",
+      "listPosition": 0,
+      "year": "2019",
+      "originalTitle": "1917",
+      "rating": 4.1,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6b9230f0aee58fad00821b40f51f935fe49f5ef570ef4fbb78373711755e283e._SX342_.jpg"
+    },
+    {
+      "name": "The Lighthouse",
+      "letterboxdUrl": "https://letterboxd.com/film/the-lighthouse-2019/",
+      "listPosition": 0,
+      "year": "2019",
+      "originalTitle": "The Lighthouse",
+      "rating": 4,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b9ac4f372ec7c2ab88b0002a3a2305dc4da53a589a0fb50ce35497445cf35820._SX342_.jpg"
+    },
+    {
+      "name": "The Godfather",
+      "letterboxdUrl": "https://letterboxd.com/film/the-godfather/",
+      "listPosition": 0,
+      "year": "1972",
+      "originalTitle": "The Godfather",
+      "rating": 4.5,
+      "streamProviders": [
+        "Netflix",
+        "Prime Video Channels Paramount+",
+        "Paramount+",
+        "MagentaTV"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a1f0e4881e6fd34ba5adb177a55a49f96016f12853135ce3524ca07635e4b7e5._SX342_.jpg"
+    },
+    {
+      "name": "Melancholia",
+      "letterboxdUrl": "https://letterboxd.com/film/melancholia/",
+      "listPosition": 0,
+      "year": "2011",
+      "originalTitle": "Melancholia",
+      "rating": 3.8,
+      "streamProviders": [
+        "Prime Video Channels Arthouse CNMA",
+        "Prime Video Channels MUBI",
+        "Mubi"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5._SX342_.png"
+    }
+  ],
+  "streamProviders": [
+    {
+      "name": "ARD Plus",
+      "enabled": false
+    },
+    {
+      "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Disney+",
+      "enabled": false
+    },
+    {
+      "name": "Joyn",
+      "enabled": false
+    },
+    {
+      "name": "MagentaTV",
+      "enabled": false
+    },
+    {
+      "name": "Mubi",
+      "enabled": false
+    },
+    {
+      "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "PantaRay",
+      "enabled": false
+    },
+    {
+      "name": "Paramount+",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels ALLSTARS",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels ARD Plus",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels ARTHAUS+",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Arthouse CNMA",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels FILMLEGENDEN",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels FRANATIC – dein Film-Channel",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Filmtastic",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Home of Horror",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Kabel Eins CLASSICS",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels MGM+",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels MUBI",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Moviedome PLUS",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Paramount+",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Seven Entertainment",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels ZDF select",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels realeyz",
+      "enabled": false
+    },
+    {
+      "name": "Sky Go\nSky",
+      "enabled": false
+    },
+    {
+      "name": "Sky WOW",
+      "enabled": false
+    },
+    {
+      "name": "Sooner",
+      "enabled": false
+    },
+    {
+      "name": "alleskino",
+      "enabled": false
+    },
+    {
+      "name": "filmfriend",
+      "enabled": false
+    },
+    {
+      "name": "filmingo",
+      "enabled": false
+    },
+    {
+      "name": "freenet Video",
+      "enabled": false
+    }
+  ]
 }

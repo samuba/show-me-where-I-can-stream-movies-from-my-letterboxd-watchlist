@@ -33,9 +33,9 @@
       "originalTitle": "君の名は。",
       "rating": 4.2,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/132903290/s166/Kimi-no-Na-wa"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/350c14b3e657bc8f6633f5d8ccb89c671523a6224ec60a0f8d859a5f9871ffe9._SX342_.jpg"
     },
     {
       "name": "Princess Mononoke",
@@ -142,10 +142,9 @@
       "originalTitle": "アキラ",
       "rating": 4.2,
       "streamProviders": [
-        "Arthouse CNMA Amazon Channel",
-        "ArthouseCNMA"
+        "Prime Video Channels Arthouse CNMA"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/239819774/s166/Akira"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/069b84ccfd43d3dc603857255be2e4ce018637c3d56d8b5240af9f19ab7d2c05._SX342_.jpg"
     },
     {
       "name": "Castle in the Sky",
@@ -243,7 +242,7 @@
       "originalTitle": "ベルセルク 黄金時代篇III 降臨",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part II: Eternal",
@@ -253,7 +252,7 @@
       "originalTitle": "劇場版 魔法少女まどか☆マギカ[後編] 永遠の物語",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "The Garden of Sinners: Paradox Spiral",
@@ -262,7 +261,8 @@
       "year": "2008",
       "originalTitle": "劇場版「空の境界」第五章 矛盾螺旋",
       "rating": 4,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/yKmxwtC34IaqSfk21dvQYIKcU5V.jpg"
     },
     {
       "name": "Ghost in the Shell 2.0",
@@ -320,7 +320,7 @@
       "originalTitle": "劇場版 STEINS;GATE 負荷領域のデジャヴ",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Hotarubi no Mori e",
@@ -423,9 +423,11 @@
       "originalTitle": "魔女の宅急便",
       "rating": 4.1,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/7bad0b7a8d9150662031bfd15f964382.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/249393502/s166/Kikis-kleiner-Lieferservice-1989"
     },
     {
       "name": "Macross: Do You Remember Love?",
@@ -454,7 +456,7 @@
       "originalTitle": "君の膵臓をたべたい",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/304708954/s166/I-Want-to-Eat-Your-Pancreas"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/1s6wt6RZEoXIplMPQuOBlvYcdYp.jpg"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
@@ -557,7 +559,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/efefb42f2d259de3604f415595ffa63b52a46c01c97113af53f88d4a098c4e6a._SX342_.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -671,7 +673,7 @@
       "originalTitle": "劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "One Piece: Strong World",
@@ -874,7 +876,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15b5a1074100ae1bdc04c9390bf6dd65cdffa638bd5f901d5eb18e69bd20e9fa._SX342_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/iIHC94gkBt0Uha8TUTgHcAt6IoD.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -894,7 +896,7 @@
       "originalTitle": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685524451"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Dragon Ball Z: Wrath of the Dragon",
@@ -1070,19 +1072,19 @@
       "enabled": false
     },
     {
-      "name": "Arthouse CNMA Amazon Channel",
-      "enabled": false
-    },
-    {
-      "name": "ArthouseCNMA",
-      "enabled": false
-    },
-    {
       "name": "Mubi",
       "enabled": false
     },
     {
       "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Netflix Kids",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {

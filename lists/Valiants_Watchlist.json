@@ -2,6 +2,178 @@
   "name": "Valiants Watchlist",
   "url": "https://letterboxd.com/pillowface/watchlist/",
   "description": "",
-  "entries": [],
-  "streamProviders": []
+  "entries": [
+    {
+      "name": "The Menu",
+      "letterboxdUrl": "https://letterboxd.com/film/the-menu-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "The Menu",
+      "rating": 3.6,
+      "streamProviders": [
+        "Disney+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7a432c3899faa55f77e9a8de3b73f21e08df842aceb05c172c8730f1b43b05da._SX342_.jpg"
+    },
+    {
+      "name": "Creed III",
+      "letterboxdUrl": "https://letterboxd.com/film/creed-iii/",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "Creed III",
+      "rating": 3.7,
+      "streamProviders": []
+    },
+    {
+      "name": "Knock at the Cabin",
+      "letterboxdUrl": "https://letterboxd.com/film/knock-at-the-cabin/",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "Knock at the Cabin",
+      "rating": 3,
+      "streamProviders": []
+    },
+    {
+      "name": "Babylon",
+      "letterboxdUrl": "https://letterboxd.com/film/babylon-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Babylon",
+      "rating": 3.9,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec51a731c83306596b363f1d620e240a4d7b7f2eb43c1dd1199625ebbb888aec._SX342_.jpg"
+    },
+    {
+      "name": "Ambulance",
+      "letterboxdUrl": "https://letterboxd.com/film/ambulance-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Ambulance",
+      "rating": 3.1,
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7051f8cbd12668d8269fbe8122216b567b25d2684f65c54e5a457131173d1f84._SX342_.jpg"
+    },
+    {
+      "name": "Evil Dead",
+      "letterboxdUrl": "https://letterboxd.com/film/evil-dead/",
+      "listPosition": 0,
+      "year": "2013",
+      "originalTitle": "Evil Dead",
+      "rating": 3.4,
+      "streamProviders": [
+        "Prime Video Channels Home of Horror"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2a08dc9399fadfcdb431fa4c284656e7bc0c570be1920b6cb7bb8bc9cf75da92._SX342_.jpg"
+    },
+    {
+      "name": "Cocaine Bear",
+      "letterboxdUrl": "https://letterboxd.com/film/cocaine-bear/",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "Cocaine Bear",
+      "rating": 3,
+      "streamProviders": []
+    },
+    {
+      "name": "Puss in Boots: The Last Wish",
+      "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Puss in Boots: The Last Wish",
+      "rating": 4.3,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cdf603f8fff28a02456b7a0aa3e13704ce240a1a02459f115f69df709ab4f526._SX342_.jpg"
+    },
+    {
+      "name": "The Little Things",
+      "letterboxdUrl": "https://letterboxd.com/film/the-little-things-2021/",
+      "listPosition": 0,
+      "year": "2021",
+      "originalTitle": "The Little Things",
+      "rating": 2.6,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/250258c673711467ad340c1eba3c6730c0ab9468841481d3daea06074d9743d2._SX342_.jpg"
+    },
+    {
+      "name": "Nobody",
+      "letterboxdUrl": "https://letterboxd.com/film/nobody-2021/",
+      "listPosition": 0,
+      "year": "2021",
+      "originalTitle": "Nobody",
+      "rating": 3.5,
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
+    },
+    {
+      "name": "Don't Worry Darling",
+      "letterboxdUrl": "https://letterboxd.com/film/dont-worry-darling/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Don't Worry Darling",
+      "rating": 3,
+      "streamProviders": []
+    },
+    {
+      "name": "X",
+      "letterboxdUrl": "https://letterboxd.com/film/x-2022/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "X",
+      "rating": 3.6,
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8f7a4c788c2565bc478fc5b5fe018b5c7fa0d728911b25ae6eb7c109ae5cb1fb._SX342_.jpg"
+    },
+    {
+      "name": "Violent Night",
+      "letterboxdUrl": "https://letterboxd.com/film/violent-night/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Violent Night",
+      "rating": 3.2,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cb72c186e704ceca5da65ad96008abe0467217d668359ba4987e06ca05e36d4._SX342_.jpg"
+    },
+    {
+      "name": "Bones and All",
+      "letterboxdUrl": "https://letterboxd.com/film/bones-and-all/",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Bones and All",
+      "rating": 3.7,
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fac9f773ac6eac32922040e120a2ca3ff1b6d340d4a8ae1615a5f162a20a8915._SX342_.jpg"
+    }
+  ],
+  "streamProviders": [
+    {
+      "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Disney+",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Home of Horror",
+      "enabled": false
+    },
+    {
+      "name": "Sky Go\nSky",
+      "enabled": false
+    },
+    {
+      "name": "Sky WOW",
+      "enabled": false
+    }
+  ]
 }
