@@ -529,9 +529,10 @@
       "originalTitle": "アキラ",
       "rating": 4.2,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel",
+        "ArthouseCNMA"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/069b84ccfd43d3dc603857255be2e4ce018637c3d56d8b5240af9f19ab7d2c05._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/239819774/s166/Akira"
     },
     {
       "name": "Venus Wars",
@@ -642,10 +643,9 @@
       "originalTitle": "平成狸合戦ぽんぽこ",
       "rating": 3.6,
       "streamProviders": [
-        "Netflix",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/80232354/s166/Pom-Poko"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/09/image/jpeg/e50c094cf2f05c7744532d11e5a94f30.jpg"
     },
     {
       "name": "Whisper of the Heart",
@@ -1077,9 +1077,9 @@
       "originalTitle": "君の名は。",
       "rating": 4.2,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/350c14b3e657bc8f6633f5d8ccb89c671523a6224ec60a0f8d859a5f9871ffe9._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/132903290/s166/Kimi-no-Na-wa"
     },
     {
       "name": "In This Corner of the World",
@@ -1104,15 +1104,19 @@
       "enabled": false
     },
     {
+      "name": "Arthouse CNMA Amazon Channel",
+      "enabled": false
+    },
+    {
+      "name": "ArthouseCNMA",
+      "enabled": false
+    },
+    {
       "name": "MagentaTV",
       "enabled": false
     },
     {
       "name": "Netflix",
-      "enabled": false
-    },
-    {
-      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {
