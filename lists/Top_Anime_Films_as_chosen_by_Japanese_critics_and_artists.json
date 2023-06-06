@@ -39,7 +39,7 @@
       "originalTitle": "少年猿飛佐助",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/239007265/s166/Der-Zauberer-und-die-Banditen"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Alakazam the Great!",
@@ -159,7 +159,8 @@
       "year": "1969",
       "originalTitle": "空飛ぶゆうれい船",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/138411319/s166/Flying-Phantom-Ship"
     },
     {
       "name": "Cleopatra: Queen of Sex",
@@ -178,7 +179,7 @@
       "originalTitle": "どうぶつ宝島",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/85670795/s166/Die-Schatzinsel-1971"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/1klkcqvcZ1dn073ID4DbRSb3hTR.jpg"
     },
     {
       "name": "Belladonna of Sadness",
@@ -235,7 +236,7 @@
       "originalTitle": "龍の子太郎",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/99774585/s166/Taro-Der-Drachenjunge"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Galaxy Express 999: The Movie",
@@ -561,11 +562,9 @@
       "originalTitle": "魔女の宅急便",
       "rating": 4.1,
       "streamProviders": [
-        "Netflix",
-        "Netflix Kids",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/249393502/s166/Kikis-kleiner-Lieferservice-1989"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/7bad0b7a8d9150662031bfd15f964382.jpg"
     },
     {
       "name": "Only Yesterday",
@@ -690,9 +689,9 @@
       "originalTitle": "新世紀エヴァンゲリオン 劇場版 DEATH & REBIRTH シト新生",
       "rating": 3.7,
       "streamProviders": [
-        "Netflix"
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/yBanOpNIccxjZlH4QH7ag4ojWOI.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/243428849/s166/Neon-Genesis-Evangelion-Death-und-Rebirth"
     },
     {
       "name": "Crayon Shin-chan: Pursuit of the Balls of Darkness",
@@ -1110,10 +1109,6 @@
     },
     {
       "name": "Netflix",
-      "enabled": false
-    },
-    {
-      "name": "Netflix Kids",
       "enabled": false
     },
     {

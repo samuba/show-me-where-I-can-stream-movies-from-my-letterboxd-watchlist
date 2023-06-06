@@ -413,7 +413,7 @@
       "originalTitle": "獣兵衛忍風帖",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -423,11 +423,9 @@
       "originalTitle": "魔女の宅急便",
       "rating": 4.1,
       "streamProviders": [
-        "Netflix",
-        "Netflix Kids",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/249393502/s166/Kikis-kleiner-Lieferservice-1989"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/7bad0b7a8d9150662031bfd15f964382.jpg"
     },
     {
       "name": "Macross: Do You Remember Love?",
@@ -559,7 +557,7 @@
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/efefb42f2d259de3604f415595ffa63b52a46c01c97113af53f88d4a098c4e6a._SX342_.jpg"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/cUqC1pHXFhow0kSJbg4e77EcuxQ.jpg"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
@@ -876,7 +874,7 @@
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/iIHC94gkBt0Uha8TUTgHcAt6IoD.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15b5a1074100ae1bdc04c9390bf6dd65cdffa638bd5f901d5eb18e69bd20e9fa._SX342_.jpg"
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
@@ -1077,14 +1075,6 @@
     },
     {
       "name": "Netflix",
-      "enabled": false
-    },
-    {
-      "name": "Netflix Kids",
-      "enabled": false
-    },
-    {
-      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {
