@@ -713,7 +713,7 @@
       "listPosition": 72,
       "year": "1988",
       "originalTitle": "Hell Comes to Frogtown",
-      "rating": 2.9,
+      "rating": 2.8,
       "streamProviders": [],
       "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2013/08/image/jpeg/f98a0d14b9ebac5207f1d107fa933753.jpg"
     },
@@ -2080,7 +2080,7 @@
       "originalTitle": "Mongrel",
       "rating": 2.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/30PPaNUfYfEcaOOUJjE729PMjaA.jpg"
     },
     {
       "name": "Hot Thrills and Warm Chills",
@@ -3780,7 +3780,7 @@
       "originalTitle": "Breaking Point",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/7nY2AltbcoRMFku1kmPVQRS8CFM.jpg"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1685957913"
     },
     {
       "name": "Johnny Firecloud",
@@ -3959,9 +3959,7 @@
       "year": "1986",
       "originalTitle": "Allan Quatermain and the Lost City of Gold",
       "rating": 2.3,
-      "streamProviders": [
-        "RTL+"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://image.tmdb.org/t/p/w342/oUUUnyoLkZBNxQ4r6MTMipXi8si.jpg"
     },
     {
@@ -4035,7 +4033,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/146b040f2d24a930d021a24fc6615196931d0871898320842c8bc9281173e293._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/148c971ef33c95ac0cb548c5167c00bd7787b6f7706dad3378226f6a3e83e2c5._SX342_.jpg"
     },
     {
       "name": ".com for Murder",
@@ -4165,7 +4163,7 @@
       "listPosition": 419,
       "year": "2009",
       "originalTitle": "After Last Season",
-      "rating": 1.6,
+      "rating": 1.5,
       "streamProviders": []
     },
     {
@@ -4655,7 +4653,7 @@
       "listPosition": 470,
       "year": "1964",
       "originalTitle": "Il mostro dell'opera",
-      "rating": 3.1,
+      "rating": 3,
       "streamProviders": []
     },
     {
@@ -5758,10 +5756,6 @@
     },
     {
       "name": "Prime Video Channels superfresh",
-      "enabled": false
-    },
-    {
-      "name": "RTL+",
       "enabled": false
     },
     {
