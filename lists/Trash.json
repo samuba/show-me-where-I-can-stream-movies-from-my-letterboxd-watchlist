@@ -202,7 +202,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f6d8657d7beea495d6d12af408e8a8b3cc9922c2ffc63ca3e34c2e892d3e1535._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e19f87fa3b7d2251e04fa2899d9518c3bfcae5149508fb023c8e0d925ea65d8e._SX342_.jpg"
     },
     {
       "name": "Hack-O-Lantern",
@@ -1279,7 +1279,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d785df809bc04232406e56572639d5a4a0bafcda48a66f361351ac38fbf059d2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0861fae923b3e1ec28b1b4082ebcb8c93d13e1106cc0283dc90f982c019adf0a._SX342_.jpg"
     },
     {
       "name": "She Gods of Shark Reef",
@@ -2211,7 +2211,7 @@
       "listPosition": 224,
       "year": "1992",
       "originalTitle": "Revenge on the Highway",
-      "rating": 3.1,
+      "rating": 3.2,
       "streamProviders": []
     },
     {
@@ -3118,9 +3118,7 @@
       "year": "1986",
       "originalTitle": "Vendetta dal futuro",
       "rating": 2.9,
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/37744b66ab2e71f860d982a2c403a8ab149d553e9c4cced620ff76230a215907._SX342_.jpg"
     },
     {
@@ -3647,7 +3645,7 @@
       "originalTitle": "Gwendoline",
       "rating": 3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1686150431"
+      "imageUrl": "https://image.tmdb.org/t/p/w342/1sXZsubDopPJgFgMrxezdq0zRBR.jpg"
     },
     {
       "name": "Nemesis",
@@ -4079,7 +4077,7 @@
       "listPosition": 411,
       "year": "1988",
       "originalTitle": "Iced",
-      "rating": 2.6,
+      "rating": 2.5,
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
@@ -4633,9 +4631,10 @@
       "originalTitle": "Skin Trade",
       "rating": 2.7,
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d5398e4950776aaaaab04780aee9ee03d0338e9289cd0d822a87a37b7979711b._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85c724b23706193e761578290e570a26f828f40b445ce30cfcdeb26a447dfc6e._SX342_.jpg"
     },
     {
       "name": "Good Guys Wear Black",
@@ -5527,7 +5526,7 @@
         "Prime Video Channels Netzkino Select",
         "Netzkino"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/de00899867544b4785357fd899755ca42b082afb65d235fbcfccf062368686c2._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/029186ac045a597c8ac2448334da6b4a7dd26c339219c9f3443701ae58802be9._SX342_.jpg"
     },
     {
       "name": "The Plumber",
