@@ -19,8 +19,7 @@
       "year": "1958",
       "originalTitle": "白蛇伝",
       "rating": 3.1,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/jDNpVVAqdMcFfG8X6BX3azM71yo.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Sparrow in the Pumpkin",
@@ -39,7 +38,7 @@
       "originalTitle": "少年猿飛佐助",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/239007265/s166/Der-Zauberer-und-die-Banditen"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1686300887"
     },
     {
       "name": "Alakazam the Great!",
@@ -159,7 +158,8 @@
       "year": "1969",
       "originalTitle": "空飛ぶゆうれい船",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/138411319/s166/Flying-Phantom-Ship"
     },
     {
       "name": "Cleopatra: Queen of Sex",
@@ -530,9 +530,10 @@
       "rating": 4.2,
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
+        "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/069b84ccfd43d3dc603857255be2e4ce018637c3d56d8b5240af9f19ab7d2c05._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5ef9282fa792fdc684cf323702be5a8c96e8d6d94df881f830104c7c4e56a3da._SX342_.jpg"
     },
     {
       "name": "Venus Wars",
@@ -585,8 +586,7 @@
       "year": "1991",
       "originalTitle": "老人Z",
       "rating": 3.5,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/2A2uERisu1ZDeNQZEAdUyswq1Md.jpg"
+      "streamProviders": []
     },
     {
       "name": "The Heroic Legend of Arslan",
@@ -616,8 +616,7 @@
       "year": "1993",
       "originalTitle": "機動警察パトレイバー 2 the Movie",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/5LNUJJaKAaM1Jk3FyphZyTbZyDO.jpg"
+      "streamProviders": []
     },
     {
       "name": "Tokyo Babylon",
@@ -643,9 +642,10 @@
       "originalTitle": "平成狸合戦ぽんぽこ",
       "rating": 3.6,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/09/image/jpeg/e50c094cf2f05c7744532d11e5a94f30.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/80232354/s166/Pom-Poko"
     },
     {
       "name": "Whisper of the Heart",
@@ -904,7 +904,7 @@
       "originalTitle": "イノセンス",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/03/image/jpeg/24bd3622a062ed6c8c20423f869fae30.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/205642233/s166/Ghost-in-the-Shell-2-Innocence"
     },
     {
       "name": "Steamboy",
@@ -925,8 +925,7 @@
       "year": "2004",
       "originalTitle": "Mind Game",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2009/06/image/jpeg/6bf6e2cb594db8836b5d10f6a47d0f57.jpg"
+      "streamProviders": []
     },
     {
       "name": "Howl's Moving Castle",
@@ -978,7 +977,7 @@
       "originalTitle": "鉄コン筋クリート",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/06/image/jpeg/9014f4fe9dcccb8f049dacd51e5c9769.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/112412104/s166/Tekkonkinkreet"
     },
     {
       "name": "Summer Days with Coo",
@@ -1089,9 +1088,9 @@
       "originalTitle": "この世界の片隅に",
       "rating": 4,
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Arthouse CNMA Amazon Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8e17abf5dfe2d3c7e1088848a300554ba2c10fbfe87a247e188fbbb402042519._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/102628668/s166/konoShi-Jie-noPian-Yu-ni"
     }
   ],
   "streamProviders": [
@@ -1101,6 +1100,10 @@
     },
     {
       "name": "Amazon Prime Video",
+      "enabled": false
+    },
+    {
+      "name": "Arthouse CNMA Amazon Channel",
       "enabled": false
     },
     {
@@ -1116,6 +1119,10 @@
       "enabled": false
     },
     {
+      "name": "Netflix basic with Ads",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels ARD Plus",
       "enabled": false
     },
@@ -1125,6 +1132,10 @@
     },
     {
       "name": "Prime Video Channels FlimmerkisteTV",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels MUBI",
       "enabled": false
     },
     {

@@ -78,7 +78,7 @@
       "originalTitle": "Midsommar",
       "rating": 3.9,
       "streamProviders": [
-        "Prime Video Channels Home of Horror"
+        "Amazon Prime Video"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/12767bb6aedaf3d44994f34a5a04fa91a319831890fe964e2045a09146ef0a0a._SX342_.jpg"
     },
@@ -188,7 +188,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/021f349ef7a884dbded6a00bb3a6942a42c23abc5d20a442294b6cfddf821dec._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7cc2ae23a77cdec47b7623843f741eb82052d07cdaeadaee24f2bec03b4310c9._SX342_.jpg"
     },
     {
       "name": "TÁR",
@@ -330,7 +330,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94dbe27a79d9157f0d76e51d079e4dbe04c9d6b451776fa9b9f2d9798b3e2639._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fe63f7d904d707ddd8f619e3108f00279c880549f1b571c47e473be93c880c35._SX342_.jpg"
     },
     {
       "name": "Primer",
@@ -658,7 +658,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/138a0a0a7f723093a0965cf5a2d1795f7bdcda6a111a6abf6244baab5afe5009._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/de4a403467bdd700950ba6c62a01ebbe202f5b8c992e603dc8322a7aeef8c824._SX342_.jpg"
     },
     {
       "name": "Only Lovers Left Alive",
@@ -749,9 +749,7 @@
       "year": "2020",
       "originalTitle": "Never Rarely Sometimes Always",
       "rating": 3.9,
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e72012776b32bb7c7edc3e548e5fbb18b4cfaeac0bb2e7c0e045683711fe9eff._SX342_.jpg"
     },
     {
@@ -765,7 +763,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15e628f33da47229fe0d5e6e5e68b6007c86fbf8a1a2a1e08d7c49cb946408f8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a807e590b47174f4a3f9991a58014ddcd0942e8880041044aeedffd4d72e2d51._SX342_.jpg"
     },
     {
       "name": "Wiener-Dog",
@@ -869,7 +867,7 @@
         "ARD Plus",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/db21ea1c0e12952cdf367d2b60ae2ad7c04d47c6d79ffe317ffeb5d89a9bf546._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6250ee3b7b5f56f35dd748e64f49001df13d4619be0cfc3fbe278bcf8331cc56._SX342_.jpg"
     },
     {
       "name": "Inglourious Basterds",
@@ -1008,8 +1006,10 @@
       "year": "2015",
       "originalTitle": "One & Two",
       "rating": 2.5,
-      "streamProviders": [],
-      "imageUrl": "https://image.tmdb.org/t/p/w342/dc70oCMrHE8hE9EOGdYZ7GjPZfn.jpg"
+      "streamProviders": [
+        "filmfriend"
+      ],
+      "imageUrl": "https://image.tmdb.org/t/p/w342/bKQu89n66TWw18fg147mMgTmBl3.jpg"
     },
     {
       "name": "Fried Green Tomatoes",
@@ -1345,7 +1345,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/732744bcbc541ab937ce5a7fbaab5553f0de37ab31e6cc6273278be05524b4e0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e975c93d0f601d4f43fa2881ce34f953c4b738f8c33c8d150b47c983c44fa233._SX342_.jpg"
     },
     {
       "name": "The Hobbit: The Battle of the Five Armies",
@@ -1360,7 +1360,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ac23097763f145bb322f244f0870c41fa5b4fbd4d8e613dac5b3a61e326c89a8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec41f6f333aa35d01e1a418e4ee8e2a40adac31aece32607a9b5cae401260991._SX342_.jpg"
     },
     {
       "name": "1917",
@@ -1409,7 +1409,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5._SX342_.png"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_.jpg"
     }
   ],
   "streamProviders": [
@@ -1475,10 +1475,6 @@
     },
     {
       "name": "Prime Video Channels Filmtastic",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Home of Horror",
       "enabled": false
     },
     {
