@@ -842,7 +842,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec5d808c351b579d950af8856f0cec36fc55603f9ef97b261a5eb64307eb53c4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/07ea573ba3553d3d1db5fd8ccdf1888a24782be01005bdd01d532c863e4bd80c._SX342_.jpg"
     },
     {
       "name": "Love Camp 7",
@@ -1383,7 +1383,9 @@
       "originalTitle": "The Boy Next Door",
       "rating": 1.9,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Sky WOW",
+        "Sky Go\nSky"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e8de598591e1750da38c829ac48622139ea7a42d4ed6d3e72dea4b6fc5284351._SX342_.jpg"
     },
@@ -1415,6 +1417,7 @@
       "originalTitle": "Barbarella",
       "rating": 3.2,
       "streamProviders": [
+        "Prime Video Channels Paramount+",
         "Paramount+"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/53a29c803e11554948d7daf4dbc709ae699f19d8837a8f05092efcf4ffa3e96f._SX342_.jpg"
@@ -1870,7 +1873,7 @@
       "streamProviders": [
         "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5735438a7f217751de4b4fb508110b7279da4af2d71f191abe5890c39b7e4fd6._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4ff748e85ab8f730068800d83e597da43985608e8dda7bdcb18a7b53f2d265ee._SX342_.jpg"
     },
     {
       "name": "Just Before Dawn",
@@ -2141,7 +2144,7 @@
         "Paramount+",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6d8ad2831b3a6e43ec89b7d62cc4f42f43758032f68a58517bd034043e0b1825._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9fa610f1ee91e93c7cbe511c6d02e7f968625415170b121c8ff255156820f0fc._SX342_.jpg"
     },
     {
       "name": "Q",
@@ -2159,7 +2162,7 @@
       "listPosition": 211,
       "year": "1997",
       "originalTitle": "Anaconda",
-      "rating": 2.3,
+      "rating": 2.4,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6665f36530d08b565c0da3c20e61ace6e3b15af75079c9d327a245f8b0307d29._SX342_.jpg"
     },

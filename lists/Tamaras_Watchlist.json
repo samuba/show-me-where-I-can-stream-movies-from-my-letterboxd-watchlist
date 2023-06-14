@@ -188,7 +188,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7cc2ae23a77cdec47b7623843f741eb82052d07cdaeadaee24f2bec03b4310c9._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/021f349ef7a884dbded6a00bb3a6942a42c23abc5d20a442294b6cfddf821dec._SX342_.jpg"
     },
     {
       "name": "TÁR",
@@ -224,8 +224,7 @@
       "originalTitle": "Aftersun",
       "rating": 4.3,
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b376a58197d599f20e341cf2a497e74e044af927e0b2aca74c1ae4cc13820ccf._SX342_.jpg"
     },
@@ -435,7 +434,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_.jpg"
     },
     {
       "name": "Man on the Moon",
@@ -568,7 +567,7 @@
       "originalTitle": "Arrival",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/580a2b756e8dadec0d60b0e1a5fa0bf8756bb88269a5a6d66253cf1123f6a12a._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/467536cf464395ae10c1f70505bee90af4a16d7f6d2dee872366a53d8f69e554._SX342_.jpg"
     },
     {
       "name": "Hanna's Journey",
@@ -751,7 +750,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a807e590b47174f4a3f9991a58014ddcd0942e8880041044aeedffd4d72e2d51._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15e628f33da47229fe0d5e6e5e68b6007c86fbf8a1a2a1e08d7c49cb946408f8._SX342_.jpg"
     },
     {
       "name": "Wiener-Dog",
@@ -867,7 +866,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_.jpg"
     },
     {
       "name": "The Hunt",
@@ -994,7 +993,9 @@
       "year": "2015",
       "originalTitle": "One & Two",
       "rating": 2.5,
-      "streamProviders": [],
+      "streamProviders": [
+        "filmfriend"
+      ],
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1686578465"
     },
     {
@@ -1226,7 +1227,7 @@
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e209b2541a73dbd350a920371860244df514afc6a5471de5c7bc4470d44df086._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/1f71f3d6ee90c85e082c437d3367dc0611dbcf563e06ee6188d42b3453f51986._SX342_.jpg"
     },
     {
       "name": "La Dolce Vita",
@@ -1331,7 +1332,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/732744bcbc541ab937ce5a7fbaab5553f0de37ab31e6cc6273278be05524b4e0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e975c93d0f601d4f43fa2881ce34f953c4b738f8c33c8d150b47c983c44fa233._SX342_.jpg"
     },
     {
       "name": "The Hobbit: The Battle of the Five Armies",
@@ -1346,7 +1347,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ac23097763f145bb322f244f0870c41fa5b4fbd4d8e613dac5b3a61e326c89a8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d3cbfcbaf6ce4db01c4ef96be6e784efc3190ec25d00d8974b460401efcae0aa._SX342_.jpg"
     },
     {
       "name": "1917",
@@ -1395,7 +1396,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5._SX342_.png"
     }
   ],
   "streamProviders": [
