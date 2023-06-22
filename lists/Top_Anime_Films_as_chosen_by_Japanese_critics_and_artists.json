@@ -19,7 +19,8 @@
       "year": "1958",
       "originalTitle": "白蛇伝",
       "rating": 3.3,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "The Sparrow in the Pumpkin",
@@ -38,7 +39,7 @@
       "originalTitle": "少年猿飛佐助",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Alakazam the Great!",
@@ -48,7 +49,7 @@
       "originalTitle": "西遊記",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "The Orphan Brother",
@@ -121,7 +122,7 @@
       "originalTitle": "アンデルセン物語",
       "rating": 0,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Horus: Prince of the Sun",
@@ -149,7 +150,7 @@
       "originalTitle": "千夜一夜物語",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.justwatch.com/images/poster/49604801/s166/A-Thousand-and-One-Nights-1969"
     },
     {
       "name": "Flying Phantom Ship",
@@ -177,7 +178,7 @@
       "originalTitle": "どうぶつ宝島",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.justwatch.com/images/poster/85670795/s166/Die-Schatzinsel-1971"
     },
     {
       "name": "Belladonna of Sadness",
@@ -206,7 +207,7 @@
       "originalTitle": "さらば宇宙戦艦ヤマト 愛の戦士たち",
       "rating": 0,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Lupin the Third: The Mystery of Mamo",
@@ -234,7 +235,7 @@
       "originalTitle": "龍の子太郎",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/99774585/s166/Taro-Der-Drachenjunge"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Galaxy Express 999: The Movie",
@@ -274,6 +275,15 @@
       "streamProviders": []
     },
     {
+      "name": "Toward the Terra",
+      "letterboxdUrl": "https://letterboxd.com/film/toward-the-terra/",
+      "listPosition": 0,
+      "year": "1980",
+      "originalTitle": "地球へ…",
+      "rating": 3.3,
+      "streamProviders": []
+    },
+    {
       "name": "Mobile Suit Gundam I",
       "letterboxdUrl": "https://letterboxd.com/film/mobile-suit-gundam-i/",
       "listPosition": 0,
@@ -281,7 +291,7 @@
       "originalTitle": "機動戦士ガンダム",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Chie the Brat",
@@ -300,7 +310,7 @@
       "originalTitle": "機動戦士ガンダムII 哀・戦士編",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Tomorrow's Joe 2",
@@ -328,7 +338,7 @@
       "originalTitle": "セロ弾きのゴーシュ",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Mobile Suit Gundam III: Encounters in Space",
@@ -338,7 +348,7 @@
       "originalTitle": "機動戦士ガンダム III めぐりあい宇宙編",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Drifting Clouds",
@@ -347,6 +357,15 @@
       "year": "1982",
       "originalTitle": "浮浪雲",
       "rating": 0,
+      "streamProviders": []
+    },
+    {
+      "name": "Space Adventure Cobra: The Movie",
+      "letterboxdUrl": "https://letterboxd.com/film/space-adventure-cobra-the-movie/",
+      "listPosition": 0,
+      "year": "1982",
+      "originalTitle": "SPACE ADVENTURE コブラ",
+      "rating": 3.5,
       "streamProviders": []
     },
     {
@@ -393,7 +412,7 @@
       "originalTitle": "ゴルゴ13",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Urusei Yatsura: Beautiful Dreamer",
@@ -402,6 +421,15 @@
       "year": "1984",
       "originalTitle": "うる星やつら2 ビューティフル・ドリーマー",
       "rating": 3.9,
+      "streamProviders": []
+    },
+    {
+      "name": "Doraemon: Nobita's Great Adventure in the World of Magic",
+      "letterboxdUrl": "https://letterboxd.com/film/doraemon-nobitas-great-adventure-in-the-world-of-magic/",
+      "listPosition": 0,
+      "year": "1984",
+      "originalTitle": "映画ドラえもん のび太の魔界大冒険",
+      "rating": 0,
       "streamProviders": []
     },
     {
@@ -414,7 +442,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Macross: Do You Remember Love?",
@@ -433,7 +461,25 @@
       "originalTitle": "SF新世紀 レンズマン",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+    },
+    {
+      "name": "The Dagger of Kamui",
+      "letterboxdUrl": "https://letterboxd.com/film/the-dagger-of-kamui/",
+      "listPosition": 0,
+      "year": "1985",
+      "originalTitle": "カムイの剣",
+      "rating": 3.5,
+      "streamProviders": []
+    },
+    {
+      "name": "Megazone 23",
+      "letterboxdUrl": "https://letterboxd.com/film/megazone-23/",
+      "listPosition": 0,
+      "year": "1985",
+      "originalTitle": "Megazone 23",
+      "rating": 3.4,
+      "streamProviders": []
     },
     {
       "name": "Night on the Galactic Railroad",
@@ -442,8 +488,10 @@
       "year": "1985",
       "originalTitle": "銀河鉄道の夜",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "streamProviders": [
+        "CONtv"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/257937797/s166/Night-On-The-Galactic-Railroad"
     },
     {
       "name": "Angel's Egg",
@@ -496,7 +544,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Grave of the Fireflies",
@@ -542,7 +590,7 @@
       "originalTitle": "ヴイナス戦記",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Patlabor: The Movie",
@@ -552,7 +600,7 @@
       "originalTitle": "機動警察パトレイバー 劇場版",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Kiki's Delivery Service",
@@ -574,9 +622,11 @@
       "originalTitle": "おもひでぽろぽろ",
       "rating": 3.9,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/09/image/jpeg/4045581e6280a679b07e193b96eb6c35.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/250250135/s166/Traenen-der-Erinnerung-Only-Yesterday"
     },
     {
       "name": "Roujin Z",
@@ -585,8 +635,7 @@
       "year": "1991",
       "originalTitle": "老人Z",
       "rating": 3.5,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "streamProviders": []
     },
     {
       "name": "The Heroic Legend of Arslan",
@@ -617,7 +666,7 @@
       "originalTitle": "機動警察パトレイバー 2 the Movie",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Tokyo Babylon",
@@ -643,9 +692,10 @@
       "originalTitle": "平成狸合戦ぽんぽこ",
       "rating": 3.6,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/09/image/jpeg/e50c094cf2f05c7744532d11e5a94f30.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/80232354/s166/Pom-Poko"
     },
     {
       "name": "Whisper of the Heart",
@@ -691,7 +741,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Crayon Shin-chan: Pursuit of the Balls of Darkness",
@@ -724,7 +774,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Perfect Blue",
@@ -773,8 +823,11 @@
       "year": "1999",
       "originalTitle": "人狼 JIN-ROH",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2019/11/image/jpeg/d5504b10fd3d585d2aecf01ad3d2383a.jpg"
+      "streamProviders": [
+        "CONtv",
+        "Crunchyroll"
+      ],
+      "imageUrl": "https://www.justwatch.com/images/poster/191774289/s166/Jin-Roh-Die-Wolfsbrigade"
     },
     {
       "name": "Digimon Adventure: Our War Game",
@@ -821,9 +874,11 @@
       "originalTitle": "千と千尋の神隠し",
       "rating": 4.5,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/ebfafdbaaeaef468f0958140d64accfc.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/302517125/s166/Chihiros-Reise-ins-Zauberland"
     },
     {
       "name": "Princess Arete",
@@ -853,7 +908,7 @@
       "originalTitle": "クレヨンしんちゃん 嵐を呼ぶ アッパレ！戦国大合戦",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "The Cat Returns",
@@ -863,9 +918,11 @@
       "originalTitle": "猫の恩返し",
       "rating": 3.5,
       "streamProviders": [
-        "Netflix"
+        "Netflix",
+        "Netflix Kids",
+        "Netflix basic with Ads"
       ],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/04/image/jpeg/67576053d2b379652ff4ef0e42cfadd6.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/261308135/s166/Das-Koenigreich-der-Katzen"
     },
     {
       "name": "Nasu: Summer in Andalusia",
@@ -958,7 +1015,7 @@
       "originalTitle": "時をかける少女",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Paprika",
@@ -988,7 +1045,7 @@
       "originalTitle": "河童のクゥと夏休み",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Ponyo",
@@ -1104,6 +1161,14 @@
       "enabled": false
     },
     {
+      "name": "CONtv",
+      "enabled": false
+    },
+    {
+      "name": "Crunchyroll",
+      "enabled": false
+    },
+    {
       "name": "MagentaTV",
       "enabled": false
     },
@@ -1113,6 +1178,14 @@
     },
     {
       "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Netflix Kids",
+      "enabled": false
+    },
+    {
+      "name": "Netflix basic with Ads",
       "enabled": false
     },
     {

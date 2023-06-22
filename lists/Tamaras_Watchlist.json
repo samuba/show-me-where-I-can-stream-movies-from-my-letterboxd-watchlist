@@ -4,6 +4,16 @@
   "description": "",
   "entries": [
     {
+      "name": "The Fisher King",
+      "letterboxdUrl": "https://letterboxd.com/film/the-fisher-king/",
+      "listPosition": 0,
+      "year": "1991",
+      "originalTitle": "The Fisher King",
+      "rating": 3.8,
+      "streamProviders": [],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/01ae309f3455961fb0ebec0b29fb2ad868cb76fcd9ac3a05a155c676a3978b45._SX342_.jpg"
+    },
+    {
       "name": "Coherence",
       "letterboxdUrl": "https://letterboxd.com/film/coherence/",
       "listPosition": 0,
@@ -155,7 +165,7 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "The Whale",
@@ -165,7 +175,7 @@
       "originalTitle": "The Whale",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "One Last Evening",
@@ -175,7 +185,7 @@
       "originalTitle": "Letzter Abend",
       "rating": 0,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Climax",
@@ -198,7 +208,7 @@
       "originalTitle": "TÁR",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "The Talented Mr. Ripley",
@@ -432,7 +442,7 @@
         "Sky WOW",
         "Sky Go\nSky"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/298e094e6f9c10e4a6820a9e1ef856107cec8a5287a3c2a1c598635064a714b0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/28b00ce89b0b179d761321b9709beb47fbf1e87af550c7609a9a4254aa81b6f5._SX342_.jpg"
     },
     {
       "name": "Man on the Moon",
@@ -481,7 +491,7 @@
         "filmfriend",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d43f6f63099709b20a5dd15b6d0ee3c535fc114d2d3ecc960b45ce75ad1b277f._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c4af10b83071e3edd294a7a62a78327ad883a74a457d8fa4b9a3e5b295f6c303._SX342_.jpg"
     },
     {
       "name": "Love Steaks",
@@ -499,7 +509,7 @@
         "alleskino",
         "filmfriend"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b415340b0e80648262bff47c70464729eab2bc8783581d265cb17c34ecdb6c38._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d996ba635d500ed0e1331493a2dd3c4e3b33a889517381fd05a2eaaf57c206c9._SX342_.jpg"
     },
     {
       "name": "The Worst Person in the World",
@@ -533,7 +543,7 @@
       "originalTitle": "Mot Naturen",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Brick",
@@ -676,10 +686,11 @@
       "originalTitle": "It's a Wonderful Life",
       "rating": 4.4,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/90be6986121eb62b142e7e4defe83382d06956a06ed7211c175b1d21c11345da._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b9961a04931d9981c8f27f41d2da9c1e16615a52852189b979da3ee82b725da._SX342_.png"
     },
     {
       "name": "Punch-Drunk Love",
@@ -735,7 +746,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/15e628f33da47229fe0d5e6e5e68b6007c86fbf8a1a2a1e08d7c49cb946408f8._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a807e590b47174f4a3f9991a58014ddcd0942e8880041044aeedffd4d72e2d51._SX342_.jpg"
     },
     {
       "name": "Wiener-Dog",
@@ -782,6 +793,7 @@
       "originalTitle": "Radio Heimat",
       "rating": 3.3,
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
@@ -795,7 +807,7 @@
       "originalTitle": "Shirley",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "SLC Punk",
@@ -854,7 +866,7 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5ee3cd4c5dd5622543d13c9521fb11d63e9bcc43764fe15d36885301ce189ef._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d295a2c42c272ab4a268873916f4cafb75d742db0e1fbe86de8635cb461f0943._SX342_.jpg"
     },
     {
       "name": "The Hunt",
@@ -867,7 +879,7 @@
         "Amazon Prime Video",
         "MagentaTV"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/32186df8a2ce4400655ea968204bfba293a0af8e10e414ee27a27b33ecca61c4._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/69fa0d71be6d5f644ed23f030e131b12f54f0aecafa951fce7397286c76e16f7._SX342_.jpg"
     },
     {
       "name": "Nerve",
@@ -924,7 +936,7 @@
       "originalTitle": "Die Deutschen",
       "rating": 0,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "A Bigger Splash",
@@ -982,7 +994,7 @@
       "streamProviders": [
         "filmfriend"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "Fried Green Tomatoes",
@@ -1017,7 +1029,7 @@
       "originalTitle": "Zelig",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687246134"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
     },
     {
       "name": "A Pigeon Sat on a Branch Reflecting on Existence",
@@ -1318,7 +1330,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/732744bcbc541ab937ce5a7fbaab5553f0de37ab31e6cc6273278be05524b4e0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e975c93d0f601d4f43fa2881ce34f953c4b738f8c33c8d150b47c983c44fa233._SX342_.jpg"
     },
     {
       "name": "The Hobbit: The Battle of the Five Armies",
@@ -1333,7 +1345,7 @@
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b96692fe896921833d830519595e0ba6301cccd450e859a631549b274ff8c68b._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d3cbfcbaf6ce4db01c4ef96be6e784efc3190ec25d00d8974b460401efcae0aa._SX342_.jpg"
     },
     {
       "name": "1917",
@@ -1351,7 +1363,7 @@
       "listPosition": 0,
       "year": "2019",
       "originalTitle": "The Lighthouse",
-      "rating": 4,
+      "rating": 4.1,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b9ac4f372ec7c2ab88b0002a3a2305dc4da53a589a0fb50ce35497445cf35820._SX342_.jpg"
     },
@@ -1382,7 +1394,7 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/185df15b168b5f10cef4b29b8b26e2acef12eb13b69ce0b1eaa79e91b633a29e._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7745d1b780e2e5a5e5e9b57004c6f8456e3dfe3db3909b7c2c16f28a21be4ab5._SX342_.png"
     }
   ],
   "streamProviders": [
