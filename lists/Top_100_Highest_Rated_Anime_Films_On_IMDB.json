@@ -5,21 +5,19 @@
   "entries": [
     {
       "name": "Spirited Away",
-      "letterboxdUrl": "https://letterboxd.com/film/spirited-away/",
+      "letterboxdUrl": "https://letterboxd.com/film/spirited-away",
       "listPosition": 1,
       "year": "2001",
       "originalTitle": "千と千尋の神隠し",
       "rating": 4.5,
       "streamProviders": [
-        "Netflix",
-        "Netflix Kids",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/302517125/s166/Chihiros-Reise-ins-Zauberland"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/01/image/jpeg/ebfafdbaaeaef468f0958140d64accfc.jpg"
     },
     {
       "name": "Grave of the Fireflies",
-      "letterboxdUrl": "https://letterboxd.com/film/grave-of-the-fireflies/",
+      "letterboxdUrl": "https://letterboxd.com/film/grave-of-the-fireflies",
       "listPosition": 2,
       "year": "1988",
       "originalTitle": "火垂るの墓",
@@ -29,7 +27,7 @@
     },
     {
       "name": "Your Name.",
-      "letterboxdUrl": "https://letterboxd.com/film/your-name/",
+      "letterboxdUrl": "https://letterboxd.com/film/your-name",
       "listPosition": 3,
       "year": "2016",
       "originalTitle": "君の名は。",
@@ -41,7 +39,7 @@
     },
     {
       "name": "Princess Mononoke",
-      "letterboxdUrl": "https://letterboxd.com/film/princess-mononoke/",
+      "letterboxdUrl": "https://letterboxd.com/film/princess-mononoke",
       "listPosition": 4,
       "year": "1997",
       "originalTitle": "もののけ姫",
@@ -53,27 +51,27 @@
     },
     {
       "name": "A Silent Voice",
-      "letterboxdUrl": "https://letterboxd.com/film/a-silent-voice/",
+      "letterboxdUrl": "https://letterboxd.com/film/a-silent-voice",
       "listPosition": 5,
       "year": "2016",
       "originalTitle": "聲の形",
-      "rating": 4.1,
+      "rating": 4.2,
       "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f20a5cb04ff2b588b32d6860df05296d7585333d3f5931d4cf168719d01226a9._SX342_.jpg"
     },
     {
       "name": "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya",
-      "letterboxdUrl": "https://letterboxd.com/film/gintama-the-movie-the-final-chapter-be-forever-yorozuya/",
+      "letterboxdUrl": "https://letterboxd.com/film/gintama-the-movie-the-final-chapter-be-forever-yorozuya",
       "listPosition": 6,
       "year": "2013",
       "originalTitle": "劇場版 銀魂 完結篇 万事屋よ永遠なれ",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/3/p13654441_v_v8_aq_2017-01-05T14_01_00.jpg&out=jpeg"
+      "imageUrl": "https://www.justwatch.com/images/poster/150673631/s166/Gintama-the-Movie-The-Final-Chapter-Be-Forever-Yorozuya"
     },
     {
       "name": "Magnetic Rose",
-      "letterboxdUrl": "https://letterboxd.com/film/magnetic-rose/",
+      "letterboxdUrl": "https://letterboxd.com/film/magnetic-rose",
       "listPosition": 7,
       "year": "1995",
       "originalTitle": "Kanojo no omoide",
@@ -82,7 +80,7 @@
     },
     {
       "name": "Howl's Moving Castle",
-      "letterboxdUrl": "https://letterboxd.com/film/howls-moving-castle/",
+      "letterboxdUrl": "https://letterboxd.com/film/howls-moving-castle",
       "listPosition": 8,
       "year": "2004",
       "originalTitle": "ハウルの動く城",
@@ -94,7 +92,7 @@
     },
     {
       "name": "Neon Genesis Evangelion: The End of Evangelion",
-      "letterboxdUrl": "https://letterboxd.com/film/neon-genesis-evangelion-the-end-of-evangelion/",
+      "letterboxdUrl": "https://letterboxd.com/film/neon-genesis-evangelion-the-end-of-evangelion",
       "listPosition": 9,
       "year": "1997",
       "originalTitle": "新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION",
@@ -102,11 +100,11 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "My Neighbor Totoro",
-      "letterboxdUrl": "https://letterboxd.com/film/my-neighbor-totoro/",
+      "letterboxdUrl": "https://letterboxd.com/film/my-neighbor-totoro",
       "listPosition": 10,
       "year": "1988",
       "originalTitle": "となりのトトロ",
@@ -118,7 +116,7 @@
     },
     {
       "name": "Wolf Children",
-      "letterboxdUrl": "https://letterboxd.com/film/wolf-children/",
+      "letterboxdUrl": "https://letterboxd.com/film/wolf-children",
       "listPosition": 11,
       "year": "2012",
       "originalTitle": "おおかみこどもの雨と雪",
@@ -128,17 +126,17 @@
     },
     {
       "name": "The Disappearance of Haruhi Suzumiya",
-      "letterboxdUrl": "https://letterboxd.com/film/the-disappearance-of-haruhi-suzumiya/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-disappearance-of-haruhi-suzumiya",
       "listPosition": 12,
       "year": "2010",
       "originalTitle": "涼宮ハルヒの消失",
       "rating": 4.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Akira",
-      "letterboxdUrl": "https://letterboxd.com/film/akira/",
+      "letterboxdUrl": "https://letterboxd.com/film/akira",
       "listPosition": 13,
       "year": "1988",
       "originalTitle": "アキラ",
@@ -148,11 +146,11 @@
         "Prime Video Channels MUBI",
         "Mubi"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/069b84ccfd43d3dc603857255be2e4ce018637c3d56d8b5240af9f19ab7d2c05._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5ef9282fa792fdc684cf323702be5a8c96e8d6d94df881f830104c7c4e56a3da._SX342_.jpg"
     },
     {
       "name": "Castle in the Sky",
-      "letterboxdUrl": "https://letterboxd.com/film/castle-in-the-sky/",
+      "letterboxdUrl": "https://letterboxd.com/film/castle-in-the-sky",
       "listPosition": 14,
       "year": "1986",
       "originalTitle": "天空の城ラピュタ",
@@ -164,7 +162,7 @@
     },
     {
       "name": "Nausicaä of the Valley of the Wind",
-      "letterboxdUrl": "https://letterboxd.com/film/nausicaa-of-the-valley-of-the-wind/",
+      "letterboxdUrl": "https://letterboxd.com/film/nausicaa-of-the-valley-of-the-wind",
       "listPosition": 15,
       "year": "1984",
       "originalTitle": "風の谷のナウシカ",
@@ -172,53 +170,51 @@
       "streamProviders": [
         "Netflix"
       ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Barefoot Gen",
-      "letterboxdUrl": "https://letterboxd.com/film/barefoot-gen/",
+      "letterboxdUrl": "https://letterboxd.com/film/barefoot-gen",
       "listPosition": 16,
       "year": "1983",
       "originalTitle": "はだしのゲン",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Dragon Ball Super: Broly",
-      "letterboxdUrl": "https://letterboxd.com/film/dragon-ball-super-broly/",
+      "letterboxdUrl": "https://letterboxd.com/film/dragon-ball-super-broly",
       "listPosition": 17,
       "year": "2018",
       "originalTitle": "ドラゴンボール超スーパー ブロリー",
       "rating": 3.7,
-      "streamProviders": []
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/105275595/s166/Dragon-Ball-Super-Broly"
     },
     {
       "name": "Kuroko's Basketball the Movie: Last Game",
-      "letterboxdUrl": "https://letterboxd.com/film/kurokos-basketball-the-movie-last-game/",
+      "letterboxdUrl": "https://letterboxd.com/film/kurokos-basketball-the-movie-last-game",
       "listPosition": 18,
       "year": "2017",
       "originalTitle": "劇場版 黒子のバスケ LAST GAME",
       "rating": 3.5,
-      "streamProviders": [
-        "Netflix",
-        "Prime Video Channels aniverse"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d97aa320a801e01657e10f49a5d817e1915b0d72a692606ed398ba6a4be0eb2d._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/78070266/s166/Kuroko-no-Basket-Last-Game"
     },
     {
       "name": "Boruto: Naruto the Movie",
-      "letterboxdUrl": "https://letterboxd.com/film/boruto-naruto-the-movie/",
+      "letterboxdUrl": "https://letterboxd.com/film/boruto-naruto-the-movie",
       "listPosition": 19,
       "year": "2015",
       "originalTitle": "BORUTO -NARUTO THE MOVIE-",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/195aa886929af148964fcaef05adb07743a78a5b649f45563eec23d32578c455._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/52189954/s166/boruto-narutozamubi"
     },
     {
       "name": "The Tale of the Princess Kaguya",
-      "letterboxdUrl": "https://letterboxd.com/film/the-tale-of-the-princess-kaguya/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-tale-of-the-princess-kaguya",
       "listPosition": 20,
       "year": "2013",
       "originalTitle": "かぐや姫の物語",
@@ -230,71 +226,65 @@
     },
     {
       "name": "One Piece Film: Z",
-      "letterboxdUrl": "https://letterboxd.com/film/one-piece-film-z/",
+      "letterboxdUrl": "https://letterboxd.com/film/one-piece-film-z",
       "listPosition": 21,
       "year": "2012",
       "originalTitle": "ワンピース フィルム ゼット",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Berserk: The Golden Age Arc III - The Advent",
-      "letterboxdUrl": "https://letterboxd.com/film/berserk-the-golden-age-arc-iii-the-advent/",
+      "letterboxdUrl": "https://letterboxd.com/film/berserk-the-golden-age-arc-iii-the-advent",
       "listPosition": 22,
       "year": "2013",
       "originalTitle": "ベルセルク 黄金時代篇III 降臨",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part II: Eternal",
-      "letterboxdUrl": "https://letterboxd.com/film/puella-magi-madoka-magica-the-movie-part-ii-eternal/",
+      "letterboxdUrl": "https://letterboxd.com/film/puella-magi-madoka-magica-the-movie-part-ii-eternal",
       "listPosition": 23,
       "year": "2012",
       "originalTitle": "劇場版 魔法少女まどか☆マギカ[後編] 永遠の物語",
       "rating": 4,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "streamProviders": []
     },
     {
       "name": "The Garden of Sinners: Paradox Spiral",
-      "letterboxdUrl": "https://letterboxd.com/film/the-garden-of-sinners-paradox-spiral/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-garden-of-sinners-paradox-spiral",
       "listPosition": 24,
       "year": "2008",
       "originalTitle": "劇場版「空の境界」第五章 矛盾螺旋",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "streamProviders": []
     },
     {
       "name": "Ghost in the Shell 2.0",
-      "letterboxdUrl": "https://letterboxd.com/film/ghost-in-the-shell-20/",
+      "letterboxdUrl": "https://letterboxd.com/film/ghost-in-the-shell-20",
       "listPosition": 25,
       "year": "2008",
       "originalTitle": "GHOST IN THE SHELL／攻殻機動隊2.0",
       "rating": 3.6,
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://www.justwatch.com/images/poster/151538121/s166/Ghost-in-the-Shell-2-0"
     },
     {
       "name": "Evangelion: 2.0 You Can (Not) Advance",
-      "letterboxdUrl": "https://letterboxd.com/film/evangelion-20-you-can-not-advance/",
+      "letterboxdUrl": "https://letterboxd.com/film/evangelion-20-you-can-not-advance",
       "listPosition": 26,
       "year": "2009",
       "originalTitle": "ヱヴァンゲリヲン新劇場版：破",
       "rating": 3.9,
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4bf51b47b4730ec7399bee80e791f01ece4f441eb5828927012739269a32006e._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/249817360/s166/Evangelion-2-0-You-Can-Not-Advance"
     },
     {
       "name": "Whisper of the Heart",
-      "letterboxdUrl": "https://letterboxd.com/film/whisper-of-the-heart/",
+      "letterboxdUrl": "https://letterboxd.com/film/whisper-of-the-heart",
       "listPosition": 27,
       "year": "1995",
       "originalTitle": "耳をすませば",
@@ -306,7 +296,7 @@
     },
     {
       "name": "Ghost in the Shell",
-      "letterboxdUrl": "https://letterboxd.com/film/ghost-in-the-shell/",
+      "letterboxdUrl": "https://letterboxd.com/film/ghost-in-the-shell",
       "listPosition": 28,
       "year": "1995",
       "originalTitle": "Ghost in the Shell",
@@ -314,41 +304,40 @@
       "streamProviders": [
         "Amazon Prime Video"
       ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3a04ddef16c43f70a8369696129d1bb911173aea9ca892e4dad7ea8fb733c742._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/634ee9d3584c789b5d5a013c46ee53a960239c1642af33fc892c65df525d6eba._SX342_.jpg"
     },
     {
       "name": "Steins;Gate: The Movie - Load Region of Déjà Vu",
-      "letterboxdUrl": "https://letterboxd.com/film/steins-gate-the-movie-load-region-of-deja-vu/",
+      "letterboxdUrl": "https://letterboxd.com/film/steins-gate-the-movie-load-region-of-deja-vu",
       "listPosition": 29,
       "year": "2013",
       "originalTitle": "劇場版 STEINS;GATE 負荷領域のデジャヴ",
       "rating": 3.7,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Hotarubi no Mori e",
-      "letterboxdUrl": "https://letterboxd.com/film/hotarubi-no-mori-e/",
+      "letterboxdUrl": "https://letterboxd.com/film/hotarubi-no-mori-e",
       "listPosition": 30,
       "year": "2011",
       "originalTitle": "蛍火の杜へ",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Mind Game",
-      "letterboxdUrl": "https://letterboxd.com/film/mind-game/",
+      "letterboxdUrl": "https://letterboxd.com/film/mind-game",
       "listPosition": 31,
       "year": "2004",
       "originalTitle": "Mind Game",
       "rating": 4.1,
-      "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2009/06/image/jpeg/6bf6e2cb594db8836b5d10f6a47d0f57.jpg"
+      "streamProviders": []
     },
     {
       "name": "Tokyo Godfathers",
-      "letterboxdUrl": "https://letterboxd.com/film/tokyo-godfathers/",
+      "letterboxdUrl": "https://letterboxd.com/film/tokyo-godfathers",
       "listPosition": 32,
       "year": "2003",
       "originalTitle": "東京ゴッドファーザーズ",
@@ -358,30 +347,26 @@
     },
     {
       "name": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
-      "letterboxdUrl": "https://letterboxd.com/film/interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem/",
+      "letterboxdUrl": "https://letterboxd.com/film/interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem",
       "listPosition": 33,
       "year": "2003",
       "originalTitle": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
       "rating": 4.1,
-      "streamProviders": [
-        "Prime Video Channels Qello Concerts by Stingray",
-        "Prime Video Channels Stingray All Good Vibes"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d71d385724a93a3e43595cd8ad113a3e3390b26955ae04620061743204a37cd6._SX342_.jpg"
+      "streamProviders": []
     },
     {
       "name": "Cardcaptor Sakura: The Sealed Card",
-      "letterboxdUrl": "https://letterboxd.com/film/cardcaptor-sakura-the-sealed-card/",
+      "letterboxdUrl": "https://letterboxd.com/film/cardcaptor-sakura-the-sealed-card",
       "listPosition": 34,
       "year": "2000",
       "originalTitle": "劇場版 カードキャプターさくら 封印されたカード",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/239202725/s166/cardcaptor-sakura-die-versiegelte-karte"
     },
     {
       "name": "Millennium Actress",
-      "letterboxdUrl": "https://letterboxd.com/film/millennium-actress/",
+      "letterboxdUrl": "https://letterboxd.com/film/millennium-actress",
       "listPosition": 35,
       "year": "2001",
       "originalTitle": "千年女優",
@@ -391,17 +376,17 @@
     },
     {
       "name": "Cowboy Bebop: The Movie",
-      "letterboxdUrl": "https://letterboxd.com/film/cowboy-bebop-the-movie/",
+      "letterboxdUrl": "https://letterboxd.com/film/cowboy-bebop-the-movie",
       "listPosition": 36,
       "year": "2001",
       "originalTitle": "カウボーイビバップ 天国の扉",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/155960635/s166/Cowboy-Bebop-Der-Film"
     },
     {
       "name": "Perfect Blue",
-      "letterboxdUrl": "https://letterboxd.com/film/perfect-blue/",
+      "letterboxdUrl": "https://letterboxd.com/film/perfect-blue",
       "listPosition": 37,
       "year": "1997",
       "originalTitle": "パーフェクトブルー",
@@ -411,17 +396,17 @@
     },
     {
       "name": "Ninja Scroll",
-      "letterboxdUrl": "https://letterboxd.com/film/ninja-scroll/",
+      "letterboxdUrl": "https://letterboxd.com/film/ninja-scroll",
       "listPosition": 38,
       "year": "1993",
       "originalTitle": "獣兵衛忍風帖",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/4841ecfed51e949367ca40b29c66ffc5b51dd6adb8f29403bd62bf561ba3340e._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/66052842/s166/Ninja-Scroll"
     },
     {
       "name": "Kiki's Delivery Service",
-      "letterboxdUrl": "https://letterboxd.com/film/kikis-delivery-service/",
+      "letterboxdUrl": "https://letterboxd.com/film/kikis-delivery-service",
       "listPosition": 39,
       "year": "1989",
       "originalTitle": "魔女の宅急便",
@@ -433,7 +418,7 @@
     },
     {
       "name": "Macross: Do You Remember Love?",
-      "letterboxdUrl": "https://letterboxd.com/film/macross-do-you-remember-love/",
+      "letterboxdUrl": "https://letterboxd.com/film/macross-do-you-remember-love",
       "listPosition": 40,
       "year": "1984",
       "originalTitle": "超時空要塞マクロス 愛・おぼえていますか",
@@ -442,7 +427,7 @@
     },
     {
       "name": "My Hero Academia: Two Heroes",
-      "letterboxdUrl": "https://letterboxd.com/film/my-hero-academia-two-heroes/",
+      "letterboxdUrl": "https://letterboxd.com/film/my-hero-academia-two-heroes",
       "listPosition": 41,
       "year": "2018",
       "originalTitle": "僕のヒーローアカデミア THE MOVIE ～2人の英雄～",
@@ -452,27 +437,27 @@
     },
     {
       "name": "I Want to Eat Your Pancreas",
-      "letterboxdUrl": "https://letterboxd.com/film/i-want-to-eat-your-pancreas/",
+      "letterboxdUrl": "https://letterboxd.com/film/i-want-to-eat-your-pancreas",
       "listPosition": 42,
       "year": "2018",
       "originalTitle": "君の膵臓をたべたい",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/304708954/s166/I-Want-to-Eat-Your-Pancreas"
     },
     {
       "name": "Kizumonogatari Part 2: Nekketsu",
-      "letterboxdUrl": "https://letterboxd.com/film/kizumonogatari-part-2-nekketsu/",
+      "letterboxdUrl": "https://letterboxd.com/film/kizumonogatari-part-2-nekketsu",
       "listPosition": 43,
       "year": "2016",
       "originalTitle": "傷物語〈Ⅱ熱血篇〉",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "In This Corner of the World",
-      "letterboxdUrl": "https://letterboxd.com/film/in-this-corner-of-the-world/",
+      "letterboxdUrl": "https://letterboxd.com/film/in-this-corner-of-the-world",
       "listPosition": 44,
       "year": "2016",
       "originalTitle": "この世界の片隅に",
@@ -484,17 +469,17 @@
     },
     {
       "name": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
-      "letterboxdUrl": "https://letterboxd.com/film/berserk-the-golden-age-arc-ii-the-battle-for-doldrey/",
+      "letterboxdUrl": "https://letterboxd.com/film/berserk-the-golden-age-arc-ii-the-battle-for-doldrey",
       "listPosition": 45,
       "year": "2012",
       "originalTitle": "ベルセルク 黄金時代篇II ドルドレイ攻略",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://www.justwatch.com/images/poster/180093547/s166/Berserk-Das-goldene-Zeitalter-2"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Road to Ninja: Naruto the Movie",
-      "letterboxdUrl": "https://letterboxd.com/film/road-to-ninja-naruto-the-movie/",
+      "letterboxdUrl": "https://letterboxd.com/film/road-to-ninja-naruto-the-movie",
       "listPosition": 46,
       "year": "2012",
       "originalTitle": "ROAD TO NINJA -NARUTO THE MOVIE-",
@@ -504,7 +489,7 @@
     },
     {
       "name": "The Wind Rises",
-      "letterboxdUrl": "https://letterboxd.com/film/the-wind-rises/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-wind-rises",
       "listPosition": 47,
       "year": "2013",
       "originalTitle": "風立ちぬ",
@@ -516,7 +501,7 @@
     },
     {
       "name": "Gurren Lagann the Movie: Childhood's End",
-      "letterboxdUrl": "https://letterboxd.com/film/gurren-lagann-the-movie-childhoods-end/",
+      "letterboxdUrl": "https://letterboxd.com/film/gurren-lagann-the-movie-childhoods-end",
       "listPosition": 48,
       "year": "2008",
       "originalTitle": "劇場版 天元突破グレンラガン 紅蓮篇",
@@ -525,66 +510,66 @@
     },
     {
       "name": "Sword of the Stranger",
-      "letterboxdUrl": "https://letterboxd.com/film/sword-of-the-stranger/",
+      "letterboxdUrl": "https://letterboxd.com/film/sword-of-the-stranger",
       "listPosition": 49,
       "year": "2007",
       "originalTitle": "ストレンヂア -無皇刃譚-",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8017a265c6ce8a69d15f6f7b4ad9175e845bc906353dec498a8a1f6d9df3f7b9._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/293768214/s166/Sword-of-the-Stranger"
     },
     {
       "name": "Detective Conan: The Phantom of Baker Street",
-      "letterboxdUrl": "https://letterboxd.com/film/detective-conan-the-phantom-of-baker-street/",
+      "letterboxdUrl": "https://letterboxd.com/film/detective-conan-the-phantom-of-baker-street",
       "listPosition": 50,
       "year": "2002",
       "originalTitle": "名探偵コナン ベイカー街（ストリート）の亡霊",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d46460cdc25a5fa2e29cdc69095b84286eaa5754b0094c50ab102a537f434812._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/175393591/s166/Detektiv-Conan-Das-Phantom-der-Baker-Street"
     },
     {
       "name": "The Girl Who Leapt Through Time",
-      "letterboxdUrl": "https://letterboxd.com/film/the-girl-who-leapt-through-time/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-girl-who-leapt-through-time",
       "listPosition": 51,
       "year": "2006",
       "originalTitle": "時をかける少女",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/184073951/s166/Das-Maedchen-das-durch-die-Zeit-sprang"
     },
     {
       "name": "Inuyasha the Movie 3: Swords of an Honorable Ruler",
-      "letterboxdUrl": "https://letterboxd.com/film/inuyasha-the-movie-3-swords-of-an-honorable-ruler/",
+      "letterboxdUrl": "https://letterboxd.com/film/inuyasha-the-movie-3-swords-of-an-honorable-ruler",
       "listPosition": 52,
       "year": "2003",
       "originalTitle": "映画犬夜叉 天下覇道の剣",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/304878988/s166/Inuyasha-Movie-3-Das-Schwert-der-Welteroberung"
     },
     {
       "name": "Dragon Ball Z: Fusion Reborn",
-      "letterboxdUrl": "https://letterboxd.com/film/dragon-ball-z-fusion-reborn/",
+      "letterboxdUrl": "https://letterboxd.com/film/dragon-ball-z-fusion-reborn",
       "listPosition": 53,
       "year": "1995",
       "originalTitle": "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/176244822/s166/dragonball-z-die-fusion"
     },
     {
       "name": "Sailor Moon S the Movie: Hearts in Ice",
-      "letterboxdUrl": "https://letterboxd.com/film/sailor-moon-s-the-movie-hearts-in-ice/",
+      "letterboxdUrl": "https://letterboxd.com/film/sailor-moon-s-the-movie-hearts-in-ice",
       "listPosition": 54,
       "year": "1994",
       "originalTitle": "劇場版　美少女戦士セーラームーンS 〜かぐや姫の恋人〜",
-      "rating": 3.5,
+      "rating": 3.6,
       "streamProviders": []
     },
     {
       "name": "Sailor Moon R: The Movie",
-      "letterboxdUrl": "https://letterboxd.com/film/sailor-moon-r-the-movie/",
+      "letterboxdUrl": "https://letterboxd.com/film/sailor-moon-r-the-movie",
       "listPosition": 55,
       "year": "1993",
       "originalTitle": "劇場版　美少女戦士セーラームーンＲ",
@@ -593,7 +578,7 @@
     },
     {
       "name": "Porco Rosso",
-      "letterboxdUrl": "https://letterboxd.com/film/porco-rosso/",
+      "letterboxdUrl": "https://letterboxd.com/film/porco-rosso",
       "listPosition": 56,
       "year": "1992",
       "originalTitle": "紅の豚",
@@ -605,17 +590,17 @@
     },
     {
       "name": "Digimon Adventure tri. Part 1: Reunion",
-      "letterboxdUrl": "https://letterboxd.com/film/digimon-adventure-tri-part-1-reunion/",
+      "letterboxdUrl": "https://letterboxd.com/film/digimon-adventure-tri-part-1-reunion",
       "listPosition": 57,
       "year": "2015",
       "originalTitle": "デジモンアドベンチャー tri. 第１章「再会」",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/683f71eb7e7f2ff110422d3b20749a43e936a03950566f9d41970e72f480d842._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/13899916/s166/Digimon-Adventure-Tri-Wiedervereinigung"
     },
     {
       "name": "When Marnie Was There",
-      "letterboxdUrl": "https://letterboxd.com/film/when-marnie-was-there/",
+      "letterboxdUrl": "https://letterboxd.com/film/when-marnie-was-there",
       "listPosition": 58,
       "year": "2014",
       "originalTitle": "思い出のマーニー",
@@ -627,93 +612,86 @@
     },
     {
       "name": "The Boy and the Beast",
-      "letterboxdUrl": "https://letterboxd.com/film/the-boy-and-the-beast/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-boy-and-the-beast",
       "listPosition": 59,
       "year": "2015",
       "originalTitle": "バケモノの子",
       "rating": 3.8,
-      "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/47112848f9a4121c309b62d84744300a27686aab9dbfe50f562f1a29f0da33e4._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/48923311/s166/Bakemono-no-Ko"
     },
     {
       "name": "The Last: Naruto the Movie",
-      "letterboxdUrl": "https://letterboxd.com/film/the-last-naruto-the-movie/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-last-naruto-the-movie",
       "listPosition": 60,
       "year": "2014",
       "originalTitle": "THE LAST -NARUTO THE MOVIE-",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f033539adf0ab6a19eeefe2c18c1a48d5065d8a6b729cd520a366a0fad26462a._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/10624579/s166/The-Last-Naruto-the-Movie"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
-      "letterboxdUrl": "https://letterboxd.com/film/puella-magi-madoka-magica-the-movie-part-iii-rebellion/",
+      "letterboxdUrl": "https://letterboxd.com/film/puella-magi-madoka-magica-the-movie-part-iii-rebellion",
       "listPosition": 61,
       "year": "2013",
       "originalTitle": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2016/09/image/jpeg/173fa9a8fa0daf6768e41cd012f763c4.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/10407224/s166/Mahou-Shoujo-Madoka-Magica-the-Movie-Part-3-The-Story-of-the-Rebellion"
     },
     {
       "name": "Berserk: The Golden Age Arc I - The Egg of the King",
-      "letterboxdUrl": "https://letterboxd.com/film/berserk-the-golden-age-arc-i-the-egg-of-the-king/",
+      "letterboxdUrl": "https://letterboxd.com/film/berserk-the-golden-age-arc-i-the-egg-of-the-king",
       "listPosition": 62,
       "year": "2012",
       "originalTitle": "ベルセルク 黄金時代篇I 覇王の卵",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/180095158/s166/Berserk-Das-goldene-Zeitalter-I"
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part I: Beginnings",
-      "letterboxdUrl": "https://letterboxd.com/film/puella-magi-madoka-magica-the-movie/",
+      "letterboxdUrl": "https://letterboxd.com/film/puella-magi-madoka-magica-the-movie",
       "listPosition": 63,
       "year": "2012",
       "originalTitle": "劇場版 魔法少女まどか☆マギカ [前編] 始まりの物語",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "streamProviders": []
     },
     {
       "name": "One Piece: Strong World",
-      "letterboxdUrl": "https://letterboxd.com/film/one-piece-strong-world/",
+      "letterboxdUrl": "https://letterboxd.com/film/one-piece-strong-world",
       "listPosition": 64,
       "year": "2009",
       "originalTitle": "ワンピース フィルム ストロングワールド",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "5 Centimeters per Second",
-      "letterboxdUrl": "https://letterboxd.com/film/5-centimeters-per-second/",
+      "letterboxdUrl": "https://letterboxd.com/film/5-centimeters-per-second",
       "listPosition": 65,
       "year": "2007",
       "originalTitle": "秒速5センチメートル",
       "rating": 3.5,
-      "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
-      ],
+      "streamProviders": [],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/51cf0ecbb4524b87b097ce22c9ef5ff6a237edfe75f0c861b17fee2c708bb877._SX342_.jpg"
     },
     {
       "name": "Evangelion: 1.0 You Are (Not) Alone",
-      "letterboxdUrl": "https://letterboxd.com/film/evangelion-10-you-are-not-alone/",
+      "letterboxdUrl": "https://letterboxd.com/film/evangelion-10-you-are-not-alone",
       "listPosition": 66,
       "year": "2007",
       "originalTitle": "ヱヴァンゲリヲン新劇場版：序",
       "rating": 3.6,
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cf674af7b87673284d44891d9100cae4afddf4a7b672bc1c1c0a3e3af24a0f2b._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/64853317/s166/Evangelion-1-0-You-Are-Not-Alone"
     },
     {
       "name": "Ponyo",
-      "letterboxdUrl": "https://letterboxd.com/film/ponyo/",
+      "letterboxdUrl": "https://letterboxd.com/film/ponyo",
       "listPosition": 67,
       "year": "2008",
       "originalTitle": "崖の上のポニョ",
@@ -725,7 +703,7 @@
     },
     {
       "name": "Paprika",
-      "letterboxdUrl": "https://letterboxd.com/film/paprika-2006/",
+      "letterboxdUrl": "https://letterboxd.com/film/paprika-2006",
       "listPosition": 68,
       "year": "2006",
       "originalTitle": "パプリカ",
@@ -735,29 +713,27 @@
     },
     {
       "name": "Comet in Moominland",
-      "letterboxdUrl": "https://letterboxd.com/film/comet-in-moominland/",
+      "letterboxdUrl": "https://letterboxd.com/film/comet-in-moominland",
       "listPosition": 69,
       "year": "1992",
       "originalTitle": "楽しいムーミン一家 ムーミン谷の彗星",
-      "rating": 3.8,
+      "rating": 3.9,
       "streamProviders": [],
       "imageUrl": "https://www.justwatch.com/images/poster/89723849/s166/Die-Mumins-Der-Komet-im-Muminland"
     },
     {
       "name": "Vampire Hunter D: Bloodlust",
-      "letterboxdUrl": "https://letterboxd.com/film/vampire-hunter-d-bloodlust/",
+      "letterboxdUrl": "https://letterboxd.com/film/vampire-hunter-d-bloodlust",
       "listPosition": 70,
       "year": "2000",
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
       "rating": 3.9,
-      "streamProviders": [
-        "Prime Video Channels Netzkino Select"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/8b0416851a4142a39117438f156b55fc82f00e29e4308a468f41ca197e0f37e6._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/215305381/s166/Vampire-Hunter-D-Bloodlust"
     },
     {
       "name": "Angel's Egg",
-      "letterboxdUrl": "https://letterboxd.com/film/angels-egg/",
+      "letterboxdUrl": "https://letterboxd.com/film/angels-egg",
       "listPosition": 71,
       "year": "1985",
       "originalTitle": "天使のたまご",
@@ -766,63 +742,59 @@
     },
     {
       "name": "Only Yesterday",
-      "letterboxdUrl": "https://letterboxd.com/film/only-yesterday/",
+      "letterboxdUrl": "https://letterboxd.com/film/only-yesterday",
       "listPosition": 72,
       "year": "1991",
       "originalTitle": "おもひでぽろぽろ",
       "rating": 3.9,
       "streamProviders": [
-        "Netflix",
-        "Netflix Kids",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/250250135/s166/Traenen-der-Erinnerung-Only-Yesterday"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2020/09/image/jpeg/4045581e6280a679b07e193b96eb6c35.jpg"
     },
     {
       "name": "Lupin the Third: The Castle of Cagliostro",
-      "letterboxdUrl": "https://letterboxd.com/film/lupin-the-third-the-castle-of-cagliostro/",
+      "letterboxdUrl": "https://letterboxd.com/film/lupin-the-third-the-castle-of-cagliostro",
       "listPosition": 73,
       "year": "1979",
       "originalTitle": "ルパン三世 カリオストロの城",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7041cab4017f9ebe6bd2831fdcdc9f8f218080a2083dd2a7a99389431df4d8e1._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/251109762/s166/Das-Schloss-des-Cagliostro"
     },
     {
       "name": "Night Is Short, Walk on Girl",
-      "letterboxdUrl": "https://letterboxd.com/film/night-is-short-walk-on-girl/",
+      "letterboxdUrl": "https://letterboxd.com/film/night-is-short-walk-on-girl",
       "listPosition": 74,
       "year": "2017",
       "originalTitle": "夜は短し歩けよ乙女",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/76595362/s166/Night-is-Short-Walk-on-Girl"
     },
     {
       "name": "No Game No Life: Zero",
-      "letterboxdUrl": "https://letterboxd.com/film/no-game-no-life-zero/",
+      "letterboxdUrl": "https://letterboxd.com/film/no-game-no-life-zero",
       "listPosition": 75,
       "year": "2017",
       "originalTitle": "ノーゲーム・ノーライフ ゼロ",
       "rating": 3.3,
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/30d86752872d55625ca73d847dea834320ebb5ce86eb5a33a8640bea76e7d405._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/192253701/s166/No-Game-No-Life-Zero"
     },
     {
       "name": "Kizumonogatari Part 1: Tekketsu",
-      "letterboxdUrl": "https://letterboxd.com/film/kizumonogatari-part-1-tekketsu/",
+      "letterboxdUrl": "https://letterboxd.com/film/kizumonogatari-part-1-tekketsu",
       "listPosition": 76,
       "year": "2016",
       "originalTitle": "傷物語〈Ⅰ鉄血篇〉",
       "rating": 3.9,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/99164694/s166/Kizumonogatari-I-Blut-und-Eisen"
     },
     {
       "name": "The Garden of Words",
-      "letterboxdUrl": "https://letterboxd.com/film/the-garden-of-words/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-garden-of-words",
       "listPosition": 77,
       "year": "2013",
       "originalTitle": "言の葉の庭",
@@ -832,49 +804,47 @@
     },
     {
       "name": "The Secret World of Arrietty",
-      "letterboxdUrl": "https://letterboxd.com/film/the-secret-world-of-arrietty/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-secret-world-of-arrietty",
       "listPosition": 78,
       "year": "2010",
       "originalTitle": "借りぐらしのアリエッティ",
-      "rating": 3.7,
-      "streamProviders": [
-        "Netflix"
-      ],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "rating": 3.8,
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/9331048/s166/Arrietty-Die-wundersame-Welt-der-Borger"
     },
     {
       "name": "Case Closed: Countdown to Heaven",
-      "letterboxdUrl": "https://letterboxd.com/film/case-closed-countdown-to-heaven/",
+      "letterboxdUrl": "https://letterboxd.com/film/case-closed-countdown-to-heaven",
       "listPosition": 79,
       "year": "2001",
       "originalTitle": "名探偵コナン 天国へのカウントダウン",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/41e1830217a1f66ba59acb5a24b2ca1513e17a1b3988a16741f0a55fb291e8f0._SX342_.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f318b5801c0b0401db0703c23ec17b572281ef09acb1e3327fd7196e4aad3acf._SX342_.jpg"
     },
     {
       "name": "Detective Conan: Captured in Her Eyes",
-      "letterboxdUrl": "https://letterboxd.com/film/detective-conan-captured-in-her-eyes/",
+      "letterboxdUrl": "https://letterboxd.com/film/detective-conan-captured-in-her-eyes",
       "listPosition": 80,
       "year": "2000",
       "originalTitle": "名探偵コナン 瞳の中の暗殺者",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5b4aebed9494e9aef588e86102bce65804c34f5d9e55d0f3828a12ad243dc44b._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/133166255/s166/Detektiv-Conan-Der-Killer-in-ihren-Augen"
     },
     {
       "name": "Tekkonkinkreet",
-      "letterboxdUrl": "https://letterboxd.com/film/tekkonkinkreet/",
+      "letterboxdUrl": "https://letterboxd.com/film/tekkonkinkreet",
       "listPosition": 81,
       "year": "2006",
       "originalTitle": "鉄コン筋クリート",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/06/image/jpeg/9014f4fe9dcccb8f049dacd51e5c9769.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/112412104/s166/Tekkonkinkreet"
     },
     {
       "name": "Inuyasha the Movie 2: The Castle Beyond the Looking Glass",
-      "letterboxdUrl": "https://letterboxd.com/film/inuyasha-the-movie-2-the-castle-beyond-the-looking-glass/",
+      "letterboxdUrl": "https://letterboxd.com/film/inuyasha-the-movie-2-the-castle-beyond-the-looking-glass",
       "listPosition": 82,
       "year": "2002",
       "originalTitle": "犬夜叉 鏡の中の夢幻城",
@@ -884,47 +854,47 @@
     },
     {
       "name": "Ghost in the Shell 2: Innocence",
-      "letterboxdUrl": "https://letterboxd.com/film/ghost-in-the-shell-2-innocence/",
+      "letterboxdUrl": "https://letterboxd.com/film/ghost-in-the-shell-2-innocence",
       "listPosition": 83,
       "year": "2004",
       "originalTitle": "イノセンス",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/03/image/jpeg/24bd3622a062ed6c8c20423f869fae30.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/205642233/s166/Ghost-in-the-Shell-2-Innocence"
     },
     {
       "name": "Rurouni Kenshin: Requiem for the Ishin Patriots",
-      "letterboxdUrl": "https://letterboxd.com/film/rurouni-kenshin-requiem-for-the-ishin-patriots/",
+      "letterboxdUrl": "https://letterboxd.com/film/rurouni-kenshin-requiem-for-the-ishin-patriots",
       "listPosition": 84,
       "year": "1997",
       "originalTitle": "るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌",
       "rating": 3.4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/428619/s166/Rurouni-Kenshin-The-Movie"
     },
     {
       "name": "Dragon Ball Z: Wrath of the Dragon",
-      "letterboxdUrl": "https://letterboxd.com/film/dragon-ball-z-wrath-of-the-dragon/",
+      "letterboxdUrl": "https://letterboxd.com/film/dragon-ball-z-wrath-of-the-dragon",
       "listPosition": 85,
       "year": "1995",
       "originalTitle": "ドラゴンボールZ 龍拳爆発!!悟空がやらねば誰がやる",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2008/02/image/jpeg/a7cc4f1ccc9293e067463c1b4c901294.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/245598747/s166/dragonball-z-drachenfaust"
     },
     {
       "name": "Patlabor 2: The Movie",
-      "letterboxdUrl": "https://letterboxd.com/film/patlabor-2-the-movie/",
+      "letterboxdUrl": "https://letterboxd.com/film/patlabor-2-the-movie",
       "listPosition": 86,
       "year": "1993",
       "originalTitle": "機動警察パトレイバー 2 the Movie",
       "rating": 4.1,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Memories",
-      "letterboxdUrl": "https://letterboxd.com/film/memories/",
+      "letterboxdUrl": "https://letterboxd.com/film/memories",
       "listPosition": 87,
       "year": "1995",
       "originalTitle": "Memories",
@@ -934,7 +904,7 @@
     },
     {
       "name": "Sailor Moon SuperS: The Movie: Black Dream Hole",
-      "letterboxdUrl": "https://letterboxd.com/film/sailor-moon-supers-the-movie-black-dream-hole/",
+      "letterboxdUrl": "https://letterboxd.com/film/sailor-moon-supers-the-movie-black-dream-hole",
       "listPosition": 88,
       "year": "1995",
       "originalTitle": "劇場版　美少女戦士セーラームーンSuperS　セーラー9戦士集結！ブラック・ドリーム・ホールの奇跡",
@@ -943,7 +913,7 @@
     },
     {
       "name": "Urusei Yatsura: Beautiful Dreamer",
-      "letterboxdUrl": "https://letterboxd.com/film/urusei-yatsura-beautiful-dreamer/",
+      "letterboxdUrl": "https://letterboxd.com/film/urusei-yatsura-beautiful-dreamer",
       "listPosition": 89,
       "year": "1984",
       "originalTitle": "うる星やつら2 ビューティフル・ドリーマー",
@@ -952,64 +922,58 @@
     },
     {
       "name": "The Red Turtle",
-      "letterboxdUrl": "https://letterboxd.com/film/the-red-turtle/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-red-turtle",
       "listPosition": 90,
       "year": "2016",
       "originalTitle": "La tortue rouge",
       "rating": 3.9,
-      "streamProviders": [
-        "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI",
-        "Mubi"
-      ],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/fc3980da33dbe29a021874389acf6f2559eba723273fb1b9519214577102df3c._SX342_.jpg"
+      "streamProviders": [],
+      "imageUrl": "https://www.justwatch.com/images/poster/92967789/s166/Die-rote-Schildkroete"
     },
     {
       "name": "K-ON! : The Movie",
-      "letterboxdUrl": "https://letterboxd.com/film/k-on-the-movie/",
+      "letterboxdUrl": "https://letterboxd.com/film/k-on-the-movie",
       "listPosition": 91,
       "year": "2011",
       "originalTitle": "映画けいおん！",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b2b9e48fba8ffc22ae563ecd5c84f1336f6da7ad7b689660d2c66609d4ee4aec._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/257936128/s166/K-ON-The-Movie"
     },
     {
       "name": "From Up on Poppy Hill",
-      "letterboxdUrl": "https://letterboxd.com/film/from-up-on-poppy-hill/",
+      "letterboxdUrl": "https://letterboxd.com/film/from-up-on-poppy-hill",
       "listPosition": 92,
       "year": "2011",
       "originalTitle": "コクリコ坂から",
       "rating": 3.7,
       "streamProviders": [
-        "Netflix",
-        "Netflix basic with Ads"
+        "Netflix"
       ],
-      "imageUrl": "https://www.justwatch.com/images/poster/249341276/s166/Der-Mohnblumenberg"
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2014/05/image/jpeg/3299074f703d2d4ac46e70c850dfee4f.jpg"
     },
     {
       "name": "Bleach the Movie: Hell Verse",
-      "letterboxdUrl": "https://letterboxd.com/film/bleach-the-movie-hell-verse/",
+      "letterboxdUrl": "https://letterboxd.com/film/bleach-the-movie-hell-verse",
       "listPosition": 93,
       "year": "2010",
       "originalTitle": "劇場版 BLEACH 地獄篇",
       "rating": 3.2,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.justwatch.com/images/poster/174578678/s166/Gekijouban-Bleach-Jigoku-hen"
     },
     {
       "name": "Trigun: Badlands Rumble",
-      "letterboxdUrl": "https://letterboxd.com/film/trigun-badlands-rumble/",
+      "letterboxdUrl": "https://letterboxd.com/film/trigun-badlands-rumble",
       "listPosition": 94,
       "year": "2010",
       "originalTitle": "トライガン バッドランド ランブル",
       "rating": 3.5,
-      "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "streamProviders": []
     },
     {
       "name": "Colorful",
-      "letterboxdUrl": "https://letterboxd.com/film/colorful/",
+      "letterboxdUrl": "https://letterboxd.com/film/colorful",
       "listPosition": 95,
       "year": "2010",
       "originalTitle": "カラフル",
@@ -1022,53 +986,53 @@
     },
     {
       "name": "Gintama: The Movie",
-      "letterboxdUrl": "https://letterboxd.com/film/gintama-the-movie/",
+      "letterboxdUrl": "https://letterboxd.com/film/gintama-the-movie",
       "listPosition": 96,
       "year": "2010",
       "originalTitle": "銀魂 新訳紅桜篇",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/2/p9232458_v_v8_aq_2016-10-06T14_41_00.jpg&out=jpeg"
+      "imageUrl": "https://www.justwatch.com/images/poster/150679095/s166/Gintama-Benizakura-Arc-A-New-Retelling"
     },
     {
       "name": "Redline",
-      "letterboxdUrl": "https://letterboxd.com/film/redline/",
+      "letterboxdUrl": "https://letterboxd.com/film/redline",
       "listPosition": 97,
       "year": "2009",
       "originalTitle": "レッドライン",
       "rating": 4,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Summer Wars",
-      "letterboxdUrl": "https://letterboxd.com/film/summer-wars/",
+      "letterboxdUrl": "https://letterboxd.com/film/summer-wars",
       "listPosition": 98,
       "year": "2009",
       "originalTitle": "サマーウォーズ",
       "rating": 3.8,
       "streamProviders": [],
-      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2010/11/image/jpeg/04870295507a9cc3c7f8c1cf8ecdab4a.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/192735803/s166/Summer-Wars"
     },
     {
       "name": "Detective Conan: The Last Wizard of the Century",
-      "letterboxdUrl": "https://letterboxd.com/film/detective-conan-the-last-wizard-of-the-century/",
+      "letterboxdUrl": "https://letterboxd.com/film/detective-conan-the-last-wizard-of-the-century",
       "listPosition": 99,
       "year": "1999",
       "originalTitle": "名探偵コナン 世紀末の魔術師",
       "rating": 3.6,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74b6632a4347db5a779a095806cd395fc8b32f2fce97206ebf2fab026b24e582._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/133136064/s166/Detektiv-Conan-Der-Magier-des-letzten-Jahrhunderts"
     },
     {
       "name": "Fullmetal Alchemist the Movie: Conqueror of Shamballa",
-      "letterboxdUrl": "https://letterboxd.com/film/fullmetal-alchemist-the-movie-conqueror-of-shamballa/",
+      "letterboxdUrl": "https://letterboxd.com/film/fullmetal-alchemist-the-movie-conqueror-of-shamballa",
       "listPosition": 100,
       "year": "2005",
       "originalTitle": "劇場版 鋼の錬金術師 シャンバラを征く者",
       "rating": 3.3,
       "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/79248e88a8632ebc6af5f4eb2c334409970bce63224249a826faaf746b8f7166._SX342_.jpg"
+      "imageUrl": "https://www.justwatch.com/images/poster/181331445/s166/Fullmetal-Alchemist-Der-Film-Der-Eroberer-von-Shamballa"
     }
   ],
   "streamProviders": [
@@ -1085,31 +1049,11 @@
       "enabled": false
     },
     {
-      "name": "Netflix Kids",
-      "enabled": false
-    },
-    {
-      "name": "Netflix basic with Ads",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels Arthouse CNMA",
       "enabled": false
     },
     {
       "name": "Prime Video Channels MUBI",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Netzkino Select",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Qello Concerts by Stingray",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Stingray All Good Vibes",
       "enabled": false
     },
     {

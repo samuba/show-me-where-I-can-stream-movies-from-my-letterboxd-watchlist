@@ -5,7 +5,7 @@
   "entries": [
     {
       "name": "The Menu",
-      "letterboxdUrl": "https://letterboxd.com/film/the-menu-2022/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-menu-2022",
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "The Menu",
@@ -17,7 +17,7 @@
     },
     {
       "name": "Creed III",
-      "letterboxdUrl": "https://letterboxd.com/film/creed-iii/",
+      "letterboxdUrl": "https://letterboxd.com/film/creed-iii",
       "listPosition": 0,
       "year": "2023",
       "originalTitle": "Creed III",
@@ -26,7 +26,7 @@
     },
     {
       "name": "Knock at the Cabin",
-      "letterboxdUrl": "https://letterboxd.com/film/knock-at-the-cabin/",
+      "letterboxdUrl": "https://letterboxd.com/film/knock-at-the-cabin",
       "listPosition": 0,
       "year": "2023",
       "originalTitle": "Knock at the Cabin",
@@ -35,17 +35,20 @@
     },
     {
       "name": "Babylon",
-      "letterboxdUrl": "https://letterboxd.com/film/babylon-2022/",
+      "letterboxdUrl": "https://letterboxd.com/film/babylon-2022",
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "Babylon",
       "rating": 3.8,
-      "streamProviders": [],
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/ec51a731c83306596b363f1d620e240a4d7b7f2eb43c1dd1199625ebbb888aec._SX342_.jpg"
+      "streamProviders": [
+        "Prime Video Channels Paramount+",
+        "Paramount+"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/d25d14deaf8db6570f9add3e16e37097a337c8d5bbfbe80801026d9d5b11a35c._SX342_.jpg"
     },
     {
       "name": "Ambulance",
-      "letterboxdUrl": "https://letterboxd.com/film/ambulance-2022/",
+      "letterboxdUrl": "https://letterboxd.com/film/ambulance-2022",
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "Ambulance",
@@ -58,7 +61,7 @@
     },
     {
       "name": "Evil Dead",
-      "letterboxdUrl": "https://letterboxd.com/film/evil-dead/",
+      "letterboxdUrl": "https://letterboxd.com/film/evil-dead",
       "listPosition": 0,
       "year": "2013",
       "originalTitle": "Evil Dead",
@@ -70,7 +73,7 @@
     },
     {
       "name": "Cocaine Bear",
-      "letterboxdUrl": "https://letterboxd.com/film/cocaine-bear/",
+      "letterboxdUrl": "https://letterboxd.com/film/cocaine-bear",
       "listPosition": 0,
       "year": "2023",
       "originalTitle": "Cocaine Bear",
@@ -79,39 +82,42 @@
     },
     {
       "name": "Puss in Boots: The Last Wish",
-      "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
+      "letterboxdUrl": "https://letterboxd.com/film/puss-in-boots-the-last-wish",
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "Puss in Boots: The Last Wish",
       "rating": 4.2,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cdf603f8fff28a02456b7a0aa3e13704ce240a1a02459f115f69df709ab4f526._SX342_.jpg"
     },
     {
       "name": "The Little Things",
-      "letterboxdUrl": "https://letterboxd.com/film/the-little-things-2021/",
+      "letterboxdUrl": "https://letterboxd.com/film/the-little-things-2021",
       "listPosition": 0,
       "year": "2021",
       "originalTitle": "The Little Things",
       "rating": 2.5,
       "streamProviders": [
-        "Amazon Prime Video"
+        "Netflix"
       ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/250258c673711467ad340c1eba3c6730c0ab9468841481d3daea06074d9743d2._SX342_.jpg"
     },
     {
       "name": "Nobody",
-      "letterboxdUrl": "https://letterboxd.com/film/nobody-2021/",
+      "letterboxdUrl": "https://letterboxd.com/film/nobody-2021",
       "listPosition": 0,
       "year": "2021",
       "originalTitle": "Nobody",
       "rating": 3.5,
       "streamProviders": [],
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1687365972"
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284"
     },
     {
       "name": "Don't Worry Darling",
-      "letterboxdUrl": "https://letterboxd.com/film/dont-worry-darling/",
+      "letterboxdUrl": "https://letterboxd.com/film/dont-worry-darling",
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "Don't Worry Darling",
@@ -120,7 +126,7 @@
     },
     {
       "name": "X",
-      "letterboxdUrl": "https://letterboxd.com/film/x-2022/",
+      "letterboxdUrl": "https://letterboxd.com/film/x-2022",
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "X",
@@ -133,17 +139,20 @@
     },
     {
       "name": "Violent Night",
-      "letterboxdUrl": "https://letterboxd.com/film/violent-night/",
+      "letterboxdUrl": "https://letterboxd.com/film/violent-night",
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "Violent Night",
       "rating": 3.1,
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5cb72c186e704ceca5da65ad96008abe0467217d668359ba4987e06ca05e36d4._SX342_.jpg"
     },
     {
       "name": "Bones and All",
-      "letterboxdUrl": "https://letterboxd.com/film/bones-and-all/",
+      "letterboxdUrl": "https://letterboxd.com/film/bones-and-all",
       "listPosition": 0,
       "year": "2022",
       "originalTitle": "Bones and All",
@@ -164,7 +173,19 @@
       "enabled": false
     },
     {
+      "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Paramount+",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Home of Horror",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Paramount+",
       "enabled": false
     },
     {
