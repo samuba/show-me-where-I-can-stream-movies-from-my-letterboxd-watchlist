@@ -1,10 +1,11 @@
 import cheerio from 'https://esm.sh/cheerio@1.0.0-rc.12'; //'npm:cheerio@1.0.0-rc.12';
+import csvToJson from 'https://esm.sh/csvjson';
 import type { LetterboxdFilm, LetterboxdList, Film, LetterboxdListFile } from './src/app.d.ts';
 
 console.time('finished after');
 const startTime = new Date();
 const fileName = './src/letterboxdLists.json';
-const numberOfConcurrentFetches = 1;
+const numberOfConcurrentFetches = 5;
 
 const lists = Deno.readTextFileSync('letterboxdUrls.txt')
 	.split('\n')
@@ -33,16 +34,94 @@ console.log('\nfinished after ' + timeTillNow(startTime));
 ///
 
 async function createEntry(listName: string, url: string) {
-	console.log('fetching for ' + listName);
+	const films: Film[] = url.includes('imdb.com/')
+		? await processImdbList(listName, url)
+		: await processLetterboxdList(listName, url);
+
+	let streamProviders = [] as string[];
+	films.forEach((x) => {
+		streamProviders = [...new Set([...streamProviders, ...x.streamProviders])];
+	});
+	streamProviders.sort();
+
+	return {
+		name: listName,
+		url,
+		description: await fetchListDescription(url),
+		entries: films,
+		streamProviders: streamProviders.map((x) => ({ name: x, enabled: false }))
+	} as LetterboxdList;
+}
+async function processImdbList(listName: string, url: string) {
+	const csv = (await (await fetch(url)).text()) as string;
+	const jsonn = csvToJson.toObject(csv, { delimiter: ',', quote: '"' }) as ImdbEntry[];
+
+	const entries = jsonn.map((x) => ({
+		name: x.Title,
+		originalTitle: x.Title,
+		year: x.Year === '' ? undefined : parseInt(x.Year as string) + '',
+		rating: x['IMDb Rating'] === '' ? undefined : parseFloat(x['IMDb Rating'] as string),
+		listPosition: x.Position,
+		numberOfEpisodes: undefined,
+		letterboxdUrl: undefined,
+		type: x['Title Type']
+	}));
+
+	const results = [] as Film[];
+	let cursor = 0;
+	while (cursor < entries.length) {
+		const chunk = entries.slice(cursor, cursor + numberOfConcurrentFetches);
+		const chunkResults = await Promise.all(chunk.map((x) => getFilmStreamInfo(x)));
+		console.log(chunkResults);
+		results.push(...chunkResults);
+		cursor += numberOfConcurrentFetches;
+	}
+
+	// for (const entry of entries) {
+	// 	results.push(await getFilmStreamInfo(entry));
+	// 	console.log(results);
+	// }
+
+	// console.log(entries);
+	return results;
+	interface ImdbEntry {
+		Position: number;
+		Const: string;
+		Created: Date;
+		Modified: Date;
+		Description: string;
+		Title: string;
+		URL: string;
+		'Title Type': ImdbTitleType;
+		'IMDb Rating': number | string;
+		'Runtime (mins)': number | string;
+		Year: number | string;
+		Genres: string;
+		'Num Votes': number | string;
+		'Release Date': string;
+		Directors: string;
+		'Your Rating': number | string;
+		'Date Rated': string;
+	}
+
+	enum ImdbTitleType {
+		Movie = 'movie',
+		Short = 'short',
+		TvEpisode = 'tvEpisode',
+		TvMiniSeries = 'tvMiniSeries',
+		TvMovie = 'tvMovie',
+		TvSeries = 'tvSeries',
+		Video = 'video',
+		VideoGame = 'videoGame'
+	}
+}
+
+async function processLetterboxdList(listName: string, url: string) {
 	const firstPage = 1;
 	let currentPage = firstPage;
 	let lastPage = 9999; // will be overriden
 
-	// if (firstPage !== lastPage) {
-	//   Deno.writeTextFileSync(fileName, "");
-	// }
-
-	const films = [] as Film[];
+	const films: Film[] = [];
 	while (currentPage <= lastPage) {
 		console.log(`fetching page ${currentPage}`);
 		console.time('page');
@@ -93,20 +172,7 @@ async function createEntry(listName: string, url: string) {
 		}
 		console.timeEnd('page');
 	}
-
-	let streamProviders = [] as string[];
-	films.forEach((x) => {
-		streamProviders = [...new Set([...streamProviders, ...x.streamProviders])];
-	});
-	streamProviders.sort();
-
-	return {
-		name: listName,
-		url,
-		description: await fetchListDescription(url),
-		entries: films,
-		streamProviders: streamProviders.map((x) => ({ name: x, enabled: false }))
-	} as LetterboxdList;
+	return films;
 }
 
 async function fetchListDescription(listUrl: string) {
@@ -135,7 +201,6 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 		const rating = Number(Number($('[name="twitter:data2"]').attr('content')?.split(' ')?.[0] || '0').toFixed(1));
 		const imageUrl =
 			html.match(/"image":"https:\/\/a\.ltrbxd\.com\/resized\/.+?(?=")/)?.[0].replace(`"image":"`, ``) ?? '';
-		console.log({ imageUrl });
 
 		const filmWithInfo = await getFilmStreamInfo({ ...movie, year, originalTitle, rating, imageUrl });
 		infoCache.set(movie.letterboxdUrl, filmWithInfo);
@@ -164,7 +229,11 @@ async function getFilmStreamInfo(movie: LetterboxdFilm, retries = 0) {
 		const firstMovie = $('[itemprop="itemListElement"]')
 			.filter((_, el) => $(el).find('[itemprop="dateCreated"]').attr('content')?.includes(movie.year))
 			.first();
-		// const imageUrl = firstMovie.find('.poster img').attr('src'); using letterboxd imgs instead
+
+		if (!movie.imageUrl) {
+			movie.imageUrl = firstMovie.find('.poster img').attr('src'); // letterboxd fills this
+		}
+
 		const movieUrl = 'https://www.werstreamt.es/' + firstMovie.find('[itemprop="url"]').attr('href');
 
 		if (!movieUrl) {
@@ -188,7 +257,7 @@ async function getFilmStreamInfo(movie: LetterboxdFilm, retries = 0) {
 			})
 			.get();
 
-		return { ...movie, streamProviders, streamProvidersOriginalTitle };
+		return { ...movie, streamProviders, streamProvidersOriginalTitle } as Film;
 	} catch (error) {
 		if (retries > 9) {
 			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);
