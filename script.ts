@@ -185,7 +185,7 @@ async function getFilmStreamInfo(movie: LetterboxdFilm, retries = 0) {
 			})
 			.get();
 
-		return { ...movie, streamProviders, streamListProvidersOriginalTitle };
+		return { ...movie, streamProviders };
 	} catch (error) {
 		if (retries > 9) {
 			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);
