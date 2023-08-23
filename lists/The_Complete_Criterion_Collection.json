@@ -7702,7 +7702,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/zg/zo/xu/hm/9KG8BHXfj0hyQm005vSMr5Co1iW-0-230-0-345-crop.jpg?v=ab192355a5",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Zoku Zatôichi monogatari"
+      "streamProvidersOriginalTitle": "Zatôichi monogatari"
     },
     {
       "name": "La Notte",
@@ -10146,8 +10146,12 @@
       "originalTitle": "Stagecoach",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/7/4/51174-stagecoach-0-230-0-345-crop.jpg?v=9f0a1f0c3e",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels GRJNGO – Westernfilme",
+        "Prime Video Channels Wild West"
+      ],
+      "streamProvidersOriginalTitle": "Stagecoach"
     },
     {
       "name": "The Fugitive Kind",
@@ -17961,6 +17965,10 @@
     },
     {
       "name": "Prime Video Channels Silverline",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Wild West",
       "enabled": false
     },
     {
