@@ -141,16 +141,6 @@
 												{movie.rating}★
 											</div>
 										</div>
-										{#if movie.streamProvidersOriginalTitle && movie.originalTitle != movie.streamProvidersOriginalTitle}
-											<div
-												style="font-size: 12pt; color: white;  transform: translateY(-600%); background: red;display: flex; justify-content: center;"
-											>
-												probably not correct
-											</div>
-										{:else}
-											<!-- cuz otherwise position of the other changes -->
-											<div style="font-size: 12pt;">&nbsp;</div>
-										{/if}
 									</div>
 								</a>
 							</div>
