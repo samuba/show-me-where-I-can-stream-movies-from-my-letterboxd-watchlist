@@ -1,0 +1,810 @@
+{
+  "name": "Samuels IMDB Serien Watchlist",
+  "url": "https://www.imdb.com/list/ls054301730/export",
+  "description": "",
+  "entries": [
+    {
+      "name": "Hannibal",
+      "originalTitle": "Hannibal",
+      "year": "2013",
+      "rating": 8.5,
+      "listPosition": "1",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2243973/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Borgen",
+      "originalTitle": "Borgen",
+      "year": "2010",
+      "rating": 8.5,
+      "listPosition": "75",
+      "letterboxdUrl": "https://www.imdb.com/title/tt1526318/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Hoshi no koe",
+      "originalTitle": "Hoshi no koe",
+      "year": "2002",
+      "rating": 7.1,
+      "listPosition": "80",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0370754/",
+      "type": "short",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "ほしのこえ"
+    },
+    {
+      "name": "Les revenants",
+      "originalTitle": "Les revenants",
+      "year": "2012",
+      "rating": 8.1,
+      "listPosition": "85",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2521668/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Kokoro Connect",
+      "originalTitle": "Kokoro Connect",
+      "year": "2012",
+      "rating": 7.4,
+      "listPosition": "90",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2250034/",
+      "type": "tvMiniSeries",
+      "imageUrl": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1560x2340/catalog/crunchyroll/3cc2a02548c242c19f668d88aa72a1ac.jpe",
+      "streamProviders": [
+        "Crunchyroll"
+      ],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Halt and Catch Fire",
+      "originalTitle": "Halt and Catch Fire",
+      "year": "2014",
+      "rating": 8.4,
+      "listPosition": "92",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2543312/",
+      "type": "tvSeries",
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/0/p10492658_b_v12_af_2021-12-08T18_56_35.jpg&out=jpeg",
+      "streamProviders": [
+        "MagentaTV"
+      ],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Ibarâdo jikan",
+      "originalTitle": "Ibarâdo jikan",
+      "year": "2007",
+      "rating": 6.7,
+      "listPosition": "97",
+      "letterboxdUrl": "https://www.imdb.com/title/tt1161426/",
+      "type": "video",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "True Detective",
+      "originalTitle": "True Detective",
+      "year": "2014",
+      "rating": 8.9,
+      "listPosition": "100",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2356777/",
+      "type": "tvSeries",
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/0/p10291550_b_v12_aj_2022-07-13T15_47_29.jpg&out=jpeg",
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "The Wire",
+      "originalTitle": "The Wire",
+      "year": "2002",
+      "rating": 9.3,
+      "listPosition": "101",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0306414/",
+      "type": "tvSeries",
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2023/06/image/jpeg/4090eecf43ecc77b92195bdf5858cad8.jpg",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "The Scoundrel's Wife"
+    },
+    {
+      "name": "The Venture Bros.",
+      "originalTitle": "The Venture Bros.",
+      "year": "2003",
+      "rating": 8.6,
+      "listPosition": "102",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0417373/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Danger 5",
+      "originalTitle": "Danger 5",
+      "year": "2011",
+      "rating": 8.3,
+      "listPosition": "110",
+      "letterboxdUrl": "https://www.imdb.com/title/tt1807165/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "The Knick",
+      "originalTitle": "The Knick",
+      "year": "2014",
+      "rating": 8.5,
+      "listPosition": "117",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2937900/",
+      "type": "tvSeries",
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2015/11/image/jpeg/53105310b7c33976f446a369e2d8ddab.jpg",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "Tapped Out"
+    },
+    {
+      "name": "Deutschland 83",
+      "originalTitle": "Deutschland 83",
+      "year": "2015",
+      "rating": 8.1,
+      "listPosition": "120",
+      "letterboxdUrl": "https://www.imdb.com/title/tt4445154/",
+      "type": "tvMiniSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Im Angesicht des Verbrechens",
+      "originalTitle": "Im Angesicht des Verbrechens",
+      "year": "2010",
+      "rating": 8,
+      "listPosition": "121",
+      "letterboxdUrl": "https://www.imdb.com/title/tt1223917/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Italian Spiderman",
+      "originalTitle": "Italian Spiderman",
+      "year": "2007",
+      "rating": 7.9,
+      "listPosition": "127",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2705436/",
+      "type": "short",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Clannad: After Story",
+      "originalTitle": "Clannad: After Story",
+      "year": "2008",
+      "rating": 8.6,
+      "listPosition": "128",
+      "letterboxdUrl": "https://www.imdb.com/title/tt1298820/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Michiko to Hatchin",
+      "originalTitle": "Michiko to Hatchin",
+      "year": "2008",
+      "rating": 7.5,
+      "listPosition": "143",
+      "letterboxdUrl": "https://www.imdb.com/title/tt1324968/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.crunchyroll.com/imgsrv/display/thumbnail/1560x2340/catalog/crunchyroll/1cb25124304f503e49cc1ba63bb1f683.jpe",
+      "streamProviders": [
+        "Crunchyroll"
+      ],
+      "streamProvidersOriginalTitle": "Michiko to Hatchin"
+    },
+    {
+      "name": "The Night Manager",
+      "originalTitle": "The Night Manager",
+      "year": "2016",
+      "rating": 8,
+      "listPosition": "146",
+      "letterboxdUrl": "https://www.imdb.com/title/tt1399664/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Black Mirror",
+      "originalTitle": "Black Mirror",
+      "year": "2011",
+      "rating": 8.7,
+      "listPosition": "153",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2085059/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "The Crown",
+      "originalTitle": "The Crown",
+      "year": "2016",
+      "rating": 8.6,
+      "listPosition": "160",
+      "letterboxdUrl": "https://www.imdb.com/title/tt4786824/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "The Crown of North America - Waterton-Glacier Peace Park"
+    },
+    {
+      "name": "It's Always Sunny in Philadelphia",
+      "originalTitle": "It's Always Sunny in Philadelphia",
+      "year": "2005",
+      "rating": 8.8,
+      "listPosition": "164",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0472954/",
+      "type": "tvSeries",
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2009/05/image/jpeg/551412f46c7e700cd14fd18e62bc48b0.jpg",
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Making a Murderer",
+      "originalTitle": "Making a Murderer",
+      "year": "2015",
+      "rating": 8.6,
+      "listPosition": "165",
+      "letterboxdUrl": "https://www.imdb.com/title/tt5189670/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/assets/Media/Posters/DE-MakingAMurderer-KeyArt-1000x1500-Thumbnail__ScaleWidthWzM0Ml0.jpg",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "The Office",
+      "originalTitle": "The Office",
+      "year": "2005",
+      "rating": 9,
+      "listPosition": "166",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0386676/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Goliath",
+      "originalTitle": "Goliath",
+      "year": "2016",
+      "rating": 8.1,
+      "listPosition": "168",
+      "letterboxdUrl": "https://www.imdb.com/title/tt4687880/",
+      "type": "tvSeries",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/aba2fc1a526892c8fb26490269429ac2865dcd523d14ca04a39f72c817e48080._SX342_.jpg",
+      "streamProviders": [
+        "Prime Video Channels Film Total"
+      ],
+      "streamProvidersOriginalTitle": "David and Goliath"
+    },
+    {
+      "name": "The Return of Sherlock Holmes",
+      "originalTitle": "The Return of Sherlock Holmes",
+      "year": "1986",
+      "rating": 8.7,
+      "listPosition": "188",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0090509/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "The Handmaid's Tale",
+      "originalTitle": "The Handmaid's Tale",
+      "year": "2017",
+      "rating": 8.4,
+      "listPosition": "189",
+      "letterboxdUrl": "https://www.imdb.com/title/tt5834204/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Ozark",
+      "originalTitle": "Ozark",
+      "year": "2017",
+      "rating": 8.5,
+      "listPosition": "190",
+      "letterboxdUrl": "https://www.imdb.com/title/tt5071412/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Taboo",
+      "originalTitle": "Taboo",
+      "year": "2017",
+      "rating": 8.3,
+      "listPosition": "196",
+      "letterboxdUrl": "https://www.imdb.com/title/tt3647998/",
+      "type": "tvSeries",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e5fac844e8abd28ec8975489af0bc9bebada29a0ff337e63510aded2223e7514._SX342_.jpg",
+      "streamProviders": [
+        "Prime Video Channels alleskino",
+        "Prime Video Channels MUBI",
+        "Sooner",
+        "alleskino",
+        "filmfriend"
+      ],
+      "streamProvidersOriginalTitle": "Tehran Taboo"
+    },
+    {
+      "name": "Babylon Berlin",
+      "originalTitle": "Babylon Berlin",
+      "year": "2017",
+      "rating": 8.4,
+      "listPosition": "199",
+      "letterboxdUrl": "https://www.imdb.com/title/tt4378376/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Ani*Kuri15",
+      "originalTitle": "Ani*Kuri15",
+      "year": "2007",
+      "rating": 6.6,
+      "listPosition": "203",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2171086/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Utopia",
+      "originalTitle": "Utopia",
+      "year": "2013",
+      "rating": 8.4,
+      "listPosition": "207",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2384811/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "Il treno va a Mosca"
+    },
+    {
+      "name": "American Crime Story",
+      "originalTitle": "American Crime Story",
+      "year": "2016",
+      "rating": 8.4,
+      "listPosition": "221",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2788432/",
+      "type": "tvSeries",
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/1/5/p15027154_b_v8_aa_2018-01-09T23_59_00.jpg&out=jpeg",
+      "streamProviders": [
+        "Disney+"
+      ],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Bad Banks",
+      "originalTitle": "Bad Banks",
+      "year": "2018",
+      "rating": 7.8,
+      "listPosition": "227",
+      "letterboxdUrl": "https://www.imdb.com/title/tt6258718/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Yojôhan shinwa taikei",
+      "originalTitle": "Yojôhan shinwa taikei",
+      "year": "2010",
+      "rating": 8.4,
+      "listPosition": "233",
+      "letterboxdUrl": "https://www.imdb.com/title/tt1847445/",
+      "type": "tvMiniSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Samurai Chanpurû",
+      "originalTitle": "Samurai Chanpurû",
+      "year": "2004",
+      "rating": 8.6,
+      "listPosition": "237",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0423731/",
+      "type": "tvSeries",
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2013/07/image/jpeg/f5f91d7e31c862cf580af48e732ec192.jpg",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Over the Garden Wall",
+      "originalTitle": "Over the Garden Wall",
+      "year": "2014",
+      "rating": 8.8,
+      "listPosition": "243",
+      "letterboxdUrl": "https://www.imdb.com/title/tt3718778/",
+      "type": "tvMiniSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Atlanta",
+      "originalTitle": "Atlanta",
+      "year": "2016",
+      "rating": 8.6,
+      "listPosition": "244",
+      "letterboxdUrl": "https://www.imdb.com/title/tt4288182/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Die Deutschen",
+      "originalTitle": "Die Deutschen",
+      "year": "2008",
+      "rating": 7.8,
+      "listPosition": "255",
+      "letterboxdUrl": "https://www.imdb.com/title/tt1236350/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Le voyage à travers l'impossible",
+      "originalTitle": "Le voyage à travers l'impossible",
+      "year": "1904",
+      "rating": 7.5,
+      "listPosition": "258",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0000499/",
+      "type": "short",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "Le Voyage à travers l'impossible"
+    },
+    {
+      "name": "La jetée",
+      "originalTitle": "La jetée",
+      "year": "1962",
+      "rating": 8.2,
+      "listPosition": "269",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0056119/",
+      "type": "short",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "La Jetée"
+    },
+    {
+      "name": "Dream Corp LLC",
+      "originalTitle": "Dream Corp LLC",
+      "year": "2016",
+      "rating": 7.3,
+      "listPosition": "272",
+      "letterboxdUrl": "https://www.imdb.com/title/tt5475704/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Nuit blanche",
+      "originalTitle": "Nuit blanche",
+      "year": "2010",
+      "rating": 7.3,
+      "listPosition": "275",
+      "letterboxdUrl": "https://www.imdb.com/title/tt1764525/",
+      "type": "short",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Fleabag",
+      "originalTitle": "Fleabag",
+      "year": "2016",
+      "rating": 8.7,
+      "listPosition": "282",
+      "letterboxdUrl": "https://www.imdb.com/title/tt5687612/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Silicon Valley",
+      "originalTitle": "Silicon Valley",
+      "year": "2014",
+      "rating": 8.5,
+      "listPosition": "291",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2575988/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Adventure Time: Distant Lands",
+      "originalTitle": "Adventure Time: Distant Lands",
+      "year": "2020",
+      "rating": 8.7,
+      "listPosition": "292",
+      "letterboxdUrl": "https://www.imdb.com/title/tt11165358/",
+      "type": "tvMiniSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "For All Mankind",
+      "originalTitle": "For All Mankind",
+      "year": "2019",
+      "rating": 8.1,
+      "listPosition": "293",
+      "letterboxdUrl": "https://www.imdb.com/title/tt7772588/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Foundation",
+      "originalTitle": "Foundation",
+      "year": "2021",
+      "rating": 7.5,
+      "listPosition": "294",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0804484/",
+      "type": "tvSeries",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/97773a9785f8ecf8c282eccc9e4d23ba3d3c89417a7abcb069e91b20980cec03._SX342_.jpg",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "Wrong Turn"
+    },
+    {
+      "name": "The Last Kingdom",
+      "originalTitle": "The Last Kingdom",
+      "year": "2015",
+      "rating": 8.5,
+      "listPosition": "295",
+      "letterboxdUrl": "https://www.imdb.com/title/tt4179452/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "UFO",
+      "originalTitle": "UFO",
+      "year": "2021",
+      "rating": 6.6,
+      "listPosition": "296",
+      "letterboxdUrl": "https://www.imdb.com/title/tt14866442/",
+      "type": "tvMiniSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Tokyo Vice",
+      "originalTitle": "Tokyo Vice",
+      "year": "2022",
+      "rating": 8,
+      "listPosition": "297",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2887954/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Orphan Black",
+      "originalTitle": "Orphan Black",
+      "year": "2013",
+      "rating": 8.3,
+      "listPosition": "298",
+      "letterboxdUrl": "https://www.imdb.com/title/tt2234222/",
+      "type": "tvSeries",
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/9/5/p9544316_b_v8_ai_2017-06-05T21_23_00.jpg&out=jpeg",
+      "streamProviders": [
+        "Prime Video Channels BBC Player"
+      ],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Counterpart",
+      "originalTitle": "Counterpart",
+      "year": "2017",
+      "rating": 8,
+      "listPosition": "299",
+      "letterboxdUrl": "https://www.imdb.com/title/tt4643084/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "The Rehearsal",
+      "originalTitle": "The Rehearsal",
+      "year": "2022",
+      "rating": 8.5,
+      "listPosition": "300",
+      "letterboxdUrl": "https://www.imdb.com/title/tt10802170/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Pantheon",
+      "originalTitle": "Pantheon",
+      "year": "2022",
+      "rating": 8.2,
+      "listPosition": "303",
+      "letterboxdUrl": "https://www.imdb.com/title/tt11680642/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "Black Panthers"
+    },
+    {
+      "name": "Ted Lasso",
+      "originalTitle": "Ted Lasso",
+      "year": "2020",
+      "rating": 8.8,
+      "listPosition": "304",
+      "letterboxdUrl": "https://www.imdb.com/title/tt10986410/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Mulligan",
+      "originalTitle": "Mulligan",
+      "year": "2023",
+      "rating": 4.8,
+      "listPosition": "305",
+      "letterboxdUrl": "https://www.imdb.com/title/tt11948642/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Crashing",
+      "originalTitle": "Crashing",
+      "year": "2016",
+      "rating": 7.6,
+      "listPosition": "306",
+      "letterboxdUrl": "https://www.imdb.com/title/tt5295524/",
+      "type": "tvSeries",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/3367f6d13f73b692a627380aa7a2d43d3aa151db3c2d1d6f6511de357f8da7e8._SX342_.jpg",
+      "streamProviders": [
+        "MagentaTV"
+      ],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Succession",
+      "originalTitle": "Succession",
+      "year": "2018",
+      "rating": 8.9,
+      "listPosition": "307",
+      "letterboxdUrl": "https://www.imdb.com/title/tt7660850/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Liberame : Nach dem Sturm",
+      "originalTitle": "Liberame : Nach dem Sturm",
+      "year": "2022",
+      "rating": 6.6,
+      "listPosition": "308",
+      "letterboxdUrl": "https://www.imdb.com/title/tt20913752/",
+      "type": "tvMiniSeries",
+      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/sweetprogrammanager/media/gracenote/2/2/p22683180_b_v8_ab_2022-09-01T05_08_04.jpg&out=jpeg",
+      "streamProviders": [
+        "Prime Video Channels ZDF select",
+        "MagentaTV"
+      ],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Arrested Development",
+      "originalTitle": "Arrested Development",
+      "year": "2003",
+      "rating": 8.7,
+      "listPosition": "309",
+      "letterboxdUrl": "https://www.imdb.com/title/tt0367279/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/assets/managed/0f13aea0c0812112c270030327654122__ScaleWidthWzM0Ml0.jpg",
+      "streamProviders": [
+        "Disney+",
+        "Netflix"
+      ],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Invasion",
+      "originalTitle": "Invasion",
+      "year": "2021",
+      "rating": 6.1,
+      "listPosition": "310",
+      "letterboxdUrl": "https://www.imdb.com/title/tt9737326/",
+      "type": "tvSeries",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "Jaws Invasion"
+    },
+    {
+      "name": "The Bear",
+      "originalTitle": "The Bear",
+      "year": "2022",
+      "rating": 8.5,
+      "listPosition": "311",
+      "letterboxdUrl": "https://www.imdb.com/title/tt14452776/",
+      "type": "tvSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    }
+  ],
+  "streamProviders": [
+    {
+      "name": "Crunchyroll",
+      "enabled": false
+    },
+    {
+      "name": "Disney+",
+      "enabled": false
+    },
+    {
+      "name": "MagentaTV",
+      "enabled": false
+    },
+    {
+      "name": "Netflix",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels BBC Player",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Film Total",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels MUBI",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels ZDF select",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels alleskino",
+      "enabled": false
+    },
+    {
+      "name": "Sky Go\nSky",
+      "enabled": false
+    },
+    {
+      "name": "Sky WOW",
+      "enabled": false
+    },
+    {
+      "name": "Sooner",
+      "enabled": false
+    },
+    {
+      "name": "alleskino",
+      "enabled": false
+    },
+    {
+      "name": "filmfriend",
+      "enabled": false
+    }
+  ]
+}
