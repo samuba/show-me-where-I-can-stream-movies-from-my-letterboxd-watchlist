@@ -2921,12 +2921,8 @@
       "originalTitle": "Stagecoach",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/7/4/51174-stagecoach-0-230-0-345-crop.jpg?v=9f0a1f0c3e",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels GRJNGO – Westernfilme",
-        "Prime Video Channels Wild West"
-      ],
-      "streamProvidersOriginalTitle": "Stagecoach"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Beauty and the Beast",
@@ -12580,10 +12576,6 @@
     },
     {
       "name": "Prime Video Channels Turk on Video",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Wild West",
       "enabled": false
     },
     {
