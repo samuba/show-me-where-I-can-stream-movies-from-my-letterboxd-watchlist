@@ -46,7 +46,7 @@ async function processImdbList(listName: string, url: string) {
 		rating: x.ratings?.rating as number,
 		numberOfEpisodes: x.metadata?.numberOfEpisodes as number,
 		listPosition: undefined as unknown as number,
-		letterboxdUrl: undefined as unknown as string
+		letterboxdUrl: x.URL as string
 	}));
 
 	console.log(items);

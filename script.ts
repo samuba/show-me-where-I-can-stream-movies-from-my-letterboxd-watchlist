@@ -54,18 +54,20 @@ async function createEntry(listName: string, url: string) {
 }
 async function processImdbList(listName: string, url: string) {
 	const csv = (await (await fetch(url)).text()) as string;
-	const jsonn = csvToJson.toObject(csv, { delimiter: ',', quote: '"' }) as ImdbEntry[];
+	const json = csvToJson.toObject(csv, { delimiter: ',', quote: '"' }) as ImdbEntry[];
 
-	const entries = jsonn.map((x) => ({
-		name: x.Title,
-		originalTitle: x.Title,
-		year: x.Year === '' ? undefined : parseInt(x.Year as string) + '',
-		rating: x['IMDb Rating'] === '' ? undefined : parseFloat(x['IMDb Rating'] as string),
-		listPosition: x.Position,
-		numberOfEpisodes: undefined,
-		letterboxdUrl: undefined,
-		type: x['Title Type']
-	}));
+	const entries = json
+		.filter((x) => ['tvMiniSeries', 'tvSeries', 'short', 'video'].includes(x['Title Type']))
+		.map((x) => ({
+			name: x.Title,
+			originalTitle: x.Title,
+			year: x.Year === '' ? undefined : parseInt(x.Year as string) + '',
+			rating: x['IMDb Rating'] === '' ? undefined : parseFloat(x['IMDb Rating'] as string),
+			listPosition: x.Position,
+			numberOfEpisodes: undefined,
+			letterboxdUrl: x.URL,
+			type: x['Title Type']
+		}));
 
 	const results = [] as Film[];
 	let cursor = 0;
@@ -77,12 +79,6 @@ async function processImdbList(listName: string, url: string) {
 		cursor += numberOfConcurrentFetches;
 	}
 
-	// for (const entry of entries) {
-	// 	results.push(await getFilmStreamInfo(entry));
-	// 	console.log(results);
-	// }
-
-	// console.log(entries);
 	return results;
 	interface ImdbEntry {
 		Position: number;
@@ -92,7 +88,7 @@ async function processImdbList(listName: string, url: string) {
 		Description: string;
 		Title: string;
 		URL: string;
-		'Title Type': ImdbTitleType;
+		'Title Type': 'movie' | 'short' | 'tvEpisode' | 'tvMiniSeries' | 'tvMovie' | 'tvSeries' | 'video' | 'videoGame';
 		'IMDb Rating': number | string;
 		'Runtime (mins)': number | string;
 		Year: number | string;
@@ -102,17 +98,6 @@ async function processImdbList(listName: string, url: string) {
 		Directors: string;
 		'Your Rating': number | string;
 		'Date Rated': string;
-	}
-
-	enum ImdbTitleType {
-		Movie = 'movie',
-		Short = 'short',
-		TvEpisode = 'tvEpisode',
-		TvMiniSeries = 'tvMiniSeries',
-		TvMovie = 'tvMovie',
-		TvSeries = 'tvSeries',
-		Video = 'video',
-		VideoGame = 'videoGame'
 	}
 }
 
