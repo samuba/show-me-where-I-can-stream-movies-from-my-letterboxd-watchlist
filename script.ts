@@ -133,7 +133,9 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 		const year = $('#featured-film-header .number').text();
 		const originalTitle = $('#featured-film-header em').text().replace('‘', '').replace('’', '') || movie.name;
 		const rating = Number(Number($('[name="twitter:data2"]').attr('content')?.split(' ')?.[0] || '0').toFixed(1));
-		const imageUrl = html.match(/https:\/\/a\.ltrbxd\.com\/resized\/film-poster.+?(?=")/)?.[0] ?? '';
+		const imageUrl =
+			html.match(/"image":"https:\/\/a\.ltrbxd\.com\/resized\/.+?(?=")/)?.[0].replace(`"image":"`, ``) ?? '';
+		console.log({ imageUrl });
 
 		const filmWithInfo = await getFilmStreamInfo({ ...movie, year, originalTitle, rating, imageUrl });
 		infoCache.set(movie.letterboxdUrl, filmWithInfo);
