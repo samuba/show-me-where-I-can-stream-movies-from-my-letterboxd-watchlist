@@ -124,6 +124,7 @@
 											title={movie.name}
 											alt={`${movie.name}`}
 										/>
+
 										<div style="display: flex; justify-content: space-between; font-size: 8.5pt;">
 											{#if movie.listPosition}
 												<div
@@ -140,6 +141,16 @@
 												{movie.rating}★
 											</div>
 										</div>
+										{#if movie.streamProvidersOriginalTitle && movie.originalTitle != movie.streamProvidersOriginalTitle}
+											<div
+												style="font-size: 12pt; color: white;  transform: translateY(-600%); background: red;display: flex; justify-content: center;"
+											>
+												probably not correct
+											</div>
+										{:else}
+											<!-- cuz otherwise position of the other changes -->
+											<div style="font-size: 12pt;">&nbsp;</div>
+										{/if}
 									</div>
 								</a>
 							</div>
