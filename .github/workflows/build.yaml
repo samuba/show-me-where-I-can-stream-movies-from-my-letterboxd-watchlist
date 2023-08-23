@@ -21,10 +21,9 @@ jobs:
       - run: echo 'export DENO_INSTALL="/home/ubuntu/.deno"; export PATH="$DENO_INSTALL/bin:$PATH"' >> ~/.bashrc && source ~/.bashrc
       - run: source ~/.bashrc
 
-
-      - run: npm run generateJson
-      - run: npm ci
-      - run: npm run build
+      - run: source ~/.bashrc && npm run generateJson
+      - run: source ~/.bashrc && npm ci
+      - run: source ~/.bashrc && npm run build
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
