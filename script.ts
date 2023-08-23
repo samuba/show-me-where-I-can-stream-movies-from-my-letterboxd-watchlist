@@ -133,8 +133,9 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 		const year = $('#featured-film-header .number').text();
 		const originalTitle = $('#featured-film-header em').text().replace('‘', '').replace('’', '') || movie.name;
 		const rating = Number(Number($('[name="twitter:data2"]').attr('content')?.split(' ')?.[0] || '0').toFixed(1));
+		const imageUrl = $('#poster-zoom img').attr('src');
 
-		const filmWithInfo = await getFilmStreamInfo2({ ...movie, year, originalTitle, rating });
+		const filmWithInfo = await getFilmStreamInfo({ ...movie, year, originalTitle, rating, imageUrl });
 		infoCache.set(movie.letterboxdUrl, filmWithInfo);
 		return filmWithInfo;
 	} catch (error) {
@@ -148,7 +149,7 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 	}
 }
 
-async function getFilmStreamInfo2(movie: LetterboxdFilm, retries = 0) {
+async function getFilmStreamInfo(movie: LetterboxdFilm, retries = 0) {
 	// consoleLogSameLine(' streamInfo.. ');
 	try {
 		const res = await fetchWithTimeout(
@@ -161,7 +162,7 @@ async function getFilmStreamInfo2(movie: LetterboxdFilm, retries = 0) {
 		const firstMovie = $('[itemprop="itemListElement"]')
 			.filter((_, el) => $(el).find('[itemprop="dateCreated"]').attr('content')?.includes(movie.year))
 			.first();
-		const imageUrl = firstMovie.find('.poster img').attr('src');
+		// const imageUrl = firstMovie.find('.poster img').attr('src'); using letterboxd imgs instead
 		const movieUrl = 'https://www.werstreamt.es/' + firstMovie.find('[itemprop="url"]').attr('href');
 
 		if (!movieUrl) {
@@ -184,52 +185,7 @@ async function getFilmStreamInfo2(movie: LetterboxdFilm, retries = 0) {
 			})
 			.get();
 
-		return { ...movie, streamProviders, imageUrl };
-	} catch (error) {
-		if (retries > 9) {
-			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);
-			return movie;
-		}
-		console.error(`${time()}` + '  error in getFilmStreamInfo for ' + movie.name + '. trying again...', error?.message);
-		await sleep(3000);
-		return await getFilmStreamInfo(movie, retries++);
-	}
-}
-
-async function getFilmStreamInfo(movie: LetterboxdFilm, retries = 0) {
-	consoleLogSameLine(' streamInfo.. ');
-	try {
-		const res = await fetchWithTimeout(
-			`https://www.justwatch.com/de/Suche?q=${encodeURIComponent(movie.originalTitle)}&content_type=movie`,
-			{
-				timeout: 10 * 1000,
-				headers: {
-					accept: '*/*',
-					'cache-control': 'no-cache',
-					'content-type': 'application/json',
-					pragma: 'no-cache'
-				},
-				referrer: 'https://www.justwatch.com/',
-				referrerPolicy: 'strict-origin-when-cross-origin',
-				mode: 'no-cors',
-				credentials: 'omit'
-			}
-		).then((x) => x.text());
-		const $ = cheerio.load(res);
-
-		if (res.length < 200) throw new Error(res);
-		const firstMovie = $('.search-content .title-list-row__row ')
-			.filter((_, el) => $(el).find('.header-year').text().includes(movie.year))
-			.first();
-		const imageUrl = firstMovie.find('.picture-comp__img').attr('src');
-		const streamProviders = firstMovie
-			.find('.price-comparison__grid__row--stream .provider-icon img')
-			.map((_, el) => {
-				return $(el).attr('alt');
-			})
-			.get();
-
-		return { ...movie, streamProviders, imageUrl };
+		return { ...movie, streamProviders, streamListProvidersOriginalTitle };
 	} catch (error) {
 		if (retries > 9) {
 			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);
