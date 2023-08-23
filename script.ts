@@ -174,6 +174,7 @@ async function getFilmStreamInfo(movie: LetterboxdFilm, retries = 0) {
 		const res2 = await fetchWithTimeout(movieUrl).then((x) => x.text());
 		$ = cheerio.load(res2);
 
+		const streamProvidersOriginalTitle = $('.ContentSummary [itemprop=alternateName]').text().trim();
 		const streamProviders = $('.provider')
 			.filter((_, el) => {
 				return $(el).find('small:contains("Flatrate")').parent().find('.fi-check').length > 0;
@@ -187,7 +188,7 @@ async function getFilmStreamInfo(movie: LetterboxdFilm, retries = 0) {
 			})
 			.get();
 
-		return { ...movie, streamProviders };
+		return { ...movie, streamProviders, streamProvidersOriginalTitle };
 	} catch (error) {
 		if (retries > 9) {
 			console.error('too many retries, aborting to not fall into infinity loop: ' + movie.name);

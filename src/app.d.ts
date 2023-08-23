@@ -18,7 +18,7 @@ export type LetterboxdFilm = {
 	listPosition: number;
 };
 
-export type Film = LetterboxdFilm & { streamProviders: string[] };
+export type Film = LetterboxdFilm & { streamProviders: string[]; streamProvidersOriginalTitle: string };
 
 export type LetterboxdList = {
 	name: string;
