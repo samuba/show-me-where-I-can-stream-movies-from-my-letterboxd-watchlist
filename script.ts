@@ -1,4 +1,4 @@
-import * as cheerio from 'npm:cheerio@1.0.0-rc.12';
+import cheerio from 'https://esm.sh/cheerio@1.0.0-rc.12'; //'npm:cheerio@1.0.0-rc.12';
 import type { LetterboxdFilm, LetterboxdList, Film, LetterboxdListFile } from './src/app.d.ts';
 
 console.time('finished after');
