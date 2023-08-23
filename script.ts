@@ -126,14 +126,14 @@ async function getFilmInfo(movie: LetterboxdFilm, retries = 0) {
 	}
 	try {
 		// consoleLogSameLine('  info.. \n');
-		const res = await fetchWithTimeout(movie.letterboxdUrl, { timeout: 10 * 1000 }).then((x) => x.text());
-		const $ = cheerio.load(res);
+		const html = await fetchWithTimeout(movie.letterboxdUrl, { timeout: 10 * 1000 }).then((x) => x.text());
+		const $ = cheerio.load(html);
 		const found = $('#featured-film-header h1').text() ? true : false;
 		if (!found) throw new Error('film not found in letterboxd' + movie.name);
 		const year = $('#featured-film-header .number').text();
 		const originalTitle = $('#featured-film-header em').text().replace('‘', '').replace('’', '') || movie.name;
 		const rating = Number(Number($('[name="twitter:data2"]').attr('content')?.split(' ')?.[0] || '0').toFixed(1));
-		const imageUrl = $('#poster-zoom img').attr('src');
+		const imageUrl = html.match(/https:\/\/a\.ltrbxd\.com\/resized\/film-poster.+?(?=")/)?.[0] ?? '';
 
 		const filmWithInfo = await getFilmStreamInfo({ ...movie, year, originalTitle, rating, imageUrl });
 		infoCache.set(movie.letterboxdUrl, filmWithInfo);
