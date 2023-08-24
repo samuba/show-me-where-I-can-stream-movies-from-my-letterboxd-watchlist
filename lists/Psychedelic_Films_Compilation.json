@@ -219,7 +219,8 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/pd/gu/t9/sd/rMe6ofbSzuhaxMebadufN1WbQOI-0-230-0-345-crop.jpg?v=ce31d758a4",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -570,8 +571,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -951,7 +951,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -1477,8 +1478,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -5208,9 +5208,7 @@
       "originalTitle": "The Shooting",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/8/9/22389-the-shooting-0-230-0-345-crop.jpg?v=d9a82e31ae",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "The Shooting"
     },
     {
@@ -5625,7 +5623,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/9/7/2/8/169728-the-babadook-0-230-0-345-crop.jpg?v=0821d9c945",
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The Babadook"
     },
@@ -5648,7 +5647,9 @@
       "originalTitle": "Sinister",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/e2/ry/mu/yc/hrRYY7FcRc46Ue7h9jcKiW1xqJ3-0-230-0-345-crop.jpg?v=c994fd880e",
-      "streamProviders": [],
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5884,8 +5885,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/p5/pm/yl/b4/e6K2JTX3dNl86yaRiyYVX1Qooq0-0-230-0-345-crop.jpg?v=86b03476f9",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -6748,7 +6748,7 @@
       "listPosition": 557,
       "year": "1944",
       "originalTitle": "Witch's Cradle",
-      "rating": 3.6,
+      "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/7/9/7/6/17976-witch-s-cradle-0-230-0-345-crop.jpg?v=17073d74f4",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -7440,7 +7440,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-230-0-345-crop.jpg?v=09a7c91f68",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Gone Girl"
     },
@@ -8051,7 +8052,8 @@
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/my/0q/ck/qq/showgirls-0-230-0-345-crop.jpg?v=2243cd1b54",
       "streamProviders": [
-        "Joyn"
+        "Joyn",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -9816,8 +9818,7 @@
         "Netflix",
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -10027,7 +10028,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4g/y9/qr/q9/pbAqLKoLydP7jl6P0vmYwlDtRPD-0-230-0-345-crop.jpg?v=8eb030b5f7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The King of Comedy"
     },
@@ -11188,7 +11190,7 @@
       "listPosition": 924,
       "year": "1996",
       "originalTitle": "The Rolling Stones Rock and Roll Circus",
-      "rating": 3.8,
+      "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/9/9/7/7/39977-the-rolling-stones-rock-and-roll-circus-0-230-0-345-crop.jpg?v=a440aa247f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""

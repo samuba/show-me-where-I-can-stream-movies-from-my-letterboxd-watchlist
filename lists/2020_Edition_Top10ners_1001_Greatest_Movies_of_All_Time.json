@@ -2116,8 +2116,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2921,8 +2920,12 @@
       "originalTitle": "Stagecoach",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/7/4/51174-stagecoach-0-230-0-345-crop.jpg?v=9f0a1f0c3e",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels GRJNGO – Westernfilme",
+        "Prime Video Channels Wild West"
+      ],
+      "streamProvidersOriginalTitle": "Stagecoach"
     },
     {
       "name": "Beauty and the Beast",
@@ -3208,8 +3211,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4183,7 +4185,8 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -4587,7 +4590,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4g/y9/qr/q9/pbAqLKoLydP7jl6P0vmYwlDtRPD-0-230-0-345-crop.jpg?v=8eb030b5f7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The King of Comedy"
     },
@@ -6146,7 +6150,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-230-0-345-crop.jpg?v=09a7c91f68",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Gone Girl"
     },
@@ -6460,7 +6465,8 @@
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Nightcrawler"
     },
@@ -6520,8 +6526,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -7581,8 +7586,7 @@
         "freenet Video",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7835,8 +7839,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -9464,8 +9467,7 @@
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "The Hurt Locker"
     },
@@ -12210,7 +12212,9 @@
       "originalTitle": "Mysterious Skin",
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/uo/r7/1v/1j/wynnf6LT4ueuCuREPRMtHGQIk5T-0-230-0-345-crop.jpg?v=b0c8031954",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Mysterious Skin"
     },
     {
@@ -12576,6 +12580,10 @@
     },
     {
       "name": "Prime Video Channels Turk on Video",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Wild West",
       "enabled": false
     },
     {

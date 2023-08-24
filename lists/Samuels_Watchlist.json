@@ -351,7 +351,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1360,7 +1361,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-230-0-345-crop.jpg?v=f2a22b1af9",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1761,7 +1763,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/3/9/9/8/5/239985-mushi-shi-the-next-chapter-drops-of-bells-0-230-0-345-crop.jpg?v=8676ac46a3",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "コードギアス　亡国のアキト 第4章「憎しみの記憶から」"
+      "streamProvidersOriginalTitle": "コードギアス 亡国のアキト 第3章「輝くもの天より堕つ」"
     },
     {
       "name": "Adventure Time: Islands",
@@ -2152,7 +2154,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mc/qb/uk/vv/qLaXnLzqleBWQtjvZ6JGVSaKoC3-0-230-0-345-crop.jpg?v=e37b6df74a",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2489,7 +2492,9 @@
       "originalTitle": "Utopia",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/0/3/1/167031-utopia-0-230-0-345-crop.jpg?v=244670517e",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -2742,7 +2747,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -3501,8 +3507,10 @@
       "originalTitle": "Tomorrowland",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Disney+"
+      ],
+      "streamProvidersOriginalTitle": "Tomorrowland"
     },
     {
       "name": "Hardcore Henry",
@@ -4185,7 +4193,7 @@
       "listPosition": 0,
       "year": "1996",
       "originalTitle": "United Trash",
-      "rating": 3.2,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/8/7/3/1/78731-united-trash-0-230-0-345-crop.jpg?v=b9d78449ce",
       "streamProviders": [
         "Prime Video Channels alleskino",
@@ -4206,7 +4214,8 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Seven Entertainment",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "De rouille et d'os"
     },

@@ -1323,8 +1323,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1721,8 +1720,12 @@
       "originalTitle": "Stagecoach",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/7/4/51174-stagecoach-0-230-0-345-crop.jpg?v=9f0a1f0c3e",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels GRJNGO – Westernfilme",
+        "Prime Video Channels Wild West"
+      ],
+      "streamProvidersOriginalTitle": "Stagecoach"
     },
     {
       "name": "The Lady Eve",
@@ -2082,8 +2085,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2118,7 +2120,8 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -3160,8 +3163,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -4628,7 +4630,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -4730,7 +4733,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4g/y9/qr/q9/pbAqLKoLydP7jl6P0vmYwlDtRPD-0-230-0-345-crop.jpg?v=8eb030b5f7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The King of Comedy"
     },
@@ -5096,8 +5100,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/5/21145-vagabond-0-230-0-345-crop.jpg?v=58e8e676c8",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Sans toit ni loi"
     },
@@ -9721,7 +9724,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -11083,8 +11087,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -11097,7 +11100,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/2/6/14926-burnt-by-the-sun-0-230-0-345-crop.jpg?v=72abfa28b7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Утомлённые солнцем"
     },
@@ -12033,6 +12037,10 @@
     },
     {
       "name": "Prime Video Channels Turk on Video",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Wild West",
       "enabled": false
     },
     {
