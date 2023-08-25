@@ -168,8 +168,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/1/1/51611-cleo-from-5-to-7-0-230-0-345-crop.jpg?v=57e2214b3d",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Cléo de 5 à 7"
     },
@@ -457,7 +456,8 @@
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
         "Prime Video Channels MUBI",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "M"
     },
@@ -1246,7 +1246,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/5/21145-vagabond-0-230-0-345-crop.jpg?v=58e8e676c8",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Sans toit ni loi"
     },
@@ -1905,8 +1906,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -2165,7 +2165,6 @@
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/6/51666-the-good-the-bad-and-the-ugly-0-230-0-345-crop.jpg?v=9474a84e63",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -2182,7 +2181,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2217,8 +2217,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -2474,8 +2473,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ge/yz/cw/u5/i8KstBy8SRi3CfplaufDA5VQLmf-0-230-0-345-crop.jpg?v=e67a74fefc",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "ลุงบุญมีระลึกชาติ (Lung Boonmee raluek chat)"
     },
@@ -2724,7 +2722,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/1y/p9/o1/xu/eCjATHunhgLl9ARKUFtmKguaWDJ-0-230-0-345-crop.jpg?v=0fb0026d30",
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Prime Video Channels Arthouse CNMA",
+        "Prime Video Channels Galactic Stream"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3274,6 +3273,10 @@
     },
     {
       "name": "Prime Video Channels GRJNGO – Westernfilme",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Galactic Stream",
       "enabled": false
     },
     {

@@ -351,8 +351,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1231,7 +1230,9 @@
       "originalTitle": "La casa lobo",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/9/5/7/1/429571-the-wolf-house-0-230-0-345-crop.jpg?v=34ae08eff4",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "La casa lobo"
     },
     {
@@ -1763,7 +1764,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/3/9/9/8/5/239985-mushi-shi-the-next-chapter-drops-of-bells-0-230-0-345-crop.jpg?v=8676ac46a3",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "コードギアス 亡国のアキト 第3章「輝くもの天より堕つ」"
+      "streamProvidersOriginalTitle": "コードギアス　亡国のアキト 第4章「憎しみの記憶から」"
     },
     {
       "name": "Adventure Time: Islands",
@@ -2282,6 +2283,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/qw/1c/o8/f5/yaPwrv8c2ZKVHdUicUUnA9LvCCh-0-230-0-345-crop.jpg?v=2db33610cd",
       "streamProviders": [
+        "Prime Video Channels Galactic Stream",
         "Prime Video Channels Moviedome PLUS"
       ],
       "streamProvidersOriginalTitle": "Los cronocrimenes"
@@ -2492,9 +2494,7 @@
       "originalTitle": "Utopia",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/0/3/1/167031-utopia-0-230-0-345-crop.jpg?v=244670517e",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -3121,6 +3121,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/0/6/2/47062-scanners-0-230-0-345-crop.jpg?v=41f5e788db",
       "streamProviders": [
         "Joyn",
+        "Prime Video Channels Galactic Stream",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
@@ -3308,7 +3309,7 @@
       "listPosition": 0,
       "year": "2016",
       "originalTitle": "Ang Babaeng Humayo",
-      "rating": 3.8,
+      "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/2/7/6/6/342766-the-woman-who-left-0-230-0-345-crop.jpg?v=aca031598f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Ang babaeng humayo"
@@ -4214,8 +4215,7 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "De rouille et d'os"
     },
@@ -4252,7 +4252,8 @@
       "rating": 2.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/0/6/118406-escape-from-tomorrow-0-230-0-345-crop.jpg?v=db0e7e46ae",
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Prime Video Channels Galactic Stream"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4821,6 +4822,10 @@
     },
     {
       "name": "Prime Video Channels GEO Television",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Galactic Stream",
       "enabled": false
     },
     {

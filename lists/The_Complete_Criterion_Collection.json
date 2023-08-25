@@ -25,7 +25,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -685,7 +686,9 @@
       "originalTitle": "Flickorna",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/4/0/7/4/104074-the-girls-0-230-0-345-crop.jpg?v=0231892ce1",
-      "streamProviders": [],
+      "streamProviders": [
+        "Netflix"
+      ],
       "streamProvidersOriginalTitle": "Flickorna"
     },
     {
@@ -1135,7 +1138,8 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/7/9/0/5/3/579053-farewell-amor-0-230-0-345-crop.jpg?v=7c9e5276a5",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1442,10 +1446,8 @@
       "originalTitle": "黃飛鴻之四王者之風",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/5/6/7/13567-once-upon-a-time-in-china-iv-0-230-0-345-crop.jpg?v=9e39b53159",
-      "streamProviders": [
-        "Prime Video Channels Netzkino Select"
-      ],
-      "streamProvidersOriginalTitle": "Gui jiao qi"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Once Upon a Time in China III",
@@ -1872,7 +1874,8 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/fo/wl/s1/2t/uFGubvhFdNS4cJdFHsCGuTpM9ZP-0-230-0-345-crop.jpg?v=af3c29d041",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3710,13 +3713,13 @@
       "streamProvidersOriginalTitle": "A Matter of Life and Death"
     },
     {
-      "name": "Sex, Lies, and Videotape",
+      "name": "sex, lies, and videotape",
       "letterboxdUrl": "https://letterboxd.com/film/sex-lies-and-videotape",
       "listPosition": 0,
       "year": "1989",
-      "originalTitle": "Sex, Lies, and Videotape",
+      "originalTitle": "sex, lies, and videotape",
       "rating": 3.8,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/0/5/2/51052-sex-lies-and-videotape-0-230-0-345-crop.jpg?v=f1b8a90d87",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/0/5/2/51052-sex-lies-and-videotape-0-230-0-345-crop.jpg?v=98a7b851e4",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Sex, Lies, and Videotape"
     },
@@ -6802,7 +6805,9 @@
       "originalTitle": "Ride in the Whirlwind",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/0/4/8/6048-ride-in-the-whirlwind-0-230-0-345-crop.jpg?v=3f40625d3d",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -6813,7 +6818,9 @@
       "originalTitle": "The Shooting",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/8/9/22389-the-shooting-0-230-0-345-crop.jpg?v=d9a82e31ae",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "The Shooting"
     },
     {
@@ -7045,6 +7052,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/0/6/2/47062-scanners-0-230-0-345-crop.jpg?v=41f5e788db",
       "streamProviders": [
         "Joyn",
+        "Prime Video Channels Galactic Stream",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
@@ -7408,8 +7416,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7699,7 +7706,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/zg/zo/xu/hm/9KG8BHXfj0hyQm005vSMr5Co1iW-0-230-0-345-crop.jpg?v=ab192355a5",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Zoku Zatôichi monogatari"
+      "streamProvidersOriginalTitle": "Zatôichi monogatari"
     },
     {
       "name": "La Notte",
@@ -10475,7 +10482,6 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/5/4/2/47542-gomorrah-0-230-0-345-crop.jpg?v=c0ec32062f",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels ARTHAUS+",
         "MagentaTV"
       ],
@@ -11576,8 +11582,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -12595,7 +12600,8 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -14161,7 +14167,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -15656,8 +15663,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -15925,7 +15931,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/5/21145-vagabond-0-230-0-345-crop.jpg?v=58e8e676c8",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Sans toit ni loi"
     },
@@ -15938,8 +15945,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/1/1/51611-cleo-from-5-to-7-0-230-0-345-crop.jpg?v=57e2214b3d",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Cléo de 5 à 7"
     },
@@ -16052,7 +16058,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/8/41838-carnival-of-souls-0-230-0-345-crop.jpg?v=a3719cf15b",
       "streamProviders": [
-        "Prime Video Channels FRANATIC – dein Film-Channel"
+        "Prime Video Channels FRANATIC – dein Film-Channel",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Carnival of Souls"
     },
@@ -16101,7 +16108,7 @@
       "listPosition": 0,
       "year": "1974",
       "originalTitle": "Il portiere di notte",
-      "rating": 3.3,
+      "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/1/5/6/35156-the-night-porter-0-230-0-345-crop.jpg?v=7dff684e4e",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Il portiere di notte"
@@ -16205,7 +16212,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -16372,7 +16380,9 @@
       "originalTitle": "Time Bandits",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/7/5/8/2/27582-time-bandits-0-230-0-345-crop.jpg?v=0de6454b3b",
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels Galactic Stream"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -16460,7 +16470,8 @@
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
         "Prime Video Channels MUBI",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "M"
     },
@@ -16606,7 +16617,7 @@
       "listPosition": 0,
       "year": "1975",
       "originalTitle": "Salò o le 120 giornate di Sodoma",
-      "rating": 3.2,
+      "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/8/6/5/48865-salo-or-the-120-days-of-sodom-0-230-0-345-crop.jpg?v=d44ef57732",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Salò o le 120 giornate di Sodoma"
@@ -17058,7 +17069,7 @@
       "listPosition": 0,
       "year": "1948",
       "originalTitle": "Hamnstad",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/6/3/2/14632-port-of-call-0-230-0-345-crop.jpg?v=b8e5d24b3f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Hamnstad"
@@ -17744,6 +17755,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/0/8/51308-2046-0-230-0-345-crop.jpg?v=52246d30bc",
       "streamProviders": [
+        "Prime Video Channels Galactic Stream",
         "Prime Video Channels superfresh"
       ],
       "streamProvidersOriginalTitle": ""
@@ -17912,6 +17924,10 @@
     },
     {
       "name": "Prime Video Channels GRJNGO – Westernfilme",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Galactic Stream",
       "enabled": false
     },
     {
