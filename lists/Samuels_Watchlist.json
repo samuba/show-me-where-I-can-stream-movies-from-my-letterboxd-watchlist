@@ -351,7 +351,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -964,8 +965,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -2155,8 +2155,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mc/qb/uk/vv/qLaXnLzqleBWQtjvZ6JGVSaKoC3-0-230-0-345-crop.jpg?v=e37b6df74a",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2747,8 +2746,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -3768,7 +3766,6 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/3/8/9/8/123898-lost-river-0-230-0-345-crop.jpg?v=9a46da7999",
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Good!Movies",
         "Prime Video Channels Silverline",
         "filmfriend"
@@ -3948,9 +3945,7 @@
       "originalTitle": "The Salvation",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ef/sm/qw/08/b8uBcz6CgXOUsZhf2Y4RLHCwk19-0-230-0-345-crop.jpg?v=19511686c5",
-      "streamProviders": [
-        "Prime Video Channels Filmtastic"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "The Salvation"
     },
     {
@@ -4215,7 +4210,8 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Seven Entertainment",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "De rouille et d'os"
     },
