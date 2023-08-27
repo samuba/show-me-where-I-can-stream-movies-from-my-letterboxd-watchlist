@@ -539,7 +539,7 @@
       "listPosition": 0,
       "year": "1984",
       "originalTitle": "SF新世紀 レンズマン",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/9/9/7/35997-lensman-0-230-0-345-crop.jpg?v=36b3e4bec9",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -670,7 +670,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -1305,6 +1306,10 @@
     },
     {
       "name": "MagentaTV",
+      "enabled": false
+    },
+    {
+      "name": "Mubi",
       "enabled": false
     },
     {

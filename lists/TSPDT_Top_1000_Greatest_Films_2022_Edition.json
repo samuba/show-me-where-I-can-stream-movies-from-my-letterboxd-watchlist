@@ -722,8 +722,7 @@
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
         "Prime Video Channels MUBI",
-        "alleskino",
-        "Mubi"
+        "alleskino"
       ],
       "streamProvidersOriginalTitle": "M"
     },
@@ -896,9 +895,7 @@
       "originalTitle": "GoodFellas",
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/8/3/51383-goodfellas-0-230-0-345-crop.jpg?v=c6c265f228",
-      "streamProviders": [
-        "Sky Go\nSky"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Goodfellas"
     },
     {
@@ -1190,8 +1187,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -1722,12 +1718,8 @@
       "originalTitle": "Stagecoach",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/7/4/51174-stagecoach-0-230-0-345-crop.jpg?v=9f0a1f0c3e",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels GRJNGO – Westernfilme",
-        "Prime Video Channels Wild West"
-      ],
-      "streamProvidersOriginalTitle": "Stagecoach"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Lady Eve",
@@ -2949,7 +2941,8 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ge/yz/cw/u5/i8KstBy8SRi3CfplaufDA5VQLmf-0-230-0-345-crop.jpg?v=e67a74fefc",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "ลุงบุญมีระลึกชาติ (Lung Boonmee raluek chat)"
     },
@@ -3021,7 +3014,7 @@
       "listPosition": 250,
       "year": "1952",
       "originalTitle": "西鶴一代女",
-      "rating": 4.1,
+      "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/7/8/4/21784-the-life-of-oharu-0-230-0-345-crop.jpg?v=bae70f143d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Saikaku ichidai onna"
@@ -3709,8 +3702,7 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4054,7 +4046,9 @@
       "originalTitle": "愛のコリーダ",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ek/4i/ah/od/ztLv3Co2uLZMV7YERWbPrTMUi03-0-230-0-345-crop.jpg?v=8bfd837cc8",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "愛のコリーダ"
     },
     {
@@ -4501,8 +4495,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "alleskino",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Werckmeister harmóniák"
     },
@@ -4633,7 +4626,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -4648,8 +4642,7 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4662,7 +4655,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-230-0-345-crop.jpg?v=fc5f972431",
       "streamProviders": [
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4735,7 +4729,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4g/y9/qr/q9/pbAqLKoLydP7jl6P0vmYwlDtRPD-0-230-0-345-crop.jpg?v=8eb030b5f7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The King of Comedy"
     },
@@ -6457,7 +6452,8 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/7/2/6/21726-the-wind-will-carry-us-0-230-0-345-crop.jpg?v=9a174e0e98",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Bād Mā Rā Chāhad Bord"
     },
@@ -7879,7 +7875,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -8644,8 +8641,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/5/0/6/31506-a-short-film-about-love-0-230-0-345-crop.jpg?v=56952ac29d",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Krótki film o milosci"
     },
@@ -9178,7 +9174,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -11088,8 +11085,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -12045,10 +12041,6 @@
     },
     {
       "name": "Prime Video Channels Turk on Video",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Wild West",
       "enabled": false
     },
     {

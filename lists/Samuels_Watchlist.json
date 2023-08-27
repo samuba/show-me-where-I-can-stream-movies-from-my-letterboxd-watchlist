@@ -630,8 +630,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -965,7 +964,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -1230,9 +1230,7 @@
       "originalTitle": "La casa lobo",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/9/5/7/1/429571-the-wolf-house-0-230-0-345-crop.jpg?v=34ae08eff4",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "La casa lobo"
     },
     {
@@ -1764,7 +1762,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/3/9/9/8/5/239985-mushi-shi-the-next-chapter-drops-of-bells-0-230-0-345-crop.jpg?v=8676ac46a3",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "コードギアス　亡国のアキト 第4章「憎しみの記憶から」"
+      "streamProvidersOriginalTitle": "コードギアス 亡国のアキト 第3章「輝くもの天より堕つ」"
     },
     {
       "name": "Adventure Time: Islands",
@@ -2331,9 +2329,7 @@
       "originalTitle": "The Disaster Artist",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/0/7/2/9/8/307298-the-disaster-artist-0-230-0-345-crop.jpg?v=fdf94cff54",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2493,7 +2489,9 @@
       "originalTitle": "Utopia",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/0/3/1/167031-utopia-0-230-0-345-crop.jpg?v=244670517e",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -2714,7 +2712,7 @@
       "listPosition": 0,
       "year": "2016",
       "originalTitle": "Ozark Sharks",
-      "rating": 3.5,
+      "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/1/9/6/2/341962-ozark-sharks-0-230-0-345-crop.jpg?v=a433788c74",
       "streamProviders": [
         "Amazon Prime Video",
@@ -2746,7 +2744,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -3506,10 +3505,8 @@
       "originalTitle": "Tomorrowland",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Tomorrowland"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Hardcore Henry",
@@ -4189,7 +4186,7 @@
       "listPosition": 0,
       "year": "1996",
       "originalTitle": "United Trash",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/8/7/3/1/78731-united-trash-0-230-0-345-crop.jpg?v=b9d78449ce",
       "streamProviders": [
         "Prime Video Channels alleskino",
