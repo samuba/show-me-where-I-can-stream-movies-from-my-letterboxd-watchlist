@@ -722,7 +722,8 @@
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
         "Prime Video Channels MUBI",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "M"
     },
@@ -1187,7 +1188,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -1648,7 +1650,6 @@
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/6/51666-the-good-the-bad-and-the-ugly-0-230-0-345-crop.jpg?v=9474a84e63",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -1718,8 +1719,12 @@
       "originalTitle": "Stagecoach",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/7/4/51174-stagecoach-0-230-0-345-crop.jpg?v=9f0a1f0c3e",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels GRJNGO – Westernfilme",
+        "Prime Video Channels Wild West"
+      ],
+      "streamProvidersOriginalTitle": "Stagecoach"
     },
     {
       "name": "The Lady Eve",
@@ -1916,7 +1921,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -2078,8 +2084,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2114,8 +2119,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -3155,7 +3159,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -3702,7 +3707,8 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4479,8 +4485,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -4495,7 +4500,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "alleskino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Werckmeister harmóniák"
     },
@@ -4626,8 +4632,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -7286,8 +7291,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino",
-        "Mubi"
+        "alleskino"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -8641,7 +8645,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/5/0/6/31506-a-short-film-about-love-0-230-0-345-crop.jpg?v=56952ac29d",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Krótki film o milosci"
     },
@@ -9040,6 +9045,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/4/8/5/51485-when-harry-met-sally--0-230-0-345-crop.jpg?v=2f277e2fe7",
       "streamProviders": [
+        "Joyn",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "When Harry Met Sally..."
@@ -9722,7 +9728,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -10760,7 +10767,7 @@
       "listPosition": 902,
       "year": "1986",
       "originalTitle": "英雄本色",
-      "rating": 3.8,
+      "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/2/7/2/45272-a-better-tomorrow-0-230-0-345-crop.jpg?v=80d99553ef",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "英雄本色"
@@ -11085,7 +11092,8 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -11607,8 +11615,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/8/41838-carnival-of-souls-0-230-0-345-crop.jpg?v=a3719cf15b",
       "streamProviders": [
-        "Prime Video Channels FRANATIC – dein Film-Channel",
-        "Mubi"
+        "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
       "streamProvidersOriginalTitle": "Carnival of Souls"
     },
@@ -12041,6 +12048,10 @@
     },
     {
       "name": "Prime Video Channels Turk on Video",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Wild West",
       "enabled": false
     },
     {

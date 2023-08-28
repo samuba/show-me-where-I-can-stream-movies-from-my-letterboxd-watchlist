@@ -379,9 +379,7 @@
       "letterboxdUrl": "https://www.imdb.com/title/tt2384811/",
       "type": "tvSeries",
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1692692284",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -743,7 +741,7 @@
       "name": "The Bear",
       "originalTitle": "The Bear",
       "year": "2022",
-      "rating": 8.5,
+      "rating": 8.6,
       "listPosition": "311",
       "letterboxdUrl": "https://www.imdb.com/title/tt14452776/",
       "type": "tvSeries",
@@ -762,10 +760,6 @@
     },
     {
       "name": "MagentaTV",
-      "enabled": false
-    },
-    {
-      "name": "Mubi",
       "enabled": false
     },
     {

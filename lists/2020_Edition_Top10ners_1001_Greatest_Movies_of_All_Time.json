@@ -154,7 +154,6 @@
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/6/51666-the-good-the-bad-and-the-ugly-0-230-0-345-crop.jpg?v=9474a84e63",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -289,7 +288,8 @@
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
         "Prime Video Channels MUBI",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "M"
     },
@@ -1907,7 +1907,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -2114,8 +2115,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2751,7 +2751,8 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2920,8 +2921,12 @@
       "originalTitle": "Stagecoach",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/7/4/51174-stagecoach-0-230-0-345-crop.jpg?v=9f0a1f0c3e",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Amazon Prime Video",
+        "Prime Video Channels GRJNGO – Westernfilme",
+        "Prime Video Channels Wild West"
+      ],
+      "streamProvidersOriginalTitle": "Stagecoach"
     },
     {
       "name": "Beauty and the Beast",
@@ -4180,8 +4185,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -4341,7 +4345,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -4797,7 +4802,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "alleskino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Werckmeister harmóniák"
     },
@@ -6519,7 +6525,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -6727,6 +6734,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/4/8/5/51485-when-harry-met-sally--0-230-0-345-crop.jpg?v=2f277e2fe7",
       "streamProviders": [
+        "Joyn",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "When Harry Met Sally..."
@@ -7579,7 +7587,8 @@
         "freenet Video",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Seven Entertainment",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7832,7 +7841,8 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -8002,7 +8012,8 @@
         "Prime Video Channels Filmtastic",
         "Prime Video Channels Galactic Stream",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Twelve Monkeys"
     },
@@ -8394,7 +8405,9 @@
       "originalTitle": "Krótki film o zabijaniu",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/9/2/8/45928-a-short-film-about-killing-0-230-0-345-crop.jpg?v=760d5ce10b",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Krótki film o zabijaniu"
     },
     {
@@ -8479,7 +8492,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/5/0/6/31506-a-short-film-about-love-0-230-0-345-crop.jpg?v=56952ac29d",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Krótki film o milosci"
     },
@@ -9458,7 +9472,8 @@
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The Hurt Locker"
     },
@@ -9484,7 +9499,8 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/8/1/0/49810-battle-royale-0-230-0-345-crop.jpg?v=a625ba98ef",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "バトル・ロワイアル"
     },
@@ -9675,7 +9691,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/8/4/2/5/188425-leviathan-0-230-0-345-crop.jpg?v=bef11afaa2",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -10700,7 +10717,8 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "El espinazo del diablo"
     },
@@ -10843,8 +10861,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino",
-        "Mubi"
+        "alleskino"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -12119,8 +12136,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -12203,7 +12219,9 @@
       "originalTitle": "Mysterious Skin",
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/uo/r7/1v/1j/wynnf6LT4ueuCuREPRMtHGQIk5T-0-230-0-345-crop.jpg?v=b0c8031954",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Mysterious Skin"
     },
     {
@@ -12573,6 +12591,10 @@
     },
     {
       "name": "Prime Video Channels Turk on Video",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Wild West",
       "enabled": false
     },
     {

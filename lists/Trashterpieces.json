@@ -22,11 +22,8 @@
       "originalTitle": "Them!",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/6/3/2/45632-them--0-230-0-345-crop.jpg?v=147e08659f",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
-      "streamProvidersOriginalTitle": "Them!"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Blood of Fu Manchu",
@@ -1152,8 +1149,7 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/4/5/6/8/24568-salon-kitty-0-230-0-345-crop.jpg?v=d34b9cbff4",
       "streamProviders": [
-        "Netzkino",
-        "Mubi"
+        "Netzkino"
       ],
       "streamProvidersOriginalTitle": "Salon Kitty"
     },
@@ -1836,7 +1832,8 @@
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/my/0q/ck/qq/showgirls-0-230-0-345-crop.jpg?v=2243cd1b54",
       "streamProviders": [
-        "Joyn"
+        "Joyn",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },

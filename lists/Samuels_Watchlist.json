@@ -4,6 +4,17 @@
   "description": "",
   "entries": [
     {
+      "name": "Guglhupfgeschwader",
+      "letterboxdUrl": "https://letterboxd.com/film/guglhupfgeschwader",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Guglhupfgeschwader",
+      "rating": 3.3,
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/6/5/8/1/3/765813-guglhupfgeschwader-0-230-0-345-crop.jpg?v=78aa10fc8a",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
       "name": "Boiling Point",
       "letterboxdUrl": "https://letterboxd.com/film/boiling-point-2021",
       "listPosition": 0,
@@ -351,8 +362,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -630,7 +640,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -1230,7 +1241,9 @@
       "originalTitle": "La casa lobo",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/9/5/7/1/429571-the-wolf-house-0-230-0-345-crop.jpg?v=34ae08eff4",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "La casa lobo"
     },
     {
@@ -1360,8 +1373,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-230-0-345-crop.jpg?v=f2a22b1af9",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1645,19 +1657,6 @@
       "streamProvidersOriginalTitle": ""
     },
     {
-      "name": "Rocky",
-      "letterboxdUrl": "https://letterboxd.com/film/rocky",
-      "listPosition": 0,
-      "year": "1976",
-      "originalTitle": "Rocky",
-      "rating": 4.1,
-      "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4z/ql/93/vq/2Zyuxm4fgCPKlnIdieHg7tfbxMS-0-230-0-345-crop.jpg?v=57dafbba23",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": ""
-    },
-    {
       "name": "Eyes Wide Shut",
       "letterboxdUrl": "https://letterboxd.com/film/eyes-wide-shut",
       "listPosition": 0,
@@ -1762,7 +1761,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/3/9/9/8/5/239985-mushi-shi-the-next-chapter-drops-of-bells-0-230-0-345-crop.jpg?v=8676ac46a3",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "コードギアス 亡国のアキト 第3章「輝くもの天より堕つ」"
+      "streamProvidersOriginalTitle": "コードギアス　亡国のアキト 第4章「憎しみの記憶から」"
     },
     {
       "name": "Adventure Time: Islands",
@@ -2489,9 +2488,7 @@
       "originalTitle": "Utopia",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/0/3/1/167031-utopia-0-230-0-345-crop.jpg?v=244670517e",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -2744,8 +2741,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -3014,20 +3010,6 @@
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
         "filmfriend"
-      ],
-      "streamProvidersOriginalTitle": ""
-    },
-    {
-      "name": "A Coffee in Berlin",
-      "letterboxdUrl": "https://letterboxd.com/film/a-coffee-in-berlin-2012",
-      "listPosition": 0,
-      "year": "2012",
-      "originalTitle": "Oh Boy",
-      "rating": 3.6,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/1/5/2/8/101528-a-coffee-in-berlin-0-230-0-345-crop.jpg?v=37c540ffc9",
-      "streamProviders": [
-        "Netflix",
-        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3306,7 +3288,7 @@
       "listPosition": 0,
       "year": "2016",
       "originalTitle": "Ang Babaeng Humayo",
-      "rating": 3.9,
+      "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/2/7/6/6/342766-the-woman-who-left-0-230-0-345-crop.jpg?v=aca031598f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Ang babaeng humayo"
@@ -3626,7 +3608,7 @@
       "listPosition": 0,
       "year": "2014",
       "originalTitle": "The Hacker Wars",
-      "rating": 3.4,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/4/2/3/8/224238-the-hacker-wars-0-230-0-345-crop.jpg?v=1c227e36d3",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -4207,8 +4189,7 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "De rouille et d'os"
     },

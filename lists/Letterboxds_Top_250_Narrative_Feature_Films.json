@@ -207,7 +207,6 @@
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/6/51666-the-good-the-bad-and-the-ugly-0-230-0-345-crop.jpg?v=9474a84e63",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -1113,7 +1112,8 @@
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
         "Prime Video Channels MUBI",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "M"
     },
@@ -1588,7 +1588,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "alleskino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Werckmeister harmóniák"
     },
@@ -1799,8 +1800,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -2053,7 +2053,8 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2266,8 +2267,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2785,7 +2785,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },

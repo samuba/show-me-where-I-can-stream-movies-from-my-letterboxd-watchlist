@@ -219,8 +219,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/pd/gu/t9/sd/rMe6ofbSzuhaxMebadufN1WbQOI-0-230-0-345-crop.jpg?v=ce31d758a4",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -571,8 +570,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -953,8 +951,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -1560,8 +1557,7 @@
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/6/1/0/9/96109-spring-breakers-0-230-0-345-crop.jpg?v=419b8d6331",
       "streamProviders": [
-        "Prime Video Channels Moviedome PLUS",
-        "Mubi"
+        "Prime Video Channels Moviedome PLUS"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1711,8 +1707,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1815,7 +1810,8 @@
         "Prime Video Channels Filmtastic",
         "Prime Video Channels Galactic Stream",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Twelve Monkeys"
     },
@@ -3798,8 +3794,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/sj/00/0d/n1/aQkyFHzNzZoMhxZ7c0IaK8BljED-0-230-0-345-crop.jpg?v=338dcff82c",
       "streamProviders": [
         "Prime Video Channels Filmtastic",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4607,8 +4602,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/9/8/6/48986-prospero-s-books-0-230-0-345-crop.jpg?v=51ef4f61ed",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "Netzkino",
-        "Mubi"
+        "Netzkino"
       ],
       "streamProvidersOriginalTitle": "Prospero's Books"
     },
@@ -7894,8 +7888,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/2/6/9/45269-leningrad-cowboys-go-america-0-230-0-345-crop.jpg?v=9c6cb3cc04",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -8061,7 +8054,8 @@
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/my/0q/ck/qq/showgirls-0-230-0-345-crop.jpg?v=2243cd1b54",
       "streamProviders": [
-        "Joyn"
+        "Joyn",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -9089,9 +9083,7 @@
       "originalTitle": "Bliss",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/4/4/7/8/514478-bliss-0-230-0-345-crop.jpg?v=fa91f40319",
-      "streamProviders": [
-        "Prime Video Channels Silverline"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Bliss"
     },
     {
@@ -11393,12 +11385,8 @@
       "originalTitle": "The Chronicles of Riddick",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/0/8/7/50087-the-chronicles-of-riddick-0-230-0-345-crop.jpg?v=34b39ddd3d",
-      "streamProviders": [
-        "Netflix",
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
-      "streamProvidersOriginalTitle": "The Chronicles of Riddick"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "The Chronicles of Riddick: Dark Fury"
     },
     {
       "name": "Christmas on Mars",
