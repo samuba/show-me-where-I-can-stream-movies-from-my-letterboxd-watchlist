@@ -137,7 +137,7 @@
       "listPosition": 0,
       "year": "2019",
       "originalTitle": "Plus One",
-      "rating": 3.4,
+      "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/7/9/8/9/437989-plus-one-0-230-0-345-crop.jpg?v=e2769d9468",
       "streamProviders": [
         "Joyn"
@@ -269,7 +269,7 @@
       "listPosition": 0,
       "year": "2023",
       "originalTitle": "Letzter Abend",
-      "rating": 0,
+      "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/5/7/6/9/8/957698-one-last-evening-0-230-0-345-crop.jpg?v=e733f72625",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -283,8 +283,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -452,7 +451,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -912,8 +912,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },

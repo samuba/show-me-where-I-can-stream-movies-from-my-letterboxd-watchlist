@@ -74,9 +74,7 @@
       "originalTitle": "Evil Dead",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/he/wz/f9/h1/6gtHgAxgemVd3pIQlbg4YoniqEY-0-230-0-345-crop.jpg?v=c86fe09a93",
-      "streamProviders": [
-        "Prime Video Channels Home of Horror"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -196,10 +194,6 @@
     },
     {
       "name": "Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Home of Horror",
       "enabled": false
     },
     {

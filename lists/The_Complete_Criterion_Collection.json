@@ -377,8 +377,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/6/9/7/4/4/669744-petite-maman-0-230-0-345-crop.jpg?v=c7cbed5a06",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Petite maman"
     },
@@ -686,7 +685,9 @@
       "originalTitle": "Flickorna",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/4/0/7/4/104074-the-girls-0-230-0-345-crop.jpg?v=0231892ce1",
-      "streamProviders": [],
+      "streamProviders": [
+        "Netflix"
+      ],
       "streamProvidersOriginalTitle": "Flickorna"
     },
     {
@@ -963,7 +964,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/3/7/1/7/73717-sambizanga-0-230-0-345-crop.jpg?v=076bb60f26",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -976,7 +978,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/9/5/5/0/4/695504-faya-dayi-0-230-0-345-crop.jpg?v=2520446d64",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1134,8 +1137,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/7/9/0/5/3/579053-farewell-amor-0-230-0-345-crop.jpg?v=7c9e5276a5",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1442,8 +1444,10 @@
       "originalTitle": "黃飛鴻之四王者之風",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/5/6/7/13567-once-upon-a-time-in-china-iv-0-230-0-345-crop.jpg?v=9e39b53159",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Prime Video Channels Netzkino Select"
+      ],
+      "streamProvidersOriginalTitle": "Gui jiao qi"
     },
     {
       "name": "Once Upon a Time in China III",
@@ -1779,7 +1783,7 @@
       "listPosition": 0,
       "year": "1986",
       "originalTitle": "Ethnic Notions",
-      "rating": 4,
+      "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/1/3/8/8/111388-ethnic-notions-0-230-0-345-crop.jpg?v=087d31cd3d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3107,8 +3111,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/6/6/9/15669-where-is-the-friend-s-house--0-230-0-345-crop.jpg?v=fa9af1e128",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Khane-ye doust kodjast?"
     },
@@ -6801,9 +6804,7 @@
       "originalTitle": "Ride in the Whirlwind",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/0/4/8/6048-ride-in-the-whirlwind-0-230-0-345-crop.jpg?v=3f40625d3d",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -6997,7 +6998,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -7010,8 +7012,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -7335,8 +7336,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/4/3/2/7432-dry-summer-0-230-0-345-crop.jpg?v=42e9a65efc",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Susuz yaz"
     },
@@ -7411,8 +7411,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7867,7 +7866,7 @@
       "listPosition": 0,
       "year": "1952",
       "originalTitle": "西鶴一代女",
-      "rating": 4.2,
+      "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/7/8/4/21784-the-life-of-oharu-0-230-0-345-crop.jpg?v=bae70f143d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Saikaku ichidai onna"
@@ -11047,9 +11046,7 @@
       "originalTitle": "愛のコリーダ",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ek/4i/ah/od/ztLv3Co2uLZMV7YERWbPrTMUi03-0-230-0-345-crop.jpg?v=8bfd837cc8",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "愛のコリーダ"
     },
     {
@@ -12601,8 +12598,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -13451,7 +13447,7 @@
       "listPosition": 0,
       "year": "1988",
       "originalTitle": "Tanner '88",
-      "rating": 3.6,
+      "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/5/1/0/5/3/251053-tanner-88-0-230-0-345-crop.jpg?v=4a87624a35",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -15268,7 +15264,7 @@
       "listPosition": 0,
       "year": "1995",
       "originalTitle": "Carl Th. Dreyer: Min metier",
-      "rating": 3.4,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/1/3/713-carl-th-dreyer-my-metier-0-230-0-345-crop.jpg?v=12c99f7443",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Carl Th. Dreyer: Min metier"
@@ -15931,8 +15927,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/5/21145-vagabond-0-230-0-345-crop.jpg?v=58e8e676c8",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Sans toit ni loi"
     },
@@ -16212,7 +16207,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -17321,7 +17317,8 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/6/5/5/167655-along-the-coast-0-230-0-345-crop.jpg?v=ad000755eb",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -17345,7 +17342,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/8/9/8/6/78986-diary-of-a-pregnant-woman-0-230-0-345-crop.jpg?v=fcfbf5a549",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "L'opéra-Mouffe"
     },
@@ -17435,8 +17433,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/9/7/9/1/109791-black-panthers-0-230-0-345-crop.jpg?v=d430b2c305",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },

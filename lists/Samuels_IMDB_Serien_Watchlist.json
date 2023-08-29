@@ -343,7 +343,8 @@
         "Prime Video Channels MUBI",
         "Sooner",
         "alleskino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Tehran Taboo"
     },
@@ -747,6 +748,17 @@
       "type": "tvSeries",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Bad Behaviour",
+      "originalTitle": "Bad Behaviour",
+      "year": "2023",
+      "rating": 6.3,
+      "listPosition": "313",
+      "letterboxdUrl": "https://www.imdb.com/title/tt18273514/",
+      "type": "tvMiniSeries",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     }
   ],
   "streamProviders": [
@@ -760,6 +772,10 @@
     },
     {
       "name": "MagentaTV",
+      "enabled": false
+    },
+    {
+      "name": "Mubi",
       "enabled": false
     },
     {

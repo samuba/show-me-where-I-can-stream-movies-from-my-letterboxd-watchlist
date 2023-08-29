@@ -528,7 +528,7 @@
       "listPosition": 47,
       "year": "1977",
       "originalTitle": "Death Game",
-      "rating": 3.3,
+      "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/3/4/4/4/73444-death-game-0-230-0-345-crop.jpg?v=6028eaf90e",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Death Game"
@@ -1149,7 +1149,8 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/4/5/6/8/24568-salon-kitty-0-230-0-345-crop.jpg?v=d34b9cbff4",
       "streamProviders": [
-        "Netzkino"
+        "Netzkino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salon Kitty"
     },
@@ -1832,7 +1833,6 @@
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/my/0q/ck/qq/showgirls-0-230-0-345-crop.jpg?v=2243cd1b54",
       "streamProviders": [
-        "Joyn",
         "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
@@ -1881,7 +1881,9 @@
       "originalTitle": "Trash Humpers",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/5/7/7/18577-trash-humpers-0-230-0-345-crop.jpg?v=00aea60327",
-      "streamProviders": [],
+      "streamProviders": [
+        "Sooner"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2351,7 +2353,7 @@
       "listPosition": 204,
       "year": "1956",
       "originalTitle": "The Violent Years",
-      "rating": 2.8,
+      "rating": 2.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/9/1/9/9919-the-violent-years-0-230-0-345-crop.jpg?v=05854eb202",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -2737,6 +2739,10 @@
     },
     {
       "name": "Sky WOW",
+      "enabled": false
+    },
+    {
+      "name": "Sooner",
       "enabled": false
     },
     {
