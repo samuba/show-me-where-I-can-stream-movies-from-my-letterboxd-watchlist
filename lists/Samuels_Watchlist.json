@@ -975,8 +975,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -1241,7 +1240,9 @@
       "originalTitle": "La casa lobo",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/9/5/7/1/429571-the-wolf-house-0-230-0-345-crop.jpg?v=34ae08eff4",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "La casa lobo"
     },
     {
@@ -2151,8 +2152,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mc/qb/uk/vv/qLaXnLzqleBWQtjvZ6JGVSaKoC3-0-230-0-345-crop.jpg?v=e37b6df74a",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2741,7 +2741,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -3748,7 +3749,6 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/3/8/9/8/123898-lost-river-0-230-0-345-crop.jpg?v=9a46da7999",
       "streamProviders": [
         "Prime Video Channels Good!Movies",
-        "Prime Video Channels Silverline",
         "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
@@ -4159,6 +4159,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ll/up/1h/uu/6ppSHkDe7CoxyvFEc6JILuKnAu0-0-230-0-345-crop.jpg?v=37ae18ccbd",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
@@ -4305,7 +4306,8 @@
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
         "Sooner",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },

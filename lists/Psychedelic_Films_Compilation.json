@@ -219,7 +219,8 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/pd/gu/t9/sd/rMe6ofbSzuhaxMebadufN1WbQOI-0-230-0-345-crop.jpg?v=ce31d758a4",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -473,8 +474,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -686,8 +686,7 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -953,7 +952,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -3404,8 +3404,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d7/y1/ub/ph/lY4Y9buUIZY17vpvL5dsBpbORo0-0-230-0-345-crop.jpg?v=1e15ad22d2",
       "streamProviders": [
         "Sooner",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -5211,9 +5210,7 @@
       "originalTitle": "The Shooting",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/8/9/22389-the-shooting-0-230-0-345-crop.jpg?v=d9a82e31ae",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "The Shooting"
     },
     {
@@ -5726,7 +5723,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/t3/qn/vs/p5/s5fH3GqFcHbi2F0NSBSh4KRNTc0-0-230-0-345-crop.jpg?v=01880125bb",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProvidersOriginalTitle": "The Thing"
     },
     {
       "name": "Boyhood",
@@ -5892,8 +5889,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/p5/pm/yl/b4/e6K2JTX3dNl86yaRiyYVX1Qooq0-0-230-0-345-crop.jpg?v=86b03476f9",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -6756,7 +6752,7 @@
       "listPosition": 557,
       "year": "1944",
       "originalTitle": "Witch's Cradle",
-      "rating": 3.5,
+      "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/7/9/7/6/17976-witch-s-cradle-0-230-0-345-crop.jpg?v=17073d74f4",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -7077,7 +7073,7 @@
       "listPosition": 586,
       "year": "1960",
       "originalTitle": "Le Testament d'Orphée",
-      "rating": 3.8,
+      "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/7/5/2/4/27524-testament-of-orpheus-0-230-0-345-crop.jpg?v=afeb6d4ef4",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
@@ -7447,7 +7443,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-230-0-345-crop.jpg?v=09a7c91f68",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Gone Girl"
     },
@@ -7472,7 +7469,6 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/3/8/9/8/123898-lost-river-0-230-0-345-crop.jpg?v=9a46da7999",
       "streamProviders": [
         "Prime Video Channels Good!Movies",
-        "Prime Video Channels Silverline",
         "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
@@ -7891,8 +7887,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/2/6/9/45269-leningrad-cowboys-go-america-0-230-0-345-crop.jpg?v=9c6cb3cc04",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -9805,8 +9800,7 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "This Must Be the Place"
     },
@@ -9822,8 +9816,7 @@
         "Netflix",
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -10045,7 +10038,7 @@
       "listPosition": 831,
       "year": "2001",
       "originalTitle": "K-PAX",
-      "rating": 3.2,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/8/4/51884-k-pax-0-230-0-345-crop.jpg?v=eac3083dfb",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "K-PAX"
@@ -10511,8 +10504,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/2/9/1/51291-total-recall-0-230-0-345-crop.jpg?v=85f262b6c9",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Total Recall"
     },
@@ -10566,7 +10558,7 @@
       "streamProviders": [
         "Disney+"
       ],
-      "streamProvidersOriginalTitle": "Romeo + Juliet"
+      "streamProvidersOriginalTitle": "William Shakespeare's Romeo and Juliet"
     },
     {
       "name": "Mrs. Doubtfire",
@@ -11363,7 +11355,7 @@
       "listPosition": 938,
       "year": "1984",
       "originalTitle": "Dreamscape",
-      "rating": 3,
+      "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/0/2/3/37023-dreamscape-0-230-0-345-crop.jpg?v=c43458de22",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Dreamscape"
