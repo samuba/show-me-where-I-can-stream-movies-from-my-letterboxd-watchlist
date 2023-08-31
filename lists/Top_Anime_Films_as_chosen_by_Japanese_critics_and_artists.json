@@ -670,7 +670,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -1027,7 +1028,7 @@
       "listPosition": 0,
       "year": "2002",
       "originalTitle": "クレヨンしんちゃん 嵐を呼ぶ アッパレ！戦国大合戦",
-      "rating": 3.6,
+      "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/2/7/9/7/92797-crayon-shin-chan-fierceness-that-invites-storm-the-battle--0-230-0-345-crop.jpg?v=cfdd214b51",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Bokunchi"
@@ -1305,6 +1306,10 @@
     },
     {
       "name": "MagentaTV",
+      "enabled": false
+    },
+    {
+      "name": "Mubi",
       "enabled": false
     },
     {

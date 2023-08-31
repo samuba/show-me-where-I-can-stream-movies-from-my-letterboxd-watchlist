@@ -66,7 +66,7 @@
       "listPosition": 0,
       "year": "2023",
       "originalTitle": "Aporia",
-      "rating": 0,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/7/9/2/8/457928-aporia-0-230-0-345-crop.jpg?v=753c16d069",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -975,7 +975,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -1140,11 +1141,7 @@
       "originalTitle": "Fiddler on the Roof",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/8/0/0/42800-fiddler-on-the-roof-0-230-0-345-crop.jpg?v=b6fafe2a6b",
-      "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Fiddler on the Roof"
     },
     {
@@ -1372,8 +1369,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-230-0-345-crop.jpg?v=f2a22b1af9",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2152,7 +2148,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mc/qb/uk/vv/qLaXnLzqleBWQtjvZ6JGVSaKoC3-0-230-0-345-crop.jpg?v=e37b6df74a",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3289,7 +3286,7 @@
       "listPosition": 0,
       "year": "2016",
       "originalTitle": "Ang Babaeng Humayo",
-      "rating": 3.8,
+      "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/2/7/6/6/342766-the-woman-who-left-0-230-0-345-crop.jpg?v=aca031598f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Ang babaeng humayo"
@@ -4599,7 +4596,7 @@
       "year": "",
       "originalTitle": "The Prototype",
       "rating": 0,
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1692692284",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1693398557",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Prototype This!"
     },

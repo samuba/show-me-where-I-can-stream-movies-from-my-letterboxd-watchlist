@@ -452,8 +452,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -913,7 +912,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1145,9 +1145,7 @@
       "originalTitle": "One & Two",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/5/0/3/8/7/250387-one-two-0-230-0-345-crop.jpg?v=e3613bc5b8",
-      "streamProviders": [
-        "filmfriend"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
