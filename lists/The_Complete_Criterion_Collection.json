@@ -25,7 +25,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -376,7 +377,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/6/9/7/4/4/669744-petite-maman-0-230-0-345-crop.jpg?v=c7cbed5a06",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Petite maman"
     },
@@ -977,8 +979,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/9/5/5/0/4/695504-faya-dayi-0-230-0-345-crop.jpg?v=2520446d64",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1444,8 +1445,10 @@
       "originalTitle": "黃飛鴻之四王者之風",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/5/6/7/13567-once-upon-a-time-in-china-iv-0-230-0-345-crop.jpg?v=9e39b53159",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Prime Video Channels Netzkino Select"
+      ],
+      "streamProvidersOriginalTitle": "Gui jiao qi"
     },
     {
       "name": "Once Upon a Time in China III",
@@ -1872,8 +1875,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/fo/wl/s1/2t/uFGubvhFdNS4cJdFHsCGuTpM9ZP-0-230-0-345-crop.jpg?v=af3c29d041",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -6803,9 +6805,7 @@
       "originalTitle": "Ride in the Whirlwind",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/0/4/8/6048-ride-in-the-whirlwind-0-230-0-345-crop.jpg?v=3f40625d3d",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -6816,9 +6816,7 @@
       "originalTitle": "The Shooting",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/8/9/22389-the-shooting-0-230-0-345-crop.jpg?v=d9a82e31ae",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "The Shooting"
     },
     {
@@ -6999,7 +6997,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -7012,7 +7011,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -7336,8 +7336,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/4/3/2/7432-dry-summer-0-230-0-345-crop.jpg?v=42e9a65efc",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Susuz yaz"
     },
@@ -7412,8 +7411,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -8488,8 +8486,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/1s/rv/yf/4q/8f4gSxVxDk8A2UE0qOEjLAWljlb-0-230-0-345-crop.jpg?v=6702be2472",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Copie conforme"
     },
@@ -9275,7 +9272,8 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/3/0/2/8/23028-insignificance-0-230-0-345-crop.jpg?v=3314be143b",
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Prime Video Channels ARTHAUS+"
       ],
       "streamProvidersOriginalTitle": "Insignificance"
     },
@@ -9431,7 +9429,6 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels Good!Movies",
-        "Prime Video Channels Silverline",
         "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
@@ -11438,7 +11435,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/9/34829-mishima-a-life-in-four-chapters-0-230-0-345-crop.jpg?v=1bed76a9ae",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mishima: A Life in Four Chapters"
     },
@@ -12125,7 +12123,6 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
         "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
@@ -12596,7 +12593,8 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -13022,7 +13020,7 @@
       "listPosition": 0,
       "year": "1966",
       "originalTitle": "Au Hasard Balthazar",
-      "rating": 4,
+      "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/up/bb/3o/eu/aQBoH09Nq3AwXV7eyYtazsCiByG-0-230-0-345-crop.jpg?v=8a5085ef03",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Au hasard Balthazar"
@@ -13355,7 +13353,7 @@
       "listPosition": 0,
       "year": "1980",
       "originalTitle": "影武者",
-      "rating": 4.1,
+      "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/8/5/5/44855-kagemusha-0-230-0-345-crop.jpg?v=b2e8131ad7",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "影武者"
@@ -14161,8 +14159,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -14290,7 +14287,7 @@
       "listPosition": 0,
       "year": "2001",
       "originalTitle": "Lovesong",
-      "rating": 3.5,
+      "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/8/7/9/5/98795-lovesong-0-230-0-345-crop.jpg?v=1e40050ccb",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -15262,7 +15259,7 @@
       "listPosition": 0,
       "year": "1995",
       "originalTitle": "Carl Th. Dreyer: Min metier",
-      "rating": 3.3,
+      "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/1/3/713-carl-th-dreyer-my-metier-0-230-0-345-crop.jpg?v=12c99f7443",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Carl Th. Dreyer: Min metier"
@@ -16054,7 +16051,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/8/41838-carnival-of-souls-0-230-0-345-crop.jpg?v=a3719cf15b",
       "streamProviders": [
-        "Prime Video Channels FRANATIC – dein Film-Channel"
+        "Prime Video Channels FRANATIC – dein Film-Channel",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Carnival of Souls"
     },
@@ -16207,7 +16205,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -16277,8 +16276,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/3/4/5/32345-taste-of-cherry-0-230-0-345-crop.jpg?v=64fada0a9a",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Ta'm e guilass"
     },
@@ -16464,8 +16462,7 @@
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
         "Prime Video Channels MUBI",
-        "alleskino",
-        "Mubi"
+        "alleskino"
       ],
       "streamProvidersOriginalTitle": "M"
     },
@@ -17063,7 +17060,7 @@
       "listPosition": 0,
       "year": "1948",
       "originalTitle": "Hamnstad",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/6/3/2/14632-port-of-call-0-230-0-345-crop.jpg?v=b8e5d24b3f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Hamnstad"
@@ -17445,7 +17442,9 @@
       "originalTitle": "Lions Love",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/1/0/3510-lions-love-0-230-0-345-crop.jpg?v=8026fe78cc",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -17964,10 +17963,6 @@
     },
     {
       "name": "Prime Video Channels Seven Entertainment",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {

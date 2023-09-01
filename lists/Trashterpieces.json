@@ -528,7 +528,7 @@
       "listPosition": 47,
       "year": "1977",
       "originalTitle": "Death Game",
-      "rating": 3.4,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/3/4/4/4/73444-death-game-0-230-0-345-crop.jpg?v=6028eaf90e",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Death Game"
@@ -942,8 +942,7 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1033,7 +1032,7 @@
       "year": "1977",
       "originalTitle": "Elsa Fräulein SS",
       "rating": 0,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/5/4/6/6/75466-captive-women-4-0-230-0-345-crop.jpg?v=8706bc76c0",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/5/4/6/6/75466-captive-women-4-0-230-0-345-crop.jpg?v=b6b4b1c68f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -1069,7 +1068,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1393,7 +1393,7 @@
       "listPosition": 122,
       "year": "1978",
       "originalTitle": "Avere vent'anni",
-      "rating": 3.2,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/4/7/6/10476-to-be-twenty-0-230-0-345-crop.jpg?v=2e5601aa45",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Avere vent'anni"
@@ -1879,6 +1879,7 @@
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/5/7/7/18577-trash-humpers-0-230-0-345-crop.jpg?v=00aea60327",
       "streamProviders": [
+        "Prime Video Channels realeyz",
         "Sooner"
       ],
       "streamProvidersOriginalTitle": ""
@@ -2728,6 +2729,10 @@
     },
     {
       "name": "Prime Video Channels Silverline",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels realeyz",
       "enabled": false
     },
     {

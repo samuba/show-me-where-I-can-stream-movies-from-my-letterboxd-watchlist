@@ -77,7 +77,7 @@
       "listPosition": 0,
       "year": "2023",
       "originalTitle": "The Pod Generation",
-      "rating": 3.1,
+      "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/0/0/8/2/9/800829-the-pod-generation-0-230-0-345-crop.jpg?v=cd6555a418",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -299,8 +299,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/2/4/3/5/4/724354-vortex-0-230-0-345-crop.jpg?v=a6496735d0",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -362,7 +361,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1290,7 +1290,6 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
         "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
@@ -1369,7 +1368,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-230-0-345-crop.jpg?v=f2a22b1af9",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2706,7 +2706,7 @@
       "listPosition": 0,
       "year": "2016",
       "originalTitle": "Ozark Sharks",
-      "rating": 3.4,
+      "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/1/9/6/2/341962-ozark-sharks-0-230-0-345-crop.jpg?v=a433788c74",
       "streamProviders": [
         "Amazon Prime Video",
@@ -2889,7 +2889,8 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/7/5/7/2/8/275728-final-portrait-0-230-0-345-crop.jpg?v=38cd796692",
       "streamProviders": [
-        "Joyn"
+        "Joyn",
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3127,7 +3128,6 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/5/7/2/4/315724-zero-days-0-230-0-345-crop.jpg?v=a372a6fa90",
       "streamProviders": [
         "RTL+",
-        "Prime Video Channels GEO Television",
         "Prime Video Channels Geo wild + television"
       ],
       "streamProvidersOriginalTitle": ""
@@ -3286,7 +3286,7 @@
       "listPosition": 0,
       "year": "2016",
       "originalTitle": "Ang Babaeng Humayo",
-      "rating": 3.9,
+      "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/2/7/6/6/342766-the-woman-who-left-0-230-0-345-crop.jpg?v=aca031598f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Ang babaeng humayo"
@@ -3485,10 +3485,8 @@
       "originalTitle": "Tomorrowland",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Tomorrowland"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Hardcore Henry",
@@ -3536,7 +3534,9 @@
       "originalTitle": "Jackie Brown",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/08/3j/am/rx/4XVPYOdMAizdNMSwS0SK3fPJcvR-0-230-0-345-crop.jpg?v=ddcf6a79e0",
-      "streamProviders": [],
+      "streamProviders": [
+        "MagentaTV"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -4404,7 +4404,8 @@
       "rating": 2.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/3/3/6/2/73362-noah-0-230-0-345-crop.jpg?v=8cf9da3566",
       "streamProviders": [
-        "Disney+"
+        "Disney+",
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4487,6 +4488,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/jv/cp/zr/ye/igby-goes-down-0-230-0-345-crop.jpg?v=9c2493b07c",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels MGM+"
       ],
       "streamProvidersOriginalTitle": "Igby Goes Down"
@@ -4596,7 +4598,7 @@
       "year": "",
       "originalTitle": "The Prototype",
       "rating": 0,
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1693398557",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1693484779",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Prototype This!"
     },
@@ -4793,10 +4795,6 @@
     },
     {
       "name": "Prime Video Channels FlimmerkisteTV",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels GEO Television",
       "enabled": false
     },
     {

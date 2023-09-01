@@ -55,7 +55,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -70,8 +71,7 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -138,7 +138,9 @@
       "originalTitle": "Kill Bill: Vol. 1",
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/sw/w2/ep/v4/9O50TVszkz0dcP5g6Ej33UhR7vw-0-230-0-345-crop.jpg?v=5a65f5202f",
-      "streamProviders": [],
+      "streamProviders": [
+        "MagentaTV"
+      ],
       "streamProvidersOriginalTitle": "Kill Bill: Vol. 1"
     },
     {
@@ -168,7 +170,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -990,12 +993,10 @@
       "listPosition": 0,
       "year": "2014",
       "originalTitle": "Le sel de la terre",
-      "rating": 4.1,
+      "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/8/5/6/8/188568-the-salt-of-the-earth-0-230-0-345-crop.jpg?v=fb0d2cdb9e",
       "streamProviders": [
-        "RTL+",
         "Prime Video Channels ARD Plus",
-        "Prime Video Channels GEO Television",
         "Prime Video Channels Geo wild + television",
         "ARD Plus",
         "MagentaTV",
@@ -1717,7 +1718,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1798,10 +1800,6 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels GEO Television",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels Geo wild + television",
       "enabled": false
     },
@@ -1851,10 +1849,6 @@
     },
     {
       "name": "Prime Video Channels superfresh",
-      "enabled": false
-    },
-    {
-      "name": "RTL+",
       "enabled": false
     },
     {

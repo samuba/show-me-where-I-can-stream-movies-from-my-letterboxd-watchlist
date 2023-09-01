@@ -288,8 +288,7 @@
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
         "Prime Video Channels MUBI",
-        "alleskino",
-        "Mubi"
+        "alleskino"
       ],
       "streamProvidersOriginalTitle": "M"
     },
@@ -399,7 +398,6 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
         "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
@@ -1785,8 +1783,7 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2113,7 +2110,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3210,8 +3208,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4344,7 +4341,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -4666,7 +4664,7 @@
       "listPosition": 375,
       "year": "1966",
       "originalTitle": "Au Hasard Balthazar",
-      "rating": 4,
+      "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/up/bb/3o/eu/aQBoH09Nq3AwXV7eyYtazsCiByG-0-230-0-345-crop.jpg?v=8a5085ef03",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Au hasard Balthazar"
@@ -5810,8 +5808,7 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -5985,7 +5982,9 @@
       "originalTitle": "Kill Bill: Vol. 1",
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/sw/w2/ep/v4/9O50TVszkz0dcP5g6Ej33UhR7vw-0-230-0-345-crop.jpg?v=5a65f5202f",
-      "streamProviders": [],
+      "streamProviders": [
+        "MagentaTV"
+      ],
       "streamProvidersOriginalTitle": "Kill Bill: Vol. 1"
     },
     {
@@ -6147,8 +6146,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-230-0-345-crop.jpg?v=09a7c91f68",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Gone Girl"
     },
@@ -6361,7 +6359,7 @@
       "listPosition": 513,
       "year": "1980",
       "originalTitle": "影武者",
-      "rating": 4.1,
+      "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/8/5/5/44855-kagemusha-0-230-0-345-crop.jpg?v=b2e8131ad7",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "影武者"
@@ -6459,8 +6457,7 @@
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "Nightcrawler"
     },
@@ -6519,7 +6516,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -7834,7 +7832,8 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -8396,7 +8395,9 @@
       "originalTitle": "Krótki film o zabijaniu",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/9/2/8/45928-a-short-film-about-killing-0-230-0-345-crop.jpg?v=760d5ce10b",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Krótki film o zabijaniu"
     },
     {
@@ -9457,8 +9458,7 @@
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "The Hurt Locker"
     },
@@ -9484,8 +9484,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/8/1/0/49810-battle-royale-0-230-0-345-crop.jpg?v=a625ba98ef",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "バトル・ロワイアル"
     },
@@ -9885,7 +9884,7 @@
       "listPosition": 795,
       "year": "1933",
       "originalTitle": "The Invisible Man",
-      "rating": 3.9,
+      "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/hb/62/sv/wn/15w76PDsXtPjBgnEJlZLZceBfZR-0-230-0-345-crop.jpg?v=7b891db489",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "The Invisible Man"
@@ -10084,8 +10083,7 @@
         "freenet Video",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "Fruitvale Station"
     },
@@ -10604,8 +10602,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/3/4/5/32345-taste-of-cherry-0-230-0-345-crop.jpg?v=64fada0a9a",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Ta'm e guilass"
     },
@@ -11266,7 +11263,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/9/34829-mishima-a-life-in-four-chapters-0-230-0-345-crop.jpg?v=1bed76a9ae",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mishima: A Life in Four Chapters"
     },
@@ -11787,7 +11785,9 @@
       "originalTitle": "Jackie Brown",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/08/3j/am/rx/4XVPYOdMAizdNMSwS0SK3fPJcvR-0-230-0-345-crop.jpg?v=ddcf6a79e0",
-      "streamProviders": [],
+      "streamProviders": [
+        "MagentaTV"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -11822,7 +11822,7 @@
       "listPosition": 951,
       "year": "2004",
       "originalTitle": "کیسەڵەکانیش دەفڕن",
-      "rating": 4,
+      "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/31/nu/yu/am/maoGbtfSERgqu6J9qvAz4fzse8Z-0-230-0-345-crop.jpg?v=981dfdaa8d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -12120,7 +12120,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -12218,7 +12219,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/wg/dc/x2/1o/bDcqwNTwhEDfQHFj7jpt18N6Giz-0-230-0-345-crop.jpg?v=d0b239391d",
       "streamProviders": [
         "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Paramount+",
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "The Untouchables"
     },

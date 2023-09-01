@@ -612,7 +612,7 @@
       "listPosition": 55,
       "year": "1985",
       "originalTitle": "Gymkata",
-      "rating": 2.7,
+      "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/9/8/7/42987-gymkata-0-230-0-345-crop.jpg?v=1b647d65e3",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Gymkata"
@@ -2708,7 +2708,7 @@
       "listPosition": 242,
       "year": "1992",
       "originalTitle": "Violent Shit II",
-      "rating": 2.9,
+      "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/7/5/0/0/27500-violent-shit-ii-0-230-0-345-crop.jpg?v=da1829c575",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -2774,7 +2774,7 @@
       "listPosition": 248,
       "year": "2001",
       "originalTitle": "Shredder",
-      "rating": 2.7,
+      "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/7/4/9/2/27492-shredder-0-230-0-345-crop.jpg?v=e81643fec3",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -2822,7 +2822,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/8/6/9/4/388694-hellboy-0-230-0-345-crop.jpg?v=1a94bbde1e",
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\nSky"
+        "Sky Go\nSky",
+        "Prime Video Channels Galactic Stream"
       ],
       "streamProvidersOriginalTitle": "Hellboy"
     },
@@ -3192,7 +3193,7 @@
       "listPosition": 284,
       "year": "1994",
       "originalTitle": "Aftermath",
-      "rating": 2.6,
+      "rating": 2.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/5/3/7/31537-aftermath-0-230-0-345-crop.jpg?v=4cbcb6d4cd",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3672,7 +3673,7 @@
       "listPosition": 326,
       "year": "1989",
       "originalTitle": "Communion",
-      "rating": 3,
+      "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/8/0/33380-communion-0-230-0-345-crop.jpg?v=3c4932fc01",
       "streamProviders": [
         "Joyn"
@@ -4123,7 +4124,7 @@
       "listPosition": 366,
       "year": "1984",
       "originalTitle": "Gwendoline",
-      "rating": 3,
+      "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/9/6/5/5/39655-gwendoline-0-230-0-345-crop.jpg?v=91f9ae4fb5",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -6541,6 +6542,10 @@
     },
     {
       "name": "Prime Video Channels GRJNGO – Westernfilme",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Galactic Stream",
       "enabled": false
     },
     {
