@@ -69,7 +69,9 @@
       "originalTitle": "The Long Goodbye",
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/5/2/50752-the-long-goodbye-0-230-0-345-crop.jpg?v=09d57c0d87",
-      "streamProviders": [],
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
       "streamProvidersOriginalTitle": "The Long Goodbye"
     },
     {
@@ -101,7 +103,7 @@
       "year": "2023",
       "originalTitle": "The Super Mario Bros. Movie",
       "rating": 3.3,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/2/3/0/2/432302-the-super-mario-bros-movie-0-230-0-345-crop.jpg?v=fea7ccddda",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/2/3/0/2/432302-the-super-mario-bros-movie-0-230-0-345-crop.jpg?v=d7dd92386e",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "The Super Mario Bros. Movie"
     },
@@ -138,7 +140,7 @@
       "listPosition": 0,
       "year": "2019",
       "originalTitle": "Plus One",
-      "rating": 3.5,
+      "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/7/9/8/9/437989-plus-one-0-230-0-345-crop.jpg?v=e2769d9468",
       "streamProviders": [
         "Joyn"
@@ -284,8 +286,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -363,6 +364,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/4/2/7/7/3/542773-babylon-0-230-0-345-crop.jpg?v=aab2f01937",
       "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -438,6 +441,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/dr/hr/pz/ez/ehLb2SQ3djlA1FrQKbP2WO3VH09-0-230-0-345-crop.jpg?v=6489920a92",
       "streamProviders": [
+        "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -550,10 +554,7 @@
       "originalTitle": "The Shining",
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/7s/m2/bw/d0/caoYMcjUamGoBVy65i1AHJBvdzw-0-230-0-345-crop.jpg?v=88d9d6cce4",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "The Shining"
     },
     {
@@ -615,7 +616,7 @@
       "listPosition": 0,
       "year": "2013",
       "originalTitle": "Love Steaks",
-      "rating": 3.1,
+      "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/7/0/7/167707-love-steaks-0-230-0-345-crop.jpg?v=455603b94d",
       "streamProviders": [
         "Amazon Prime Video",
@@ -682,7 +683,10 @@
       "originalTitle": "Arrival",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/3u/dy/qd/qd/4Iu5f2nv7huqvuYkmZvSPOtbFjs-0-230-0-345-crop.jpg?v=0fc28fdf2c",
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -928,10 +932,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/2/6/9/5/322695-radio-home-0-230-0-345-crop.jpg?v=179ffcb3e4",
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels ProSieben FUN",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Filmtastic"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1530,10 +1531,7 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/6/5/5/2/96552-the-hobbit-the-battle-of-the-five-armies-0-230-0-345-crop.jpg?v=fcaa9a2943",
       "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
+        "Amazon Prime Video"
       ],
       "streamProvidersOriginalTitle": "The Hobbit: The Battle of the Five Armies"
     },
@@ -1676,10 +1674,6 @@
     },
     {
       "name": "Prime Video Channels Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels ProSieben FUN",
       "enabled": false
     },
     {

@@ -157,8 +157,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -216,7 +215,7 @@
       "listPosition": 18,
       "year": "2017",
       "originalTitle": "劇場版 黒子のバスケ LAST GAME",
-      "rating": 3.6,
+      "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/2/0/2/7/362027-kuroko-no-basket-last-game-0-230-0-345-crop.jpg?v=960d1a11fd",
       "streamProviders": [
         "Amazon Prime Video",
@@ -291,7 +290,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/5/1/0/37510-the-garden-of-sinners-chapter-5-paradox-spiral-0-230-0-345-crop.jpg?v=082e5f8cd8",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "20-seiki shônen: Honkaku kagaku bôken eiga"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Ghost in the Shell 2.0",
@@ -821,7 +820,7 @@
       "listPosition": 70,
       "year": "2000",
       "originalTitle": "吸血鬼ハンターD ブラッドラスト",
-      "rating": 3.9,
+      "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/9/2/0/41920-vampire-hunter-d-bloodlust-0-230-0-345-crop.jpg?v=9da12c9374",
       "streamProviders": [
         "Amazon Prime Video",
@@ -1157,7 +1156,7 @@
       "year": "1999",
       "originalTitle": "名探偵コナン 世紀末の魔術師",
       "rating": 3.6,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/5/1/33351-detective-conan-the-last-wizard-of-the-century-0-230-0-345-crop.jpg?v=be8e9f4aa7",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/5/1/33351-detective-conan-the-last-wizard-of-the-century-0-230-0-345-crop.jpg?v=a8f3526d18",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "名探偵コナン 世紀末の魔術師"
     },
@@ -1176,10 +1175,6 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Mubi",
       "enabled": false
     },
     {

@@ -39,8 +39,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
-        "Paramount+",
-        "MagentaTV"
+        "Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -71,7 +70,8 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -84,6 +84,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/dr/hr/pz/ez/ehLb2SQ3djlA1FrQKbP2WO3VH09-0-230-0-345-crop.jpg?v=6489920a92",
       "streamProviders": [
+        "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -170,8 +171,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -210,7 +210,7 @@
       "year": "1995",
       "originalTitle": "Desperado",
       "rating": 3.5,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/8/9/7/47897-desperado-0-230-0-345-crop.jpg?v=6db56dba92",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/8/9/7/47897-desperado-0-230-0-345-crop.jpg?v=424837bde6",
       "streamProviders": [
         "MagentaTV"
       ],
@@ -473,7 +473,10 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/4/46344-fantastic-mr-fox-0-230-0-345-crop.jpg?v=3a2a858065",
       "streamProviders": [
-        "Disney+"
+        "Joyn",
+        "Disney+",
+        "Prime Video Channels ProSieben FUN",
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "Fantastic Mr. Fox"
     },
@@ -623,9 +626,7 @@
       "originalTitle": "The Social Network",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/nw/cm/pa/ai/sGQv3ZMZBDBnl3z42Q0mEQ5uiDe-0-230-0-345-crop.jpg?v=54ee59f7cd",
-      "streamProviders": [
-        "Prime Video Channels SONY AXN"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -661,6 +662,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/0/8/6/0/40860-district-9-0-230-0-345-crop.jpg?v=15130016b7",
       "streamProviders": [
+        "Prime Video Channels AXN Black",
         "Prime Video Channels SONY AXN"
       ],
       "streamProvidersOriginalTitle": ""
@@ -727,7 +729,9 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/9/5/139795-birdman-0-230-0-345-crop.jpg?v=345680513e",
       "streamProviders": [
-        "Disney+"
+        "Disney+",
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Birdman or (The Unexpected Virtue of Ignorance)"
     },
@@ -753,6 +757,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/2/6/7/1/62671-12-years-a-slave-0-230-0-345-crop.jpg?v=f29aef4645",
       "streamProviders": [
+        "Amazon Prime Video",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
@@ -814,7 +819,8 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/1/50951-lammbock-0-230-0-345-crop.jpg?v=b78e48be99",
       "streamProviders": [
-        "Disney+"
+        "Disney+",
+        "Netflix"
       ],
       "streamProvidersOriginalTitle": "Lammbock - Alles in Handarbeit"
     },
@@ -892,6 +898,7 @@
         "Amazon Prime Video",
         "Disney+",
         "Netflix",
+        "Prime Video Channels MUBI",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "The Revenant"
@@ -997,7 +1004,6 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/8/5/6/8/188568-the-salt-of-the-earth-0-230-0-345-crop.jpg?v=fb0d2cdb9e",
       "streamProviders": [
         "Prime Video Channels ARD Plus",
-        "Prime Video Channels Geo wild + television",
         "ARD Plus",
         "MagentaTV",
         "filmfriend"
@@ -1082,7 +1088,10 @@
       "originalTitle": "Arrival",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/3u/dy/qd/qd/4Iu5f2nv7huqvuYkmZvSPOtbFjs-0-230-0-345-crop.jpg?v=0fc28fdf2c",
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1193,6 +1202,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/pp/ya/j6/9k/kH7Jwo3Pv0pbosU4rzDafTigIZx-0-230-0-345-crop.jpg?v=5acfbde8a0",
       "streamProviders": [
+        "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Moviedome PLUS"
       ],
       "streamProvidersOriginalTitle": ""
@@ -1563,7 +1573,6 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
       "streamProviders": [
-        "Joyn",
         "Disney+",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
@@ -1718,8 +1727,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1788,6 +1796,10 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels AXN Black",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Arthouse CNMA",
       "enabled": false
     },
@@ -1797,10 +1809,6 @@
     },
     {
       "name": "Prime Video Channels Filmtastic",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Geo wild + television",
       "enabled": false
     },
     {

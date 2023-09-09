@@ -9,7 +9,7 @@
       "listPosition": 1,
       "year": "1975",
       "originalTitle": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
-      "rating": 4.2,
+      "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/9/21149-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-0-230-0-345-crop.jpg?v=952ed786ed",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles"
@@ -456,7 +456,6 @@
         "Amazon Prime Video",
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
-        "Prime Video Channels MUBI",
         "alleskino"
       ],
       "streamProvidersOriginalTitle": "M"
@@ -511,6 +510,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
+        "Sooner",
         "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
@@ -833,7 +833,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-230-0-345-crop.jpg?v=2b4c871ed4",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les glaneurs et la glaneuse"
     },
@@ -1078,10 +1079,7 @@
       "originalTitle": "The Shining",
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/7s/m2/bw/d0/caoYMcjUamGoBVy65i1AHJBvdzw-0-230-0-345-crop.jpg?v=88d9d6cce4",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "The Shining"
     },
     {
@@ -1177,7 +1175,9 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/2/0/2/51202-the-general-0-230-0-345-crop.jpg?v=f4cd0213d7",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels GRJNGO – Westernfilme"
+        "Prime Video Channels GRJNGO – Westernfilme",
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The General"
     },
@@ -1190,7 +1190,6 @@
       "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vz/7i/ka/ys/6ED4Wr2vgOc7yPiXIqovwLiQfCl-0-230-0-345-crop.jpg?v=3da900f744",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -1381,7 +1380,7 @@
       "year": "1958",
       "originalTitle": "Touch of Evil",
       "rating": 4.2,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/0/1/8/51018-touch-of-evil-0-230-0-345-crop.jpg?v=ef2a9a12de",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/0/1/8/51018-touch-of-evil-0-230-0-345-crop.jpg?v=279a6824a4",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Touch of Evil"
     },
@@ -1705,7 +1704,10 @@
       "originalTitle": "The Wild Bunch",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/5/4/4/51544-the-wild-bunch-0-230-0-345-crop.jpg?v=a8eabc58f5",
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "streamProvidersOriginalTitle": "The Wild Bunch"
     },
     {
@@ -1845,7 +1847,10 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/2/3/51323-chinatown-0-230-0-345-crop.jpg?v=b8e65cb89f",
       "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
@@ -1899,8 +1904,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -2009,7 +2013,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/6/6/9/15669-where-is-the-friend-s-house--0-230-0-345-crop.jpg?v=fa9af1e128",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Khane-ye doust kodjast?"
     },
@@ -2065,7 +2070,7 @@
       "listPosition": 169,
       "year": "1962",
       "originalTitle": "El ángel exterminador",
-      "rating": 4.1,
+      "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/0/0/8/33008-the-exterminating-angel-0-230-0-345-crop.jpg?v=2d01d47687",
       "streamProviders": [
         "Amazon Prime Video"
@@ -2160,6 +2165,7 @@
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/6/51666-the-good-the-bad-and-the-ugly-0-230-0-345-crop.jpg?v=9474a84e63",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -2176,7 +2182,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2375,8 +2382,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -2468,7 +2474,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ge/yz/cw/u5/i8KstBy8SRi3CfplaufDA5VQLmf-0-230-0-345-crop.jpg?v=e67a74fefc",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "ลุงบุญมีระลึกชาติ (Lung Boonmee raluek chat)"
     },
@@ -2536,6 +2542,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/4/6/8/47468-the-tree-of-life-0-230-0-345-crop.jpg?v=1794f394ea",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
@@ -2860,7 +2867,7 @@
       "listPosition": 234,
       "year": "2000",
       "originalTitle": "As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty",
-      "rating": 4.4,
+      "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/1/5/5/9/101559-as-i-was-moving-ahead-occasionally-i-saw-brief-glimpses-o-0-230-0-345-crop.jpg?v=3baa1e2af7",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3188,7 +3195,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/3/4/5/32345-taste-of-cherry-0-230-0-345-crop.jpg?v=64fada0a9a",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ta'm e guilass"
     },

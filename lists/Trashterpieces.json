@@ -22,8 +22,11 @@
       "originalTitle": "Them!",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/6/3/2/45632-them--0-230-0-345-crop.jpg?v=147e08659f",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "streamProvidersOriginalTitle": "Them!"
     },
     {
       "name": "The Blood of Fu Manchu",
@@ -1068,8 +1071,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1393,7 +1395,7 @@
       "listPosition": 122,
       "year": "1978",
       "originalTitle": "Avere vent'anni",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/4/7/6/10476-to-be-twenty-0-230-0-345-crop.jpg?v=2e5601aa45",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Avere vent'anni"
@@ -1529,7 +1531,7 @@
       "listPosition": 134,
       "year": "1987",
       "originalTitle": "Miami Connection",
-      "rating": 3.2,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/3/8/6838-miami-connection-0-230-0-345-crop.jpg?v=5c02ece37d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -1791,7 +1793,7 @@
       "listPosition": 156,
       "year": "1996",
       "originalTitle": "覚悟のススメ",
-      "rating": 3.2,
+      "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/7/4/4/3/57443-apocalypse-zero-0-230-0-345-crop.jpg?v=e29e2dbcf2",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -1816,8 +1818,6 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/8l/jd/rr/y2/vGBtnm9clhAjLp3D3dky7zFTQBA-0-230-0-345-crop.jpg?v=bd854b595a",
       "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky",
         "Prime Video Channels FILMLEGENDEN",
         "MagentaTV"
       ],
@@ -1831,7 +1831,9 @@
       "originalTitle": "Showgirls",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/my/0q/ck/qq/showgirls-0-230-0-345-crop.jpg?v=2243cd1b54",
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2074,9 +2076,7 @@
       "originalTitle": "Frightmare",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/1/2/5/26125-frightmare-0-230-0-345-crop.jpg?v=62dbd40956",
-      "streamProviders": [
-        "Prime Video Channels Silverline"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2532,6 +2532,7 @@
       "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/aw/57/ox/74/lWybRfPlUCKKOaYFSjY67pNhkxa-0-230-0-345-crop.jpg?v=782e1d861d",
       "streamProviders": [
+        "Joyn",
         "Disney+"
       ],
       "streamProvidersOriginalTitle": ""

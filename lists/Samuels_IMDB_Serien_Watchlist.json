@@ -33,7 +33,7 @@
       "listPosition": "80",
       "letterboxdUrl": "https://www.imdb.com/title/tt0370754/",
       "type": "short",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "ほしのこえ"
     },
@@ -70,10 +70,8 @@
       "listPosition": "92",
       "letterboxdUrl": "https://www.imdb.com/title/tt2543312/",
       "type": "tvSeries",
-      "imageUrl": "https://ngiss.t-online.de/iss?client=ngtv&ar=ignore&x=342&y=491&src=http://ngiss.t-online.de/cm1s/media/gracenote/1/0/p10492658_b_v12_af_2021-12-08T18_56_35.jpg&out=jpeg",
-      "streamProviders": [
-        "MagentaTV"
-      ],
+      "imageUrl": "https://gfx.videobuster.de/archive/resized/w400/2017/06/image/jpeg/46d536c5b77db9a0d7fd5ebdb373851f.jpg",
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -122,7 +120,7 @@
       "listPosition": "102",
       "letterboxdUrl": "https://www.imdb.com/title/tt0417373/",
       "type": "tvSeries",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -168,7 +166,7 @@
       "listPosition": "121",
       "letterboxdUrl": "https://www.imdb.com/title/tt1223917/",
       "type": "tvSeries",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -238,7 +236,7 @@
       "listPosition": "160",
       "letterboxdUrl": "https://www.imdb.com/title/tt4786824/",
       "type": "tvSeries",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "The Crown of North America - Waterton-Glacier Peace Park"
     },
@@ -343,7 +341,8 @@
         "Prime Video Channels MUBI",
         "Sooner",
         "alleskino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Tehran Taboo"
     },
@@ -355,7 +354,7 @@
       "listPosition": "199",
       "letterboxdUrl": "https://www.imdb.com/title/tt4378376/",
       "type": "tvSeries",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -378,8 +377,10 @@
       "listPosition": "207",
       "letterboxdUrl": "https://www.imdb.com/title/tt2384811/",
       "type": "tvSeries",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
-      "streamProviders": [],
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -449,7 +450,7 @@
       "listPosition": "244",
       "letterboxdUrl": "https://www.imdb.com/title/tt4288182/",
       "type": "tvSeries",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -461,7 +462,7 @@
       "listPosition": "255",
       "letterboxdUrl": "https://www.imdb.com/title/tt1236350/",
       "type": "tvSeries",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -473,7 +474,7 @@
       "listPosition": "258",
       "letterboxdUrl": "https://www.imdb.com/title/tt0000499/",
       "type": "short",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Le Voyage à travers l'impossible"
     },
@@ -485,7 +486,7 @@
       "listPosition": "269",
       "letterboxdUrl": "https://www.imdb.com/title/tt0056119/",
       "type": "short",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "La Jetée"
     },
@@ -493,7 +494,7 @@
       "name": "Dream Corp LLC",
       "originalTitle": "Dream Corp LLC",
       "year": "2016",
-      "rating": 7.2,
+      "rating": 7.3,
       "listPosition": "272",
       "letterboxdUrl": "https://www.imdb.com/title/tt5475704/",
       "type": "tvSeries",
@@ -644,7 +645,7 @@
       "listPosition": "303",
       "letterboxdUrl": "https://www.imdb.com/title/tt11680642/",
       "type": "tvSeries",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Black Panthers"
     },
@@ -733,7 +734,7 @@
       "listPosition": "310",
       "letterboxdUrl": "https://www.imdb.com/title/tt9737326/",
       "type": "tvSeries",
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1693484779",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1694079955",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Jaws Invasion"
     },
@@ -758,6 +759,20 @@
       "type": "tvMiniSeries",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Chimp Empire",
+      "originalTitle": "Chimp Empire",
+      "year": "2023",
+      "rating": 8.2,
+      "listPosition": "314",
+      "letterboxdUrl": "https://www.imdb.com/title/tt27205918/",
+      "type": "tvMiniSeries",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1694079955",
+      "streamProviders": [
+        "Netflix"
+      ],
+      "streamProvidersOriginalTitle": ""
     }
   ],
   "streamProviders": [
@@ -771,6 +786,10 @@
     },
     {
       "name": "MagentaTV",
+      "enabled": false
+    },
+    {
+      "name": "Mubi",
       "enabled": false
     },
     {

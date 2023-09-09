@@ -154,6 +154,7 @@
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/6/51666-the-good-the-bad-and-the-ugly-0-230-0-345-crop.jpg?v=9474a84e63",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -287,7 +288,6 @@
         "Amazon Prime Video",
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
-        "Prime Video Channels MUBI",
         "alleskino"
       ],
       "streamProvidersOriginalTitle": "M"
@@ -336,7 +336,9 @@
       "originalTitle": "The Silence of the Lambs",
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/2/51782-the-silence-of-the-lambs-0-230-0-345-crop.jpg?v=5ea75cd993",
-      "streamProviders": [],
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
       "streamProvidersOriginalTitle": "The Silence of the Lambs"
     },
     {
@@ -398,6 +400,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
+        "Sooner",
         "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
@@ -446,7 +449,6 @@
       "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vz/7i/ka/ys/6ED4Wr2vgOc7yPiXIqovwLiQfCl-0-230-0-345-crop.jpg?v=3da900f744",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -561,7 +563,10 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/2/3/51323-chinatown-0-230-0-345-crop.jpg?v=b8e65cb89f",
       "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
@@ -952,10 +957,7 @@
       "originalTitle": "The Shining",
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/7s/m2/bw/d0/caoYMcjUamGoBVy65i1AHJBvdzw-0-230-0-345-crop.jpg?v=88d9d6cce4",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "The Shining"
     },
     {
@@ -1091,7 +1093,9 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/2/0/2/51202-the-general-0-230-0-345-crop.jpg?v=f4cd0213d7",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels GRJNGO – Westernfilme"
+        "Prime Video Channels GRJNGO – Westernfilme",
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The General"
     },
@@ -1115,7 +1119,7 @@
       "year": "1958",
       "originalTitle": "Touch of Evil",
       "rating": 4.2,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/0/1/8/51018-touch-of-evil-0-230-0-345-crop.jpg?v=ef2a9a12de",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/0/1/8/51018-touch-of-evil-0-230-0-345-crop.jpg?v=279a6824a4",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Touch of Evil"
     },
@@ -1567,7 +1571,7 @@
       "year": "1939",
       "originalTitle": "Gone with the Wind",
       "rating": 3.8,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/8/2/51382-gone-with-the-wind-0-230-0-345-crop.jpg?v=8a843cf270",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/8/2/51382-gone-with-the-wind-0-230-0-345-crop.jpg?v=26a1d7ea7e",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "GONE WITH THE WIND"
     },
@@ -1626,7 +1630,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/3n/0w/ax/pt/rIXzJCAvyd3Ci8ipylDQ5wUKqwh-0-230-0-345-crop.jpg?v=40685f4e4e",
       "streamProviders": [
-        "Disney+"
+        "Disney+",
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1653,7 +1658,6 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
       "streamProviders": [
-        "Joyn",
         "Disney+",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
@@ -1692,7 +1696,7 @@
       "year": "1967",
       "originalTitle": "Le Samouraï",
       "rating": 4.3,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/8/1/7/48817-le-samourai-0-230-0-345-crop.jpg?v=42dbdaa1b7",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/8/1/7/48817-le-samourai-0-230-0-345-crop.jpg?v=11267d74cc",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Le samouraï"
     },
@@ -1730,6 +1734,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/dr/hr/pz/ez/ehLb2SQ3djlA1FrQKbP2WO3VH09-0-230-0-345-crop.jpg?v=6489920a92",
       "streamProviders": [
+        "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -1783,7 +1788,8 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1983,7 +1989,7 @@
       "year": "1995",
       "originalTitle": "Before Sunrise",
       "rating": 4.3,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-230-0-345-crop.jpg?v=de3c4718dc",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/7/4/51974-before-sunrise-0-230-0-345-crop.jpg?v=006e8fedea",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -2110,8 +2116,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2136,7 +2141,6 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/jr/th/pu/pb/laefkgrfa3oKwvBtWTBtf2suiI4-0-230-0-345-crop.jpg?v=f5d8231026",
       "streamProviders": [
         "Netflix",
-        "RTL+",
         "Sky WOW",
         "Sky Go\nSky"
       ],
@@ -2196,7 +2200,9 @@
       "originalTitle": "The Princess Bride",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/hk/2u/bd/9p/gpxjoE0yvRwIhFEJgNArtKtaN7S-0-230-0-345-crop.jpg?v=544eada136",
-      "streamProviders": [],
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
       "streamProvidersOriginalTitle": "The Princess Bride"
     },
     {
@@ -2381,6 +2387,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/2/6/7/1/62671-12-years-a-slave-0-230-0-345-crop.jpg?v=f29aef4645",
       "streamProviders": [
+        "Amazon Prime Video",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
@@ -2424,8 +2431,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
-        "Paramount+",
-        "MagentaTV"
+        "Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2476,7 +2482,9 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/1g/zz/ez/d8/yyCKYaW908ZbpexpnBJ3p8o87HA-0-230-0-345-crop.jpg?v=19a50874d0",
       "streamProviders": [
         "Amazon Prime Video",
-        "Netflix"
+        "Netflix",
+        "Sky WOW",
+        "Sky Go\nSky"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2489,10 +2497,8 @@
       "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
-        "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -2596,7 +2602,10 @@
       "originalTitle": "The Wild Bunch",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/5/4/4/51544-the-wild-bunch-0-230-0-345-crop.jpg?v=a8eabc58f5",
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "streamProvidersOriginalTitle": "The Wild Bunch"
     },
     {
@@ -2702,7 +2711,7 @@
       "listPosition": 217,
       "year": "1962",
       "originalTitle": "El ángel exterminador",
-      "rating": 4.1,
+      "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/0/0/8/33008-the-exterminating-angel-0-230-0-345-crop.jpg?v=2d01d47687",
       "streamProviders": [
         "Amazon Prime Video"
@@ -2796,9 +2805,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/3/1/5/47315-the-sting-0-230-0-345-crop.jpg?v=7f2c11ddf4",
       "streamProviders": [
-        "Joyn",
-        "Sky WOW",
-        "Sky Go\nSky"
+        "Joyn"
       ],
       "streamProvidersOriginalTitle": "The Sting"
     },
@@ -2992,10 +2999,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/g2/2g/f0/6b/the-terminator-original-0-230-0-345-crop.jpg?v=677a47d94a",
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels MGM+",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels MGM+"
       ],
       "streamProvidersOriginalTitle": "The Terminator"
     },
@@ -3208,7 +3212,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3492,8 +3497,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -3708,6 +3712,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/g9/9t/cc/7u/tcNniniS4rfqrLH0oORikJfnIwY-0-230-0-345-crop.jpg?v=f0c073f2b4",
       "streamProviders": [
+        "Prime Video Channels AXN White",
         "Prime Video Channels Sony Channel",
         "MagentaTV"
       ],
@@ -3939,7 +3944,9 @@
       "originalTitle": "喋血雙雄",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/8/5/0/45850-the-killer-0-230-0-345-crop.jpg?v=d65baa059e",
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels FRANATIC – dein Film-Channel"
+      ],
       "streamProvidersOriginalTitle": "喋血雙雄"
     },
     {
@@ -4057,7 +4064,6 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/2/1/51821-stand-by-me-0-230-0-345-crop.jpg?v=b3163b5def",
       "streamProviders": [
-        "Netflix",
         "Prime Video Channels ARTHAUS+"
       ],
       "streamProvidersOriginalTitle": "Stand by Me"
@@ -4109,9 +4115,7 @@
       "originalTitle": "The Social Network",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/nw/cm/pa/ai/sGQv3ZMZBDBnl3z42Q0mEQ5uiDe-0-230-0-345-crop.jpg?v=54ee59f7cd",
-      "streamProviders": [
-        "Prime Video Channels SONY AXN"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -4433,8 +4437,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4j/8g/do/5y/3Av8ZPiMrxFq9XiOjZl0tkoq9Oo-0-230-0-345-crop.jpg?v=de312c03b7",
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels FILMLEGENDEN"
+        "Prime Video Channels ARTHAUS+"
       ],
       "streamProvidersOriginalTitle": "Close Encounters of the Third Kind"
     },
@@ -4585,6 +4588,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4g/y9/qr/q9/pbAqLKoLydP7jl6P0vmYwlDtRPD-0-230-0-345-crop.jpg?v=8eb030b5f7",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels MUBI",
         "Mubi"
       ],
@@ -4899,10 +4903,7 @@
       "originalTitle": "Peeping Tom",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/9r/ny/qc/eb/tJyGgOLDLDhJkUEI4wSoD4eO7n4-0-230-0-345-crop.jpg?v=ac6b230332",
-      "streamProviders": [
-        "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels MOVIECULT"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Peeping Tom"
     },
     {
@@ -5213,8 +5214,10 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/p9/tg/s4/ca/dxbIRmIo0rN5R6WGvxnJuUJPh3t-0-230-0-345-crop.jpg?v=12b2d3f8b3",
       "streamProviders": [
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MOVIECULT",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "streamProvidersOriginalTitle": "Evil Dead II"
@@ -5241,7 +5244,7 @@
       "listPosition": 421,
       "year": "1948",
       "originalTitle": "Red River",
-      "rating": 3.9,
+      "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/8/8/2/49882-red-river-0-230-0-345-crop.jpg?v=5823734e90",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Red River"
@@ -5336,7 +5339,9 @@
       "originalTitle": "辣手神探",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/0/1/3/45013-hard-boiled-0-230-0-345-crop.jpg?v=4bc5621882",
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels FRANATIC – dein Film-Channel"
+      ],
       "streamProvidersOriginalTitle": "辣手神探"
     },
     {
@@ -5371,7 +5376,10 @@
       "originalTitle": "Arrival",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/3u/dy/qd/qd/4Iu5f2nv7huqvuYkmZvSPOtbFjs-0-230-0-345-crop.jpg?v=0fc28fdf2c",
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5808,7 +5816,8 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -5831,9 +5840,7 @@
       "originalTitle": "The Breakfast Club",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/5/1/8/50518-the-breakfast-club-0-230-0-345-crop.jpg?v=cce37bedf1",
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -6067,7 +6074,9 @@
       "originalTitle": "Kill Bill: Vol. 2",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ka/7q/dh/8m/bxbX4sHZHcy81dnNs4VAVs7HXDL-0-230-0-345-crop.jpg?v=52e9a07730",
-      "streamProviders": [],
+      "streamProviders": [
+        "MagentaTV"
+      ],
       "streamProvidersOriginalTitle": "Kill Bill: Vol. 2"
     },
     {
@@ -6146,7 +6155,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-230-0-345-crop.jpg?v=09a7c91f68",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Gone Girl"
     },
@@ -6248,7 +6258,7 @@
       "listPosition": 504,
       "year": "1975",
       "originalTitle": "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
-      "rating": 4.2,
+      "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/9/21149-jeanne-dielman-23-quai-du-commerce-1080-bruxelles-0-230-0-345-crop.jpg?v=952ed786ed",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles"
@@ -6272,7 +6282,9 @@
       "originalTitle": "The Long Goodbye",
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/5/2/50752-the-long-goodbye-0-230-0-345-crop.jpg?v=09d57c0d87",
-      "streamProviders": [],
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
       "streamProvidersOriginalTitle": "The Long Goodbye"
     },
     {
@@ -6386,10 +6398,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/5/9/3/45593-my-fair-lady-0-230-0-345-crop.jpg?v=c444c9f37d",
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
-        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
@@ -6516,8 +6525,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -6530,7 +6538,9 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4z/ql/93/vq/2Zyuxm4fgCPKlnIdieHg7tfbxMS-0-230-0-345-crop.jpg?v=57dafbba23",
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Prime Video Channels Paramount+",
+        "Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7014,6 +7024,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xe/2y/e6/gy/4XLSKzQcE4lIgJgd71Y8UhAhxqQ-0-230-0-345-crop.jpg?v=45bc32b708",
       "streamProviders": [
+        "RTL+",
         "Prime Video Channels ALLSTARS"
       ],
       "streamProvidersOriginalTitle": "Hot Fuzz"
@@ -7065,7 +7076,10 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/4/46344-fantastic-mr-fox-0-230-0-345-crop.jpg?v=3a2a858065",
       "streamProviders": [
-        "Disney+"
+        "Joyn",
+        "Disney+",
+        "Prime Video Channels ProSieben FUN",
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "Fantastic Mr. Fox"
     },
@@ -7370,7 +7384,6 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/os/sk/tr/0a/6YOrNBdoXvT8aC5VPLkkN6t5z0V-0-230-0-345-crop.jpg?v=ae04fa804c",
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
@@ -7630,7 +7643,6 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/3/6/9/7/493697-the-farewell-0-230-0-345-crop.jpg?v=115ef58791",
       "streamProviders": [
-        "Netflix",
         "freenet Video"
       ],
       "streamProvidersOriginalTitle": ""
@@ -7778,8 +7790,6 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/8/3/2/7/3/283273-mission-impossible-fallout-0-230-0-345-crop.jpg?v=04024ef596",
       "streamProviders": [
         "Netflix",
-        "Sky WOW",
-        "Sky Go\nSky",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -7832,8 +7842,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -7961,8 +7970,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/2/3/2/49232-sense-and-sensibility-0-230-0-345-crop.jpg?v=15cebc0b43",
       "streamProviders": [
-        "Prime Video Channels Sony Channel",
-        "MagentaTV"
+        "Prime Video Channels AXN White",
+        "Prime Video Channels Sony Channel"
       ],
       "streamProvidersOriginalTitle": "Sense and Sensibility"
     },
@@ -8003,7 +8012,8 @@
         "Prime Video Channels Filmtastic",
         "Prime Video Channels Galactic Stream",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Twelve Monkeys"
     },
@@ -8137,7 +8147,9 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/9/5/139795-birdman-0-230-0-345-crop.jpg?v=345680513e",
       "streamProviders": [
-        "Disney+"
+        "Disney+",
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Birdman or (The Unexpected Virtue of Ignorance)"
     },
@@ -8395,9 +8407,7 @@
       "originalTitle": "Krótki film o zabijaniu",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/9/2/8/45928-a-short-film-about-killing-0-230-0-345-crop.jpg?v=760d5ce10b",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Krótki film o zabijaniu"
     },
     {
@@ -8468,9 +8478,7 @@
       "originalTitle": "ゴジラ",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/8/6/6/50866-godzilla-0-230-0-345-crop.jpg?v=2b549c08f0",
-      "streamProviders": [
-        "freenet Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "ゴジラ"
     },
     {
@@ -9049,7 +9057,9 @@
       "originalTitle": "RoboCop",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/dz/ke/a9/9m/robocop-0-230-0-345-crop.jpg?v=46efa9f76c",
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels MGM+"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -9348,8 +9358,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/9/7/51897-star-trek-ii-the-wrath-of-khan-0-230-0-345-crop.jpg?v=d6ef7a52e2",
       "streamProviders": [
         "Prime Video Channels Paramount+",
-        "Paramount+",
-        "MagentaTV"
+        "Paramount+"
       ],
       "streamProvidersOriginalTitle": "Star Trek II: The Wrath of Khan"
     },
@@ -9457,8 +9466,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/4/1/44741-the-hurt-locker-0-230-0-345-crop.jpg?v=ea165af0c3",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels Filmtastic",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels Filmtastic"
       ],
       "streamProvidersOriginalTitle": "The Hurt Locker"
     },
@@ -9524,6 +9532,7 @@
         "Amazon Prime Video",
         "Disney+",
         "Netflix",
+        "Prime Video Channels MUBI",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "The Revenant"
@@ -9753,6 +9762,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/bp/5t/7x/kv/ejjJE8Lj6i4mI45Vi8XaH5bqazV-0-230-0-345-crop.jpg?v=a7be792103",
       "streamProviders": [
+        "MagentaTV",
         "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Ernest et Célestine"
@@ -9800,7 +9810,9 @@
       "originalTitle": "Dances with Wolves",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/5/3/9/51539-dances-with-wolves-0-230-0-345-crop.jpg?v=655e740f9b",
-      "streamProviders": [],
+      "streamProviders": [
+        "RTL+"
+      ],
       "streamProvidersOriginalTitle": "Dances with Wolves"
     },
     {
@@ -9910,9 +9922,7 @@
       "originalTitle": "Glory",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/r2/mt/l7/2d/naphzVem2iMIxTf8k4yES8CZbwb-0-230-0-345-crop.jpg?v=42f921fb13",
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -10157,8 +10167,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/c7/4g/ae/zn/7cpSdCrBY7UhiygkcP57dpixXsW-0-230-0-345-crop.jpg?v=1525e98692",
       "streamProviders": [
         "Sky WOW",
-        "Sky Go\nSky",
-        "Prime Video Channels Home of Horror"
+        "Sky Go\nSky"
       ],
       "streamProvidersOriginalTitle": "The Evil Dead"
     },
@@ -10455,6 +10464,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/8/4/6/50846-misery-0-230-0-345-crop.jpg?v=f079fc8138",
       "streamProviders": [
+        "Amazon Prime Video",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
@@ -10565,7 +10575,6 @@
       "streamProviders": [
         "Joyn",
         "Disney+",
-        "Netflix",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],
@@ -10602,7 +10611,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/3/4/5/32345-taste-of-cherry-0-230-0-345-crop.jpg?v=64fada0a9a",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ta'm e guilass"
     },
@@ -10723,7 +10733,7 @@
       "listPosition": 862,
       "year": "2011",
       "originalTitle": "Take Shelter",
-      "rating": 3.9,
+      "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/h8/rx/g1/tm/jFHe1RSju7m4EyRr7fP7QGq8QpO-0-230-0-345-crop.jpg?v=15890185ed",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
@@ -10843,7 +10853,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -11134,6 +11145,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/0/8/6/0/40860-district-9-0-230-0-345-crop.jpg?v=15130016b7",
       "streamProviders": [
+        "Prime Video Channels AXN Black",
         "Prime Video Channels SONY AXN"
       ],
       "streamProvidersOriginalTitle": ""
@@ -11188,7 +11200,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/6/6/9/15669-where-is-the-friend-s-house--0-230-0-345-crop.jpg?v=fa9af1e128",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Khane-ye doust kodjast?"
     },
@@ -11263,8 +11276,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/9/34829-mishima-a-life-in-four-chapters-0-230-0-345-crop.jpg?v=1bed76a9ae",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Mishima: A Life in Four Chapters"
     },
@@ -11298,9 +11310,7 @@
       "originalTitle": "カメラを止めるな！",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/3/0/8/6/443086-one-cut-of-the-dead-0-230-0-345-crop.jpg?v=41cb73909b",
-      "streamProviders": [
-        "Prime Video Channels superfresh"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "カメラを止めるな！"
     },
     {
@@ -11340,6 +11350,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/0/2/2/0/330220-wind-river-0-230-0-345-crop.jpg?v=a7e862113f",
       "streamProviders": [
+        "Netflix",
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
         "Prime Video Channels Paramount+",
@@ -11714,7 +11725,9 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/9/45409-shutter-island-0-230-0-345-crop.jpg?v=85dd4c38e3",
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Prime Video Channels Filmtastic",
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -11811,8 +11824,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/9/6/8/7/379687-a-quiet-place-0-230-0-345-crop.jpg?v=895e756ae7",
       "streamProviders": [
         "Netflix",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -12120,8 +12132,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -12480,6 +12491,14 @@
       "enabled": false
     },
     {
+      "name": "Prime Video Channels AXN Black",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels AXN White",
+      "enabled": false
+    },
+    {
       "name": "Prime Video Channels Arthouse CNMA",
       "enabled": false
     },
@@ -12513,10 +12532,6 @@
     },
     {
       "name": "Prime Video Channels Good!Movies",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Home of Horror",
       "enabled": false
     },
     {
