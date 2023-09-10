@@ -286,7 +286,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -919,7 +920,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },

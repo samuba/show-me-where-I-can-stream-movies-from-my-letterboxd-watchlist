@@ -1658,6 +1658,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
       "streamProviders": [
+        "Joyn",
         "Disney+",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
@@ -1788,8 +1789,7 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1908,8 +1908,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -3970,7 +3969,6 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/90/gn/c7/9k/qAwFbszz0kRyTuXmMeKQZCX3Q2O-0-230-0-345-crop.jpg?v=192bde15c6",
       "streamProviders": [
         "Joyn",
-        "freenet Video",
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
@@ -4345,8 +4343,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -4589,8 +4586,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4g/y9/qr/q9/pbAqLKoLydP7jl6P0vmYwlDtRPD-0-230-0-345-crop.jpg?v=8eb030b5f7",
       "streamProviders": [
         "Joyn",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "The King of Comedy"
     },
@@ -5244,7 +5240,7 @@
       "listPosition": 421,
       "year": "1948",
       "originalTitle": "Red River",
-      "rating": 4,
+      "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/8/8/2/49882-red-river-0-230-0-345-crop.jpg?v=5823734e90",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Red River"
@@ -6466,7 +6462,8 @@
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Nightcrawler"
     },
@@ -7842,7 +7839,8 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -8194,9 +8192,7 @@
       "originalTitle": "Gandhi",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/9x/5v/m6/kr/2z9A4FSu1YySrhhcuqkdMIXpgyN-0-230-0-345-crop.jpg?v=4aed48d028",
-      "streamProviders": [
-        "Prime Video Channels FILMLEGENDEN"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -9492,7 +9488,8 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/8/1/0/49810-battle-royale-0-230-0-345-crop.jpg?v=a625ba98ef",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "バトル・ロワイアル"
     },
@@ -9896,7 +9893,7 @@
       "listPosition": 795,
       "year": "1933",
       "originalTitle": "The Invisible Man",
-      "rating": 3.8,
+      "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/hb/62/sv/wn/15w76PDsXtPjBgnEJlZLZceBfZR-0-230-0-345-crop.jpg?v=7b891db489",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "The Invisible Man"
@@ -10853,8 +10850,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino",
-        "Mubi"
+        "alleskino"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -11276,7 +11272,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/9/34829-mishima-a-life-in-four-chapters-0-230-0-345-crop.jpg?v=1bed76a9ae",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mishima: A Life in Four Chapters"
     },

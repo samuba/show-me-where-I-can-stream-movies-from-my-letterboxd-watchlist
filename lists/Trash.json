@@ -31,7 +31,7 @@
       "listPosition": 3,
       "year": "1987",
       "originalTitle": "Miami Connection",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/3/8/6838-miami-connection-0-230-0-345-crop.jpg?v=5c02ece37d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -346,7 +346,6 @@
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/6/206-faust-love-of-the-damned-0-230-0-345-crop.jpg?v=95951fbbb6",
       "streamProviders": [
-        "Prime Video Channels Silverline",
         "Netzkino"
       ],
       "streamProvidersOriginalTitle": ""
@@ -2327,7 +2326,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2482,7 +2482,7 @@
       "listPosition": 222,
       "year": "1996",
       "originalTitle": "Phat Beach",
-      "rating": 2.9,
+      "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/7/1/3/6/77136-phat-beach-0-230-0-345-crop.jpg?v=74c4485531",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3170,10 +3170,7 @@
       "originalTitle": "House on Bare Mountain",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/3/3/9/6/53396-house-on-bare-mountain-0-230-0-345-crop.jpg?v=e4fa1323f7",
-      "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "House on Bare Mountain"
     },
     {
@@ -3535,7 +3532,9 @@
       "originalTitle": "Vendetta dal futuro",
       "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/3/9/5/9/53959-hands-of-steel-0-230-0-345-crop.jpg?v=6bc61799c2",
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "streamProvidersOriginalTitle": "Vendetta dal futuro"
     },
     {

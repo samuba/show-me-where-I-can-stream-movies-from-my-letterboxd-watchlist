@@ -767,7 +767,6 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/90/gn/c7/9k/qAwFbszz0kRyTuXmMeKQZCX3Q2O-0-230-0-345-crop.jpg?v=192bde15c6",
       "streamProviders": [
         "Joyn",
-        "freenet Video",
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
@@ -833,8 +832,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-230-0-345-crop.jpg?v=2b4c871ed4",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les glaneurs et la glaneuse"
     },
@@ -1241,8 +1239,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/5/21145-vagabond-0-230-0-345-crop.jpg?v=58e8e676c8",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Sans toit ni loi"
     },
@@ -1557,8 +1554,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -1754,8 +1750,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/3/7/1/7/73717-sambizanga-0-230-0-345-crop.jpg?v=076bb60f26",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1904,7 +1899,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -1988,8 +1984,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -2473,9 +2468,7 @@
       "originalTitle": "ลุงบุญมีระลึกชาติ",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ge/yz/cw/u5/i8KstBy8SRi3CfplaufDA5VQLmf-0-230-0-345-crop.jpg?v=e67a74fefc",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "ลุงบุญมีระลึกชาติ (Lung Boonmee raluek chat)"
     },
     {
@@ -3342,10 +3335,6 @@
     },
     {
       "name": "filmingo",
-      "enabled": false
-    },
-    {
-      "name": "freenet Video",
       "enabled": false
     }
   ]

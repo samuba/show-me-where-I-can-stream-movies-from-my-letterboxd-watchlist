@@ -659,7 +659,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/9/34829-mishima-a-life-in-four-chapters-0-230-0-345-crop.jpg?v=1bed76a9ae",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mishima: A Life in Four Chapters"
     },
@@ -1895,8 +1896,7 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2425,8 +2425,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4g/y9/qr/q9/pbAqLKoLydP7jl6P0vmYwlDtRPD-0-230-0-345-crop.jpg?v=8eb030b5f7",
       "streamProviders": [
         "Joyn",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "The King of Comedy"
     },
@@ -2781,8 +2780,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -2936,7 +2934,6 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/90/gn/c7/9k/qAwFbszz0kRyTuXmMeKQZCX3Q2O-0-230-0-345-crop.jpg?v=192bde15c6",
       "streamProviders": [
         "Joyn",
-        "freenet Video",
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels ProSieben FUN",
         "Prime Video Channels Seven Entertainment"
@@ -3232,10 +3229,6 @@
     },
     {
       "name": "filmingo",
-      "enabled": false
-    },
-    {
-      "name": "freenet Video",
       "enabled": false
     }
   ]
