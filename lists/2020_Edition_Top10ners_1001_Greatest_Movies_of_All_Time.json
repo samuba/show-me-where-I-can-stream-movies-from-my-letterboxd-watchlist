@@ -1908,7 +1908,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -2115,7 +2116,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2497,7 +2499,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -3496,7 +3499,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -4182,8 +4186,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -4343,7 +4346,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -5194,7 +5198,7 @@
       "listPosition": 418,
       "year": "1950",
       "originalTitle": "Orphée",
-      "rating": 4,
+      "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/2/4/9/49249-orpheus-0-230-0-345-crop.jpg?v=931eb24ed6",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
@@ -6522,7 +6526,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -7021,7 +7026,6 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xe/2y/e6/gy/4XLSKzQcE4lIgJgd71Y8UhAhxqQ-0-230-0-345-crop.jpg?v=45bc32b708",
       "streamProviders": [
-        "RTL+",
         "Prime Video Channels ALLSTARS"
       ],
       "streamProvidersOriginalTitle": "Hot Fuzz"
@@ -7585,7 +7589,6 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/6g/6f/8o/9h/i0mpvMIIjyubXsVKug9vX0lYpnd-0-230-0-345-crop.jpg?v=4c95fdce0e",
       "streamProviders": [
         "Joyn",
-        "freenet Video",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
         "Prime Video Channels Seven Entertainment",
@@ -7839,8 +7842,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -8010,8 +8012,7 @@
         "Prime Video Channels Filmtastic",
         "Prime Video Channels Galactic Stream",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "Twelve Monkeys"
     },
@@ -8403,7 +8404,9 @@
       "originalTitle": "Krótki film o zabijaniu",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/9/2/8/45928-a-short-film-about-killing-0-230-0-345-crop.jpg?v=760d5ce10b",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Krótki film o zabijaniu"
     },
     {
@@ -9054,7 +9057,9 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/dz/ke/a9/9m/robocop-0-230-0-345-crop.jpg?v=46efa9f76c",
       "streamProviders": [
-        "Prime Video Channels MGM+"
+        "Prime Video Channels MGM+",
+        "Prime Video Channels Paramount+",
+        "Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -10090,7 +10095,8 @@
         "freenet Video",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Seven Entertainment",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Fruitvale Station"
     },
@@ -10706,8 +10712,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "El espinazo del diablo"
     },
@@ -11272,8 +11277,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/9/34829-mishima-a-life-in-four-chapters-0-230-0-345-crop.jpg?v=1bed76a9ae",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Mishima: A Life in Four Chapters"
     },
@@ -12129,7 +12133,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },

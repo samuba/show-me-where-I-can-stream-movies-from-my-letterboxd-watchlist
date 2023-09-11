@@ -129,8 +129,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/8/9/0/9/3/589093-shiva-baby-0-230-0-345-crop.jpg?v=a258215f88",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -311,7 +310,10 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/3/8/51138-the-talented-mr-ripley-0-230-0-345-crop.jpg?v=70e0a57506",
       "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
+        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "streamProvidersOriginalTitle": "The Talented Mr. Ripley"
@@ -920,8 +922,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },

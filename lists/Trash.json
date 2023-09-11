@@ -31,7 +31,7 @@
       "listPosition": 3,
       "year": "1987",
       "originalTitle": "Miami Connection",
-      "rating": 3.2,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/3/8/6838-miami-connection-0-230-0-345-crop.jpg?v=5c02ece37d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -611,7 +611,7 @@
       "listPosition": 55,
       "year": "1985",
       "originalTitle": "Gymkata",
-      "rating": 2.7,
+      "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/9/8/7/42987-gymkata-0-230-0-345-crop.jpg?v=1b647d65e3",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Gymkata"
@@ -2326,8 +2326,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": ""
     },

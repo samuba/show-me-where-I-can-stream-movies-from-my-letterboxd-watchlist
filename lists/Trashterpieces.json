@@ -1068,8 +1068,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1528,7 +1527,7 @@
       "listPosition": 134,
       "year": "1987",
       "originalTitle": "Miami Connection",
-      "rating": 3.2,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/3/8/6838-miami-connection-0-230-0-345-crop.jpg?v=5c02ece37d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -1735,8 +1734,7 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ar/di/g1/b5/6jMeQtzKV3vy20lNorEHmOJrX5Z-0-230-0-345-crop.jpg?v=ca44c8c2e8",
       "streamProviders": [
-        "Prime Video Channels Bloody Movies",
-        "Prime Video Channels Silverline"
+        "Prime Video Channels Bloody Movies"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2000,8 +1998,8 @@
       "streamProvidersOriginalTitle": ""
     },
     {
-      "name": "Guinea Pig 6: Mermaid in the Manhole",
-      "letterboxdUrl": "https://letterboxd.com/film/guinea-pig-6-mermaid-in-the-manhole",
+      "name": "Guinea Pig: Mermaid in the Manhole",
+      "letterboxdUrl": "https://letterboxd.com/film/guinea-pig-mermaid-in-the-manhole",
       "listPosition": 174,
       "year": "1988",
       "originalTitle": "ザ・ギニーピッグ マンホールの中の人魚",
@@ -2654,10 +2652,6 @@
       "enabled": false
     },
     {
-      "name": "Mubi",
-      "enabled": false
-    },
-    {
       "name": "Netflix",
       "enabled": false
     },
@@ -2723,10 +2717,6 @@
     },
     {
       "name": "Prime Video Channels Seven Entertainment",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {

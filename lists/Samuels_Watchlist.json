@@ -640,7 +640,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -977,7 +978,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -1369,7 +1371,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-230-0-345-crop.jpg?v=f2a22b1af9",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1757,7 +1760,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/3/9/9/8/5/239985-mushi-shi-the-next-chapter-drops-of-bells-0-230-0-345-crop.jpg?v=8676ac46a3",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "コードギアス　亡国のアキト 第4章「憎しみの記憶から」"
+      "streamProvidersOriginalTitle": "コードギアス 亡国のアキト 第3章「輝くもの天より堕つ」"
     },
     {
       "name": "Adventure Time: Islands",
@@ -2148,7 +2151,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mc/qb/uk/vv/qLaXnLzqleBWQtjvZ6JGVSaKoC3-0-230-0-345-crop.jpg?v=e37b6df74a",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2484,9 +2488,7 @@
       "originalTitle": "Utopia",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/0/3/1/167031-utopia-0-230-0-345-crop.jpg?v=244670517e",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -3480,10 +3482,8 @@
       "originalTitle": "Tomorrowland",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Tomorrowland"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Hardcore Henry",
@@ -4300,7 +4300,8 @@
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
         "Sooner",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4583,10 +4584,7 @@
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/0/3/6/0/80360-deadfall-0-230-0-345-crop.jpg?v=773b76bb5b",
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels MOVIECULT",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels MOVIECULT"
       ],
       "streamProvidersOriginalTitle": "Deadfall"
     },

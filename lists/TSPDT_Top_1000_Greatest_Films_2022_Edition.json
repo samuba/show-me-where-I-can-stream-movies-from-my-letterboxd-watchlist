@@ -1187,7 +1187,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -1920,7 +1921,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -2082,7 +2084,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2117,8 +2120,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -2942,7 +2944,9 @@
       "originalTitle": "ลุงบุญมีระลึกชาติ",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ge/yz/cw/u5/i8KstBy8SRi3CfplaufDA5VQLmf-0-230-0-345-crop.jpg?v=e67a74fefc",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "ลุงบุญมีระลึกชาติ (Lung Boonmee raluek chat)"
     },
     {
@@ -3154,7 +3158,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -4042,7 +4047,9 @@
       "originalTitle": "愛のコリーダ",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ek/4i/ah/od/ztLv3Co2uLZMV7YERWbPrTMUi03-0-230-0-345-crop.jpg?v=8bfd837cc8",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "愛のコリーダ"
     },
     {
@@ -4396,7 +4403,7 @@
       "listPosition": 367,
       "year": "1950",
       "originalTitle": "Orphée",
-      "rating": 4,
+      "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/2/4/9/49249-orpheus-0-230-0-345-crop.jpg?v=931eb24ed6",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
@@ -4472,7 +4479,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -5091,7 +5099,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/5/21145-vagabond-0-230-0-345-crop.jpg?v=58e8e676c8",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Sans toit ni loi"
     },
@@ -7432,7 +7441,9 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/dz/ke/a9/9m/robocop-0-230-0-345-crop.jpg?v=46efa9f76c",
       "streamProviders": [
-        "Prime Video Channels MGM+"
+        "Prime Video Channels MGM+",
+        "Prime Video Channels Paramount+",
+        "Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7870,7 +7881,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -8526,7 +8538,7 @@
       "listPosition": 714,
       "year": "1975",
       "originalTitle": "Xala",
-      "rating": 3.4,
+      "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/3/1/1/0/63110-xala-0-230-0-345-crop.jpg?v=2ef3c8969c",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -9177,7 +9189,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -11086,8 +11099,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -11873,7 +11885,8 @@
         "Prime Video Channels MUBI",
         "Flimmit",
         "Netzkino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Le boucher"
     },
