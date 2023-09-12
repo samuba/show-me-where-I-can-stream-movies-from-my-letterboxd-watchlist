@@ -4,6 +4,17 @@
   "description": "",
   "entries": [
     {
+      "name": "2010",
+      "letterboxdUrl": "https://letterboxd.com/film/2010-1984",
+      "listPosition": 0,
+      "year": "1984",
+      "originalTitle": "2010",
+      "rating": 3.2,
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/3/3/8/49338-2010-0-230-0-345-crop.jpg?v=a3763f1e12",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "2010"
+    },
+    {
       "name": "Guglhupfgeschwader",
       "letterboxdUrl": "https://letterboxd.com/film/guglhupfgeschwader",
       "listPosition": 0,
@@ -640,8 +651,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -1143,7 +1153,11 @@
       "originalTitle": "Fiddler on the Roof",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/8/0/0/42800-fiddler-on-the-roof-0-230-0-345-crop.jpg?v=b6fafe2a6b",
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment"
+      ],
       "streamProvidersOriginalTitle": "Fiddler on the Roof"
     },
     {
@@ -2151,8 +2165,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mc/qb/uk/vv/qLaXnLzqleBWQtjvZ6JGVSaKoC3-0-230-0-345-crop.jpg?v=e37b6df74a",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2741,8 +2754,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -3482,8 +3494,10 @@
       "originalTitle": "Tomorrowland",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Disney+"
+      ],
+      "streamProvidersOriginalTitle": "Tomorrowland"
     },
     {
       "name": "Hardcore Henry",
@@ -4186,8 +4200,7 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "De rouille et d'os"
     },
@@ -4595,7 +4608,7 @@
       "year": "",
       "originalTitle": "The Prototype",
       "rating": 0,
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1694079955",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1694420230",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Prototype This!"
     },
@@ -4683,6 +4696,7 @@
       "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vz/7i/ka/ys/6ED4Wr2vgOc7yPiXIqovwLiQfCl-0-230-0-345-crop.jpg?v=3da900f744",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",

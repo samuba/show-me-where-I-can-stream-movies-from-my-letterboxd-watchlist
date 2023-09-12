@@ -1559,8 +1559,7 @@
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/0/8/2/3/70823-i-escaped-from-devil-s-island-0-230-0-345-crop.jpg?v=852b69ee05",
       "streamProviders": [
-        "Prime Video Channels FRANATIC – dein Film-Channel",
-        "Prime Video Channels Silverline"
+        "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
       "streamProvidersOriginalTitle": "I Escaped from Devil's Island"
     },
@@ -2291,7 +2290,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2878,10 +2878,6 @@
     },
     {
       "name": "Prime Video Channels Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {

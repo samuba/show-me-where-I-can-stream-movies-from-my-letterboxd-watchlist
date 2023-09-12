@@ -22,8 +22,11 @@
       "originalTitle": "Them!",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/6/3/2/45632-them--0-230-0-345-crop.jpg?v=147e08659f",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "streamProvidersOriginalTitle": "Them!"
     },
     {
       "name": "The Blood of Fu Manchu",
@@ -190,7 +193,9 @@
       "originalTitle": "The Texas Chain Saw Massacre",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/9/8/5/31985-the-texas-chain-saw-massacre-0-230-0-345-crop.jpg?v=c63b3f1958",
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels Paramount+"
+      ],
       "streamProvidersOriginalTitle": "The Texas Chain Saw Massacre"
     },
     {
@@ -942,9 +947,10 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
-      "streamProvidersOriginalTitle": ""
+      "streamProvidersOriginalTitle": "Death Proof"
     },
     {
       "name": "Love Camp 7",
@@ -1068,7 +1074,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2649,6 +2656,10 @@
     },
     {
       "name": "MagentaTV",
+      "enabled": false
+    },
+    {
+      "name": "Mubi",
       "enabled": false
     },
     {

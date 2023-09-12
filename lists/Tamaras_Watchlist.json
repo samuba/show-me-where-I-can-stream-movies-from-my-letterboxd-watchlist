@@ -129,7 +129,8 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/8/9/0/9/3/589093-shiva-baby-0-230-0-345-crop.jpg?v=a258215f88",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -139,7 +140,7 @@
       "listPosition": 0,
       "year": "2019",
       "originalTitle": "Plus One",
-      "rating": 3.4,
+      "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/7/9/8/9/437989-plus-one-0-230-0-345-crop.jpg?v=e2769d9468",
       "streamProviders": [
         "Joyn"
@@ -922,7 +923,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },

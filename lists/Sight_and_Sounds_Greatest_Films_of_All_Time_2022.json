@@ -1188,6 +1188,7 @@
       "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vz/7i/ka/ys/6ED4Wr2vgOc7yPiXIqovwLiQfCl-0-230-0-345-crop.jpg?v=3da900f744",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -1468,7 +1469,9 @@
       "originalTitle": "The Texas Chain Saw Massacre",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/9/8/5/31985-the-texas-chain-saw-massacre-0-230-0-345-crop.jpg?v=c63b3f1958",
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels Paramount+"
+      ],
       "streamProvidersOriginalTitle": "The Texas Chain Saw Massacre"
     },
     {
@@ -1555,8 +1558,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -1902,8 +1904,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -1987,8 +1988,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -2150,8 +2150,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -2217,7 +2216,8 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -2662,7 +2662,7 @@
       "year": "1950",
       "originalTitle": "In a Lonely Place",
       "rating": 4.2,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/2/3/5/41235-in-a-lonely-place-0-230-0-345-crop.jpg?v=6b6f2344f2",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/2/3/5/41235-in-a-lonely-place-0-230-0-345-crop.jpg?v=ad615c5733",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "In a Lonely Place"
     },
@@ -2961,7 +2961,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/6/9/7/4/4/669744-petite-maman-0-230-0-345-crop.jpg?v=c7cbed5a06",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Petite maman"
     },

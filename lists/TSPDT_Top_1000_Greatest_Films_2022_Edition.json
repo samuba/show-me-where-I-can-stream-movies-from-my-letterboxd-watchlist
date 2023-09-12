@@ -784,6 +784,7 @@
       "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vz/7i/ka/ys/6ED4Wr2vgOc7yPiXIqovwLiQfCl-0-230-0-345-crop.jpg?v=3da900f744",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -1187,8 +1188,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -1921,8 +1921,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -2084,8 +2083,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2120,7 +2118,8 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -2132,7 +2131,9 @@
       "originalTitle": "The Texas Chain Saw Massacre",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/9/8/5/31985-the-texas-chain-saw-massacre-0-230-0-345-crop.jpg?v=c63b3f1958",
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels Paramount+"
+      ],
       "streamProvidersOriginalTitle": "The Texas Chain Saw Massacre"
     },
     {
@@ -3158,8 +3159,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -3372,7 +3372,7 @@
       "year": "1950",
       "originalTitle": "In a Lonely Place",
       "rating": 4.2,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/2/3/5/41235-in-a-lonely-place-0-230-0-345-crop.jpg?v=6b6f2344f2",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/2/3/5/41235-in-a-lonely-place-0-230-0-345-crop.jpg?v=ad615c5733",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "In a Lonely Place"
     },
@@ -4627,8 +4627,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -4643,7 +4642,8 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4656,7 +4656,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/sh/zk/fh/9l/9LmJxdap9iaeQe6AAA9FzZytq79-0-230-0-345-crop.jpg?v=fc5f972431",
       "streamProviders": [
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4730,7 +4731,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4g/y9/qr/q9/pbAqLKoLydP7jl6P0vmYwlDtRPD-0-230-0-345-crop.jpg?v=8eb030b5f7",
       "streamProviders": [
         "Joyn",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The King of Comedy"
     },
@@ -5050,8 +5052,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mx/hx/fm/03/uovgR063sBxGHQWD8YzQm4WJX4-0-230-0-345-crop.jpg?v=75ea9132cc",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -5795,7 +5796,7 @@
       "name": "Shadows",
       "letterboxdUrl": "https://letterboxd.com/film/shadows-1959",
       "listPosition": 483,
-      "year": "1958",
+      "year": "1959",
       "originalTitle": "Shadows",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/3/4/1/42341-shadows-0-230-0-345-crop.jpg?v=d5306e5453",
@@ -6697,10 +6698,8 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/p9/tg/s4/ca/dxbIRmIo0rN5R6WGvxnJuUJPh3t-0-230-0-345-crop.jpg?v=12b2d3f8b3",
       "streamProviders": [
-        "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MOVIECULT",
         "Prime Video Channels Paramount+",
-        "Prime Video Channels Seven Entertainment",
         "Paramount+"
       ],
       "streamProvidersOriginalTitle": "Evil Dead II"
@@ -7286,7 +7285,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -8364,8 +8364,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/1s/rv/yf/4q/8f4gSxVxDk8A2UE0qOEjLAWljlb-0-230-0-345-crop.jpg?v=6702be2472",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Copie conforme"
     },
@@ -9488,7 +9487,7 @@
       "listPosition": 793,
       "year": "1988",
       "originalTitle": "Mujeres al borde de un ataque de nervios",
-      "rating": 4,
+      "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/4/6/8/49468-women-on-the-verge-of-a-nervous-breakdown-0-230-0-345-crop.jpg?v=62abc94559",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
@@ -9736,8 +9735,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -9864,7 +9862,10 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/4/0/6/51406-the-last-emperor-0-230-0-345-crop.jpg?v=db0c8250da",
       "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
+        "Joyn",
+        "Prime Video Channels ARTHAUS+",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "The Last Emperor"
     },
@@ -11084,7 +11085,9 @@
       "originalTitle": "Dracula",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/9/3/5/44935-dracula-0-230-0-345-crop.jpg?v=ce1ddf1b0a",
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky Go\nSky"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -11885,8 +11888,7 @@
         "Prime Video Channels MUBI",
         "Flimmit",
         "Netzkino",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Le boucher"
     },
