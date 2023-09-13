@@ -104,7 +104,7 @@
       "year": "1929",
       "originalTitle": "Человек с киноаппаратом",
       "rating": 4.3,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-230-0-345-crop.jpg?v=e6d847bed4",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/4/1/1/35411-man-with-a-movie-camera-0-230-0-345-crop.jpg?v=540bede62d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Человек с киноаппаратом"
     },
@@ -456,7 +456,8 @@
         "Amazon Prime Video",
         "Prime Video Channels alleskino",
         "Prime Video Channels FlimmerkisteTV",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "M"
     },
@@ -510,8 +511,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
     },
@@ -832,7 +832,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-230-0-345-crop.jpg?v=2b4c871ed4",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les glaneurs et la glaneuse"
     },
@@ -1558,7 +1559,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -1754,8 +1756,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/3/7/1/7/73717-sambizanga-0-230-0-345-crop.jpg?v=076bb60f26",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1988,7 +1989,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -2134,8 +2136,7 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2150,7 +2151,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -2216,8 +2218,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -2961,8 +2962,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/6/9/7/4/4/669744-petite-maman-0-230-0-345-crop.jpg?v=c7cbed5a06",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Petite maman"
     },
@@ -3133,7 +3133,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "alleskino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Werckmeister harmóniák"
     },

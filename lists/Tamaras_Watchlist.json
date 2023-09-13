@@ -286,8 +286,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1242,7 +1241,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/2/6/3/49263-monty-python-s-the-meaning-of-life-0-230-0-345-crop.jpg?v=a9db41569c",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "MONTY PYTHON'S THE MEANING OF LIFE"
+      "streamProvidersOriginalTitle": "The Meaning of Life"
     },
     {
       "name": "The Great Dictator",
@@ -1390,7 +1389,6 @@
       "streamProviders": [
         "Sky WOW",
         "Sky Go\nSky",
-        "freenet Video",
         "Prime Video Channels FILMLEGENDEN"
       ],
       "streamProvidersOriginalTitle": "At Eternity's Gate"

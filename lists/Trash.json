@@ -2326,8 +2326,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2372,7 +2371,9 @@
       "originalTitle": "Hot Thrills and Warm Chills",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/7/9/7/1/107971-hot-thrills-and-warm-chills-0-230-0-345-crop.jpg?v=32f7909ba1",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2607,7 +2608,7 @@
       "listPosition": 233,
       "year": "2009",
       "originalTitle": "Ink",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/4/6/3/36463-ink-0-230-0-345-crop.jpg?v=ec992a639c",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -2653,7 +2654,7 @@
       "listPosition": 237,
       "year": "1982",
       "originalTitle": "The Ghost Dance",
-      "rating": 0,
+      "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/1/6/0/4/71604-the-ghost-dance-0-230-0-345-crop.jpg?v=0c5791555f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3098,7 +3099,7 @@
       "listPosition": 276,
       "year": "1994",
       "originalTitle": "Time Chasers",
-      "rating": 2.5,
+      "rating": 2.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/2/2/6/31226-time-chasers-0-230-0-345-crop.jpg?v=628826a16f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3170,7 +3171,9 @@
       "originalTitle": "House on Bare Mountain",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/3/3/9/6/53396-house-on-bare-mountain-0-230-0-345-crop.jpg?v=e4fa1323f7",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "House on Bare Mountain"
     },
     {
@@ -3516,7 +3519,7 @@
       "listPosition": 313,
       "year": "1973",
       "originalTitle": "The Werewolf of Washington",
-      "rating": 2.7,
+      "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/4/4/5/5/74455-the-werewolf-of-washington-0-230-0-345-crop.jpg?v=b080f7d018",
       "streamProviders": [
         "Prime Video Channels Netzkino Select",
@@ -3670,7 +3673,7 @@
       "listPosition": 326,
       "year": "1989",
       "originalTitle": "Communion",
-      "rating": 3,
+      "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/8/0/33380-communion-0-230-0-345-crop.jpg?v=3c4932fc01",
       "streamProviders": [
         "Joyn"
@@ -3952,7 +3955,9 @@
       "originalTitle": "Wild Guitar",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/5/5/9/5/75595-wild-guitar-0-230-0-345-crop.jpg?v=cd68a4cfba",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
