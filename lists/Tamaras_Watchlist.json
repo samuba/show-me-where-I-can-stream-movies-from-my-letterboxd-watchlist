@@ -9,7 +9,7 @@
       "listPosition": 0,
       "year": "1958",
       "originalTitle": "Gigi",
-      "rating": 3.1,
+      "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/0/8/8/41088-gigi-0-230-0-345-crop.jpg?v=6648be6f00",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -70,7 +70,10 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/5/2/50752-the-long-goodbye-0-230-0-345-crop.jpg?v=09d57c0d87",
       "streamProviders": [
-        "Amazon Prime Video"
+        "Amazon Prime Video",
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "The Long Goodbye"
     },
@@ -310,7 +313,6 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/3/8/51138-the-talented-mr-ripley-0-230-0-345-crop.jpg?v=70e0a57506",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -327,8 +329,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -619,7 +620,7 @@
       "listPosition": 0,
       "year": "2013",
       "originalTitle": "Love Steaks",
-      "rating": 3,
+      "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/7/0/7/167707-love-steaks-0-230-0-345-crop.jpg?v=455603b94d",
       "streamProviders": [
         "Amazon Prime Video",

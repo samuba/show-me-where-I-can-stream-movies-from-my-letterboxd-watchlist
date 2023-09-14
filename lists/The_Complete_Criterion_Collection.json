@@ -391,6 +391,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/wt/r4/hc/iz/pnzuLoE52EiTfjfqRex2uTkH7LB-0-230-0-345-crop.jpg?v=5c24b21874",
       "streamProviders": [
         "Prime Video Channels MGM+",
+        "Prime Video Channels Paramount+",
+        "Paramount+",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
@@ -494,8 +496,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/8/2/2/50822-inland-empire-0-230-0-345-crop.jpg?v=b4bd226d73",
       "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -964,7 +965,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/3/7/1/7/73717-sambizanga-0-230-0-345-crop.jpg?v=076bb60f26",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1870,7 +1872,9 @@
       "originalTitle": "Irma Vep",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/fo/wl/s1/2t/uFGubvhFdNS4cJdFHsCGuTpM9ZP-0-230-0-345-crop.jpg?v=af3c29d041",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1883,7 +1887,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -2228,7 +2233,7 @@
       "listPosition": 0,
       "year": "1979",
       "originalTitle": "Cristo si è fermato a Eboli",
-      "rating": 3.9,
+      "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/8/9/7/22897-christ-stopped-at-eboli-0-230-0-345-crop.jpg?v=da0ec3ccbd",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Cristo si è fermato a Eboli"
@@ -3171,9 +3176,7 @@
       "originalTitle": "Nineteen Eighty-Four",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/2/7/9/47279-nineteen-eighty-four-0-230-0-345-crop.jpg?v=695ce161d1",
-      "streamProviders": [
-        "MagentaTV"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Nineteen Eighty-Four"
     },
     {
@@ -6798,7 +6801,9 @@
       "originalTitle": "Ride in the Whirlwind",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/0/4/8/6048-ride-in-the-whirlwind-0-230-0-345-crop.jpg?v=3f40625d3d",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -6809,9 +6814,7 @@
       "originalTitle": "The Shooting",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/8/9/22389-the-shooting-0-230-0-345-crop.jpg?v=d9a82e31ae",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "The Shooting"
     },
     {
@@ -6992,8 +6995,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -7006,8 +7008,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -8430,7 +8431,6 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/7/2/9/46729-shallow-grave-0-230-0-345-crop.jpg?v=70c7610d76",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels ARTHAUS+"
       ],
       "streamProvidersOriginalTitle": "Shallow Grave"
@@ -8483,8 +8483,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/1s/rv/yf/4q/8f4gSxVxDk8A2UE0qOEjLAWljlb-0-230-0-345-crop.jpg?v=6702be2472",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Copie conforme"
     },
@@ -9553,8 +9552,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d7/y1/ub/ph/lY4Y9buUIZY17vpvL5dsBpbORo0-0-230-0-345-crop.jpg?v=1e15ad22d2",
       "streamProviders": [
         "Sooner",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -10507,8 +10505,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/7/51907-wings-of-desire-0-230-0-345-crop.jpg?v=9b4044c82d",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -11280,7 +11277,7 @@
       "listPosition": 0,
       "year": "1953",
       "originalTitle": "Madame de…",
-      "rating": 4,
+      "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/5/8/8/9/55889-the-earrings-of-madame-de--0-230-0-345-crop.jpg?v=d8d3f809be",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -11574,7 +11571,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -12120,7 +12118,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
     },
@@ -13753,8 +13752,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino",
-        "Mubi"
+        "alleskino"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -15653,7 +15651,8 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -15935,8 +15934,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/1/1/51611-cleo-from-5-to-7-0-230-0-345-crop.jpg?v=57e2214b3d",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Cléo de 5 à 7"
     },
@@ -16199,8 +16197,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -17580,8 +17577,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-230-0-345-crop.jpg?v=2b4c871ed4",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les glaneurs et la glaneuse"
     },

@@ -168,8 +168,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/1/1/51611-cleo-from-5-to-7-0-230-0-345-crop.jpg?v=57e2214b3d",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Cléo de 5 à 7"
     },
@@ -511,7 +510,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
     },
@@ -832,8 +832,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-230-0-345-crop.jpg?v=2b4c871ed4",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les glaneurs et la glaneuse"
     },
@@ -1098,7 +1097,7 @@
       "listPosition": 90,
       "year": "1953",
       "originalTitle": "Madame de…",
-      "rating": 4,
+      "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/5/8/8/9/55889-the-earrings-of-madame-de--0-230-0-345-crop.jpg?v=d8d3f809be",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -1559,8 +1558,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -1756,7 +1754,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/3/7/1/7/73717-sambizanga-0-230-0-345-crop.jpg?v=076bb60f26",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1905,7 +1904,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -2136,7 +2136,8 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2218,7 +2219,8 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -2317,8 +2319,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/7/51907-wings-of-desire-0-230-0-345-crop.jpg?v=9b4044c82d",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2381,8 +2382,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -3133,8 +3133,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "alleskino",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Werckmeister harmóniák"
     },

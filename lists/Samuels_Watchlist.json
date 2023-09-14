@@ -255,7 +255,7 @@
       "listPosition": 0,
       "year": "2013",
       "originalTitle": "Love Steaks",
-      "rating": 3,
+      "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/7/0/7/167707-love-steaks-0-230-0-345-crop.jpg?v=455603b94d",
       "streamProviders": [
         "Amazon Prime Video",
@@ -372,8 +372,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -989,7 +988,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -1306,7 +1306,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
     },
@@ -2164,7 +2165,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mc/qb/uk/vv/qLaXnLzqleBWQtjvZ6JGVSaKoC3-0-230-0-345-crop.jpg?v=e37b6df74a",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2262,8 +2264,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/0/7/51907-wings-of-desire-0-230-0-345-crop.jpg?v=9b4044c82d",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2500,9 +2501,7 @@
       "originalTitle": "Utopia",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/0/3/1/167031-utopia-0-230-0-345-crop.jpg?v=244670517e",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -2906,8 +2905,7 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/7/5/7/2/8/275728-final-portrait-0-230-0-345-crop.jpg?v=38cd796692",
       "streamProviders": [
-        "Joyn",
-        "MagentaTV"
+        "Joyn"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3087,7 +3085,7 @@
       "listPosition": 0,
       "year": "2011",
       "originalTitle": "Black Mirror",
-      "rating": 4.1,
+      "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/4/9/5/4/384954-black-mirror-0-230-0-345-crop.jpg?v=8358cd43d9",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3496,10 +3494,8 @@
       "originalTitle": "Tomorrowland",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Tomorrowland"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Hardcore Henry",
@@ -4203,8 +4199,7 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "De rouille et d'os"
     },
@@ -4317,8 +4312,7 @@
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
         "Sooner",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
     },
