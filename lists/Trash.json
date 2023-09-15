@@ -2654,7 +2654,7 @@
       "listPosition": 237,
       "year": "1982",
       "originalTitle": "The Ghost Dance",
-      "rating": 2.9,
+      "rating": 0,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/1/6/0/4/71604-the-ghost-dance-0-230-0-345-crop.jpg?v=0c5791555f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3673,7 +3673,7 @@
       "listPosition": 326,
       "year": "1989",
       "originalTitle": "Communion",
-      "rating": 2.9,
+      "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/8/0/33380-communion-0-230-0-345-crop.jpg?v=3c4932fc01",
       "streamProviders": [
         "Joyn"
@@ -4379,7 +4379,7 @@
       "listPosition": 389,
       "year": "1981",
       "originalTitle": "Lady Street Fighter",
-      "rating": 2.7,
+      "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/2/2/6/2/72262-lady-street-fighter-0-230-0-345-crop.jpg?v=67924ffeba",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -4619,7 +4619,7 @@
       "listPosition": 410,
       "year": "1983",
       "originalTitle": "The Instructor",
-      "rating": 0,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/9/0/5/2/159052-the-instructor-0-230-0-345-crop.jpg?v=8bd88450dc",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -5550,7 +5550,7 @@
       "listPosition": 493,
       "year": "1997",
       "originalTitle": "Trucks",
-      "rating": 2,
+      "rating": 1.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/2/1/2/41212-trucks-0-230-0-345-crop.jpg?v=ca10a91bcb",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Trucks"
@@ -5809,7 +5809,9 @@
       "originalTitle": "Bad Girls Go to Hell",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/5/8/22358-bad-girls-go-to-hell-0-230-0-345-crop.jpg?v=f00f9c211a",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Bad Girls Go to Hell"
     },
     {
@@ -6164,7 +6166,7 @@
       "listPosition": 548,
       "year": "1968",
       "originalTitle": "The Acid Eaters",
-      "rating": 0,
+      "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/4/7/1/8/74718-the-acid-eaters-0-230-0-345-crop.jpg?v=a7b097174d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""

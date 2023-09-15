@@ -470,8 +470,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -567,7 +566,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/1/51981-brazil-0-230-0-345-crop.jpg?v=cc28feee48",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -682,7 +682,8 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1477,7 +1478,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1493,7 +1495,8 @@
         "Joyn",
         "Disney+",
         "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Seven Entertainment",
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1813,7 +1816,8 @@
         "Prime Video Channels Filmtastic",
         "Prime Video Channels Galactic Stream",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Twelve Monkeys"
     },
@@ -3402,7 +3406,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d7/y1/ub/ph/lY4Y9buUIZY17vpvL5dsBpbORo0-0-230-0-345-crop.jpg?v=1e15ad22d2",
       "streamProviders": [
         "Sooner",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3436,7 +3441,9 @@
       "originalTitle": "Freddy Got Fingered",
       "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/wu/6y/12/fk/m5G9RsyTrLC67IHV40JXtqzLpR6-0-230-0-345-crop.jpg?v=218cea4a03",
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -4336,7 +4343,9 @@
       "originalTitle": "Tank Girl",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/zu/tv/cc/aa/tpX4WrJ0Gih8wGqHPVolT9fexoQ-0-230-0-345-crop.jpg?v=73a844d55c",
-      "streamProviders": [],
+      "streamProviders": [
+        "MagentaTV"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -4390,8 +4399,7 @@
         "Prime Video Channels MUBI",
         "ARD Plus",
         "MagentaTV",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "The Secret of Kells"
     },
@@ -4524,7 +4532,7 @@
       "listPosition": 369,
       "year": "1990",
       "originalTitle": "Glaze of Cathexis",
-      "rating": 3.4,
+      "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/4/5/2/5/84525-glaze-of-cathexis-0-230-0-345-crop.jpg?v=0e17865e18",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -5203,7 +5211,9 @@
       "originalTitle": "The Shooting",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/8/9/22389-the-shooting-0-230-0-345-crop.jpg?v=d9a82e31ae",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "The Shooting"
     },
     {
@@ -7429,8 +7439,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-230-0-345-crop.jpg?v=09a7c91f68",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Gone Girl"
     },
@@ -7874,8 +7883,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/2/6/9/45269-leningrad-cowboys-go-america-0-230-0-345-crop.jpg?v=9c6cb3cc04",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -8994,6 +9002,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
       "streamProviders": [
+        "Joyn",
         "Disney+",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
@@ -9494,10 +9503,7 @@
       "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/9/9/0/47990-the-libertine-0-230-0-345-crop.jpg?v=e04926bb7f",
       "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Moviedome PLUS"
       ],
       "streamProvidersOriginalTitle": "The Libertine"
     },
@@ -9787,8 +9793,7 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "This Must Be the Place"
     },
@@ -9804,7 +9809,8 @@
         "Netflix",
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -10940,6 +10946,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/3/8/51138-the-talented-mr-ripley-0-230-0-345-crop.jpg?v=70e0a57506",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -10957,7 +10964,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/9/5/139795-birdman-0-230-0-345-crop.jpg?v=345680513e",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Birdman or (The Unexpected Virtue of Ignorance)"
     },

@@ -157,8 +157,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -291,7 +290,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/5/1/0/37510-the-garden-of-sinners-chapter-5-paradox-spiral-0-230-0-345-crop.jpg?v=082e5f8cd8",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "20-seiki shônen: Honkaku kagaku bôken eiga"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Ghost in the Shell 2.0",
@@ -1176,10 +1175,6 @@
   "streamProviders": [
     {
       "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Mubi",
       "enabled": false
     },
     {

@@ -670,8 +670,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -792,7 +791,7 @@
       "listPosition": 0,
       "year": "1994",
       "originalTitle": "平成狸合戦ぽんぽこ",
-      "rating": 3.7,
+      "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/4/7/8/42478-pom-poko-0-230-0-345-crop.jpg?v=887706ae4b",
       "streamProviders": [
         "Netflix"
@@ -1306,10 +1305,6 @@
     },
     {
       "name": "MagentaTV",
-      "enabled": false
-    },
-    {
-      "name": "Mubi",
       "enabled": false
     },
     {

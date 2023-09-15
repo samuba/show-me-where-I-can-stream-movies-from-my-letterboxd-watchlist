@@ -70,7 +70,8 @@
       "streamProviders": [
         "Disney+",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -170,8 +171,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -658,7 +658,7 @@
       "year": "2009",
       "originalTitle": "District 9",
       "rating": 3.8,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/0/8/6/0/40860-district-9-0-230-0-345-crop.jpg?v=15130016b7",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/0/8/6/0/40860-district-9-0-230-0-345-crop.jpg?v=5fb9b8c5a9",
       "streamProviders": [
         "Prime Video Channels AXN Black",
         "Prime Video Channels SONY AXN"
@@ -690,8 +690,7 @@
         "Prime Video Channels MUBI",
         "Prime Video Channels Paramount+",
         "Paramount+",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -730,7 +729,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/9/5/139795-birdman-0-230-0-345-crop.jpg?v=345680513e",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Birdman or (The Unexpected Virtue of Ignorance)"
     },
@@ -742,7 +742,9 @@
       "originalTitle": "Burn After Reading",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/0/5/4/49054-burn-after-reading-0-230-0-345-crop.jpg?v=1a29d1c090",
-      "streamProviders": [],
+      "streamProviders": [
+        "MagentaTV"
+      ],
       "streamProvidersOriginalTitle": "Burn After Reading"
     },
     {
@@ -1115,7 +1117,8 @@
       "streamProviders": [
         "Netflix",
         "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Paramount+",
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1164,7 +1167,8 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Seven Entertainment",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1571,6 +1575,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
       "streamProviders": [
+        "Joyn",
         "Disney+",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+",
@@ -1725,7 +1730,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },

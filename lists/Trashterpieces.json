@@ -1073,8 +1073,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1153,7 +1152,8 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/4/5/6/8/24568-salon-kitty-0-230-0-345-crop.jpg?v=d34b9cbff4",
       "streamProviders": [
-        "Netzkino"
+        "Netzkino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salon Kitty"
     },
@@ -2149,7 +2149,6 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/8/4/8/6/148486-wetlands-0-230-0-345-crop.jpg?v=5f27093a09",
       "streamProviders": [
-        "Joyn",
         "Netflix",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Kabel Eins CLASSICS",
