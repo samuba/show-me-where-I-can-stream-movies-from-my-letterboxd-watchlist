@@ -235,7 +235,9 @@
       "originalTitle": "John Wick: Chapter 3 – Parabellum",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/9/0/0/3/9/390039-john-wick-chapter-3-parabellum-0-230-0-345-crop.jpg?v=589aeaad00",
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels Filmtastic"
+      ],
       "streamProvidersOriginalTitle": "John Wick: Chapter 3 - Parabellum"
     },
     {
@@ -989,8 +991,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -1307,7 +1308,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
     },
@@ -2164,8 +2166,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mc/qb/uk/vv/qLaXnLzqleBWQtjvZ6JGVSaKoC3-0-230-0-345-crop.jpg?v=e37b6df74a",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2753,8 +2754,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -3158,10 +3158,7 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/qu/op/rd/rv/tJsAtjcw2xjtemSIhb0sbvNKgg9-0-230-0-345-crop.jpg?v=0d47cf64a4",
       "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn",
-        "Prime Video Channels ProSieben FUN",
-        "Prime Video Channels Seven Entertainment"
+        "Amazon Prime Video"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3491,8 +3488,10 @@
       "originalTitle": "Tomorrowland",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Disney+"
+      ],
+      "streamProvidersOriginalTitle": "Tomorrowland"
     },
     {
       "name": "Hardcore Henry",
@@ -4310,8 +4309,7 @@
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
         "Sooner",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4694,6 +4692,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vz/7i/ka/ys/6ED4Wr2vgOc7yPiXIqovwLiQfCl-0-230-0-345-crop.jpg?v=3da900f744",
       "streamProviders": [
         "Joyn",
+        "Prime Video Channels FILMLEGENDEN",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -4842,10 +4841,6 @@
     },
     {
       "name": "Prime Video Channels Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels ProSieben FUN",
       "enabled": false
     },
     {
