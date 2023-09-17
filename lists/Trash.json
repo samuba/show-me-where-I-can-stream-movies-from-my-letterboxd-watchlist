@@ -2326,7 +2326,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4619,7 +4620,7 @@
       "listPosition": 410,
       "year": "1983",
       "originalTitle": "The Instructor",
-      "rating": 3.3,
+      "rating": 0,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/9/0/5/2/159052-the-instructor-0-230-0-345-crop.jpg?v=8bd88450dc",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -5809,9 +5810,7 @@
       "originalTitle": "Bad Girls Go to Hell",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/5/8/22358-bad-girls-go-to-hell-0-230-0-345-crop.jpg?v=f00f9c211a",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Bad Girls Go to Hell"
     },
     {
