@@ -534,7 +534,8 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/2/1/1121-baxter-vera-baxter-0-230-0-345-crop.jpg?v=c4b9a66cb0",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -685,9 +686,7 @@
       "originalTitle": "Flickorna",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/4/0/7/4/104074-the-girls-0-230-0-345-crop.jpg?v=0231892ce1",
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Flickorna"
     },
     {
@@ -1125,8 +1124,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/7/9/0/5/3/579053-farewell-amor-0-230-0-345-crop.jpg?v=7c9e5276a5",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1433,10 +1431,8 @@
       "originalTitle": "黃飛鴻之四王者之風",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/5/6/7/13567-once-upon-a-time-in-china-iv-0-230-0-345-crop.jpg?v=9e39b53159",
-      "streamProviders": [
-        "Prime Video Channels Netzkino Select"
-      ],
-      "streamProvidersOriginalTitle": "Gui jiao qi"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Once Upon a Time in China III",
@@ -3092,7 +3088,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/6/6/9/15669-where-is-the-friend-s-house--0-230-0-345-crop.jpg?v=fa9af1e128",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Khane-ye doust kodjast?"
     },
@@ -6387,7 +6384,7 @@
       "listPosition": 0,
       "year": "1979",
       "originalTitle": "The Rose",
-      "rating": 3.6,
+      "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/6/4/9/41649-the-rose-0-230-0-345-crop.jpg?v=56001301cc",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -6788,9 +6785,7 @@
       "originalTitle": "Ride in the Whirlwind",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/0/4/8/6048-ride-in-the-whirlwind-0-230-0-345-crop.jpg?v=3f40625d3d",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -6801,7 +6796,9 @@
       "originalTitle": "The Shooting",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/8/9/22389-the-shooting-0-230-0-345-crop.jpg?v=d9a82e31ae",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "The Shooting"
     },
     {
@@ -6996,7 +6993,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -7172,9 +7170,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/4/46344-fantastic-mr-fox-0-230-0-345-crop.jpg?v=3a2a858065",
       "streamProviders": [
         "Joyn",
-        "Disney+",
-        "Prime Video Channels ProSieben FUN",
-        "Prime Video Channels Seven Entertainment"
+        "Disney+"
       ],
       "streamProvidersOriginalTitle": "Fantastic Mr. Fox"
     },
@@ -7393,7 +7389,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7826,8 +7823,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "El espinazo del diablo"
     },
@@ -8468,7 +8464,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/1s/rv/yf/4q/8f4gSxVxDk8A2UE0qOEjLAWljlb-0-230-0-345-crop.jpg?v=6702be2472",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Copie conforme"
     },
@@ -9408,6 +9405,7 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels Good!Movies",
+        "Prime Video Channels Silverline",
         "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
@@ -9536,7 +9534,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d7/y1/ub/ph/lY4Y9buUIZY17vpvL5dsBpbORo0-0-230-0-345-crop.jpg?v=1e15ad22d2",
       "streamProviders": [
         "Sooner",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -13497,7 +13496,7 @@
     },
     {
       "name": "Shadows",
-      "letterboxdUrl": "https://letterboxd.com/film/shadows-1959",
+      "letterboxdUrl": "https://letterboxd.com/film/shadows-1958",
       "listPosition": 0,
       "year": "1958",
       "originalTitle": "Shadows",
@@ -13545,7 +13544,7 @@
       "listPosition": 0,
       "year": "1953",
       "originalTitle": "I Vitelloni",
-      "rating": 3.9,
+      "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/4/8/9/44489-i-vitelloni-0-230-0-345-crop.jpg?v=50416a2c68",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
@@ -13737,7 +13736,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -16037,8 +16037,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/8/41838-carnival-of-souls-0-230-0-345-crop.jpg?v=a3719cf15b",
       "streamProviders": [
-        "Prime Video Channels FRANATIC – dein Film-Channel",
-        "Mubi"
+        "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
       "streamProvidersOriginalTitle": "Carnival of Souls"
     },
@@ -16259,7 +16258,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/3/4/5/32345-taste-of-cherry-0-230-0-345-crop.jpg?v=64fada0a9a",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ta'm e guilass"
     },
@@ -17330,7 +17330,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/8/9/8/6/78986-diary-of-a-pregnant-woman-0-230-0-345-crop.jpg?v=fcfbf5a549",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "L'opéra-Mouffe"
     },
@@ -17433,9 +17434,7 @@
       "originalTitle": "Lions Love",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/1/0/3510-lions-love-0-230-0-345-crop.jpg?v=8026fe78cc",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -17568,8 +17567,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-230-0-345-crop.jpg?v=2b4c871ed4",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les glaneurs et la glaneuse"
     },
@@ -17958,11 +17956,11 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels ProSieben FUN",
+      "name": "Prime Video Channels Seven Entertainment",
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Seven Entertainment",
+      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {

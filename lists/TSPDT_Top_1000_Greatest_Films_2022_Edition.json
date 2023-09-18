@@ -1188,8 +1188,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -1922,7 +1921,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -3664,7 +3664,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/6/6/9/15669-where-is-the-friend-s-house--0-230-0-345-crop.jpg?v=fa9af1e128",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Khane-ye doust kodjast?"
     },
@@ -4432,8 +4433,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-230-0-345-crop.jpg?v=2b4c871ed4",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les glaneurs et la glaneuse"
     },
@@ -4648,7 +4648,8 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4697,7 +4698,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/3/4/5/32345-taste-of-cherry-0-230-0-345-crop.jpg?v=64fada0a9a",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ta'm e guilass"
     },
@@ -7109,7 +7111,7 @@
       "listPosition": 594,
       "year": "1953",
       "originalTitle": "I Vitelloni",
-      "rating": 3.9,
+      "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/4/8/9/44489-i-vitelloni-0-230-0-345-crop.jpg?v=50416a2c68",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
@@ -7290,7 +7292,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -8367,7 +8370,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/1s/rv/yf/4q/8f4gSxVxDk8A2UE0qOEjLAWljlb-0-230-0-345-crop.jpg?v=6702be2472",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Copie conforme"
     },
@@ -8516,7 +8520,7 @@
       "listPosition": 712,
       "year": "1987",
       "originalTitle": "Yeelen",
-      "rating": 3.7,
+      "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/8/1/4/4/58144-brightness-0-230-0-345-crop.jpg?v=34c45a64d7",
       "streamProviders": [
         "filmingo"
@@ -9606,6 +9610,7 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels Good!Movies",
+        "Prime Video Channels Silverline",
         "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
@@ -11632,8 +11637,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/8/41838-carnival-of-souls-0-230-0-345-crop.jpg?v=a3719cf15b",
       "streamProviders": [
-        "Prime Video Channels FRANATIC – dein Film-Channel",
-        "Mubi"
+        "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
       "streamProvidersOriginalTitle": "Carnival of Souls"
     },
@@ -11646,7 +11650,6 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/9/7/51197-the-magnificent-seven-0-230-0-345-crop.jpg?v=82697b299a",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -12053,6 +12056,10 @@
     },
     {
       "name": "Prime Video Channels Seven Entertainment",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {

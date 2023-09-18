@@ -1210,7 +1210,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/6/6/9/15669-where-is-the-friend-s-house--0-230-0-345-crop.jpg?v=fa9af1e128",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Khane-ye doust kodjast?"
     },
@@ -1549,7 +1550,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/3/4/5/32345-taste-of-cherry-0-230-0-345-crop.jpg?v=64fada0a9a",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ta'm e guilass"
     },
@@ -1913,7 +1915,8 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2136,9 +2139,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/4/46344-fantastic-mr-fox-0-230-0-345-crop.jpg?v=3a2a858065",
       "streamProviders": [
         "Joyn",
-        "Disney+",
-        "Prime Video Channels ProSieben FUN",
-        "Prime Video Channels Seven Entertainment"
+        "Disney+"
       ],
       "streamProvidersOriginalTitle": "Fantastic Mr. Fox"
     },
@@ -2842,8 +2843,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },

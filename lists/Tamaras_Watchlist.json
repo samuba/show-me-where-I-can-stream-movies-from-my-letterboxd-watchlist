@@ -611,7 +611,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/7/8/6/5/117865-maps-to-the-stars-0-230-0-345-crop.jpg?v=1b03e1f879",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -924,7 +925,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1153,9 +1155,7 @@
       "originalTitle": "One & Two",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/5/0/3/8/7/250387-one-two-0-230-0-345-crop.jpg?v=e3613bc5b8",
-      "streamProviders": [
-        "filmfriend"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1535,6 +1535,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/6/5/5/2/96552-the-hobbit-the-battle-of-the-five-armies-0-230-0-345-crop.jpg?v=fcaa9a2943",
       "streamProviders": [
         "Amazon Prime Video",
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],

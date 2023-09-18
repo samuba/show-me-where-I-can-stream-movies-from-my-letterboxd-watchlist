@@ -1790,7 +1790,8 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1909,8 +1910,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -4347,7 +4347,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -5048,9 +5049,7 @@
       "originalTitle": "Hunt for the Wilderpeople",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/z3/0g/ol/7s/gALeMjf3NlSXy1gbz3eKct1aRhd-0-230-0-345-crop.jpg?v=d2b19175d7",
-      "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Hunt for the Wilderpeople"
     },
     {
@@ -6150,8 +6149,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-230-0-345-crop.jpg?v=09a7c91f68",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Gone Girl"
     },
@@ -6465,7 +6463,8 @@
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Nightcrawler"
     },
@@ -7077,9 +7076,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/4/46344-fantastic-mr-fox-0-230-0-345-crop.jpg?v=3a2a858065",
       "streamProviders": [
         "Joyn",
-        "Disney+",
-        "Prime Video Channels ProSieben FUN",
-        "Prime Video Channels Seven Entertainment"
+        "Disney+"
       ],
       "streamProvidersOriginalTitle": "Fantastic Mr. Fox"
     },
@@ -7371,7 +7368,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/4/51784-batman-begins-0-230-0-345-crop.jpg?v=f090edc352",
       "streamProviders": [
         "Amazon Prime Video",
-        "Netflix"
+        "Netflix",
+        "Sky Go\nSky"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7590,7 +7588,8 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Seven Entertainment",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -9162,7 +9161,6 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/9/7/51197-the-magnificent-seven-0-230-0-345-crop.jpg?v=82697b299a",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -9626,7 +9624,7 @@
       "listPosition": 773,
       "year": "1953",
       "originalTitle": "I Vitelloni",
-      "rating": 3.9,
+      "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/4/8/9/44489-i-vitelloni-0-230-0-345-crop.jpg?v=50416a2c68",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+"
@@ -10101,8 +10099,7 @@
         "freenet Video",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "Fruitvale Station"
     },
@@ -10139,8 +10136,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/8/6/0/1/378601-bacurau-0-230-0-345-crop.jpg?v=9dd3486e4c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -10620,7 +10616,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/2/3/4/5/32345-taste-of-cherry-0-230-0-345-crop.jpg?v=64fada0a9a",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ta'm e guilass"
     },
@@ -10717,8 +10714,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "El espinazo del diablo"
     },
@@ -10861,7 +10857,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino"
+        "alleskino",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -11203,7 +11200,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/6/6/9/15669-where-is-the-friend-s-house--0-230-0-345-crop.jpg?v=fa9af1e128",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Khane-ye doust kodjast?"
     },
@@ -11729,7 +11727,10 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/4/0/9/45409-shutter-island-0-230-0-345-crop.jpg?v=85dd4c38e3",
       "streamProviders": [
         "Amazon Prime Video",
+        "Joyn",
         "Prime Video Channels Filmtastic",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels Seven Entertainment",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""

@@ -947,9 +947,10 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
-      "streamProvidersOriginalTitle": "Death Proof"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Love Camp 7",
@@ -1073,7 +1074,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1671,7 +1673,7 @@
       "listPosition": 145,
       "year": "1980",
       "originalTitle": "The Apple",
-      "rating": 2.7,
+      "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/5/0/9/16509-the-apple-0-230-0-345-crop.jpg?v=e1b7732d8b",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "The Apple"
@@ -1834,9 +1836,7 @@
       "originalTitle": "Showgirls",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/my/0q/ck/qq/showgirls-0-230-0-345-crop.jpg?v=2243cd1b54",
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
