@@ -9,7 +9,7 @@
       "listPosition": 0,
       "year": "1958",
       "originalTitle": "Gigi",
-      "rating": 3.1,
+      "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/0/8/8/41088-gigi-0-230-0-345-crop.jpg?v=6648be6f00",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -331,8 +331,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -465,7 +464,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -714,9 +714,7 @@
       "originalTitle": "Promising Young Woman",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/0/0/4/7/510047-promising-young-woman-0-230-0-345-crop.jpg?v=21703347b6",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1155,7 +1153,9 @@
       "originalTitle": "One & Two",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/5/0/3/8/7/250387-one-two-0-230-0-345-crop.jpg?v=e3613bc5b8",
-      "streamProviders": [],
+      "streamProviders": [
+        "filmfriend"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1456,6 +1456,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/3e/ft/n3/pz/y7TLJzyaz5ILCPqqvoJoVK0zfD3-0-230-0-345-crop.jpg?v=7d8d7fc76e",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Seven Entertainment"
       ],

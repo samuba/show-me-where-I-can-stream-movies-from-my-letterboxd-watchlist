@@ -22,11 +22,8 @@
       "originalTitle": "Them!",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/6/3/2/45632-them--0-230-0-345-crop.jpg?v=147e08659f",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
-      "streamProvidersOriginalTitle": "Them!"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Blood of Fu Manchu",
@@ -947,8 +944,7 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1074,8 +1070,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1460,7 +1455,8 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/0/4/6/9/40469-castle-freak-0-230-0-345-crop.jpg?v=542ba2e861",
       "streamProviders": [
-        "Prime Video Channels Full Action"
+        "Prime Video Channels Full Action",
+        "Prime Video Channels Silverline"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1536,7 +1532,7 @@
       "listPosition": 134,
       "year": "1987",
       "originalTitle": "Miami Connection",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/3/8/6838-miami-connection-0-230-0-345-crop.jpg?v=5c02ece37d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -2732,6 +2728,10 @@
     },
     {
       "name": "Prime Video Channels Seven Entertainment",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {
