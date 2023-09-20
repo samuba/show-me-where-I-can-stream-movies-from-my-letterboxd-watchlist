@@ -31,7 +31,7 @@
       "listPosition": 3,
       "year": "1987",
       "originalTitle": "Miami Connection",
-      "rating": 3.2,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/3/8/6838-miami-connection-0-230-0-345-crop.jpg?v=5c02ece37d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -2326,8 +2326,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2484,7 +2483,7 @@
       "listPosition": 222,
       "year": "1996",
       "originalTitle": "Phat Beach",
-      "rating": 2.8,
+      "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/7/1/3/6/77136-phat-beach-0-230-0-345-crop.jpg?v=74c4485531",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -2655,7 +2654,7 @@
       "listPosition": 237,
       "year": "1982",
       "originalTitle": "The Ghost Dance",
-      "rating": 0,
+      "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/1/6/0/4/71604-the-ghost-dance-0-230-0-345-crop.jpg?v=0c5791555f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3034,8 +3033,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/3/1/6/9/23169-sorceress-0-230-0-345-crop.jpg?v=63a84f1bf3",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": "Sorceress"
     },
@@ -6133,7 +6131,7 @@
       "year": "1977",
       "originalTitle": "The Farmer",
       "rating": 3.3,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/4/4/3/2/144432-the-farmer-0-230-0-345-crop.jpg?v=e93b74d08e",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/4/4/3/2/144432-the-farmer-0-230-0-345-crop.jpg?v=af97716f2c",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -6165,7 +6163,7 @@
       "listPosition": 548,
       "year": "1968",
       "originalTitle": "The Acid Eaters",
-      "rating": 2.9,
+      "rating": 0,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/4/7/1/8/74718-the-acid-eaters-0-230-0-345-crop.jpg?v=a7b097174d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -6512,10 +6510,6 @@
     },
     {
       "name": "Netzkino",
-      "enabled": false
-    },
-    {
-      "name": "Paramount+",
       "enabled": false
     },
     {

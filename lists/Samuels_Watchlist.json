@@ -101,9 +101,7 @@
       "originalTitle": "Der Vorname",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/3/8/8/0/443880-how-about-adolf--0-230-0-345-crop.jpg?v=44b4258473",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -374,7 +372,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -652,8 +651,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -988,8 +986,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -1253,9 +1250,7 @@
       "originalTitle": "La casa lobo",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/9/5/7/1/429571-the-wolf-house-0-230-0-345-crop.jpg?v=34ae08eff4",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "La casa lobo"
     },
     {
@@ -1306,7 +1301,8 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ladri di biciclette"
     },
@@ -1837,7 +1833,9 @@
       "originalTitle": "Motherless Brooklyn",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/4/6/5/3/434653-motherless-brooklyn-0-230-0-345-crop.jpg?v=dd765637a3",
-      "streamProviders": [],
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2163,7 +2161,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mc/qb/uk/vv/qLaXnLzqleBWQtjvZ6JGVSaKoC3-0-230-0-345-crop.jpg?v=e37b6df74a",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2498,9 +2497,7 @@
       "originalTitle": "Utopia",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/0/3/1/167031-utopia-0-230-0-345-crop.jpg?v=244670517e",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -4194,7 +4191,8 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Seven Entertainment",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "De rouille et d'os"
     },

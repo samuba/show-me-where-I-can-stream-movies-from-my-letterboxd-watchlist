@@ -331,7 +331,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1574,6 +1575,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/8/51818-the-godfather-0-230-0-345-crop.jpg?v=bca8b67402",
       "streamProviders": [
         "Netflix",
+        "Sky WOW",
+        "Sky Go\nSky",
         "Prime Video Channels Paramount+",
         "MagentaTV"
       ],

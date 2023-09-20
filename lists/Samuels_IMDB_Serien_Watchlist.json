@@ -341,7 +341,8 @@
         "Prime Video Channels MUBI",
         "Sooner",
         "alleskino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Tehran Taboo"
     },
@@ -377,9 +378,7 @@
       "letterboxdUrl": "https://www.imdb.com/title/tt2384811/",
       "type": "tvSeries",
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1695052215",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {

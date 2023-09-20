@@ -22,8 +22,11 @@
       "originalTitle": "Them!",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/6/3/2/45632-them--0-230-0-345-crop.jpg?v=147e08659f",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "streamProvidersOriginalTitle": "Them!"
     },
     {
       "name": "The Blood of Fu Manchu",
@@ -803,7 +806,7 @@
       "listPosition": 71,
       "year": "1980",
       "originalTitle": "La casa sperduta nel parco",
-      "rating": 3.1,
+      "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/4/6/3/33463-house-on-the-edge-of-the-park-0-230-0-345-crop.jpg?v=1f96dbcdd6",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "La casa sperduta nel parco"
@@ -944,9 +947,10 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
-      "streamProvidersOriginalTitle": ""
+      "streamProvidersOriginalTitle": "Death Proof"
     },
     {
       "name": "Love Camp 7",
@@ -1070,7 +1074,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1149,8 +1154,7 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/4/5/6/8/24568-salon-kitty-0-230-0-345-crop.jpg?v=d34b9cbff4",
       "streamProviders": [
-        "Netzkino",
-        "Mubi"
+        "Netzkino"
       ],
       "streamProvidersOriginalTitle": "Salon Kitty"
     },
@@ -1532,7 +1536,7 @@
       "listPosition": 134,
       "year": "1987",
       "originalTitle": "Miami Connection",
-      "rating": 3.2,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/3/8/6838-miami-connection-0-230-0-345-crop.jpg?v=5c02ece37d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -2146,6 +2150,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/8/4/8/6/148486-wetlands-0-230-0-345-crop.jpg?v=5f27093a09",
       "streamProviders": [
+        "Joyn",
         "Netflix",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Kabel Eins CLASSICS",
