@@ -57,6 +57,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/6/51816-the-godfather-part-ii-0-230-0-345-crop.jpg?v=6a49853f25",
       "streamProviders": [
         "Netflix",
+        "Sky WOW",
+        "Sky Go\nSky",
         "Prime Video Channels Paramount+",
         "MagentaTV"
       ],
@@ -326,6 +328,7 @@
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/jg/cd/7y/f5/there%20will%20be%20blood-0-230-0-345-crop.jpg?v=8a533d5350",
       "streamProviders": [
+        "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
@@ -601,7 +604,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -651,7 +655,7 @@
       "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/1/7/5/46175-perfect-blue-0-230-0-345-crop.jpg?v=1ed5878cce",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProvidersOriginalTitle": "パーフェクトブルー"
     },
     {
       "name": "Mishima: A Life in Four Chapters",
@@ -663,8 +667,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/9/34829-mishima-a-life-in-four-chapters-0-230-0-345-crop.jpg?v=1bed76a9ae",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Mishima: A Life in Four Chapters"
     },
@@ -2043,8 +2046,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -2847,7 +2849,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },

@@ -96,8 +96,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -448,7 +447,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/6/9/7/4/4/669744-petite-maman-0-230-0-345-crop.jpg?v=c7cbed5a06",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Petite maman"
     },
@@ -605,8 +605,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/2/1/1121-baxter-vera-baxter-0-230-0-345-crop.jpg?v=c4b9a66cb0",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1196,8 +1195,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/7/9/0/5/3/579053-farewell-amor-0-230-0-345-crop.jpg?v=7c9e5276a5",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1504,10 +1502,8 @@
       "originalTitle": "黃飛鴻之四王者之風",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/5/6/7/13567-once-upon-a-time-in-china-iv-0-230-0-345-crop.jpg?v=9e39b53159",
-      "streamProviders": [
-        "Prime Video Channels Netzkino Select"
-      ],
-      "streamProvidersOriginalTitle": "Gui jiao qi"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Once Upon a Time in China III",
@@ -1948,7 +1944,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -6857,9 +6854,7 @@
       "originalTitle": "Ride in the Whirlwind",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/0/4/8/6048-ride-in-the-whirlwind-0-230-0-345-crop.jpg?v=3f40625d3d",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -7064,7 +7059,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kj/2i/dj/q6/jQuRu615tCfZKJzGCKzGbuIsfmP-0-230-0-345-crop.jpg?v=89036aefa7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les parapluies de Cherbourg"
     },
@@ -7133,7 +7129,7 @@
       "listPosition": 0,
       "year": "1948",
       "originalTitle": "Red River",
-      "rating": 3.9,
+      "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/8/8/2/49882-red-river-0-230-0-345-crop.jpg?v=5823734e90",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Red River"
@@ -7459,8 +7455,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7750,7 +7745,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/zg/zo/xu/hm/9KG8BHXfj0hyQm005vSMr5Co1iW-0-230-0-345-crop.jpg?v=ab192355a5",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Zatôichi monogatari"
+      "streamProvidersOriginalTitle": "Zoku Zatôichi monogatari"
     },
     {
       "name": "La Notte",
@@ -11088,7 +11083,9 @@
       "originalTitle": "愛のコリーダ",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ek/4i/ah/od/ztLv3Co2uLZMV7YERWbPrTMUi03-0-230-0-345-crop.jpg?v=8bfd837cc8",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "愛のコリーダ"
     },
     {
@@ -11478,8 +11475,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/9/34829-mishima-a-life-in-four-chapters-0-230-0-345-crop.jpg?v=1bed76a9ae",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Mishima: A Life in Four Chapters"
     },
@@ -11619,8 +11615,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -12640,8 +12635,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -12894,7 +12888,7 @@
       "listPosition": 0,
       "year": "1965",
       "originalTitle": "異聞猿飛佐助",
-      "rating": 3.5,
+      "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/4/5/0/18450-samurai-spy-0-230-0-345-crop.jpg?v=dad055fe31",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -14534,7 +14528,7 @@
       "listPosition": 0,
       "year": "1967",
       "originalTitle": "Eye Myth",
-      "rating": 3.4,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/0/2/7/8/80278-eye-myth-0-230-0-345-crop.jpg?v=6f194e69f8",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -15699,8 +15693,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/5/9/1/41591-black-narcissus-0-230-0-345-crop.jpg?v=2d4ebdd2a1",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Black Narcissus"
     },
@@ -15747,8 +15740,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/9/7/0/37970-sisters-0-230-0-345-crop.jpg?v=f74739dccd",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Sisters"
     },
@@ -16100,7 +16092,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/8/41838-carnival-of-souls-0-230-0-345-crop.jpg?v=a3719cf15b",
       "streamProviders": [
-        "Prime Video Channels FRANATIC – dein Film-Channel"
+        "Prime Video Channels FRANATIC – dein Film-Channel",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Carnival of Souls"
     },
@@ -17371,7 +17364,8 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/8/9/8/6/78986-diary-of-a-pregnant-woman-0-230-0-345-crop.jpg?v=fcfbf5a549",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "L'opéra-Mouffe"
     },
@@ -17474,7 +17468,9 @@
       "originalTitle": "Lions Love",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/1/0/3510-lions-love-0-230-0-345-crop.jpg?v=8026fe78cc",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -17607,7 +17603,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-230-0-345-crop.jpg?v=2b4c871ed4",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les glaneurs et la glaneuse"
     },
@@ -17692,8 +17689,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/5/7/4/3/25743-the-beaches-of-agnes-0-230-0-345-crop.jpg?v=037e5131de",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les plages d'Agnès"
     },

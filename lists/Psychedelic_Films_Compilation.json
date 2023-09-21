@@ -471,8 +471,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -628,9 +627,7 @@
       "originalTitle": "Scott Pilgrim vs. the World",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vs/75/02/fx/2B5zjs5E3xerqAyowpw3QcOCyLq-0-230-0-345-crop.jpg?v=3aef2095df",
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Scott Pilgrim vs. the World"
     },
     {
@@ -950,8 +947,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -1476,8 +1472,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1562,6 +1557,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/6/1/0/9/96109-spring-breakers-0-230-0-345-crop.jpg?v=419b8d6331",
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS",
+        "Prime Video Channels Paramount+",
         "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
@@ -2870,7 +2866,8 @@
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/7/8/7/4/117874-the-zero-theorem-0-230-0-345-crop.jpg?v=45080227ab",
       "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
+        "Prime Video Channels Arthouse CNMA",
+        "Prime Video Channels Galactic Stream"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4397,8 +4394,7 @@
         "Prime Video Channels MUBI",
         "ARD Plus",
         "MagentaTV",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "The Secret of Kells"
     },
@@ -5630,7 +5626,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/9/7/2/8/169728-the-babadook-0-230-0-345-crop.jpg?v=0821d9c945",
       "streamProviders": [
         "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The Babadook"
     },
@@ -7592,7 +7589,7 @@
       "listPosition": 629,
       "year": "1985",
       "originalTitle": "Gymkata",
-      "rating": 2.6,
+      "rating": 2.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/9/8/7/42987-gymkata-0-230-0-345-crop.jpg?v=1b647d65e3",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Gymkata"
@@ -7958,7 +7955,7 @@
       "listPosition": 660,
       "year": "1987",
       "originalTitle": "Miami Connection",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/3/8/6838-miami-connection-0-230-0-345-crop.jpg?v=5c02ece37d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -8536,7 +8533,7 @@
       "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/1/7/5/46175-perfect-blue-0-230-0-345-crop.jpg?v=1ed5878cce",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProvidersOriginalTitle": "パーフェクトブルー"
     },
     {
       "name": "Macunaima",
@@ -9001,11 +8998,9 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
       "streamProviders": [
-        "Joyn",
         "Disney+",
         "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": "Le fabuleux destin d'Amélie Poulain"
     },
@@ -9811,7 +9806,8 @@
         "Netflix",
         "Prime Video Channels MUBI",
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -10400,7 +10396,7 @@
       "listPosition": 859,
       "year": "1998",
       "originalTitle": "SLC Punk",
-      "rating": 3.7,
+      "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/3/3/5/48335-slc-punk-0-230-0-345-crop.jpg?v=592a393ff3",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "SLC Punk!"
@@ -10956,7 +10952,6 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/3/8/51138-the-talented-mr-ripley-0-230-0-345-crop.jpg?v=70e0a57506",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
