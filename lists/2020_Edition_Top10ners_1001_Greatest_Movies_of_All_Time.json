@@ -304,7 +304,7 @@
       "listPosition": 23,
       "year": "1975",
       "originalTitle": "One Flew Over the Cuckoo's Nest",
-      "rating": 4.3,
+      "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/lf/ry/hy/2e/RHteRHXqym9f0gI4cmChbFOxD-0-230-0-345-crop.jpg?v=1e6a37509a",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "One Flew Over the Cuckoo's Nest"
@@ -687,7 +687,7 @@
       "listPosition": 53,
       "year": "2001",
       "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
-      "rating": 4.3,
+      "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-230-0-345-crop.jpg?v=30bbb824e1",
       "streamProviders": [
         "Amazon Prime Video"
@@ -912,7 +912,6 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/6/50956-raging-bull-0-230-0-345-crop.jpg?v=b25f43f7b6",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -1102,7 +1101,8 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels GRJNGO – Westernfilme",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The General"
     },
@@ -2508,8 +2508,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -3010,7 +3009,9 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/g2/2g/f0/6b/the-terminator-original-0-230-0-345-crop.jpg?v=677a47d94a",
       "streamProviders": [
-        "Prime Video Channels MGM+"
+        "Prime Video Channels MGM+",
+        "Prime Video Channels Paramount+",
+        "Paramount+"
       ],
       "streamProvidersOriginalTitle": "The Terminator"
     },
@@ -3223,8 +3224,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3508,7 +3508,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -5817,8 +5818,7 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -6156,7 +6156,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/8/5/7/149857-gone-girl-0-230-0-345-crop.jpg?v=09a7c91f68",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Gone Girl"
     },
@@ -7006,7 +7007,6 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/7/6/2/1/117621-interstellar-0-230-0-345-crop.jpg?v=7ad89e6666",
       "streamProviders": [
-        "Amazon Prime Video",
         "Netflix"
       ],
       "streamProvidersOriginalTitle": ""
@@ -7843,7 +7843,8 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -9541,8 +9542,7 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "The Revenant"
     },
@@ -9868,6 +9868,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/a7/ee/65/5q/8QF48QS5lvtrhOclt22RFz3bSQm-0-230-0-345-crop.jpg?v=bbf359c17a",
       "streamProviders": [
         "Amazon Prime Video",
+        "Joyn",
         "Prime Video Channels Netzkino Select"
       ],
       "streamProvidersOriginalTitle": "Once Were Warriors"
@@ -9903,7 +9904,7 @@
       "listPosition": 795,
       "year": "1933",
       "originalTitle": "The Invisible Man",
-      "rating": 3.8,
+      "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/hb/62/sv/wn/15w76PDsXtPjBgnEJlZLZceBfZR-0-230-0-345-crop.jpg?v=7b891db489",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "The Invisible Man"
@@ -10137,7 +10138,8 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/8/6/0/1/378601-bacurau-0-230-0-345-crop.jpg?v=9dd3486e4c",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -10550,14 +10552,14 @@
     },
     {
       "name": "War and Peace",
-      "letterboxdUrl": "https://letterboxd.com/film/war-and-peace-1965",
+      "letterboxdUrl": "https://letterboxd.com/film/war-and-peace-1966",
       "listPosition": 847,
-      "year": "1965",
+      "year": "1966",
       "originalTitle": "Война и мир",
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/0/0/6/33006-war-and-peace-0-230-0-345-crop.jpg?v=48bfbeb6f5",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Война и Мир 1: Андрей Болконский"
+      "streamProvidersOriginalTitle": "Война и мир"
     },
     {
       "name": "Lolita",
@@ -10715,8 +10717,7 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "El espinazo del diablo"
     },
@@ -11544,7 +11545,9 @@
       "originalTitle": "Scott Pilgrim vs. the World",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vs/75/02/fx/2B5zjs5E3xerqAyowpw3QcOCyLq-0-230-0-345-crop.jpg?v=3aef2095df",
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "streamProvidersOriginalTitle": "Scott Pilgrim vs. the World"
     },
     {
@@ -12127,7 +12130,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },

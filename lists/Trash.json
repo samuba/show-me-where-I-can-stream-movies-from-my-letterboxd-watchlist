@@ -3534,7 +3534,9 @@
       "originalTitle": "Vendetta dal futuro",
       "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/3/9/5/9/53959-hands-of-steel-0-230-0-345-crop.jpg?v=6bc61799c2",
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "streamProvidersOriginalTitle": "Vendetta dal futuro"
     },
     {
@@ -4616,7 +4618,7 @@
       "listPosition": 410,
       "year": "1983",
       "originalTitle": "The Instructor",
-      "rating": 0,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/9/0/5/2/159052-the-instructor-0-230-0-345-crop.jpg?v=8bd88450dc",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -5806,7 +5808,9 @@
       "originalTitle": "Bad Girls Go to Hell",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/5/8/22358-bad-girls-go-to-hell-0-230-0-345-crop.jpg?v=f00f9c211a",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Bad Girls Go to Hell"
     },
     {
@@ -6161,7 +6165,7 @@
       "listPosition": 548,
       "year": "1968",
       "originalTitle": "The Acid Eaters",
-      "rating": 0,
+      "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/4/7/1/8/74718-the-acid-eaters-0-230-0-345-crop.jpg?v=a7b097174d",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""

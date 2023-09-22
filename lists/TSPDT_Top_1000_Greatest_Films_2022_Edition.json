@@ -332,7 +332,6 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/6/50956-raging-bull-0-230-0-345-crop.jpg?v=b25f43f7b6",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -501,7 +500,8 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels GRJNGO – Westernfilme",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The General"
     },
@@ -1328,8 +1328,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1383,7 +1382,7 @@
       "listPosition": 112,
       "year": "1975",
       "originalTitle": "One Flew Over the Cuckoo's Nest",
-      "rating": 4.3,
+      "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/lf/ry/hy/2e/RHteRHXqym9f0gI4cmChbFOxD-0-230-0-345-crop.jpg?v=1e6a37509a",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "One Flew Over the Cuckoo's Nest"
@@ -4440,8 +4439,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/7/9/6/20796-the-gleaners-i-0-230-0-345-crop.jpg?v=2b4c871ed4",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Les glaneurs et la glaneuse"
     },
@@ -4490,7 +4488,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -4637,7 +4636,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -5112,8 +5112,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/1/4/5/21145-vagabond-0-230-0-345-crop.jpg?v=58e8e676c8",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Sans toit ni loi"
     },
@@ -5299,7 +5298,9 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/g2/2g/f0/6b/the-terminator-original-0-230-0-345-crop.jpg?v=677a47d94a",
       "streamProviders": [
-        "Prime Video Channels MGM+"
+        "Prime Video Channels MGM+",
+        "Prime Video Channels Paramount+",
+        "Paramount+"
       ],
       "streamProvidersOriginalTitle": "The Terminator"
     },
@@ -6461,7 +6462,8 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/1/7/2/6/21726-the-wind-will-carry-us-0-230-0-345-crop.jpg?v=9a174e0e98",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Bād Mā Rā Chāhad Bord"
     },
@@ -7891,8 +7893,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -9022,7 +9023,7 @@
       "listPosition": 753,
       "year": "2001",
       "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
-      "rating": 4.3,
+      "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-230-0-345-crop.jpg?v=30bbb824e1",
       "streamProviders": [
         "Amazon Prime Video"
@@ -9201,7 +9202,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -9748,7 +9750,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/8/9/8/12898-le-bonheur-0-230-0-345-crop.jpg?v=a14d5e2ec3",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Le bonheur"
     },
@@ -11110,7 +11113,8 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner"
+        "Sooner",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
     },
@@ -11123,8 +11127,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/2/6/14926-burnt-by-the-sun-0-230-0-345-crop.jpg?v=72abfa28b7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Утомлённые солнцем"
     },
@@ -11354,8 +11357,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/0/9/1809-sweetie-0-230-0-345-crop.jpg?v=b526a18074",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -11635,8 +11637,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/8/41838-carnival-of-souls-0-230-0-345-crop.jpg?v=a3719cf15b",
       "streamProviders": [
-        "Prime Video Channels FRANATIC – dein Film-Channel",
-        "Mubi"
+        "Prime Video Channels FRANATIC – dein Film-Channel"
       ],
       "streamProvidersOriginalTitle": "Carnival of Souls"
     },

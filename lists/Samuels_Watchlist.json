@@ -110,7 +110,7 @@
       "listPosition": 0,
       "year": "2023",
       "originalTitle": "Das Lehrerzimmer",
-      "rating": 3.7,
+      "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/9/9/0/3/7/899037-the-teachers-lounge-0-230-0-345-crop.jpg?v=3b259ff8fd",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -372,8 +372,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -773,14 +772,14 @@
     },
     {
       "name": "War and Peace",
-      "letterboxdUrl": "https://letterboxd.com/film/war-and-peace-1965",
+      "letterboxdUrl": "https://letterboxd.com/film/war-and-peace-1966",
       "listPosition": 0,
-      "year": "1965",
+      "year": "1966",
       "originalTitle": "Война и мир",
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/0/0/6/33006-war-and-peace-0-230-0-345-crop.jpg?v=48bfbeb6f5",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Война и Мир 1: Андрей Болконский"
+      "streamProvidersOriginalTitle": "Война и мир"
     },
     {
       "name": "Licorice Pizza",
@@ -987,8 +986,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -1331,7 +1329,7 @@
       "listPosition": 0,
       "year": "1975",
       "originalTitle": "One Flew Over the Cuckoo's Nest",
-      "rating": 4.3,
+      "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/lf/ry/hy/2e/RHteRHXqym9f0gI4cmChbFOxD-0-230-0-345-crop.jpg?v=1e6a37509a",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "One Flew Over the Cuckoo's Nest"
@@ -1386,8 +1384,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-230-0-345-crop.jpg?v=f2a22b1af9",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2504,7 +2501,9 @@
       "originalTitle": "Utopia",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/0/3/1/167031-utopia-0-230-0-345-crop.jpg?v=244670517e",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -2757,7 +2756,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -2893,7 +2893,7 @@
       "listPosition": 0,
       "year": "2018",
       "originalTitle": "Awaken",
-      "rating": 3.2,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/9/9/6/3/3/399633-awaken-0-230-0-345-crop.jpg?v=280f57af9a",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3088,7 +3088,7 @@
       "listPosition": 0,
       "year": "2011",
       "originalTitle": "Black Mirror",
-      "rating": 4.1,
+      "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/4/9/5/4/384954-black-mirror-0-230-0-345-crop.jpg?v=8358cd43d9",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3490,8 +3490,10 @@
       "originalTitle": "Tomorrowland",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Disney+"
+      ],
+      "streamProvidersOriginalTitle": "Tomorrowland"
     },
     {
       "name": "Hardcore Henry",
@@ -4308,7 +4310,8 @@
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
         "Sooner",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },

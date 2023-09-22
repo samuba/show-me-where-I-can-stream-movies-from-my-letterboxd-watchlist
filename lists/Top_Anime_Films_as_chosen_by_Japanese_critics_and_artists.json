@@ -670,7 +670,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -1086,7 +1087,9 @@
       "originalTitle": "イノセンス",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/6/2/44762-ghost-in-the-shell-2-innocence-0-230-0-345-crop.jpg?v=b88649216c",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "イノセンス"
     },
     {
@@ -1305,6 +1308,10 @@
     },
     {
       "name": "MagentaTV",
+      "enabled": false
+    },
+    {
+      "name": "Mubi",
       "enabled": false
     },
     {

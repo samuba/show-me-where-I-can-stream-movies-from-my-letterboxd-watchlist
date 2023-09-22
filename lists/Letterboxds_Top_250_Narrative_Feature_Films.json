@@ -604,8 +604,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo",
-        "Mubi"
+        "filmingo"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -904,7 +903,7 @@
       "listPosition": 72,
       "year": "1975",
       "originalTitle": "One Flew Over the Cuckoo's Nest",
-      "rating": 4.3,
+      "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/lf/ry/hy/2e/RHteRHXqym9f0gI4cmChbFOxD-0-230-0-345-crop.jpg?v=1e6a37509a",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "One Flew Over the Cuckoo's Nest"
@@ -915,7 +914,7 @@
       "listPosition": 73,
       "year": "2001",
       "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
-      "rating": 4.3,
+      "rating": 4.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-230-0-345-crop.jpg?v=30bbb824e1",
       "streamProviders": [
         "Amazon Prime Video"
@@ -1584,7 +1583,6 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/7/6/2/1/117621-interstellar-0-230-0-345-crop.jpg?v=7ad89e6666",
       "streamProviders": [
-        "Amazon Prime Video",
         "Netflix"
       ],
       "streamProvidersOriginalTitle": ""
@@ -1795,7 +1793,8 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/5/8/50258-the-young-girls-of-rochefort-0-230-0-345-crop.jpg?v=9e2c7a35d1",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Les demoiselles de Rochefort"
     },
@@ -1809,8 +1808,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/9/7/8/50978-funeral-parade-of-roses-0-230-0-345-crop.jpg?v=b5baaee99f",
       "streamProviders": [
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": "Bara no sôretsu"
     },
@@ -2016,14 +2014,14 @@
     },
     {
       "name": "War and Peace",
-      "letterboxdUrl": "https://letterboxd.com/film/war-and-peace-1965",
+      "letterboxdUrl": "https://letterboxd.com/film/war-and-peace-1966",
       "listPosition": 160,
-      "year": "1965",
+      "year": "1966",
       "originalTitle": "Война и мир",
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/0/0/6/33006-war-and-peace-0-230-0-345-crop.jpg?v=48bfbeb6f5",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Война и Мир 1: Андрей Болконский"
+      "streamProvidersOriginalTitle": "Война и мир"
     },
     {
       "name": "The Treasure of the Sierra Madre",
@@ -2046,7 +2044,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xk/25/lu/0m/mi2Axov7Hy20wieoGfrbqDWLjSr-0-230-0-345-crop.jpg?v=dd1e90619a",
       "streamProviders": [
         "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "アキラ"
     },
@@ -2183,7 +2182,6 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/6/50956-raging-bull-0-230-0-345-crop.jpg?v=b25f43f7b6",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -2296,8 +2294,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-230-0-345-crop.jpg?v=5ce2118fca",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
