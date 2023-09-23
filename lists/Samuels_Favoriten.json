@@ -71,8 +71,7 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -172,8 +171,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -237,9 +235,7 @@
       "originalTitle": "Scott Pilgrim vs. the World",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vs/75/02/fx/2B5zjs5E3xerqAyowpw3QcOCyLq-0-230-0-345-crop.jpg?v=3aef2095df",
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Scott Pilgrim vs. the World"
     },
     {
@@ -729,8 +725,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/9/5/139795-birdman-0-230-0-345-crop.jpg?v=345680513e",
       "streamProviders": [
         "Disney+",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Birdman or (The Unexpected Virtue of Ignorance)"
     },
@@ -898,7 +893,8 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV"
+        "MagentaTV",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "The Revenant"
     },
@@ -1166,7 +1162,8 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Seven Entertainment",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },

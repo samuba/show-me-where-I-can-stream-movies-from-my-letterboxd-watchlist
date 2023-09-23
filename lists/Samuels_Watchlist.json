@@ -1384,7 +1384,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/3/1/0/333310-the-killing-of-a-sacred-deer-0-230-0-345-crop.jpg?v=f2a22b1af9",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1772,7 +1773,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/3/9/9/8/5/239985-mushi-shi-the-next-chapter-drops-of-bells-0-230-0-345-crop.jpg?v=8676ac46a3",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "コードギアス 亡国のアキト 第3章「輝くもの天より堕つ」"
+      "streamProvidersOriginalTitle": "コードギアス　亡国のアキト 第4章「憎しみの記憶から」"
     },
     {
       "name": "Adventure Time: Islands",
@@ -2501,9 +2502,7 @@
       "originalTitle": "Utopia",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/0/3/1/167031-utopia-0-230-0-345-crop.jpg?v=244670517e",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -3385,8 +3384,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/4/6/9/51469-paris-texas-0-230-0-345-crop.jpg?v=c8f2743612",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4197,7 +4195,8 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment"
+        "Prime Video Channels Seven Entertainment",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "De rouille et d'os"
     },
@@ -4433,7 +4432,7 @@
       "listPosition": 0,
       "year": "1998",
       "originalTitle": "SLC Punk",
-      "rating": 3.8,
+      "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/3/3/5/48335-slc-punk-0-230-0-345-crop.jpg?v=592a393ff3",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "SLC Punk!"
@@ -4605,7 +4604,7 @@
       "year": "",
       "originalTitle": "The Prototype",
       "rating": 0,
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1695052215",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1695383303",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Prototype This!"
     },
