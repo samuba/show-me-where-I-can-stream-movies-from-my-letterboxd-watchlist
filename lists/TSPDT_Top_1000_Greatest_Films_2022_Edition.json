@@ -85,6 +85,7 @@
         "Sky WOW",
         "Sky Go\nSky",
         "Prime Video Channels Paramount+",
+        "Paramount+",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "The Godfather"
@@ -500,8 +501,7 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels GRJNGO – Westernfilme",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "The General"
     },
@@ -1328,8 +1328,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1656,6 +1655,7 @@
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/6/51666-the-good-the-bad-and-the-ugly-0-230-0-345-crop.jpg?v=9474a84e63",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -2936,7 +2936,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/1/1/51611-cleo-from-5-to-7-0-230-0-345-crop.jpg?v=57e2214b3d",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Cléo de 5 à 7"
     },
@@ -3160,8 +3161,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -3704,8 +3704,7 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4054,7 +4053,9 @@
       "originalTitle": "愛のコリーダ",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ek/4i/ah/od/ztLv3Co2uLZMV7YERWbPrTMUi03-0-230-0-345-crop.jpg?v=8bfd837cc8",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "愛のコリーダ"
     },
     {
@@ -4634,8 +4635,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -5898,14 +5898,12 @@
       "name": "Limelight",
       "letterboxdUrl": "https://letterboxd.com/film/limelight",
       "listPosition": 491,
-      "year": "1952",
+      "year": "1972",
       "originalTitle": "Limelight",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/2/3/3/33233-limelight-0-230-0-345-crop.jpg?v=1b40497ba3",
-      "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
-      ],
-      "streamProvidersOriginalTitle": "Limelight"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Pan's Labyrinth",
@@ -5940,6 +5938,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
       "streamProviders": [
+        "Joyn",
         "Disney+",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+"
@@ -7292,8 +7291,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino",
-        "Mubi"
+        "alleskino"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7890,7 +7888,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -8372,7 +8371,8 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/1s/rv/yf/4q/8f4gSxVxDk8A2UE0qOEjLAWljlb-0-230-0-345-crop.jpg?v=6702be2472",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Copie conforme"
     },
@@ -10738,7 +10738,7 @@
       "listPosition": 898,
       "year": "2001",
       "originalTitle": "Éloge de l'amour",
-      "rating": 3.8,
+      "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/1/8/4/13184-in-praise-of-love-0-230-0-345-crop.jpg?v=ac28eee327",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Éloge de l'amour"
@@ -11109,7 +11109,6 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
         "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
@@ -11123,7 +11122,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/9/2/6/14926-burnt-by-the-sun-0-230-0-345-crop.jpg?v=72abfa28b7",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Утомлённые солнцем"
     },
@@ -11353,8 +11353,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/0/9/1809-sweetie-0-230-0-345-crop.jpg?v=b526a18074",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -11634,7 +11633,8 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/8/3/8/41838-carnival-of-souls-0-230-0-345-crop.jpg?v=a3719cf15b",
       "streamProviders": [
-        "Prime Video Channels FRANATIC – dein Film-Channel"
+        "Prime Video Channels FRANATIC – dein Film-Channel",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Carnival of Souls"
     },
@@ -11647,7 +11647,10 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/9/7/51197-the-magnificent-seven-0-230-0-345-crop.jpg?v=82697b299a",
       "streamProviders": [
-        "Prime Video Channels MGM+"
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels MGM+",
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "The Magnificent Seven"
     },
@@ -11891,7 +11894,8 @@
         "Prime Video Channels MUBI",
         "Flimmit",
         "Netzkino",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Le boucher"
     },

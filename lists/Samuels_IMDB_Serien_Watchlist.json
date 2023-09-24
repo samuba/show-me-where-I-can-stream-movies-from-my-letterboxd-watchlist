@@ -335,7 +335,7 @@
       "listPosition": "196",
       "letterboxdUrl": "https://www.imdb.com/title/tt3647998/",
       "type": "tvSeries",
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e5fac844e8abd28ec8975489af0bc9bebada29a0ff337e63510aded2223e7514._SX342_.jpg",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e622e0359f0ea512f6b62fe1850a1a62710a0276dda79a2b8a0b296de69d55d6._SX342_.jpg",
       "streamProviders": [
         "Prime Video Channels alleskino",
         "Prime Video Channels MUBI",
@@ -377,7 +377,9 @@
       "letterboxdUrl": "https://www.imdb.com/title/tt2384811/",
       "type": "tvSeries",
       "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Movie-Placeholder.png?m=1695383303",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -783,6 +785,10 @@
     },
     {
       "name": "MagentaTV",
+      "enabled": false
+    },
+    {
+      "name": "Mubi",
       "enabled": false
     },
     {

@@ -627,7 +627,9 @@
       "originalTitle": "Scott Pilgrim vs. the World",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vs/75/02/fx/2B5zjs5E3xerqAyowpw3QcOCyLq-0-230-0-345-crop.jpg?v=3aef2095df",
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "streamProvidersOriginalTitle": "Scott Pilgrim vs. the World"
     },
     {
@@ -946,8 +948,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -1472,8 +1473,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/8/7/3/436873-climax-0-230-0-345-crop.jpg?v=b3003b4908",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1710,8 +1710,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1750,8 +1749,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1814,8 +1812,7 @@
         "Prime Video Channels Filmtastic",
         "Prime Video Channels Galactic Stream",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "Twelve Monkeys"
     },
@@ -3404,9 +3401,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d7/y1/ub/ph/lY4Y9buUIZY17vpvL5dsBpbORo0-0-230-0-345-crop.jpg?v=1e15ad22d2",
       "streamProviders": [
-        "Sooner",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3737,6 +3732,7 @@
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/9/4/5/8/269458-valerian-and-the-city-of-a-thousand-planets-0-230-0-345-crop.jpg?v=9c2fba0c0c",
       "streamProviders": [
+        "Amazon Prime Video",
         "Netflix",
         "Prime Video Channels Filmtastic",
         "MagentaTV"
@@ -3794,8 +3790,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/sj/00/0d/n1/aQkyFHzNzZoMhxZ7c0IaK8BljED-0-230-0-345-crop.jpg?v=338dcff82c",
       "streamProviders": [
         "Prime Video Channels Filmtastic",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3886,7 +3881,7 @@
       "listPosition": 315,
       "year": "2009",
       "originalTitle": "Ink",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/4/6/3/36463-ink-0-230-0-345-crop.jpg?v=ec992a639c",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -4397,8 +4392,7 @@
         "Prime Video Channels MUBI",
         "ARD Plus",
         "MagentaTV",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "The Secret of Kells"
     },
@@ -4602,8 +4596,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/9/8/6/48986-prospero-s-books-0-230-0-345-crop.jpg?v=51ef4f61ed",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "Netzkino",
-        "Mubi"
+        "Netzkino"
       ],
       "streamProvidersOriginalTitle": "Prospero's Books"
     },
@@ -5210,9 +5203,7 @@
       "originalTitle": "The Shooting",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/3/8/9/22389-the-shooting-0-230-0-345-crop.jpg?v=d9a82e31ae",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "The Shooting"
     },
     {
@@ -5902,8 +5893,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/p5/pm/yl/b4/e6K2JTX3dNl86yaRiyYVX1Qooq0-0-230-0-345-crop.jpg?v=86b03476f9",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -9007,6 +8997,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
       "streamProviders": [
+        "Joyn",
         "Disney+",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+"
@@ -9852,8 +9843,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels MOVIECULT",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -10404,7 +10394,7 @@
       "listPosition": 859,
       "year": "1998",
       "originalTitle": "SLC Punk",
-      "rating": 3.7,
+      "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/3/3/5/48335-slc-punk-0-230-0-345-crop.jpg?v=592a393ff3",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "SLC Punk!"
@@ -10960,6 +10950,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/3/8/51138-the-talented-mr-ripley-0-230-0-345-crop.jpg?v=70e0a57506",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -11380,8 +11371,11 @@
       "originalTitle": "The Chronicles of Riddick",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/0/8/7/50087-the-chronicles-of-riddick-0-230-0-345-crop.jpg?v=34b39ddd3d",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": "The Chronicles of Riddick: Dark Fury"
+      "streamProviders": [
+        "Sky WOW",
+        "Sky Go\nSky"
+      ],
+      "streamProvidersOriginalTitle": "The Chronicles of Riddick"
     },
     {
       "name": "Christmas on Mars",

@@ -16,6 +16,7 @@
         "Sky WOW",
         "Sky Go\nSky",
         "Prime Video Channels Paramount+",
+        "Paramount+",
         "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "The Godfather"
@@ -160,6 +161,7 @@
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/6/6/51666-the-good-the-bad-and-the-ugly-0-230-0-345-crop.jpg?v=9474a84e63",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -1100,8 +1102,7 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels GRJNGO – Westernfilme",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "The General"
     },
@@ -1663,6 +1664,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-230-0-345-crop.jpg?v=bc8a28c252",
       "streamProviders": [
+        "Joyn",
         "Disney+",
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels Paramount+"
@@ -2505,7 +2507,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -2763,8 +2766,7 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3220,8 +3222,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d4/0z/wv/pr/xmW3o49z7iExUsren4R4QyN890H-0-230-0-345-crop.jpg?v=03127fc33b",
       "streamProviders": [
         "Prime Video Channels FILMLEGENDEN",
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -3896,7 +3897,9 @@
       "originalTitle": "Persepolis",
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/28/um/1t/jq/dYvyF1RlNokAd1N7Nek0vDpYsV6-0-230-0-345-crop.jpg?v=fc5d71c744",
-      "streamProviders": [],
+      "streamProviders": [
+        "Prime Video Channels ARTHAUS+"
+      ],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -4933,7 +4936,8 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/1/1/51611-cleo-from-5-to-7-0-230-0-345-crop.jpg?v=57e2214b3d",
       "streamProviders": [
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Cléo de 5 à 7"
     },
@@ -5814,7 +5818,8 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -6467,11 +6472,13 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/g7/2e/vi/vy/A9ANrAWlmIovxzjAIiOgseSLNc9-0-230-0-345-crop.jpg?v=6bcb14c88c",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Arthouse CNMA",
         "Prime Video Channels Filmtastic",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "Prime Video Channels Sat.1 emotions",
+        "Prime Video Channels Seven Entertainment",
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "Nightcrawler"
     },
@@ -6530,8 +6537,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/5/0/51850-mean-streets-0-230-0-345-crop.jpg?v=931fbfc6b7",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Mean Streets"
     },
@@ -7589,8 +7595,7 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -7649,14 +7654,12 @@
       "name": "Limelight",
       "letterboxdUrl": "https://letterboxd.com/film/limelight",
       "listPosition": 616,
-      "year": "1952",
+      "year": "1972",
       "originalTitle": "Limelight",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/2/3/3/33233-limelight-0-230-0-345-crop.jpg?v=1b40497ba3",
-      "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
-      ],
-      "streamProvidersOriginalTitle": "Limelight"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Charade",
@@ -7840,7 +7843,6 @@
         "Amazon Prime Video",
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
         "Mubi"
       ],
       "streamProvidersOriginalTitle": "Ascenseur pour l'échafaud"
@@ -8011,8 +8013,7 @@
         "Prime Video Channels Filmtastic",
         "Prime Video Channels Galactic Stream",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "Twelve Monkeys"
     },
@@ -9161,7 +9162,10 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/9/7/51197-the-magnificent-seven-0-230-0-345-crop.jpg?v=82697b299a",
       "streamProviders": [
-        "Prime Video Channels MGM+"
+        "Joyn",
+        "Prime Video Channels Kabel Eins CLASSICS",
+        "Prime Video Channels MGM+",
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": "The Magnificent Seven"
     },
@@ -9497,8 +9501,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/8/1/0/49810-battle-royale-0-230-0-345-crop.jpg?v=a625ba98ef",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "バトル・ロワイアル"
     },
@@ -9539,8 +9542,7 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": "The Revenant"
     },
@@ -9706,6 +9708,7 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels ARD Plus",
+        "Prime Video Channels Silverline",
         "ARD Plus",
         "MagentaTV"
       ],
@@ -9865,6 +9868,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/a7/ee/65/5q/8QF48QS5lvtrhOclt22RFz3bSQm-0-230-0-345-crop.jpg?v=bbf359c17a",
       "streamProviders": [
         "Amazon Prime Video",
+        "Joyn",
         "Prime Video Channels Netzkino Select"
       ],
       "streamProvidersOriginalTitle": "Once Were Warriors"
@@ -10857,8 +10861,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/3/44703-the-testament-of-dr-mabuse-0-230-0-345-crop.jpg?v=dfeff6292f",
       "streamProviders": [
         "Prime Video Channels alleskino",
-        "alleskino",
-        "Mubi"
+        "alleskino"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -11275,7 +11278,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/2/9/34829-mishima-a-life-in-four-chapters-0-230-0-345-crop.jpg?v=1bed76a9ae",
       "streamProviders": [
         "Prime Video Channels MUBI",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Mishima: A Life in Four Chapters"
     },
@@ -11541,7 +11545,9 @@
       "originalTitle": "Scott Pilgrim vs. the World",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vs/75/02/fx/2B5zjs5E3xerqAyowpw3QcOCyLq-0-230-0-345-crop.jpg?v=3aef2095df",
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "streamProvidersOriginalTitle": "Scott Pilgrim vs. the World"
     },
     {
@@ -12568,6 +12574,10 @@
     },
     {
       "name": "Prime Video Channels Seven Entertainment",
+      "enabled": false
+    },
+    {
+      "name": "Prime Video Channels Silverline",
       "enabled": false
     },
     {

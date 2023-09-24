@@ -601,7 +601,7 @@
       "year": "1989",
       "originalTitle": "Ghetto Blaster",
       "rating": 3,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/8/9/5/6/78956-ghetto-blaster-0-230-0-345-crop.jpg?v=573f501ec6",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/8/9/5/6/78956-ghetto-blaster-0-230-0-345-crop.jpg?v=0bddeb159f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -2326,8 +2326,7 @@
       "streamProviders": [
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2609,7 +2608,7 @@
       "listPosition": 233,
       "year": "2009",
       "originalTitle": "Ink",
-      "rating": 3.3,
+      "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/4/6/3/36463-ink-0-230-0-345-crop.jpg?v=ec992a639c",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3472,8 +3471,10 @@
       "originalTitle": "油鬼子",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/4/9/3/0/74930-the-oily-maniac-0-230-0-345-crop.jpg?v=7332dd3bcf",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Amazon Prime Video"
+      ],
+      "streamProvidersOriginalTitle": "Ba dao lou zi"
     },
     {
       "name": "Daimajin",
@@ -3533,7 +3534,9 @@
       "originalTitle": "Vendetta dal futuro",
       "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/3/9/5/9/53959-hands-of-steel-0-230-0-345-crop.jpg?v=6bc61799c2",
-      "streamProviders": [],
+      "streamProviders": [
+        "Joyn"
+      ],
       "streamProvidersOriginalTitle": "Vendetta dal futuro"
     },
     {

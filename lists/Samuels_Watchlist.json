@@ -4,6 +4,28 @@
   "description": "",
   "entries": [
     {
+      "name": "Meet the Feebles",
+      "letterboxdUrl": "https://letterboxd.com/film/meet-the-feebles",
+      "listPosition": 0,
+      "year": "1989",
+      "originalTitle": "Meet the Feebles",
+      "rating": 3.3,
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/8/5/0/47850-meet-the-feebles-0-230-0-345-crop.jpg?v=ae9002ca94",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "The Holy Mountain",
+      "letterboxdUrl": "https://letterboxd.com/film/the-holy-mountain",
+      "listPosition": 0,
+      "year": "1973",
+      "originalTitle": "La montaña sagrada",
+      "rating": 4.2,
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/8/0/5/47805-the-holy-mountain-0-230-0-345-crop.jpg?v=d7002e900e",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "La Montaña sagrada / The Holy Mountain"
+    },
+    {
       "name": "2010",
       "letterboxdUrl": "https://letterboxd.com/film/2010-1984",
       "listPosition": 0,
@@ -32,7 +54,7 @@
       "year": "2021",
       "originalTitle": "Boiling Point",
       "rating": 4,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/2/4/2/2/5/724225-boiling-point-0-230-0-345-crop.jpg?v=b30495d5b7",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/2/4/2/2/5/724225-boiling-point-0-230-0-345-crop.jpg?v=0b18b70ab9",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -986,7 +1008,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/84/xt/e8/mw/gawnVe9cFowdoDLo9Pok12NTw39-0-230-0-345-crop.jpg?v=7cad204593",
       "streamProviders": [
         "filmfriend",
-        "filmingo"
+        "filmingo",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Salinui chueok"
     },
@@ -2502,7 +2525,9 @@
       "originalTitle": "Utopia",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/7/0/3/1/167031-utopia-0-230-0-345-crop.jpg?v=244670517e",
-      "streamProviders": [],
+      "streamProviders": [
+        "Mubi"
+      ],
       "streamProvidersOriginalTitle": "Il treno va a Mosca"
     },
     {
@@ -2755,8 +2780,7 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -2939,7 +2963,7 @@
       "listPosition": 0,
       "year": "1986",
       "originalTitle": "Momo",
-      "rating": 3.3,
+      "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/3/7/7/50377-momo-0-230-0-345-crop.jpg?v=2746ddd19f",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -4432,7 +4456,7 @@
       "listPosition": 0,
       "year": "1998",
       "originalTitle": "SLC Punk",
-      "rating": 3.7,
+      "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/3/3/5/48335-slc-punk-0-230-0-345-crop.jpg?v=592a393ff3",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "SLC Punk!"

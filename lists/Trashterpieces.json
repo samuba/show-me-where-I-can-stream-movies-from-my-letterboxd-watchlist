@@ -947,7 +947,8 @@
       "streamProviders": [
         "Amazon Prime Video",
         "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1073,7 +1074,8 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
       "streamProviders": [
         "Amazon Prime Video",
-        "Prime Video Channels MUBI"
+        "Prime Video Channels MUBI",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1305,7 +1307,6 @@
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/8/2/0/22820-forbidden-world-0-230-0-345-crop.jpg?v=0634ec5a24",
       "streamProviders": [
-        "Joyn",
         "Prime Video Channels Paramount+",
         "Paramount+"
       ],
@@ -1617,8 +1618,7 @@
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
         "Prime Video Channels MOVIECULT",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1883,8 +1883,7 @@
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/5/7/7/18577-trash-humpers-0-230-0-345-crop.jpg?v=00aea60327",
       "streamProviders": [
-        "Prime Video Channels realeyz",
-        "Sooner"
+        "Prime Video Channels realeyz"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2748,10 +2747,6 @@
     },
     {
       "name": "Sky WOW",
-      "enabled": false
-    },
-    {
-      "name": "Sooner",
       "enabled": false
     },
     {
