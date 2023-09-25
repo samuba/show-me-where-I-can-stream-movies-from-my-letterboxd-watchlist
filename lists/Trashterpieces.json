@@ -1883,7 +1883,8 @@
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/8/5/7/7/18577-trash-humpers-0-230-0-345-crop.jpg?v=00aea60327",
       "streamProviders": [
-        "Prime Video Channels realeyz"
+        "Prime Video Channels realeyz",
+        "Sooner"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -2747,6 +2748,10 @@
     },
     {
       "name": "Sky WOW",
+      "enabled": false
+    },
+    {
+      "name": "Sooner",
       "enabled": false
     },
     {
