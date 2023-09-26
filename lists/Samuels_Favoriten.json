@@ -71,8 +71,7 @@
         "Disney+",
         "Netflix",
         "Prime Video Channels MUBI",
-        "MagentaTV",
-        "Mubi"
+        "MagentaTV"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1167,8 +1166,7 @@
         "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MUBI",
-        "Prime Video Channels Seven Entertainment",
-        "Mubi"
+        "Prime Video Channels Seven Entertainment"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -1733,13 +1731,11 @@
       "name": "Casablanca",
       "letterboxdUrl": "https://letterboxd.com/film/casablanca",
       "listPosition": 0,
-      "year": "1942",
+      "year": "1943",
       "originalTitle": "Casablanca",
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kq/vf/8s/1p/wOBKAoUJZb5qTsWv5XXvVV2vUzz-0-230-0-345-crop.jpg?v=cdb9b25970",
-      "streamProviders": [
-        "Sky Go\nSky"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {

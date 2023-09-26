@@ -4,6 +4,17 @@
   "description": "",
   "entries": [
     {
+      "name": "Beau Is Afraid",
+      "letterboxdUrl": "https://letterboxd.com/film/beau-is-afraid",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "Beau Is Afraid",
+      "rating": 3.5,
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/1/5/8/5/6/715856-beau-is-afraid-0-230-0-345-crop.jpg?v=b5fd01665a",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
       "name": "Meet the Feebles",
       "letterboxdUrl": "https://letterboxd.com/film/meet-the-feebles",
       "listPosition": 0,
@@ -672,8 +683,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/4/8/51748-once-upon-a-time-in-america-0-230-0-345-crop.jpg?v=803d65b52c",
       "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
+        "Prime Video Channels MUBI"
       ],
       "streamProvidersOriginalTitle": "Once Upon a Time in America"
     },
@@ -1275,9 +1285,7 @@
       "originalTitle": "La casa lobo",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/9/5/7/1/429571-the-wolf-house-0-230-0-345-crop.jpg?v=34ae08eff4",
-      "streamProviders": [
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "La casa lobo"
     },
     {
@@ -2777,7 +2785,8 @@
       "streamProviders": [
         "Prime Video Channels Home of Horror",
         "Prime Video Channels MUBI",
-        "filmfriend"
+        "filmfriend",
+        "Mubi"
       ],
       "streamProvidersOriginalTitle": "Under the Skin"
     },
@@ -3509,10 +3518,8 @@
       "originalTitle": "Tomorrowland",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Tomorrowland"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Hardcore Henry",
@@ -3973,7 +3980,7 @@
       "listPosition": 0,
       "year": "2009",
       "originalTitle": "Youth in Revolt",
-      "rating": 3,
+      "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/jn/jd/ss/lt/nQ45Ypo7fdgBWGUICyT0XR5RPU6-0-230-0-345-crop.jpg?v=f8a1ec6ea7",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -4330,8 +4337,7 @@
         "Prime Video Channels MUBI",
         "Prime Video Channels realeyz",
         "Sooner",
-        "filmfriend",
-        "Mubi"
+        "filmfriend"
       ],
       "streamProvidersOriginalTitle": ""
     },
@@ -4625,7 +4631,7 @@
       "year": "",
       "originalTitle": "The Prototype",
       "rating": 0,
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1695383303",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1695662157",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Prototype This!"
     },
