@@ -397,7 +397,9 @@
       "originalTitle": "GoodFellas",
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/8/3/51383-goodfellas-0-230-0-345-crop.jpg?v=c6c265f228",
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky Go\nSky"
+      ],
       "streamProvidersOriginalTitle": "Goodfellas"
     },
     {

@@ -3117,7 +3117,7 @@
       "listPosition": 0,
       "year": "2011",
       "originalTitle": "Black Mirror",
-      "rating": 4.2,
+      "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/4/9/5/4/384954-black-mirror-0-230-0-345-crop.jpg?v=8358cd43d9",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -3518,8 +3518,10 @@
       "originalTitle": "Tomorrowland",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/8/4/6/1/118461-tomorrowland-0-230-0-345-crop.jpg?v=bb95f699cd",
-      "streamProviders": [],
-      "streamProvidersOriginalTitle": ""
+      "streamProviders": [
+        "Disney+"
+      ],
+      "streamProvidersOriginalTitle": "Tomorrowland"
     },
     {
       "name": "Hardcore Henry",
@@ -3980,7 +3982,7 @@
       "listPosition": 0,
       "year": "2009",
       "originalTitle": "Youth in Revolt",
-      "rating": 3.1,
+      "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/jn/jd/ss/lt/nQ45Ypo7fdgBWGUICyT0XR5RPU6-0-230-0-345-crop.jpg?v=f8a1ec6ea7",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -4189,11 +4191,7 @@
       "originalTitle": "Ultimo tango a Parigi",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ll/up/1h/uu/6ppSHkDe7CoxyvFEc6JILuKnAu0-0-230-0-345-crop.jpg?v=37ae18ccbd",
-      "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Seven Entertainment"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Ultimo tango a Parigi"
     },
     {
@@ -4631,7 +4629,7 @@
       "year": "",
       "originalTitle": "The Prototype",
       "rating": 0,
-      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1695662157",
+      "imageUrl": "https://www.werstreamt.es/_resources/themes/wse/images/Show-Placeholder.png?m=1695733894",
       "streamProviders": [],
       "streamProvidersOriginalTitle": "Prototype This!"
     },

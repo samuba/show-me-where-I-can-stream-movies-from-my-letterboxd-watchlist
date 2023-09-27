@@ -80,7 +80,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/2/0/6/45206-altered-states-0-230-0-345-crop.jpg?v=a0744c704c",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Altered States"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Fantastic Planet",
@@ -126,7 +126,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/68/rw/e9/tb/wS0QhF2RTwap84BKGr9hKHzNAMx-0-230-0-345-crop.jpg?v=d11b983543",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "A Scanner Darkly"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Donnie Darko",
@@ -215,9 +215,7 @@
       "originalTitle": "A Field in England",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/pd/gu/t9/sd/rMe6ofbSzuhaxMebadufN1WbQOI-0-230-0-345-crop.jpg?v=ce31d758a4",
-      "streamProviders": [
-        "Prime Video Channels MUBI"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -419,12 +417,7 @@
       "originalTitle": "Naked Lunch",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/9s/s8/eg/uk/tMninSG4OAAhx9SNjdnMJM1R3Wn-0-230-0-345-crop.jpg?v=fa99bd4191",
-      "streamProviders": [
-        "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels MOVIECULT",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -483,10 +476,8 @@
       "originalTitle": "Alice in Wonderland",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/p5/63/wj/c3/AdwfqyNiH8UqeYKFYoiKhwTtjAb-0-230-0-345-crop.jpg?v=f9c56785d4",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Alice in Wonderland"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Blade Runner",
@@ -507,9 +498,7 @@
       "originalTitle": "Doctor Strange",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/0/9/3/8/1/209381-doctor-strange-0-230-0-345-crop.jpg?v=1466da225d",
-      "streamProviders": [
-        "Disney+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -542,10 +531,8 @@
       "originalTitle": "Alice in Wonderland",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/qp/te/tw/3j/alice-in-wonderland-original-0-230-0-345-crop.jpg?v=aeea07bfc9",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Alice in Wonderland"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Paprika",
@@ -615,7 +602,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/rs/wk/3i/nt/gWnW7vxm8yr01TVLQhL4aI02orp-0-230-0-345-crop.jpg?v=f8250fbc59",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Beetlejuice"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Scott Pilgrim vs. the World",
@@ -691,10 +678,7 @@
       "originalTitle": "Barbarella",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/2i/o8/y9/dz/3nGzGjFjzEp4guxRRNsZeaaULJJ-0-230-0-345-crop.jpg?v=cd247c3cd3",
-      "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -706,7 +690,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/5/9/51759-the-science-of-sleep-0-230-0-345-crop.jpg?v=fd40ae78d7",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "La science des rêves"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Fall",
@@ -749,9 +733,7 @@
       "originalTitle": "Dark City",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/1/6/0/50160-dark-city-0-230-0-345-crop.jpg?v=f35b127f61",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -762,13 +744,8 @@
       "originalTitle": "The Imaginarium of Doctor Parnassus",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/9/1/1/47911-the-imaginarium-of-doctor-parnassus-0-230-0-345-crop.jpg?v=733647ac0d",
-      "streamProviders": [
-        "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels Filmtastic",
-        "Prime Video Channels Galactic Stream",
-        "MagentaTV"
-      ],
-      "streamProvidersOriginalTitle": "The Imaginarium of Doctor Parnassus"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Apocalypse Now",
@@ -797,7 +774,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/4/4/44744-what-dreams-may-come-0-230-0-345-crop.jpg?v=a82ce586f2",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "What Dreams May Come"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Jacob's Ladder",
@@ -807,10 +784,8 @@
       "originalTitle": "Jacob's Ladder",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/3/5/8/50358-jacob-s-ladder-0-230-0-345-crop.jpg?v=f2a3a739d6",
-      "streamProviders": [
-        "Prime Video Channels Filmtastic"
-      ],
-      "streamProvidersOriginalTitle": "Jacob's Ladder"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Baraka",
@@ -831,10 +806,8 @@
       "originalTitle": "Annihilation",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/7/7/8/4/227784-annihilation-0-230-0-345-crop.jpg?v=35308091d6",
-      "streamProviders": [
-        "Netflix"
-      ],
-      "streamProvidersOriginalTitle": "Annihilation"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Son of the White Mare",
@@ -855,9 +828,7 @@
       "originalTitle": "The Doors",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/1/3/5/46135-the-doors-0-230-0-345-crop.jpg?v=0ac5f2e1c3",
-      "streamProviders": [
-        "Prime Video Channels FILMLEGENDEN"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -971,7 +942,7 @@
       "rating": 2.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/5/9/8/46598-renegade-0-230-0-345-crop.jpg?v=a3ea4bff05",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Blueberry"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Lost Highway",
@@ -1006,7 +977,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/7/5/1/43751-labyrinth-0-230-0-345-crop.jpg?v=608378d65b",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Labyrinth"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "House",
@@ -1017,7 +988,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/7f/z3/ho/6j/6vblWscFAbIm9V5CwHC7IImgAq9-0-230-0-345-crop.jpg?v=b505ff45b0",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "ハウス"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Stalker",
@@ -1041,7 +1012,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/15-belladonna-of-sadness-0-230-0-345-crop.jpg?v=e3ce144843",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "哀しみのベラドンナ"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Mandy",
@@ -1068,7 +1039,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/mp/7r/db/iq/6g1Kh73qQRosyhRJpL3euQpMxOE-0-230-0-345-crop.jpg?v=5c45e7a1ee",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "The Dark Crystal"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Howl's Moving Castle",
@@ -1102,10 +1073,7 @@
       "originalTitle": "Die unendliche Geschichte",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/9/0/7/8/29078-the-neverending-story-0-230-0-345-crop.jpg?v=d6c13b7351",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1127,10 +1095,7 @@
       "originalTitle": "Vanilla Sky",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/0/2/50702-vanilla-sky-0-230-0-345-crop.jpg?v=fbd4b97e55",
-      "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1270,10 +1235,7 @@
       "originalTitle": "eXistenZ",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/6/2/50662-existenz-0-230-0-345-crop.jpg?v=8df9e4b893",
-      "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1320,7 +1282,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/0/0/0/0/40000-alice-0-230-0-345-crop.jpg?v=adc15e1393",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Neco z Alenky"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Inland Empire",
@@ -1354,10 +1316,7 @@
       "originalTitle": "Santa Sangre",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/g0/25/2w/st/jCZKUUKPGJoWsFcHjryeeZuVAxN-0-230-0-345-crop.jpg?v=48f63d7257",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels Moviedome PLUS"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1368,9 +1327,7 @@
       "originalTitle": "John Dies at the End",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/2/2/2/9/62229-john-dies-at-the-end-0-230-0-345-crop.jpg?v=53e1d243a3",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1392,9 +1349,7 @@
       "originalTitle": "Allegro Non Troppo",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/8/2/0/37820-allegro-non-troppo-0-230-0-345-crop.jpg?v=452c19707c",
-      "streamProviders": [
-        "Prime Video Channels Moviedome PLUS"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1405,10 +1360,7 @@
       "originalTitle": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/6/5/4/45654-interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem-0-230-0-345-crop.jpg?v=5b837bee6d",
-      "streamProviders": [
-        "Prime Video Channels Qello Concerts by Stingray",
-        "Prime Video Channels Stingray All Good Vibes"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1419,9 +1371,7 @@
       "originalTitle": "Cloud Atlas",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/9/9/9/8/69998-cloud-atlas-0-230-0-345-crop.jpg?v=f10528fcd0",
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1458,10 +1408,8 @@
       "originalTitle": "Wreck-It Ralph",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/9/1/5/4/69154-wreck-it-ralph-0-230-0-345-crop.jpg?v=3c4fe486b3",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Wreck-It Ralph"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Climax",
@@ -1484,10 +1432,7 @@
       "originalTitle": "Natural Born Killers",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/5/51815-natural-born-killers-0-230-0-345-crop.jpg?v=9b5fec11e1",
-      "streamProviders": [
-        "Disney+",
-        "MagentaTV"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1499,7 +1444,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/0/2/3/48023-the-hitchhiker-s-guide-to-the-galaxy-0-230-0-345-crop.jpg?v=f75fe170e6",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "The Hitchhiker's Guide to the Galaxy"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Charlie and the Chocolate Factory",
@@ -1509,12 +1454,8 @@
       "originalTitle": "Charlie and the Chocolate Factory",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/9/3/2/51932-charlie-and-the-chocolate-factory-0-230-0-345-crop.jpg?v=cf68e10228",
-      "streamProviders": [
-        "Netflix",
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
-      "streamProvidersOriginalTitle": "Charlie and the Chocolate Factory"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Lion King",
@@ -1555,12 +1496,7 @@
       "originalTitle": "Spring Breakers",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/6/1/0/9/96109-spring-breakers-0-230-0-345-crop.jpg?v=419b8d6331",
-      "streamProviders": [
-        "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels Paramount+",
-        "Paramount+",
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1571,12 +1507,8 @@
       "originalTitle": "The Fifth Element",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/9/9/2699-the-fifth-element-0-230-0-345-crop.jpg?v=5f207d9244",
-      "streamProviders": [
-        "Netflix",
-        "Prime Video Channels FILMLEGENDEN",
-        "MagentaTV"
-      ],
-      "streamProvidersOriginalTitle": "The Fifth Element"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Sin City",
@@ -1604,7 +1536,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/w2/v9/2v/lv/6DRFdlNZpAaEt7eejsbAlJGgaM7-0-230-0-345-crop.jpg?v=89bfbcf64e",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Big Fish"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Red Shoes",
@@ -1648,7 +1580,7 @@
       "rating": 2.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/0/7/5/43075-shrooms-0-230-0-345-crop.jpg?v=9affa953da",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Shrooms"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Black Swan",
@@ -1746,12 +1678,7 @@
       "originalTitle": "Space Is the Place",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/7/4/7/41747-space-is-the-place-0-230-0-345-crop.jpg?v=b08fdf1f20",
-      "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1763,7 +1690,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/nk/ig/ti/p9/sIygsUfPDD7pfdvmZR9PKArZ2Jp-0-230-0-345-crop.jpg?v=0048d279b8",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "鉄男"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Wicker Man",
@@ -1795,9 +1722,7 @@
       "originalTitle": "Mr. Nobody",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/fu/f9/40/ky/7JHWNrOZgMDGNdyH4eZRSu2ENmB-0-230-0-345-crop.jpg?v=5246294768",
-      "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1825,9 +1750,7 @@
       "originalTitle": "TRON: Legacy",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/9/5/7/38957-tron-legacy-0-230-0-345-crop.jpg?v=9452aea970",
-      "streamProviders": [
-        "Disney+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1873,13 +1796,7 @@
       "originalTitle": "Only God Forgives",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/4/4/2/7/64427-only-god-forgives-0-230-0-345-crop.jpg?v=9f33177721",
-      "streamProviders": [
-        "Prime Video Channels AXN Black",
-        "Prime Video Channels Bloody Movies",
-        "Prime Video Channels Film Total",
-        "Prime Video Channels SONY AXN",
-        "filmfriend"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -1890,13 +1807,8 @@
       "originalTitle": "The SpongeBob Movie: Sponge Out of Water",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/0/5/0/5/160505-the-spongebob-movie-sponge-out-of-water-0-230-0-345-crop.jpg?v=189ec7ddb8",
-      "streamProviders": [
-        "Netflix",
-        "Prime Video Channels Paramount+",
-        "Paramount+",
-        "MagentaTV"
-      ],
-      "streamProvidersOriginalTitle": "The SpongeBob Movie: Sponge Out of Water"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Peyote Queen",
@@ -1987,7 +1899,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/6/6/7/44667-9-0-230-0-345-crop.jpg?v=b33dd485d4",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "9"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "mother!",
@@ -1997,10 +1909,7 @@
       "originalTitle": "mother!",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/6/3/1/1/316311-mother--0-230-0-345-crop.jpg?v=44ea890aaa",
-      "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2024,10 +1933,8 @@
       "originalTitle": "Star Wars: Episode III – Revenge of the Sith",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/0/9/50709-star-wars-episode-iii-revenge-of-the-sith-0-230-0-345-crop.jpg?v=cdb8caab10",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Star Wars: Episode III - Revenge of the Sith"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Constantine",
@@ -2060,7 +1967,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/2/8/7/45287-up-in-smoke-0-230-0-345-crop.jpg?v=ddad77d216",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Up in Smoke"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Tron",
@@ -2070,9 +1977,7 @@
       "originalTitle": "Tron",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/x2/ki/kc/v5/cTF8lpXvAwT1SLH9kVFZZl0AO0D-0-230-0-345-crop.jpg?v=8ed1949fef",
-      "streamProviders": [
-        "Disney+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2084,7 +1989,7 @@
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/5/6/2/47562-dude-where-s-my-car--0-230-0-345-crop.jpg?v=8182d1eea5",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Dude, Where's My Car?"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Looper",
@@ -2094,12 +1999,7 @@
       "originalTitle": "Looper",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/qp/zb/lh/ec/yZ7e9bmLURRe89No7ei6eZQO1qZ-0-230-0-345-crop.jpg?v=b145ef432f",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky",
-        "Prime Video Channels Galactic Stream",
-        "MagentaTV"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2110,10 +2010,8 @@
       "originalTitle": "Dune",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/e9/3l/l6/pt/dune-0-230-0-345-crop.jpg?v=a79bf8b4f6",
-      "streamProviders": [
-        "Prime Video Channels MGM+"
-      ],
-      "streamProvidersOriginalTitle": "Dune"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Inherent Vice",
@@ -2185,10 +2083,7 @@
       "originalTitle": "Lucy",
       "rating": 2.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/8/8/6/0/168860-lucy-0-230-0-345-crop.jpg?v=768578ef62",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Netflix"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2199,10 +2094,8 @@
       "originalTitle": "Alice Through the Looking Glass",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/lr/2x/e2/5d/1EHKlvLk5kdBHLXir31DIXscSuZ-0-230-0-345-crop.jpg?v=13b2efc30d",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Alice Through the Looking Glass"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Machinist",
@@ -2212,13 +2105,8 @@
       "originalTitle": "The Machinist",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/2/5/4/49254-the-machinist-0-230-0-345-crop.jpg?v=71a9922e95",
-      "streamProviders": [
-        "Prime Video Channels FlimmerkisteTV",
-        "Prime Video Channels realeyz",
-        "MagentaTV",
-        "Sooner"
-      ],
-      "streamProvidersOriginalTitle": "The Machinist"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Coherence",
@@ -2250,12 +2138,8 @@
       "originalTitle": "Stardust",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/3/7/2/50372-stardust-0-230-0-345-crop.jpg?v=cce48bbef6",
-      "streamProviders": [
-        "Netflix",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
-      "streamProvidersOriginalTitle": "Stardust"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Legend",
@@ -2265,11 +2149,8 @@
       "originalTitle": "Legend",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/fz/y8/qa/2f/mJ9dl6hzp3xhCbohMgrai8I2AZU-0-230-0-345-crop.jpg?v=4ad31f83de",
-      "streamProviders": [
-        "Disney+",
-        "MagentaTV"
-      ],
-      "streamProvidersOriginalTitle": "Legend"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Animatrix",
@@ -2280,7 +2161,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/2/6/1/10261-the-animatrix-0-230-0-345-crop.jpg?v=83fe23ae91",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "The Animatrix"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Moon",
@@ -2315,7 +2196,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/9/5/6/4/29564-the-5-000-fingers-of-dr-t--0-230-0-345-crop.jpg?v=1345a6f5d0",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "The 5,000 Fingers of Dr. T."
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Acid House",
@@ -2336,10 +2217,8 @@
       "originalTitle": "Triangle",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/3/0/7/35307-triangle-0-230-0-345-crop.jpg?v=5b48fb0d4d",
-      "streamProviders": [
-        "Prime Video Channels Home of Horror"
-      ],
-      "streamProvidersOriginalTitle": "Triangle"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Wristcutters: A Love Story",
@@ -2349,10 +2228,8 @@
       "originalTitle": "Wristcutters: A Love Story",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/0/5/7/44057-wristcutters-a-love-story-0-230-0-345-crop.jpg?v=93e6cb7a7b",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": "Wristcutters: A Love Story"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Fantasia 2000",
@@ -2362,9 +2239,7 @@
       "originalTitle": "Fantasia 2000",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/6/8/4/15684-fantasia-2000-0-230-0-345-crop.jpg?v=e20f85a048",
-      "streamProviders": [
-        "Disney+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2403,7 +2278,7 @@
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/4/4/3/6/84436-pastoral-to-die-in-the-country-0-230-0-345-crop.jpg?v=d36c698277",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Den-en ni shisu"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Taste of Tea",
@@ -2414,7 +2289,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/4/5/9/42459-the-taste-of-tea-0-230-0-345-crop.jpg?v=e6ebb5f211",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "茶の味 Cha no Aji"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Dead Leaves",
@@ -2436,7 +2311,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/6/2/5/43625-tekkonkinkreet-0-230-0-345-crop.jpg?v=6fab2c85fb",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Tekon kinkurîto"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Wizards",
@@ -2447,7 +2322,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/fg/j2/h8/r6/wDnuXtSyX6oUWWBILreVBUDn8Ci-0-230-0-345-crop.jpg?v=33c916e172",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Wizards"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Lucifer Rising",
@@ -2558,10 +2433,8 @@
       "originalTitle": "Have a Good Trip: Adventures in Psychedelics",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/9/7/6/4/8/597648-have-a-good-trip-adventures-in-psychedelics-0-230-0-345-crop.jpg?v=3c48be98d8",
-      "streamProviders": [
-        "Netflix"
-      ],
-      "streamProvidersOriginalTitle": "Have a Good Trip: Adventures in Psychedelics"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Planet Earth",
@@ -2582,10 +2455,8 @@
       "originalTitle": "Fantastic Fungi",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/3/9/6/4/8/539648-fantastic-fungi-0-230-0-345-crop.jpg?v=267f1dc3e5",
-      "streamProviders": [
-        "Netflix"
-      ],
-      "streamProvidersOriginalTitle": "Fantastic Fungi"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Life of Pi",
@@ -2608,13 +2479,7 @@
       "originalTitle": "The Man from Earth",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/9/5/2/43952-the-man-from-earth-0-230-0-345-crop.jpg?v=f307c73fdf",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn",
-        "Prime Video Channels Netzkino Select",
-        "PantaRay",
-        "Netzkino"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2665,9 +2530,7 @@
       "originalTitle": "The Neon Demon",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/bq/o8/8y/yr/paofVcjP4QgIruLIqeRKIskpDUw-0-230-0-345-crop.jpg?v=c33585e69f",
-      "streamProviders": [
-        "Prime Video Channels superfresh"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2704,10 +2567,8 @@
       "originalTitle": "Star Wars: Episode I – The Phantom Menace",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/1/1/50711-star-wars-episode-i-the-phantom-menace-0-230-0-345-crop.jpg?v=cdb8caab10",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Star Wars: Episode I - The Phantom Menace"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Star Wars: Episode II – Attack of the Clones",
@@ -2717,10 +2578,8 @@
       "originalTitle": "Star Wars: Episode II – Attack of the Clones",
       "rating": 2.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/1/0/50710-star-wars-episode-ii-attack-of-the-clones-0-230-0-345-crop.jpg?v=cdb8caab10",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Star Wars: Episode II - Attack of the Clones"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Tenacious D in The Pick of Destiny",
@@ -2730,10 +2589,8 @@
       "originalTitle": "Tenacious D in The Pick of Destiny",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/4/5/8/50458-tenacious-d-in-the-pick-of-destiny-0-230-0-345-crop.jpg?v=1884441e24",
-      "streamProviders": [
-        "Prime Video Channels Stingray Karaoke"
-      ],
-      "streamProvidersOriginalTitle": "Tenacious D in The Pick of Destiny"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Inauguration of the Pleasure Dome",
@@ -2765,10 +2622,8 @@
       "originalTitle": "Corpse Bride",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/v1/h6/lc/lu/o9GbcdP7rOg2m1NyUnUR3ZwNcTE-0-230-0-345-crop.jpg?v=1ee3b92ded",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": "Tim Burton's Corpse Bride"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Big Hero 6",
@@ -2816,7 +2671,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/9/0/6/7/39067-despicable-me-0-230-0-345-crop.jpg?v=a50cb28a31",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Despicable Me: Minion Madness"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Monsters University",
@@ -2826,10 +2681,8 @@
       "originalTitle": "Monsters University",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/jp/xk/2p/xm/rmhqxsa5RDlcDDGWnGr8t5IG6Fw-0-230-0-345-crop.jpg?v=c30ddfcda2",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Monsters University"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Smiley Face",
@@ -2839,10 +2692,8 @@
       "originalTitle": "Smiley Face",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/0/8/2/44082-smiley-face-0-230-0-345-crop.jpg?v=6a26889931",
-      "streamProviders": [
-        "Netzkino"
-      ],
-      "streamProvidersOriginalTitle": "Smiley Face"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Seventh Seal",
@@ -2865,10 +2716,7 @@
       "originalTitle": "The Zero Theorem",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/7/8/7/4/117874-the-zero-theorem-0-230-0-345-crop.jpg?v=45080227ab",
-      "streamProviders": [
-        "Prime Video Channels Arthouse CNMA",
-        "Prime Video Channels Galactic Stream"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2901,10 +2749,8 @@
       "originalTitle": "The Lawnmower Man",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/4/8/6/46486-the-lawnmower-man-0-230-0-345-crop.jpg?v=9ec6eddd62",
-      "streamProviders": [
-        "Prime Video Channels Paramount+"
-      ],
-      "streamProvidersOriginalTitle": "The Lawnmower Man"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Good Dinosaur",
@@ -2914,10 +2760,8 @@
       "originalTitle": "The Good Dinosaur",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/5/5/7/9/85579-the-good-dinosaur-0-230-0-345-crop.jpg?v=f3e32ed09e",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "The Good Dinosaur"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Fellini Satyricon",
@@ -2939,7 +2783,7 @@
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/3/3/3/34333-200-motels-0-230-0-345-crop.jpg?v=0eb4f447e9",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Twohundred Motels"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "3 Women",
@@ -2961,7 +2805,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/4/6/2/46462-pineapple-express-0-230-0-345-crop.jpg?v=671682c7b0",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Pineapple Express"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Brand Upon the Brain!",
@@ -2972,7 +2816,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/5/8/8/34588-brand-upon-the-brain--0-230-0-345-crop.jpg?v=ccb3aeb6b8",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Brand Upon the Brain! A Remembrance in 12 Chapters"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Shining",
@@ -2993,10 +2837,7 @@
       "originalTitle": "Outer Space",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/8/7/2/8/88728-outer-space-0-230-0-345-crop.jpg?v=d757b48354",
-      "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3040,11 +2881,8 @@
       "originalTitle": "Anchorman: The Legend of Ron Burgundy",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/6/3/7/47637-anchorman-the-legend-of-ron-burgundy-0-230-0-345-crop.jpg?v=afdb4fa667",
-      "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
-      "streamProvidersOriginalTitle": "Anchorman: The Legend of Ron Burgundy"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Harold & Kumar Go to White Castle",
@@ -3054,10 +2892,8 @@
       "originalTitle": "Harold & Kumar Go to White Castle",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/s3/5n/kl/xp/wmLW4WTxXTTzD3nruLVWTl3m55b-0-230-0-345-crop.jpg?v=520e8fefe2",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": "Harold & Kumar Go to White Castle"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Magical Mystery Tour",
@@ -3089,11 +2925,8 @@
       "originalTitle": "Tim and Eric's Billion Dollar Movie",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/6/3/9/0/66390-tim-and-eric-s-billion-dollar-movie-0-230-0-345-crop.jpg?v=51053b0a18",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn"
-      ],
-      "streamProvidersOriginalTitle": "Tim and Eric's Billion Dollar Movie"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Cloudy with a Chance of Meatballs",
@@ -3104,7 +2937,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/6/9/6/37696-cloudy-with-a-chance-of-meatballs-0-230-0-345-crop.jpg?v=2352e21a4c",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Cloudy with a Chance of Meatballs"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Wonderwall",
@@ -3125,9 +2958,7 @@
       "originalTitle": "Welt am Draht",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/8/5/4/1/1/885411-world-on-a-wire-0-230-0-345-crop.jpg?v=5088d412aa",
-      "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3139,7 +2970,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kp/fy/19/ef/qMLawqLCsfzVwX8pLtQvwP4sJXj-0-230-0-345-crop.jpg?v=93ab57abc4",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "The Little Prince"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Trolls",
@@ -3149,9 +2980,7 @@
       "originalTitle": "Trolls",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/4/9/9/6/104996-trolls-0-230-0-345-crop.jpg?v=3d715ddf6c",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3175,9 +3004,7 @@
       "originalTitle": "Suspiria",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/9/3/0/6/6/293066-suspiria-0-230-0-345-crop.jpg?v=1e4a2f2d40",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3189,7 +3016,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/4/7/4/50474-fantastic-voyage-0-230-0-345-crop.jpg?v=0d79840ee0",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Fantastic Voyage"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Lapis",
@@ -3236,11 +3063,8 @@
       "originalTitle": "Spellbound",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/4/8/4/49484-spellbound-0-230-0-345-crop.jpg?v=4832105dee",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Netzkino"
-      ],
-      "streamProvidersOriginalTitle": "Spellbound"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Pee-wee's Big Adventure",
@@ -3251,7 +3075,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/li/jl/a2/sr/2PT1qTPkD3UvP9zZ2EqZkDNyJl1-0-230-0-345-crop.jpg?v=9b6c097a6f",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Pee-wee's Big Adventure"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Valerie and Her Week of Wonders",
@@ -3273,7 +3097,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/5/5/8/3/105583-the-dance-of-reality-0-230-0-345-crop.jpg?v=0ddc000978",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "La danza de la realidad"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Jigoku",
@@ -3284,7 +3108,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/4/7/5/15475-jigoku-0-230-0-345-crop.jpg?v=d3696cb98b",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Jigoku"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "A Nightmare on Elm Street",
@@ -3344,7 +3168,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/8/7/1/8871-haxan-0-230-0-345-crop.jpg?v=cd0cff7624",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Häxan"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Time Bandits",
@@ -3354,9 +3178,7 @@
       "originalTitle": "Time Bandits",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/7/5/8/2/27582-time-bandits-0-230-0-345-crop.jpg?v=0de6454b3b",
-      "streamProviders": [
-        "Prime Video Channels Galactic Stream"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3379,7 +3201,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/1/3/4/42134-taxidermia-0-230-0-345-crop.jpg?v=e9ea9ac77b",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Taxidermia"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "I Married a Strange Person!",
@@ -3390,7 +3212,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/9/1/7/13917-i-married-a-strange-person--0-230-0-345-crop.jpg?v=bc9cd894b1",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "I Married A Strange Person!"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Antichrist",
@@ -3400,11 +3222,7 @@
       "originalTitle": "Antichrist",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/d7/y1/ub/ph/lY4Y9buUIZY17vpvL5dsBpbORo0-0-230-0-345-crop.jpg?v=1e15ad22d2",
-      "streamProviders": [
-        "Sooner",
-        "filmfriend",
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3416,7 +3234,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/9/0/8/46908-ichi-the-killer-0-230-0-345-crop.jpg?v=05cf96b1d5",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "殺し屋1"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Hourglass Sanatorium",
@@ -3427,7 +3245,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/9/5/7/3/19573-the-hourglass-sanatorium-0-230-0-345-crop.jpg?v=ac28088e96",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Sanatorium pod klepsydra"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Freddy Got Fingered",
@@ -3437,9 +3255,7 @@
       "originalTitle": "Freddy Got Fingered",
       "rating": 2.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/wu/6y/12/fk/m5G9RsyTrLC67IHV40JXtqzLpR6-0-230-0-345-crop.jpg?v=218cea4a03",
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3509,10 +3325,7 @@
       "originalTitle": "Knight of Cups",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vv/6d/j9/6k/zGN0fefqK6hg2ffxD3R7nRyaZcF-0-230-0-345-crop.jpg?v=a852802fda",
-      "streamProviders": [
-        "Prime Video Channels ARTHAUS+",
-        "MagentaTV"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3523,10 +3336,8 @@
       "originalTitle": "J'ai perdu mon corps",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/4/7/0/2/514702-i-lost-my-body-0-230-0-345-crop.jpg?v=d58f4ad597",
-      "streamProviders": [
-        "Netflix"
-      ],
-      "streamProvidersOriginalTitle": "J'ai perdu mon corps"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Woodstock",
@@ -3536,9 +3347,7 @@
       "originalTitle": "Woodstock",
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/wu/yl/rg/rg/fMke5Zgp0N5TnJz1Q29gGlbpv2Y-0-230-0-345-crop.jpg?v=f7d455f381",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3549,9 +3358,7 @@
       "originalTitle": "Taking Woodstock",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/4/0/8/35408-taking-woodstock-0-230-0-345-crop.jpg?v=bb01ec233f",
-      "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3575,10 +3382,8 @@
       "originalTitle": "Get Him to the Greek",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/my/n4/o1/o5/gT84OWu3ze3eMapps9s8GxZNFct-0-230-0-345-crop.jpg?v=d340d613ad",
-      "streamProviders": [
-        "Joyn"
-      ],
-      "streamProvidersOriginalTitle": "Get Him to the Greek"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Edge of Tomorrow",
@@ -3601,9 +3406,7 @@
       "originalTitle": "Superbad",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/7/7/6/47776-superbad-0-230-0-345-crop.jpg?v=b43686efcb",
-      "streamProviders": [
-        "Prime Video Channels Filmtastic"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3627,9 +3430,7 @@
       "originalTitle": "Rango",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kg/9s/vs/0n/tB6RZA2pEFnolOKOAHR2GBu25aT-0-230-0-345-crop.jpg?v=fcc79c3c62",
-      "streamProviders": [
-        "MagentaTV"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3706,11 +3507,8 @@
       "originalTitle": "The Beach Bum",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/7/4/0/5/1/374051-the-beach-bum-0-230-0-345-crop.jpg?v=9ad98e871f",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
-      "streamProvidersOriginalTitle": "The Beach Bum"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Anima",
@@ -3720,9 +3518,7 @@
       "originalTitle": "Anima",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/3/7/1/9/4/537194-anima-0-230-0-345-crop.jpg?v=a96b58faef",
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3733,13 +3529,8 @@
       "originalTitle": "Valerian and the City of a Thousand Planets",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/9/4/5/8/269458-valerian-and-the-city-of-a-thousand-planets-0-230-0-345-crop.jpg?v=9c2fba0c0c",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Netflix",
-        "Prime Video Channels Filmtastic",
-        "MagentaTV"
-      ],
-      "streamProvidersOriginalTitle": "Valerian and the City of a Thousand Planets"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Guardians of the Galaxy Vol. 2",
@@ -3749,9 +3540,7 @@
       "originalTitle": "Guardians of the Galaxy Vol. 2",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/1g/4f/6e/5b/prvWMj8cBFgVn5MLlsjlvH2hiIh-0-230-0-345-crop.jpg?v=edbe39cfb9",
-      "streamProviders": [
-        "Disney+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3776,10 +3565,7 @@
       "originalTitle": "Predestination",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/3m/1w/jy/xa/kDdUtDsGMQ3OYwoBtEQyJIGPz4V-0-230-0-345-crop.jpg?v=34ca91e989",
-      "streamProviders": [
-        "Prime Video Channels Film Total",
-        "filmfriend"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3790,10 +3576,7 @@
       "originalTitle": "Enemy",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/sj/00/0d/n1/aQkyFHzNzZoMhxZ7c0IaK8BljED-0-230-0-345-crop.jpg?v=338dcff82c",
-      "streamProviders": [
-        "Prime Video Channels Filmtastic",
-        "Prime Video Channels MUBI"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3816,7 +3599,7 @@
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/5/6/51156-the-thirteenth-floor-0-230-0-345-crop.jpg?v=740eb890de",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "The Thirteenth Floor"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Jacket",
@@ -3848,10 +3631,8 @@
       "originalTitle": "Return to Oz",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/0/9/3/44093-return-to-oz-0-230-0-345-crop.jpg?v=9854619997",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Return to Oz"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "This Is Not a Movie",
@@ -3862,7 +3643,7 @@
       "rating": 0,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/5/7/2/68572-this-is-not-a-movie-0-230-0-345-crop.jpg?v=0d2690813b",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Ova ne e amerikanski film"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Adaptation.",
@@ -3918,10 +3699,8 @@
       "originalTitle": "La Cité des Enfants Perdus",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/4q/lw/90/vt/thuk142aluSSnImiA117uu8iVU-0-230-0-345-crop.jpg?v=6da0314abe",
-      "streamProviders": [
-        "Prime Video Channels Arthouse CNMA"
-      ],
-      "streamProvidersOriginalTitle": "La cité des enfants perdus"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Pink Flamingos",
@@ -3965,7 +3744,7 @@
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/4/0/2/22402-wild-in-the-streets-0-230-0-345-crop.jpg?v=c568a6d89d",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Wild in the Streets"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Spun",
@@ -3986,9 +3765,7 @@
       "originalTitle": "Magic Medicine",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/4/2/8/7/484287-magic-medicine-0-230-0-345-crop.jpg?v=dd7e4ad4ce",
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -4079,7 +3856,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/7/4/3/50743-the-transformers-the-movie-0-230-0-345-crop.jpg?v=de86a1163e",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "The Transformers: The Movie"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Long Day's Journey Into Night",
@@ -4090,7 +3867,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/7/4/6/9/417469-long-day-s-journey-into-night-0-230-0-345-crop.jpg?v=fc3c28ef15",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "后来的我们"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Nausicaä of the Valley of the Wind",
@@ -4136,7 +3913,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kf/uj/0a/4x/kyEljmcf7YYmp85BdZffqiuRLfV-0-230-0-345-crop.jpg?v=aac5233909",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Silent Running"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Blade Runner 2049",
@@ -4159,12 +3936,8 @@
       "originalTitle": "Limitless",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/3/9/7/2/13972-limitless-0-230-0-345-crop.jpg?v=7599c9da90",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky",
-        "Prime Video Channels Filmtastic"
-      ],
-      "streamProvidersOriginalTitle": "Limitless"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "What the #$*! Do We (K)now!?",
@@ -4175,7 +3948,7 @@
       "rating": 2.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/7/7/9/47779-what-the-do-we-k-now--0-230-0-345-crop.jpg?v=8a8ad801a0",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "What the Bleep Do We Know!?"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Inner Worlds, Outer Worlds",
@@ -4197,7 +3970,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/cp/mq/xu/2w/zima%20blue-0-230-0-345-crop.jpg?v=458831c155",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "ClownDoll"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "A Town Called Panic",
@@ -4208,7 +3981,7 @@
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/4/3/4/3/24343-a-town-called-panic-0-230-0-345-crop.jpg?v=83eeda5fb6",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Panique au village"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Shrek 2",
@@ -4218,11 +3991,8 @@
       "originalTitle": "Shrek 2",
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/g4/4m/0c/6s/rD8SvOTCCJ2VIpIV7GUwUKD1Kzc-0-230-0-345-crop.jpg?v=e780d1b7d3",
-      "streamProviders": [
-        "Joyn",
-        "Netflix"
-      ],
-      "streamProvidersOriginalTitle": "Shrek 2"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Wake in Fright",
@@ -4233,7 +4003,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/nh/p9/92/wm/y1mWPdAOQC3ZezWHNscqrUTMl8G-0-230-0-345-crop.jpg?v=dc532f0f0b",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Wake in Fright"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Pagemaster",
@@ -4244,7 +4014,7 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/5/6/9/42569-the-pagemaster-0-230-0-345-crop.jpg?v=3a58dc33ac",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "The Pagemaster"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Outside",
@@ -4276,11 +4046,8 @@
       "originalTitle": "Beavis and Butt-Head Do America",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/vp/ak/n0/ca/2pW1iACRzmb9OOIhzflYYt3S3s9-0-230-0-345-crop.jpg?v=65afcb8695",
-      "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
-      "streamProvidersOriginalTitle": "Beavis and Butt-Head Do America"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Finding Dory",
@@ -4290,10 +4057,8 @@
       "originalTitle": "Finding Dory",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/9/4/0/2/99402-finding-dory-0-230-0-345-crop.jpg?v=7f9734ec2d",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Finding Dory"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Princess and the Pony",
@@ -4304,7 +4069,7 @@
       "rating": 0,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/9/2/7/10927-princess-and-the-pony-0-230-0-345-crop.jpg?v=9c355a1855",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Princess and the Pony"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Peter Pan",
@@ -4314,9 +4079,7 @@
       "originalTitle": "Peter Pan",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/0/7/2/46072-peter-pan-0-230-0-345-crop.jpg?v=2fb91b4d2e",
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -4328,7 +4091,7 @@
       "rating": 2.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/5/6/5/0/265650-hell-back-0-230-0-345-crop.jpg?v=fd5a1899fa",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Hell and Back"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Tank Girl",
@@ -4338,9 +4101,7 @@
       "originalTitle": "Tank Girl",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/zu/tv/cc/aa/tpX4WrJ0Gih8wGqHPVolT9fexoQ-0-230-0-345-crop.jpg?v=73a844d55c",
-      "streamProviders": [
-        "MagentaTV"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -4363,7 +4124,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/8/0/2/46802-thursday-0-230-0-345-crop.jpg?v=d18352405a",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Thursday"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Bad Batch",
@@ -4373,9 +4134,7 @@
       "originalTitle": "The Bad Batch",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/4/3/1/9/3/243193-the-bad-batch-0-230-0-345-crop.jpg?v=c9baeddafe",
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -4386,17 +4145,8 @@
       "originalTitle": "The Secret of Kells",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/8/9/8/34898-the-secret-of-kells-0-230-0-345-crop.jpg?v=bb782cccba",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn",
-        "Prime Video Channels ARD Plus",
-        "Prime Video Channels Kinderwelt",
-        "Prime Video Channels MUBI",
-        "ARD Plus",
-        "MagentaTV",
-        "filmfriend"
-      ],
-      "streamProvidersOriginalTitle": "The Secret of Kells"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Moulin Rouge!",
@@ -4443,10 +4193,8 @@
       "originalTitle": "Diabeł",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/39/qa/pe/il/uyeN4st0QQFeucSlc8n1NTXFhOY-0-230-0-345-crop.jpg?v=8c7bd7160f",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": "La tua presenza nuda!"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Nosferatu the Vampyre",
@@ -4507,7 +4255,7 @@
       "rating": 0,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/5/5/2/1/5/555215-uzumaki-0-230-0-345-crop.jpg?v=aa4f0af0fc",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "渦巻"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Om Dar-B-Dar",
@@ -4540,7 +4288,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/2/5/5/5/22555-long-live-death-0-230-0-345-crop.jpg?v=c4b067a45d",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Viva la muerte"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Belle de Jour",
@@ -4596,12 +4344,8 @@
       "originalTitle": "Prospero's Books",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/9/8/6/48986-prospero-s-books-0-230-0-345-crop.jpg?v=51ef4f61ed",
-      "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Netzkino",
-        "Mubi"
-      ],
-      "streamProvidersOriginalTitle": "Prospero's Books"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Men Who Stare at Goats",
@@ -4611,11 +4355,8 @@
       "originalTitle": "The Men Who Stare at Goats",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/3/4/6/46346-the-men-who-stare-at-goats-0-230-0-345-crop.jpg?v=e9c8d07641",
-      "streamProviders": [
-        "Netflix",
-        "Prime Video Channels Film Total"
-      ],
-      "streamProvidersOriginalTitle": "The Men Who Stare at Goats"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Harvard Man",
@@ -4702,10 +4443,8 @@
       "originalTitle": "ヱヴァンゲリヲン新劇場版：序",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/5/7/1/42571-evangelion-1-0-you-are-not-alone-0-230-0-345-crop.jpg?v=b29a66726f",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": "ヱヴァンゲリヲン新劇場版：序"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Evangelion: 2.0 You Can (Not) Advance",
@@ -4715,10 +4454,8 @@
       "originalTitle": "ヱヴァンゲリヲン新劇場版：破",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/3p/l8/hu/en/odCtbDVJMxaqsTt4fIkM7UHZ8ta-0-230-0-345-crop.jpg?v=2c9c8fd743",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": "ヱヴァンゲリヲン新劇場版：破"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Evangelion: 3.0 You Can (Not) Redo",
@@ -4728,10 +4465,8 @@
       "originalTitle": "ヱヴァンゲリヲン新劇場版:Q",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/2/0/9/1/62091-evangelion-3-0-you-can-not-redo-0-230-0-345-crop.jpg?v=581fe5e256",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": "ヱヴァンゲリヲン新劇場版:Q"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Fando and Lis",
@@ -4742,7 +4477,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/9/9/2/1/29921-fando-and-lis-0-230-0-345-crop.jpg?v=607324db0d",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Fando y Lis"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Escape from Tomorrow",
@@ -4778,7 +4513,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/lx/3r/jp/b4/93JHXVhbWEorrJpfG4kiScQ27wR-0-230-0-345-crop.jpg?v=f743157c0c",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "La Invención de Cronos"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Watership Down",
@@ -4802,7 +4537,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/6/0/1/47601-the-saragossa-manuscript-0-230-0-345-crop.jpg?v=028a93d6a2",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Rekopis znaleziony w Saragossie"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Dogtooth",
@@ -4813,7 +4548,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/j6/sh/2m/01/xUnbL2Uoh4zoc1hJvIV6MDDJpka-0-230-0-345-crop.jpg?v=f876d41d35",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Kynodontas"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Berberian Sound Studio",
@@ -4823,11 +4558,7 @@
       "originalTitle": "Berberian Sound Studio",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/9u/eg/ep/z0/qCYsa3dCztQYM6tIXMB8ySgLj1B-0-230-0-345-crop.jpg?v=08cda94c6a",
-      "streamProviders": [
-        "Prime Video Channels Home of Horror",
-        "Prime Video Channels realeyz",
-        "Sooner"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -4850,7 +4581,7 @@
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/2/6/9/4/42694-origin-spirits-of-the-past-0-230-0-345-crop.jpg?v=078922ecaa",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Gin-iro no kami no Agito"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Terra Formars",
@@ -4861,7 +4592,7 @@
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/5/7/5/9/8/257598-terra-formars-0-230-0-345-crop.jpg?v=a27c5605b3",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Terra Formars"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Valley",
@@ -4919,10 +4650,8 @@
       "originalTitle": "極道恐怖大劇場 牛頭 GOZU",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/5/4/8/44548-gozu-0-230-0-345-crop.jpg?v=f032e0dcfe",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": "Gokudô kyôfu dai-gekijô: Gozu"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Logan's Run",
@@ -4933,7 +4662,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/8/8/1/45881-logan-s-run-0-230-0-345-crop.jpg?v=71141e4324",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Logan's Run"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Behind Your Walls",
@@ -4954,10 +4683,8 @@
       "originalTitle": "Le Sang d'un poète",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/7/5/2/5/27525-the-blood-of-a-poet-0-230-0-345-crop.jpg?v=1f7777f329",
-      "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
-      ],
-      "streamProvidersOriginalTitle": "Le sang d'un poète"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Trava: Fist Planet",
@@ -4995,7 +4722,7 @@
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/0/4/5/9/8/1004598-mpd-psycho-0-230-0-345-crop.jpg?v=b64e4487c0",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Isola: Tajuu jinkaku shôjo"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Double Life of Véronique",
@@ -5030,7 +4757,7 @@
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/9/1/2/8/7/191287-the-similars-0-230-0-345-crop.jpg?v=37e55c5a1f",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Los parecidos"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Wild Wild Country",
@@ -5062,11 +4789,7 @@
       "originalTitle": "The Book of Eli",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/9/7/0/38970-the-book-of-eli-0-230-0-345-crop.jpg?v=8583c067b9",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Netflix",
-        "MagentaTV"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5090,12 +4813,8 @@
       "originalTitle": "Ad Astra",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/5/3/4/8/5/353485-ad-astra-0-230-0-345-crop.jpg?v=a4302e46ef",
-      "streamProviders": [
-        "Disney+",
-        "Netflix",
-        "MagentaTV"
-      ],
-      "streamProvidersOriginalTitle": "Ad Astra"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "A Midsummer Night's Dream",
@@ -5105,10 +4824,8 @@
       "originalTitle": "A Midsummer Night's Dream",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/9/8/8/4/39884-a-midsummer-night-s-dream-0-230-0-345-crop.jpg?v=3f341f3e22",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": "A Midsummer Night's Dream"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Felix the Cat Dines and Pines",
@@ -5217,13 +4934,7 @@
       "originalTitle": "Deadlock",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/6/2/7/9/66279-deadlock-0-230-0-345-crop.jpg?v=4b43af43be",
-      "streamProviders": [
-        "Prime Video Channels alleskino",
-        "Prime Video Channels realeyz",
-        "Sooner",
-        "alleskino",
-        "filmfriend"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5257,7 +4968,7 @@
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/2/5/1/7251-confessions-of-an-opium-eater-0-230-0-345-crop.jpg?v=4826007c17",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Confessions of an Opium Eater"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Drugstore Cowboy",
@@ -5267,9 +4978,7 @@
       "originalTitle": "Drugstore Cowboy",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/6/2/8/51628-drugstore-cowboy-0-230-0-345-crop.jpg?v=3614000bb8",
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5291,10 +5000,7 @@
       "originalTitle": "Young Guns",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/8/4/1/44841-young-guns-0-230-0-345-crop.jpg?v=e25febb568",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5305,10 +5011,7 @@
       "originalTitle": "Wayne's World 2",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/7/5/5/1/47551-wayne-s-world-2-0-230-0-345-crop.jpg?v=eaef7d6016",
-      "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5333,7 +5036,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/9/0/6/31906-heavy-traffic-0-230-0-345-crop.jpg?v=624c7f4086",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Heavy Traffic"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Crank",
@@ -5343,9 +5046,7 @@
       "originalTitle": "Crank",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/6/6/0/50660-crank-0-230-0-345-crop.jpg?v=c6b361887f",
-      "streamProviders": [
-        "RTL+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5390,7 +5091,7 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/76/de/te/sq/z4jvDMQwjc42p6zfZysYjBX7EHZ-0-230-0-345-crop.jpg?v=45aa8469e9",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Knocked Up"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Sunshine",
@@ -5400,9 +5101,7 @@
       "originalTitle": "Sunshine",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/1/0/51110-sunshine-0-230-0-345-crop.jpg?v=c4ffc70fd4",
-      "streamProviders": [
-        "Disney+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5413,11 +5112,8 @@
       "originalTitle": "Event Horizon",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/ee/z5/lx/dc/vo02iJLsem3VCJ2TNvSzRiJMpAE-0-230-0-345-crop.jpg?v=c047098184",
-      "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
-      "streamProvidersOriginalTitle": "Event Horizon"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Pandorum",
@@ -5427,10 +5123,7 @@
       "originalTitle": "Pandorum",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/fu/r6/3f/o1/qFd7dNvV1neXBV5OZdU5jOhdDZ6-0-230-0-345-crop.jpg?v=78659c50b9",
-      "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5441,10 +5134,8 @@
       "originalTitle": "Prometheus",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/39/zq/9r/ye/qsYQflQhOuhDpQ0W2aOcwqgDAeI-0-230-0-345-crop.jpg?v=8bfe4f51c3",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "Prometheus"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Aliens",
@@ -5467,9 +5158,7 @@
       "originalTitle": "Europa Report",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/7j/m0/a3/6b/73lAZvmcuZjevJfHxcm5uGyqSMj-0-230-0-345-crop.jpg?v=b79556b3ce",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5480,11 +5169,8 @@
       "originalTitle": "Banshee Chapter",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/8/2/7/3/148273-banshee-chapter-0-230-0-345-crop.jpg?v=c564b2796d",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels Galactic Stream"
-      ],
-      "streamProvidersOriginalTitle": "Banshee Chapter"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Cloudy with a Chance of Meatballs 2",
@@ -5495,7 +5181,7 @@
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/7/9/4/4/87944-cloudy-with-a-chance-of-meatballs-2-0-230-0-345-crop.jpg?v=64fdde0c19",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Cloudy with a Chance of Meatballs 2"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Despicable Me 2",
@@ -5505,10 +5191,8 @@
       "originalTitle": "Despicable Me 2",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/dz/ec/y7/pf/ek09KXB8ytg9nUb3hDUpJn7APdT-0-230-0-345-crop.jpg?v=3b9b2c06c8",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
-      "streamProvidersOriginalTitle": "Despicable Me 2"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "I Origins",
@@ -5519,7 +5203,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/k0/4e/mw/yz/8yBrj7mXCcNaHOJja7CL7tAnqlc-0-230-0-345-crop.jpg?v=ea6f0dcd49",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "I Origins"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Apollo 18",
@@ -5529,10 +5213,7 @@
       "originalTitle": "Apollo 18",
       "rating": 2.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/3/1/7/15317-apollo-18-0-230-0-345-crop.jpg?v=15b2955c32",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels Galactic Stream"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5555,7 +5236,7 @@
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/6/4/1/49641-the-number-23-0-230-0-345-crop.jpg?v=4dd08e3b35",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "The Number 23"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "1408",
@@ -5565,11 +5246,8 @@
       "originalTitle": "1408",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/9/4/4/49944-1408-0-230-0-345-crop.jpg?v=f0129a1ed0",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels Moviedome PLUS"
-      ],
-      "streamProvidersOriginalTitle": "1408"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Frighteners",
@@ -5591,7 +5269,7 @@
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/7/2/1/46721-the-skeleton-key-0-230-0-345-crop.jpg?v=7a502c8055",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "The Skeleton Key"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Pawn Shop Chronicles",
@@ -5601,10 +5279,8 @@
       "originalTitle": "Pawn Shop Chronicles",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/4/3/1/0/1/143101-pawn-shop-chronicles-0-230-0-345-crop.jpg?v=23db0bf57f",
-      "streamProviders": [
-        "Prime Video Channels Filmtastic"
-      ],
-      "streamProvidersOriginalTitle": "Pawn Shop Chronicles"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Mr. Jones",
@@ -5614,9 +5290,7 @@
       "originalTitle": "Mr. Jones",
       "rating": 2.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/2/7/9/7/3/127973-mr-jones-0-230-0-345-crop.jpg?v=48a268f1da",
-      "streamProviders": [
-        "Prime Video Channels Home of Horror"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5627,12 +5301,8 @@
       "originalTitle": "The Babadook",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/6/9/7/2/8/169728-the-babadook-0-230-0-345-crop.jpg?v=0821d9c945",
-      "streamProviders": [
-        "Prime Video Channels Moviedome PLUS",
-        "Prime Video Channels MUBI",
-        "Mubi"
-      ],
-      "streamProvidersOriginalTitle": "The Babadook"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Signal",
@@ -5653,9 +5323,7 @@
       "originalTitle": "Sinister",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/e2/ry/mu/yc/hrRYY7FcRc46Ue7h9jcKiW1xqJ3-0-230-0-345-crop.jpg?v=c994fd880e",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5666,9 +5334,7 @@
       "originalTitle": "Insidious",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/te/ew/lb/gd/urAaOffVaxQzRJ8X5Z0oDqOWAjl-0-230-0-345-crop.jpg?v=7016f25e4f",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5690,14 +5356,8 @@
       "originalTitle": "The Ring",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/fi/eb/jh/ni/the-ring-0-230-0-345-crop.jpg?v=e9d1f52d16",
-      "streamProviders": [
-        "Joyn",
-        "Prime Video Channels Kabel Eins CLASSICS",
-        "Prime Video Channels Paramount+",
-        "Prime Video Channels Seven Entertainment",
-        "Paramount+"
-      ],
-      "streamProvidersOriginalTitle": "The Ring"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Conjuring",
@@ -5707,13 +5367,8 @@
       "originalTitle": "The Conjuring",
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/6/2/6/2/106262-the-conjuring-0-230-0-345-crop.jpg?v=8cbb976912",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Netflix",
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
-      "streamProvidersOriginalTitle": "The Conjuring"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Thing",
@@ -5783,12 +5438,8 @@
       "originalTitle": "Step Brothers",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/7/6/8/44768-step-brothers-0-230-0-345-crop.jpg?v=0a3c38369a",
-      "streamProviders": [
-        "Prime Video Channels AXN Black",
-        "Prime Video Channels SONY AXN",
-        "MagentaTV"
-      ],
-      "streamProvidersOriginalTitle": "Step Brothers"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Winged Migration",
@@ -5799,7 +5450,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/2/3/2/45232-winged-migration-0-230-0-345-crop.jpg?v=9f3f7bc8ae",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Le peuple migrateur"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Less Than Zero",
@@ -5810,7 +5461,7 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/c1/hm/bb/nj/less-than-zero-0-230-0-345-crop.jpg?v=7478911c7a",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Less Than Zero"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Rumble Fish",
@@ -5831,11 +5482,8 @@
       "originalTitle": "Young Sherlock Holmes",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/4/9/0/2/44902-young-sherlock-holmes-0-230-0-345-crop.jpg?v=d0ca3e4b90",
-      "streamProviders": [
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
-      "streamProvidersOriginalTitle": "Young Sherlock Holmes"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Batman Begins",
@@ -5871,7 +5519,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/9/3/3/4/49334-candy-0-230-0-345-crop.jpg?v=2b393ba15d",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Candy"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Charlie Countryman",
@@ -5881,11 +5529,8 @@
       "originalTitle": "Charlie Countryman",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/lh/1r/we/ps/8G42EWFMRyTwnx5QGNSXjAsmY1L-0-230-0-345-crop.jpg?v=e2651f3fab",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Joyn"
-      ],
-      "streamProvidersOriginalTitle": "The Necessary Death of Charlie Countryman"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Queen of Earth",
@@ -5895,9 +5540,7 @@
       "originalTitle": "Queen of Earth",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/p5/pm/yl/b4/e6K2JTX3dNl86yaRiyYVX1Qooq0-0-230-0-345-crop.jpg?v=86b03476f9",
-      "streamProviders": [
-        "Prime Video Channels MUBI"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -5909,7 +5552,7 @@
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/3/4/4/8/43448-the-machine-girl-0-230-0-345-crop.jpg?v=b0142a7433",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "片腕マシンガール"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Mr. Vampire",
@@ -5942,7 +5585,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/8/7/4/3/38743-kin-dza-dza--0-230-0-345-crop.jpg?v=9bfdf8f381",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Da obichash na inat"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Genius Party Beyond",
@@ -6009,9 +5652,7 @@
       "originalTitle": "The Jungle Book",
       "rating": 3.2,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/re/d0/vo/uh/iMmpHJ9MeOwOF41BmUqytbHCWtz-0-230-0-345-crop.jpg?v=497a52cf57",
-      "streamProviders": [
-        "Disney+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -6064,7 +5705,7 @@
       "listPosition": 496,
       "year": "2011",
       "originalTitle": "Le Tableau",
-      "rating": 3.6,
+      "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/0/6/7/8/80678-the-painting-0-230-0-345-crop.jpg?v=7e6459e423",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
@@ -6077,9 +5718,7 @@
       "originalTitle": "The Congress",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/aq/49/ks/ru/yoZo1edkw1WtkV7wiyttAy7lGPG-0-230-0-345-crop.jpg?v=2b0eba20c8",
-      "streamProviders": [
-        "Sooner"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -6180,10 +5819,8 @@
       "originalTitle": "新世紀エヴァンゲリオン 劇場版 DEATH & REBIRTH シト新生",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/5/9/6/3/55963-neon-genesis-evangelion-death-and-rebirth-0-230-0-345-crop.jpg?v=338c9e1ad7",
-      "streamProviders": [
-        "Netflix"
-      ],
-      "streamProvidersOriginalTitle": "新世紀エヴァンゲリオン劇場版 Air／まごころを、君に"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "FLCL",
@@ -6291,7 +5928,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/3/0/4/33304-summer-wars-0-230-0-345-crop.jpg?v=22bee535bd",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "サマーウォーズ"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Heat of a Thousand Suns",
@@ -7038,7 +6675,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/8/5/1/3/28513-roujin-z-0-230-0-345-crop.jpg?v=a359fed249",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "ドラゴンボールZ 超サイヤ人だ孫悟空"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Paradox",
@@ -7072,10 +6709,8 @@
       "originalTitle": "Le Testament d'Orphée",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/7/5/2/4/27524-testament-of-orpheus-0-230-0-345-crop.jpg?v=afeb6d4ef4",
-      "streamProviders": [
-        "Prime Video Channels ARTHAUS+"
-      ],
-      "streamProvidersOriginalTitle": "Le Testament d'Orphée"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Night Mayor",
@@ -7514,7 +7149,7 @@
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/8/0/4/1/48041-robinson-crusoe-on-mars-0-230-0-345-crop.jpg?v=2cb939c712",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Robinson Crusoe on Mars"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Repulsion",
@@ -7582,7 +7217,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/9/4/1/1/9411-dillinger-is-dead-0-230-0-345-crop.jpg?v=75f0dcf0c2",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Dillinger è morto"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Gymkata",
@@ -7832,9 +7467,7 @@
       "originalTitle": "Black Moon",
       "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/4/5/8/6/34586-black-moon-0-230-0-345-crop.jpg?v=b45993334a",
-      "streamProviders": [
-        "Prime Video Channels MOVIECULT"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -7857,7 +7490,7 @@
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/2/1/0/50210-zazie-dans-le-metro-0-230-0-345-crop.jpg?v=c6ab1a5e30",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Zazie dans le métro"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Source Code",
@@ -7946,10 +7579,8 @@
       "originalTitle": "東京流れ者",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/9/5/6/7/19567-tokyo-drifter-0-230-0-345-crop.jpg?v=795a164da8",
-      "streamProviders": [
-        "Sooner"
-      ],
-      "streamProvidersOriginalTitle": "Tôkyô nagaremono"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Miami Connection",
@@ -8555,10 +8186,8 @@
       "originalTitle": "The Curious Case of Benjamin Button",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/yh/ob/ip/lw/gjMR102u5hPdIAWX7O2rim8ZWgA-0-230-0-345-crop.jpg?v=3beffc5097",
-      "streamProviders": [
-        "Netflix"
-      ],
-      "streamProvidersOriginalTitle": "The Curious Case of Benjamin Button"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "How to Get Ahead in Advertising",
@@ -8569,7 +8198,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/oc/qn/yo/ia/jisOon6e01zJEtEKA6xX8Q98bNB-0-230-0-345-crop.jpg?v=03c0ee2b37",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "How to Get Ahead in Advertising"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Wood & Stock: Sex, Oregano and Rock'n'Roll",
@@ -8627,9 +8256,7 @@
       "originalTitle": "Feast",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/6/5/7/6/46576-feast-0-230-0-345-crop.jpg?v=27e279c40f",
-      "streamProviders": [
-        "Joyn"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -9099,10 +8726,8 @@
       "originalTitle": "The Life Aquatic with Steve Zissou",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/lj/js/4a/zc/the-life-aquatic-with-steve-zissou-original-0-230-0-345-crop.jpg?v=c206023bc2",
-      "streamProviders": [
-        "Disney+"
-      ],
-      "streamProvidersOriginalTitle": "The Life Aquatic with Steve Zissou"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Office Space",
@@ -9267,7 +8892,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/6/9/0/8/26908-night-on-the-galactic-railroad-0-230-0-345-crop.jpg?v=e8ba8c16a5",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Ginga-tetsudô no yoru"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Warriors",
@@ -10758,7 +10383,7 @@
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/4/2/3/1/114231-puella-magi-madoka-magica-the-movie-part-i-beginnings-0-230-0-345-crop.jpg?v=dcf5703925",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Ao no ekusoshisuto: Gekijôban"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part II: Eternal",
@@ -10769,7 +10394,7 @@
       "rating": 4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/1/4/2/3/2/114232-puella-magi-madoka-magica-the-movie-part-ii-eternal-0-230-0-345-crop.jpg?v=a76ed07926",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Ao no ekusoshisuto: Gekijôban"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Puella Magi Madoka Magica the Movie Part III: Rebellion",
@@ -10780,7 +10405,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/5/0/8/9/0/150890-puella-magi-madoka-magica-the-movie-part-iii-rebellion-0-230-0-345-crop.jpg?v=9c853905c3",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Gekijouban Mahou shojo Madoka magika Shinpen: Hangyaku no monogatari"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Hi This Is Flume",
@@ -11375,11 +11000,8 @@
       "originalTitle": "The Chronicles of Riddick",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/0/8/7/50087-the-chronicles-of-riddick-0-230-0-345-crop.jpg?v=34b39ddd3d",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
-      "streamProvidersOriginalTitle": "The Chronicles of Riddick"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": "The Chronicles of Riddick: Dark Fury"
     },
     {
       "name": "Christmas on Mars",
@@ -11573,7 +11195,7 @@
       "rating": 4.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/3/4/6/0/363460-night-is-short-walk-on-girl-0-230-0-345-crop.jpg?v=ea41691f71",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "夜は短し歩けよ乙女"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Boxer's Omen",
@@ -12250,10 +11872,6 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels FlimmerkisteTV",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels Galactic Stream",
       "enabled": false
     },
@@ -12267,10 +11885,6 @@
     },
     {
       "name": "Prime Video Channels Kabel Eins CLASSICS",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Kinderwelt",
       "enabled": false
     },
     {
@@ -12298,10 +11912,6 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Qello Concerts by Stingray",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels SONY AXN",
       "enabled": false
     },
@@ -12318,31 +11928,11 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Stingray All Good Vibes",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Stingray Karaoke",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels alleskino",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels aniverse",
       "enabled": false
     },
     {
       "name": "Prime Video Channels realeyz",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels superfresh",
-      "enabled": false
-    },
-    {
-      "name": "RTL+",
       "enabled": false
     },
     {
@@ -12355,10 +11945,6 @@
     },
     {
       "name": "Sooner",
-      "enabled": false
-    },
-    {
-      "name": "alleskino",
       "enabled": false
     },
     {

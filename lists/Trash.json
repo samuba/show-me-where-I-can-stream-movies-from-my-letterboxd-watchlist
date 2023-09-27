@@ -2244,9 +2244,7 @@
       "originalTitle": "Yeti: Il Gigante del 20° Secolo",
       "rating": 2.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/7/0/7/5/77075-yeti-the-giant-of-the-20th-century-0-230-0-345-crop.jpg?v=fd409242b8",
-      "streamProviders": [
-        "Prime Video Channels Silverline"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": "Yeti - Il gigante del 20º secolo"
     },
     {
@@ -2323,12 +2321,7 @@
       "originalTitle": "Space Is the Place",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/7/4/7/41747-space-is-the-place-0-230-0-345-crop.jpg?v=b08fdf1f20",
-      "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -3109,11 +3102,11 @@
       "letterboxdUrl": "https://letterboxd.com/film/undefeatable",
       "listPosition": 277,
       "year": "1993",
-      "originalTitle": "摧花狂魔",
+      "originalTitle": "Undefeatable",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/6/7/0/3/36703-undefeatable-0-230-0-345-crop.jpg?v=b5f0bc64be",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Cui hua kuang mo"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Laser Mission",
@@ -6578,14 +6571,6 @@
       "enabled": false
     },
     {
-      "name": "Prime Video Channels Silverline",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels realeyz",
-      "enabled": false
-    },
-    {
       "name": "Prime Video Channels superfresh",
       "enabled": false
     },
@@ -6595,10 +6580,6 @@
     },
     {
       "name": "Sky WOW",
-      "enabled": false
-    },
-    {
-      "name": "Sooner",
       "enabled": false
     },
     {

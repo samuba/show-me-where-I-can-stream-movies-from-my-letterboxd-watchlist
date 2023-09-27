@@ -108,7 +108,7 @@
       "name": "Casablanca",
       "letterboxdUrl": "https://letterboxd.com/film/casablanca",
       "listPosition": 8,
-      "year": "1943",
+      "year": "1942",
       "originalTitle": "Casablanca",
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/kq/vf/8s/1p/wOBKAoUJZb5qTsWv5XXvVV2vUzz-0-230-0-345-crop.jpg?v=cdb9b25970",
@@ -134,7 +134,9 @@
       "originalTitle": "GoodFellas",
       "rating": 4.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/3/8/3/51383-goodfellas-0-230-0-345-crop.jpg?v=c6c265f228",
-      "streamProviders": [],
+      "streamProviders": [
+        "Sky Go\nSky"
+      ],
       "streamProvidersOriginalTitle": "Goodfellas"
     },
     {
@@ -911,6 +913,7 @@
       "rating": 4.3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/0/9/5/6/50956-raging-bull-0-230-0-345-crop.jpg?v=b25f43f7b6",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels MGM+",
         "Prime Video Channels Seven Entertainment"
@@ -2220,8 +2223,7 @@
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/7/8/7/51787-breathless-0-230-0-345-crop.jpg?v=53a2f150d5",
       "streamProviders": [
         "Prime Video Channels ARTHAUS+",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
+        "Prime Video Channels Paramount+"
       ],
       "streamProvidersOriginalTitle": "À bout de souffle"
     },
@@ -2930,12 +2932,8 @@
       "originalTitle": "Stagecoach",
       "rating": 3.9,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/1/7/4/51174-stagecoach-0-230-0-345-crop.jpg?v=9f0a1f0c3e",
-      "streamProviders": [
-        "Amazon Prime Video",
-        "Prime Video Channels GRJNGO – Westernfilme",
-        "Prime Video Channels Wild West"
-      ],
-      "streamProvidersOriginalTitle": "Stagecoach"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Beauty and the Beast",
@@ -5481,9 +5479,7 @@
       "originalTitle": "A Hard Day's Night",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/4/2/2/51422-a-hard-day-s-night-0-230-0-345-crop.jpg?v=22ce36cf37",
-      "streamProviders": [
-        "Prime Video Channels Moviedome PLUS"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -6400,6 +6396,7 @@
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/5/5/9/3/45593-my-fair-lady-0-230-0-345-crop.jpg?v=c444c9f37d",
       "streamProviders": [
+        "Joyn",
         "Prime Video Channels Kabel Eins CLASSICS",
         "Prime Video Channels Paramount+",
         "Prime Video Channels Seven Entertainment",
@@ -12588,10 +12585,6 @@
     },
     {
       "name": "Prime Video Channels Turk on Video",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Wild West",
       "enabled": false
     },
     {

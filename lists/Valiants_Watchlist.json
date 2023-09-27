@@ -4,6 +4,17 @@
   "description": "",
   "entries": [
     {
+      "name": "Pearl",
+      "letterboxdUrl": "https://letterboxd.com/film/pearl-2022",
+      "listPosition": 0,
+      "year": "2022",
+      "originalTitle": "Pearl",
+      "rating": 3.8,
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/5/3/8/2/2/853822-pearl-0-230-0-345-crop.jpg?v=471dfc4a24",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
       "name": "Spider-Man: Across the Spider-Verse",
       "letterboxdUrl": "https://letterboxd.com/film/spider-man-across-the-spider-verse",
       "listPosition": 0,
@@ -85,7 +96,7 @@
       "listPosition": 0,
       "year": "2013",
       "originalTitle": "Evil Dead",
-      "rating": 3.4,
+      "rating": 3.3,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/he/wz/f9/h1/6gtHgAxgemVd3pIQlbg4YoniqEY-0-230-0-345-crop.jpg?v=c86fe09a93",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""

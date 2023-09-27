@@ -1427,7 +1427,7 @@
       "rating": 3.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/1/9/0/6/31906-heavy-traffic-0-230-0-345-crop.jpg?v=624c7f4086",
       "streamProviders": [],
-      "streamProvidersOriginalTitle": "Heavy Traffic"
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Hell Up In Harlem",
@@ -2287,12 +2287,7 @@
       "originalTitle": "Space Is the Place",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/4/1/7/4/7/41747-space-is-the-place-0-230-0-345-crop.jpg?v=b08fdf1f20",
-      "streamProviders": [
-        "Prime Video Channels MUBI",
-        "Prime Video Channels realeyz",
-        "Sooner",
-        "Mubi"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -2555,7 +2550,7 @@
       "year": "1972",
       "originalTitle": "Top of the Heap",
       "rating": 3.6,
-      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/9/4/4/3/79443-top-of-the-heap-0-230-0-345-crop.jpg?v=cf2311d874",
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/7/9/4/4/3/79443-top-of-the-heap-0-230-0-345-crop.jpg?v=edffaac2f4",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
@@ -2878,14 +2873,6 @@
     },
     {
       "name": "Prime Video Channels Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels realeyz",
-      "enabled": false
-    },
-    {
-      "name": "Sooner",
       "enabled": false
     }
   ]
