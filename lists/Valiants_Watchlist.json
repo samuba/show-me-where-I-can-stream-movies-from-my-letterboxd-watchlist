@@ -33,9 +33,7 @@
       "originalTitle": "The Menu",
       "rating": 3.6,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/2/1/3/2/3/521323-the-menu-0-230-0-345-crop.jpg?v=d00a0d03a8",
-      "streamProviders": [
-        "Disney+"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -68,13 +66,8 @@
       "originalTitle": "Babylon",
       "rating": 3.8,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/4/2/7/7/3/542773-babylon-0-230-0-345-crop.jpg?v=aab2f01937",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky",
-        "Prime Video Channels Paramount+",
-        "Paramount+"
-      ],
-      "streamProvidersOriginalTitle": "Babylon"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "Ambulance",
@@ -84,10 +77,7 @@
       "originalTitle": "Ambulance",
       "rating": 3,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/3/2/8/5/683285-ambulance-0-230-0-345-crop.jpg?v=4c9be52b89",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -120,11 +110,8 @@
       "originalTitle": "Puss in Boots: The Last Wish",
       "rating": 4.2,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/2/4/2/2/8/5/242285-puss-in-boots-the-last-wish-0-230-0-345-crop.jpg?v=9e9109c5cd",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
-      "streamProvidersOriginalTitle": "Puss in Boots: The Last Wish"
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
     },
     {
       "name": "The Little Things",
@@ -134,9 +121,7 @@
       "originalTitle": "The Little Things",
       "rating": 2.5,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/2/9/5/2/9/529529-the-little-things-0-230-0-345-crop.jpg?v=bd98e22cc1",
-      "streamProviders": [
-        "Netflix"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -169,10 +154,7 @@
       "originalTitle": "X",
       "rating": 3.4,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/6/8/0/3/5/8/680358-x-0-230-0-345-crop.jpg?v=8ba5e11abf",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -183,10 +165,7 @@
       "originalTitle": "Violent Night",
       "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/8/0/9/3/9/5/809395-violent-night-0-230-0-345-crop.jpg?v=9d0180c01a",
-      "streamProviders": [
-        "Sky WOW",
-        "Sky Go\nSky"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     },
     {
@@ -197,40 +176,9 @@
       "originalTitle": "Bones and All",
       "rating": 3.7,
       "imageUrl": "https://a.ltrbxd.com/resized/sm/upload/xi/cb/mo/xg/bones2-0-230-0-345-crop.jpg?v=bdb6694df9",
-      "streamProviders": [
-        "Amazon Prime Video"
-      ],
+      "streamProviders": [],
       "streamProvidersOriginalTitle": ""
     }
   ],
-  "streamProviders": [
-    {
-      "name": "Amazon Prime Video",
-      "enabled": false
-    },
-    {
-      "name": "Disney+",
-      "enabled": false
-    },
-    {
-      "name": "Netflix",
-      "enabled": false
-    },
-    {
-      "name": "Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Prime Video Channels Paramount+",
-      "enabled": false
-    },
-    {
-      "name": "Sky Go\nSky",
-      "enabled": false
-    },
-    {
-      "name": "Sky WOW",
-      "enabled": false
-    }
-  ]
+  "streamProviders": []
 }
