@@ -4,6 +4,28 @@
   "description": "",
   "entries": [
     {
+      "name": "The Rat Catcher",
+      "letterboxdUrl": "https://letterboxd.com/film/the-rat-catcher-2023",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "The Rat Catcher",
+      "rating": 3.4,
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/1/0/5/9/4/5/7/1059457-the-rat-catcher-0-230-0-345-crop.jpg?v=0e4e81906d",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
+      "name": "Mars Express",
+      "letterboxdUrl": "https://letterboxd.com/film/mars-express",
+      "listPosition": 0,
+      "year": "2023",
+      "originalTitle": "Mars Express",
+      "rating": 3.7,
+      "imageUrl": "https://a.ltrbxd.com/resized/film-poster/5/1/4/6/7/2/514672-mars-express-0-230-0-345-crop.jpg?v=4d15679b18",
+      "streamProviders": [],
+      "streamProvidersOriginalTitle": ""
+    },
+    {
       "name": "The Creator",
       "letterboxdUrl": "https://letterboxd.com/film/the-creator-2023",
       "listPosition": 0,
@@ -2505,7 +2527,7 @@
       "listPosition": 0,
       "year": "2017",
       "originalTitle": "Vorwärts immer!",
-      "rating": 0,
+      "rating": 3.1,
       "imageUrl": "https://a.ltrbxd.com/resized/film-poster/3/3/8/4/4/2/338442-vorwarts-immer--0-230-0-345-crop.jpg?v=0bcae50e44",
       "streamProviders": [],
       "streamProvidersOriginalTitle": ""
